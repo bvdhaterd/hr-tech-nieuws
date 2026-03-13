@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HR Tech Nieuws Dashboard</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f6f8;
+      --surface: #ffffff;
+      --border: #e2e5ea;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --text: #111827;
+      --muted: #6b7280;
+      --tag-inv: #dcfce7;
+      --tag-inv-text: #166534;
+      --tag-ma: #dbeafe;
+      --tag-ma-text: #1e40af;
+      --tag-law: #fee2e2;
+      --tag-law-text: #991b1b;
+      --radius: 10px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 0 0 48px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .header-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .header-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+    .header-title span {
+      color: var(--accent);
+    }
+    .last-updated {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    /* ── Controls bar ── */
+    .controls {
+      max-width: 960px;
+      margin: 24px auto 0;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    /* Tabs */
+    .tabs {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .tab {
+      padding: 7px 16px;
+      border-radius: 99px;
+      border: 1.5px solid var(--border);
+      background: var(--surface);
+      cursor: pointer;
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--muted);
+      transition: all 0.15s;
+    }
+    .tab:hover { border-color: var(--accent); color: var(--accent); }
+    .tab.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* NL toggle */
+    .nl-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.875rem;
+      color: var(--muted);
+      margin-left: auto;
+      user-select: none;
+      cursor: pointer;
+    }
+    .nl-toggle .flag { font-size: 1rem; }
+    .toggle-switch {
+      position: relative;
+      width: 40px;
+      height: 22px;
+    }
+    .toggle-switch input { opacity: 0; width: 0; height: 0; }
+    .toggle-track {
+      position: absolute;
+      inset: 0;
+      background: var(--border);
+      border-radius: 99px;
+      transition: background 0.2s;
+      cursor: pointer;
+    }
+    .toggle-switch input:checked + .toggle-track { background: var(--accent); }
+    .toggle-track::after {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #fff;
+      top: 3px;
+      left: 3px;
+      transition: left 0.2s;
+    }
+    .toggle-switch input:checked + .toggle-track::after { left: 21px; }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      max-width: 960px;
+      margin: 14px auto 0;
+      padding: 0 24px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    /* ── Article list ── */
+    .article-list {
+      max-width: 960px;
+      margin: 16px auto 0;
+      padding: 0 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      transition: box-shadow 0.15s;
+    }
+    .article-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.07); }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .category-tag {
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 99px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+    .tag-investments { background: var(--tag-inv); color: var(--tag-inv-text); }
+    .tag-mergers_acquisitions { background: var(--tag-ma); color: var(--tag-ma-text); }
+    .tag-lawsuits { background: var(--tag-law); color: var(--tag-law-text); }
+    .lang-badge {
+      font-size: 0.72rem;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      padding: 1px 6px;
+      border-radius: 4px;
+    }
+    .article-source-date {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+
+    .article-title {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); }
+
+    .article-snippet {
+      font-size: 0.875rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .article-link {
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .article-link:hover { text-decoration: underline; }
+
+    /* ── Empty state ── */
+    .empty-state {
+      text-align: center;
+      padding: 60px 24px;
+      color: var(--muted);
+    }
+    .empty-state .icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .empty-state h3 { font-size: 1rem; font-weight: 600; color: var(--text); margin-bottom: 6px; }
+    .empty-state p { font-size: 0.875rem; }
+
+    /* ── Loading spinner ── */
+    .loading {
+      text-align: center;
+      padding: 60px;
+      color: var(--muted);
+    }
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .header-inner { flex-direction: column; align-items: flex-start; }
+      .nl-toggle { margin-left: 0; }
+      .article-source-date { margin-left: 0; width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-title">HR Tech <span>Nieuws</span> Dashboard</div>
+    <div class="last-updated" id="lastUpdated">Laden...</div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-category="all">All</button>
+    <button class="tab" data-category="investments">Investments</button>
+    <button class="tab" data-category="mergers_acquisitions">Mergers &amp; Acquisitions</button>
+    <button class="tab" data-category="lawsuits">Lawsuits</button>
+  </div>
+
+  <label class="nl-toggle">
+    <span>ook Nederlands</span>
+    <div class="toggle-switch">
+      <input type="checkbox" id="nlToggle" checked />
+      <div class="toggle-track"></div>
+    </div>
+  </label>
+</div>
+
+<div class="stats-bar" id="statsBar"></div>
+
+<div class="article-list" id="articleList">
+  <div class="loading">
+    <div class="spinner"></div>
+    Nieuws laden...
+  </div>
+</div>
+
+<script>
+const CATEGORY_LABELS = {
+  investments: 'Investments',
+  mergers_acquisitions: 'Mergers & Acquisitions',
+  lawsuits: 'Lawsuits',
+};
+const CATEGORY_TAG_CLASS = {
+  investments: 'tag-investments',
+  mergers_acquisitions: 'tag-mergers_acquisitions',
+  lawsuits: 'tag-lawsuits',
+};
+
+let allArticles = [];
+let activeCategory = 'all';
+let showNl = true;
+
+// ── Load data ──────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch('data/news.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('lastUpdated').textContent =
+        'Bijgewerkt: ' + d.toLocaleString('nl-NL', {
+          day: 'numeric', month: 'short', year: 'numeric',
+          hour: '2-digit', minute: '2-digit'
+        });
+    } else {
+      document.getElementById('lastUpdated').textContent = 'Nog niet bijgewerkt';
+    }
+  } catch (e) {
+    document.getElementById('lastUpdated').textContent = 'Kan data niet laden';
+    console.error(e);
+  }
+  render();
+}
+
+// ── Filter + sort ──────────────────────────────────────────
+function getFiltered() {
+  return allArticles
+    .filter(a => activeCategory === 'all' || a.category === activeCategory)
+    .filter(a => showNl || a.language !== 'nl')
+    .sort((a, b) => new Date(b.published) - new Date(a.published));
+}
+
+// ── Render ─────────────────────────────────────────────────
+function formatDate(iso) {
+  const d = new Date(iso);
+  return d.toLocaleDateString('nl-NL', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function render() {
+  const list = document.getElementById('articleList');
+  const stats = document.getElementById('statsBar');
+  const articles = getFiltered();
+
+  stats.textContent = articles.length === 0
+    ? ''
+    : articles.length + ' artikel' + (articles.length === 1 ? '' : 'en') + ' gevonden';
+
+  if (articles.length === 0) {
+    list.innerHTML = `
+      <div class="empty-state">
+        <div class="icon">📭</div>
+        <h3>Geen artikelen gevonden</h3>
+        <p>Pas de filters aan of wacht op de volgende dagelijkse verversing.</p>
+      </div>`;
+    return;
+  }
+
+  list.innerHTML = articles.map(a => {
+    const tagClass = CATEGORY_TAG_CLASS[a.category] || '';
+    const catLabel = CATEGORY_LABELS[a.category] || a.category;
+    const langBadge = a.language === 'nl' ? '<span class="lang-badge">NL</span>' : '';
+    const snippet = a.snippet ? `<p class="article-snippet">${escapeHtml(a.snippet)}</p>` : '';
+    return `
+      <div class="article-card">
+        <div class="article-meta">
+          <span class="category-tag ${tagClass}">${catLabel}</span>
+          ${langBadge}
+          <span class="article-source-date">${escapeHtml(a.source)} · ${formatDate(a.published)}</span>
+        </div>
+        <h2 class="article-title"><a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title)}</a></h2>
+        ${snippet}
+        <a class="article-link" href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">Lees artikel →</a>
+      </div>`;
+  }).join('');
+}
+
+// ── Events ─────────────────────────────────────────────────
+document.getElementById('tabs').addEventListener('click', e => {
+  const tab = e.target.closest('.tab');
+  if (!tab) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  activeCategory = tab.dataset.category;
+  render();
+});
+
+document.getElementById('nlToggle').addEventListener('change', e => {
+  showNl = e.target.checked;
+  render();
+});
+
+// ── Init ───────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
