@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T15:07:05Z",
-  "total": 21,
+  "last_updated": "2026-03-14T06:39:19Z",
+  "total": 23,
   "articles": [
     {
       "id": "a56c6529f42b4a8b0ec27cf79ee35cb9",
@@ -19,6 +19,26 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlFRMGVEZDFYc0x4LURvZ2VJVkVtZS1WbkwwMF9LMGdXZ1ZEQ1RLRW9rY2tzS1hwVGZRaWFyTVd0Y1ZEcW0zdTMyb1gzdTRfYklXVkc0UEtoeWFmY1FIWUJqdko5UlQxOW5kb25lYndfZXhyRUpHMy14ZXBlcG9RcXRfRXlsQklrelJRd3ZKM0lsblBxSW0wUTJFdDbSAaIBQVVfeXFMUGZPOUN6aGR3OVVWa093SF9sRE8tQ21KMlpuRUpkWFZJSjYxcGNtZ05VaG81WEVOT2ltYnk4cXY1aWZNYnVJeUZTRTZYUHMtT0lvT3dicUVCUzBOV1JVa09yV1J2QnN3R0xTVjVsTWlZc1EtbWE2Ym5yRXJ2RWNRWDNDY2otbmN6Znc0ZGNvbTlGQWpnM09icVBjUm95eHdQZmtn?oc=5",
       "published": "2026-03-12T15:39:57+00:00",
       "snippet": "Qurrent: $15 Million Series A Raised For Autonomous Digital Workforce Platform Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "553412ffb395cb1580411d5f5e4227e7",
+      "title": "OpenJobs AI Raises a Multi-Million-Dollar Seed Round to Build the First Agent-First Recruiting Platform - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaHJtQ2JXM0tadEtWaDFTUzREVF92N0hfbWtpNTF4eEZPX0ZMdzR1OVMyN0lRZXc4ZUlUZGliR2ZSTWZzTHV5Y01GdGp3Qm5BRFZjSEhRQklhRVJEWUN1NDBiSEdad2VyN1NCX083c09DeWJvLTVtQzdPUUNpTUx2b2xPZWpwN2N3LUpENmYtME9VbXRXcXRualNLU0Z5V0xLQ214VHB0alE2SUdXYzRPT3U4c2tWbktySTBESFViRjJveTVubUVpdkNyZXJnTXhTdXBnaGVJY0NjTUFKMkpUTDliWXJyRUwtOURoUtIB8gFBVV95cUxOWVBHWUR2ZnJHcWcwa0VwN3EwcmNxUWtoRU50Rm5VLXptUU1hUnlheXNlc0pkbHh4RTVGYnlwbVFiZVd6MThKR2pXTFRKX0tyM1BoQmM4U0Y2ZFpWcnFvUnRkYmEzSy1iME5ySnFEb1RuY3ZUclRZUlUzYUhBTEYweXFwWFFqUGxEajI5ZG9SdTF1RTkzZ2JCOTJmNDB5RGtEV09ySHJwaE1UclRhR3Q3REIwd1IyYklIUjdyRV9FS0JJV05hbDhoMkVyTy1tREtueWxhbmltNHZqU3RoeFh5TXZ2aG1hYUxWZjcwVUpBVDlTQQ?oc=5",
+      "published": "2026-03-12T15:19:56+00:00",
+      "snippet": "OpenJobs AI Raises a Multi-Million-Dollar Seed Round to Build the First Agent-First Recruiting Platform HRTech Series",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "8c036480f03b5358be56b3e2f9bb1097",
+      "title": "Top News Today: India Chips Push, AI Hiring Shift, Funding Moves, Crypto Watch - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGR3elJobG1id0Fkd1FLcHZDZHFIVmhlZ2NITHRRcnh0blpVN2IxZFpFRDNVdUJSUF9UbTQ1SU5MVllKSDU1LVBNcWgzdzQ0MG1XVmNmMVY1NmlTNHNweHZxUEROc3pKY3hYdVdNbG5GLVJpWkdDSDR6V1F2WUwtaF9qWG1rZXZmY2UwZTI5XzBibElMV191SGhfSDVXUU12S1dvbEtLMy04Z1lCV3VUY0E4YWdGTm1nZXM4cndfT2JpbUdZTnfSAcYBQVVfeXFMUHBkd3pSaGxtYndBZHdRS3B2Q2RxSFZoZWdjSEx0UXJ4dG5aVTdiMWRaRUQzVXVCUlBfVG00NUlOTFZZSkg1NS1QTXFoM3c0NDBtV1ZjZjFWNTZpUzRzcHh2cVBETnN6SmN4WHVXTWxuRi1SaVpHQ0g0eldRdllMLWhfalhta2V2ZmNlMGUyOV8wYmxJTFdfdUhoX0g1V1FNdktXb2xLSzMtOGdZQld1VGNBOGFnRk5tZ2VzOHJ3X09iaW1HWU53?oc=5",
+      "published": "2026-03-12T07:27:13+00:00",
+      "snippet": "Top News Today: India Chips Push, AI Hiring Shift, Funding Moves, Crypto Watch Analytics Insight",
       "category": "investments",
       "language": "en"
     },
@@ -67,7 +87,7 @@
       "title": "Exclusive: Recruiting platform Juicebox valued at $850 million - Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUhuY3V3ekd2SWE0Q0ljMVMwMU0wUG5wMVktWjRNTGd0N0FJNk1qUzk4SE1ESGliUUdTMVBKTW83NVg1NUI2cV84U2wzQW1KTUtjVjZfdW5GX2JNRC1tMjRXUXVJejNBcGxSRnFHRFA2Ni1wZ1Y3LUVQWF9EaFZiU1BHQkt1TnlSWmNNb2dybUc4Zw?oc=5",
-      "published": "2026-03-10T14:32:12+00:00",
+      "published": "2026-03-10T12:19:09+00:00",
       "snippet": "Exclusive: Recruiting platform Juicebox valued at $850 million Axios",
       "category": "investments",
       "language": "en"
