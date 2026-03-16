@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T06:49:51Z",
-  "total": 21,
+  "last_updated": "2026-03-16T07:09:49Z",
+  "total": 20,
   "articles": [
     {
       "id": "a56c6529f42b4a8b0ec27cf79ee35cb9",
@@ -33,11 +33,11 @@
       "language": "en"
     },
     {
-      "id": "8c036480f03b5358be56b3e2f9bb1097",
+      "id": "a0d975f7ac5360528256dc677a15e819",
       "title": "Top News Today: India Chips Push, AI Hiring Shift, Funding Moves, Crypto Watch - Analytics Insight",
       "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGR3elJobG1id0Fkd1FLcHZDZHFIVmhlZ2NITHRRcnh0blpVN2IxZFpFRDNVdUJSUF9UbTQ1SU5MVllKSDU1LVBNcWgzdzQ0MG1XVmNmMVY1NmlTNHNweHZxUEROc3pKY3hYdVdNbG5GLVJpWkdDSDR6V1F2WUwtaF9qWG1rZXZmY2UwZTI5XzBibElMV191SGhfSDVXUU12S1dvbEtLMy04Z1lCV3VUY0E4YWdGTm1nZXM4cndfT2JpbUdZTnfSAcYBQVVfeXFMUHBkd3pSaGxtYndBZHdRS3B2Q2RxSFZoZWdjSEx0UXJ4dG5aVTdiMWRaRUQzVXVCUlBfVG00NUlOTFZZSkg1NS1QTXFoM3c0NDBtV1ZjZjFWNTZpUzRzcHh2cVBETnN6SmN4WHVXTWxuRi1SaVpHQ0g0eldRdllMLWhfalhta2V2ZmNlMGUyOV8wYmxJTFdfdUhoX0g1V1FNdktXb2xLSzMtOGdZQld1VGNBOGFnRk5tZ2VzOHJ3X09iaW1HWU53?oc=5",
-      "published": "2026-03-12T07:27:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmttNzBlUkY5M3BxdFpDWHFWTGpIQVU3NnRVVjVYdWlneXJleTJlblpQeVozWFIyd3pjbWM5endXWEF5MEd3MFVWSGZyOC0yQ09ESWtFWnpFLVlISUhwcHRJd0RCUDdyQU43cEZQenZkaHhTSTFEZ3hWZEtCVXhscDFSYktQWkg1RlhmaWRXX21FRTNOM19pR2RpbGRCVGJqcGsxVEhmWmNDNXowZFBtMUVueXRpSU9t0gHGAUFVX3lxTFBwZHd6UmhsbWJ3QWR3UUtwdkNkcUhWaGVnY0hMdFFyeHRuWlU3YjFkWkVEM1V1QlJQX1RtNDVJTkxWWUpINTUtUE1xaDN3NDQwbVdWY2YxVjU2aVM0c3B4dnFQRE5zekpjeFh1V01sbkYtUmlaR0NINHpXUXZZTC1oX2pYbWtldmZjZTBlMjlfMGJsSUxXX3VIaF9INVdRTXZLV29sS0szLThnWUJXdVRjQThhZ0ZObWdlczhyd19PYmltR1lOdw?oc=5",
+      "published": "2026-03-12T07:23:14+00:00",
       "snippet": "Top News Today: India Chips Push, AI Hiring Shift, Funding Moves, Crypto Watch Analytics Insight",
       "category": "investments",
       "language": "en"
@@ -133,6 +133,16 @@
       "language": "en"
     },
     {
+      "id": "5a4cd1cc4974aea1e4bb904f7ca3076e",
+      "title": "Elly: $8 Million Raised For AI-Native Hiring Platform - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5obU5MdkVsM3NndkhkYnc3d1I4bDlYRzMxb1ltTE9qeHVPdkZYOFpaLWFCNXlOeEIwQkNNQlhoVjljdkx5UUY2NU4xYk8zOXN2bHhPUWpTei13MXRNcFVHLUlVNHc0WDFhT3dVdmhPaTFnNzlDVDlpZmo5Y9IBgAFBVV95cUxOaDZzOTJQU3YzWWlDRkdzNDNDcUhnSzNVdDJpa0dkN0laMGp3aTh5RHFWZGV5RlQyRXZxS2JxZTA0b2NjLTYyWWJDUndtNzhyTDUwb3ExWE1BRWwyNzVEaC1VVnZMSGItTmdVU0FEbThUbzl1c1prODZuUkN5ZGlPYg?oc=5",
+      "published": "2026-02-25T18:45:00+00:00",
+      "snippet": "Elly: $8 Million Raised For AI-Native Hiring Platform Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "3cc15a0bdb8787c392f673d288648014",
       "title": "Elly Debuts AI-Native Hiring Platform and Raises Funding Led by Sorenson Capital - PR Newswire",
       "source": "PR Newswire",
@@ -190,26 +200,6 @@
       "published": "2026-02-16T08:00:00+00:00",
       "snippet": "Qneiform raises €3m seed round to scale HR tech platform People Matters - HR News",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "f3f4d028e83f01b8087fe216bd0bd71e",
-      "title": "Rippling to Advance Corporate Espionage Lawsuit Against Deel - National Today",
-      "source": "National Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnBsc18wdGgxSDlESFQ5dnpsdlJBV19SbGtiTjEtNEthVDFZWjNyU0wtTWJib3Vma0ZwN2tIVFRqTTI3REZEWEZzRmZ4d1hUcWI2S1dLMHl3X3lSbkxiWW9XVXpobXJiRWFKeENfaXU5TkFlNEZZNG1RZ215NWJTNjlCRUlDRmhiOTA3LTlfZnZ3LVlRZkpCaDJjbnFfdml4Z25JQkRFZU5odlNJSDl5M2NpaERxV3pGOXM5dG9fNEI?oc=5",
-      "published": "2026-02-13T08:00:00+00:00",
-      "snippet": "Rippling to Advance Corporate Espionage Lawsuit Against Deel National Today",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "4cca3130a001bc6de2586d3946dfa065",
-      "title": "Groundbreaking Lawsuit Tests Whether AI Hiring Tools Trigger FCRA Compliance - JD Supra",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnVyT0pQV3JRVkkyUXVWUDIyTXNSa3l5dXB4WUx6TVkxbGs3MWlSUUZSeTd6VlY1bWFhZzNlTjdWZ1U3LThoVC1UMFBldHVHQlkyZFhIYVdrQVVqTjFPSUJuRS1lN0o4c2x3Sk9VaEozMXFCN09NMExZZG5nZ1J5WHhPTmNxcGVHd3c?oc=5",
-      "published": "2026-02-13T08:00:00+00:00",
-      "snippet": "Groundbreaking Lawsuit Tests Whether AI Hiring Tools Trigger FCRA Compliance JD Supra",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
