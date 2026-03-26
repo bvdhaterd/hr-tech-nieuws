@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T06:56:11Z",
-  "total": 22,
+  "last_updated": "2026-03-26T07:01:20Z",
+  "total": 23,
   "articles": [
     {
       "id": "3e12ae4f9b618b05e5c2967635d99890",
@@ -13,12 +13,32 @@
       "language": "en"
     },
     {
+      "id": "699c81a6ec913346d883622ab9c0c536",
+      "title": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation - Hunt Scanlon Media",
+      "source": "Hunt Scanlon Media",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUlkMG9WRkVHaG9wUmVtVHVKTUk1UHA1U2g0ZUZ2b2hJejlMNk1MTGNHbXNKemx6ZmhkbXZYYklqMFhaQUxONGJGNU1jQklSdDI0VVpFb2otSEg5LWF2V1VIMHlKQktrRlJ3ZHFkN3ZmdkdZUzlrZDlUcFVEMzRTTlAyM2VObUw2ekx1cVBQRTZpamVTOGc?oc=5",
+      "published": "2026-03-23T09:08:09+00:00",
+      "snippet": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation Hunt Scanlon Media",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "d6a6c521bee6f8880362a1957ebca4ae",
       "title": "Ezra: $3.2 Million Raised By Voice AI Recruiting Platform To Rebuild Hiring Around Conversations - Pulse 2.0",
       "source": "Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblhsQUl2bE9HMXBvUWpmM00zRTBUd1FDaUJVMjQyU3hLem5LMktiVElicWk3dU5aazAwZ3dYTnptSC1OdWhETkk3STlPR1BSUkIxUk5LWk00VGZzMkJibDktTDRBcldaZ3NDRzI5YnctaHFDbE5xYllJOVZPQ2Z3RjhXMmlvdVN4NlpwdzFOeldfZVlxSDlOOWJFWG41QURiQTBlNnJJNWV1WHZiQlpZM1lVRUXSAboBQVVfeXFMTk1uTGNUZzR6ZjFyM3NCRUxzU3pPSFZIWkNRS3U0WjliU2psYkUwQTJKcUdjZUJlTEptdUJiUEZlUkJENG05bmxmS0d0ZzFWRm5YUFhDQWdHaWZUZTBXc2k1ZVdPSnVlakF4MmNmQk4yOHMtQ2hDbjdaRlE4ZTItVmw3T0plc2NkQmVKT2FFSExmUGtBa0lPUjI0MTF3Y2JwSDhicVg4bnJWaVgxVkNMREpNOTFWcnZTLVFR?oc=5",
       "published": "2026-03-21T03:06:24+00:00",
       "snippet": "Ezra: $3.2 Million Raised By Voice AI Recruiting Platform To Rebuild Hiring Around Conversations Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "7dfe16dc67667a219af8c99aa82ae37d",
+      "title": "Paraform: $65 Million Raised For Agentic Hiring Platform Expanding AI-Driven Recruiting - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFB3djNCSUgxWlVreEFrNVZwc1FLWkpUUTZtNEdSVUxBejE5amxSRFlMV0xzOW1oTzY5WWhZOXg0cmVRN19XbUxXZFBYaDFoc1NPa3o3US1FS19kMXp0LUlQVm1acnhCUnFwQ3VRVGhubS1rbFc5Uk1sZFV2c085N3NtRjZfODZZckY3eFE3OFhzWXFKOE9YcUJKME83Tld1dWVuMDlsMjjSAa4BQVVfeXFMT0NaNkpGM3h6N2VuQ3c3T1BIdFdBQlJfa3QyV0w1eDJvb1Q2UkwzV09zTjJ2eEhRVTN6Z2pXdWNubmhJSWdsWF9VWTRGeDRlOHV2WE9wMGF6czlyMHJkelhuRTNOUFdvTFphVUJnS1ZTclpCRVA3YjVESEJSajdzSXVzRjVVcDhDa2xmSVAtOGNndW9aQy1XaWxjRUZncmY5RFhJTmxmTzgxOE1jdzdn?oc=5",
+      "published": "2026-03-20T18:17:35+00:00",
+      "snippet": "Paraform: $65 Million Raised For Agentic Hiring Platform Expanding AI-Driven Recruiting Pulse 2.0",
       "category": "investments",
       "language": "en"
     },
@@ -139,16 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNLWt3OXRRZHlVQkZ3Y0w4cldxckNIbDNTRG1rOWdDQTg5V2NEVG9RNmhoTXQyY3FVNHVYR0RXM1NoX3lyRHRKRjBMbFBXVEVEdTdhNVdNeU9ad3FfRnRjSDNZSUN4RHNjM2RucDdTMlU1SXpSa1BLWEV1SnZ1SDBXYWhrVnlRaUVYaDd3QmRIb0ZIQVhlTUVHa1Y2T0FES2R5TkVEby13dnhxQm9KYTV3a3laN281Mkp2RmxiMXJiRU54RFZvLWc3cW9wQ19KWHJGVVZpN181aFdJcjZzRDZfQ0tUMHhCamlSeWsxMEVlS05pZXM0TE5Ec3JVQ1F5MEp6eUNwajlkSWJxNFViWm5rRTBB?oc=5",
       "published": "2026-03-07T09:32:47+00:00",
       "snippet": "Federal Court Authorizes Notice in Lawsuit Challenging AI Hiring Software for Potential Age Discrimination-Act by 3/7/26 Green Bay Press-Gazette",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "679ad0838c7b6608b6fbbe9c8e687780",
-      "title": "AI Hiring Tools and Consumer Reports: Understanding the Eightfold Litigation - Workforce Bulletin",
-      "source": "Workforce Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm1kUC04eGZFUFhTMEgtR3gtZXFLVVhIcV9TenEtU2MybXVpeDNxd2RsU0ZCTHR3TEZfa0l4T29ma2ppa29Eb3htNXdISVpBeVpBTjV2OEVWd2N0UU1wcWg0Nk5vZU5zTkViU1ZBT1ZDZG5HUTViU2J5SFp1WmFtN0tUOXQwNkVHSVcyWXFLQ19XZmc4U2w0bTY2eDE4ckQ3ZXlEMVZZOGJkR2xjbkE?oc=5",
-      "published": "2026-02-26T08:00:00+00:00",
-      "snippet": "AI Hiring Tools and Consumer Reports: Understanding the Eightfold Litigation Workforce Bulletin",
       "category": "lawsuits",
       "language": "en"
     },
