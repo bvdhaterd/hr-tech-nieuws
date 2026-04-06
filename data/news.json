@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-05T06:59:16Z",
-  "total": 17,
+  "last_updated": "2026-04-06T07:22:14Z",
+  "total": 18,
   "articles": [
     {
       "id": "b5fe2c5b4adaddc380cfccbd76110235",
-      "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - TipRanks",
-      "source": "TipRanks",
+      "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - tipranks.com",
+      "source": "tipranks.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
       "published": "2026-04-03T07:40:15+00:00",
-      "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
+      "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities tipranks.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -50,6 +50,16 @@
       "published": "2026-03-26T11:24:22+00:00",
       "snippet": "Allvia Acquires HR Pals to Expand its National Workforce Services Platform HRTech Series",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "01523126e25214b5bedbe306cd62fdb2",
+      "title": "What the lawsuit against Eightfold signals for AI in recruiting - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWxQb1Q0dEtWSGRjNGxUWDViU1dkeC1tclQwZFdTVHd3eVVjaXFiTnl2Y3BKSjhlNVp6YWJFN0xPaUtqWXhIZHdrZk84VzFFOFlPMmVvQURfVFNjRW9jbnR3WFdTSUFXOVZfTkhDUFJtVHJpcS1sUlRzZktmaXU4R1FMM0M5TExVWmFyV0V4aHFZNnQya2dqMUxvMEFrYkE0YThHT2RuODBaR0wzOGhfa2Qzel9IbUgxSHZV?oc=5",
+      "published": "2026-03-23T16:06:28+00:00",
+      "snippet": "What the lawsuit against Eightfold signals for AI in recruiting Staffing Industry Analysts",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -133,22 +143,22 @@
       "language": "en"
     },
     {
-      "id": "53b248136d9f6a61ec530d7b30973c92",
-      "title": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does - Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk9fcmU2U2oxSDhWZ1NXYU9ZMFRyelR1VjY1Z1pIdzVORkdkV1lGU0JlclR2bnFkdFBWLUpsOUszZWFoWUNnM0trRVNyT05vam0xSWYzc2NHV3R0eDVGYkRXRUZHdExzOWZKUUpGaG9tVXF3MmRjeUxfYTF3Rk1GQk91YnpRNURKQWdMbzNkaDY0OFNITHRkd2lUYmRHZFVNRGRJclJNVUNwM1RONVBrNlhLRHVncmp2dWpHYWNmMk5xeFpyT20wZ0x5M0hXYUREbmJpV2l5OHN6d0EycEpxRkM4UXltTXVSU1pTblo1RkdOUQ?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does Business Wire",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "c778d457fc33680b0988ec3b0b512904",
       "title": "Exclusive: Recruiting platform Juicebox valued at $850 million - Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUhuY3V3ekd2SWE0Q0ljMVMwMU0wUG5wMVktWjRNTGd0N0FJNk1qUzk4SE1ESGliUUdTMVBKTW83NVg1NUI2cV84U2wzQW1KTUtjVjZfdW5GX2JNRC1tMjRXUXVJejNBcGxSRnFHRFA2Ni1wZ1Y3LUVQWF9EaFZiU1BHQkt1TnlSWmNNb2dybUc4Zw?oc=5",
       "published": "2026-03-10T07:00:00+00:00",
       "snippet": "Exclusive: Recruiting platform Juicebox valued at $850 million Axios",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "53b248136d9f6a61ec530d7b30973c92",
+      "title": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does - businesswire.com",
+      "source": "businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk9fcmU2U2oxSDhWZ1NXYU9ZMFRyelR1VjY1Z1pIdzVORkdkV1lGU0JlclR2bnFkdFBWLUpsOUszZWFoWUNnM0trRVNyT05vam0xSWYzc2NHV3R0eDVGYkRXRUZHdExzOWZKUUpGaG9tVXF3MmRjeUxfYTF3Rk1GQk91YnpRNURKQWdMbzNkaDY0OFNITHRkd2lUYmRHZFVNRGRJclJNVUNwM1RONVBrNlhLRHVncmp2dWpHYWNmMk5xeFpyT20wZ0x5M0hXYUREbmJpV2l5OHN6d0EycEpxRkM4UXltTXVSU1pTblo1RkdOUQ?oc=5",
+      "published": "2026-03-10T07:00:00+00:00",
+      "snippet": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does businesswire.com",
       "category": "investments",
       "language": "en"
     },
@@ -164,11 +174,11 @@
     },
     {
       "id": "63950ff8b6225e7db59a2e9640eb8dea",
-      "title": "Workday plaintiffs submit amended complaint reupping physical disability and state-law bias claims - HR Dive",
-      "source": "HR Dive",
+      "title": "Workday plaintiffs submit amended complaint reupping physical disability and state-law bias claims - hrdive.com",
+      "source": "hrdive.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0ZxT0lGemF2M2U4akJCbVRxQjZFXzJTRFNfTDNsdnRjLTlQTzJOeHNhUnpSTzFpdlRZVVowSHJ5N05fU0lWNG9pbmplcnh0YlYwbmZhbmpVMmdzcEFGZWdZLVdkaG5pcmp5NU9oVjdtOW40U0tsMWZqR0gtVFdXa3BzOTNvMl8yelc2YWJpSHE?oc=5",
       "published": "2026-03-09T07:00:00+00:00",
-      "snippet": "Workday plaintiffs submit amended complaint reupping physical disability and state-law bias claims HR Dive",
+      "snippet": "Workday plaintiffs submit amended complaint reupping physical disability and state-law bias claims hrdive.com",
       "category": "lawsuits",
       "language": "en"
     }
