@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T07:10:57Z",
-  "total": 19,
+  "last_updated": "2026-04-09T07:14:58Z",
+  "total": 15,
   "articles": [
     {
       "id": "2fa78478c6b85c4105f1da0ad6d8a472",
@@ -17,7 +17,7 @@
       "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - TipRanks",
       "source": "TipRanks",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
-      "published": "2026-04-03T06:13:46+00:00",
+      "published": "2026-04-03T06:13:45+00:00",
       "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -27,7 +27,7 @@
       "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - ENR",
       "source": "ENR",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3Z4bS1KZXItNV9waXpTSWJnZWJJbmN6b0M2blFjRFVoN2t6U0RqS3BVU3p0eDI1U213U0l2dUZXTklnVnUyX3pwckxpMkxGc2h5U3BKMWx0RnQ1cG12NXk0Nm8tbFprSWZ2WlBuUWlCaTM2MXF0Zks2ZmpJaGJGMFo5RUxTUHIyOVRhOFl0M2VoZVg2UHFmdlBIWEY?oc=5",
-      "published": "2026-03-30T18:24:54+00:00",
+      "published": "2026-03-30T07:00:00+00:00",
       "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix ENR",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -63,16 +63,6 @@
       "language": "en"
     },
     {
-      "id": "01523126e25214b5bedbe306cd62fdb2",
-      "title": "What the lawsuit against Eightfold signals for AI in recruiting - Staffing Industry Analysts",
-      "source": "Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWxQb1Q0dEtWSGRjNGxUWDViU1dkeC1tclQwZFdTVHd3eVVjaXFiTnl2Y3BKSjhlNVp6YWJFN0xPaUtqWXhIZHdrZk84VzFFOFlPMmVvQURfVFNjRW9jbnR3WFdTSUFXOVZfTkhDUFJtVHJpcS1sUlRzZktmaXU4R1FMM0M5TExVWmFyV0V4aHFZNnQya2dqMUxvMEFrYkE0YThHT2RuODBaR0wzOGhfa2Qzel9IbUgxSHZV?oc=5",
-      "published": "2026-03-23T16:06:28+00:00",
-      "snippet": "What the lawsuit against Eightfold signals for AI in recruiting Staffing Industry Analysts",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "699c81a6ec913346d883622ab9c0c536",
       "title": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation - Hunt Scanlon Media",
       "source": "Hunt Scanlon Media",
@@ -80,6 +70,16 @@
       "published": "2026-03-23T09:08:09+00:00",
       "snippet": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation Hunt Scanlon Media",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "01523126e25214b5bedbe306cd62fdb2",
+      "title": "What the lawsuit against Eightfold signals for AI in recruiting - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWxQb1Q0dEtWSGRjNGxUWDViU1dkeC1tclQwZFdTVHd3eVVjaXFiTnl2Y3BKSjhlNVp6YWJFN0xPaUtqWXhIZHdrZk84VzFFOFlPMmVvQURfVFNjRW9jbnR3WFdTSUFXOVZfTkhDUFJtVHJpcS1sUlRzZktmaXU4R1FMM0M5TExVWmFyV0V4aHFZNnQya2dqMUxvMEFrYkE0YThHT2RuODBaR0wzOGhfa2Qzel9IbUgxSHZV?oc=5",
+      "published": "2026-03-23T07:00:00+00:00",
+      "snippet": "What the lawsuit against Eightfold signals for AI in recruiting Staffing Industry Analysts",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -149,46 +149,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlFRMGVEZDFYc0x4LURvZ2VJVkVtZS1WbkwwMF9LMGdXZ1ZEQ1RLRW9rY2tzS1hwVGZRaWFyTVd0Y1ZEcW0zdTMyb1gzdTRfYklXVkc0UEtoeWFmY1FIWUJqdko5UlQxOW5kb25lYndfZXhyRUpHMy14ZXBlcG9RcXRfRXlsQklrelJRd3ZKM0lsblBxSW0wUTJFdDbSAaIBQVVfeXFMUGZPOUN6aGR3OVVWa093SF9sRE8tQ21KMlpuRUpkWFZJSjYxcGNtZ05VaG81WEVOT2ltYnk4cXY1aWZNYnVJeUZTRTZYUHMtT0lvT3dicUVCUzBOV1JVa09yV1J2QnN3R0xTVjVsTWlZc1EtbWE2Ym5yRXJ2RWNRWDNDY2otbmN6Znc0ZGNvbTlGQWpnM09icVBjUm95eHdQZmtn?oc=5",
       "published": "2026-03-12T07:00:00+00:00",
       "snippet": "Qurrent: $15 Million Series A Raised For Autonomous Digital Workforce Platform Pulse 2.0",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "b5534093d1189fae52cd147d7d9e815a",
-      "title": "Juicebox: $80 Million At $850 Million Valuation Raised For AI Recruiting Platform - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1ZXV1k5T0diUXNDM19aeFJ3cGlPTWEtR2FRZEM5Z2pBcWdXTnl6UzJKc3c3clBtMExyRUJ3SDZCa2kxVmI4S2hvQ0dhNUVhTmpyRFZoRVpRYU0tMmxYaEVIc0F1UFN3UWs5MTFKUGxfLW5MWjIwNDFUelJ5b00zaDVOd2gtY0UxM0ZKdHF4QVMwWHB1TTZMV0xma1hjUUnSAaQBQVVfeXFMUHpyTVBQLWxsOTRCNE5MaGZvVDRBWnk4N25RZEdLSUFhZHZvLUxZbm9rdi1VYUlPQmJINUVVWjREVXB6dW5MNW1iVUNfVWRuMUZZbGNkcXF2SFNROFc0UFZKRTNSZkp5V1hXVkU3WmppanliamFTcEJoNExYR2RzcEpQTWV0Y0wxQVh2X05FckpkcjZELVU3X2Q1cjUtMU5ScHlqd3o?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Juicebox: $80 Million At $850 Million Valuation Raised For AI Recruiting Platform Pulse 2.0",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "53b248136d9f6a61ec530d7b30973c92",
-      "title": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does - Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk9fcmU2U2oxSDhWZ1NXYU9ZMFRyelR1VjY1Z1pIdzVORkdkV1lGU0JlclR2bnFkdFBWLUpsOUszZWFoWUNnM0trRVNyT05vam0xSWYzc2NHV3R0eDVGYkRXRUZHdExzOWZKUUpGaG9tVXF3MmRjeUxfYTF3Rk1GQk91YnpRNURKQWdMbzNkaDY0OFNITHRkd2lUYmRHZFVNRGRJclJNVUNwM1RONVBrNlhLRHVncmp2dWpHYWNmMk5xeFpyT20wZ0x5M0hXYUREbmJpV2l5OHN6d0EycEpxRkM4UXltTXVSU1pTblo1RkdOUQ?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Juicebox Raises $80M at $850M Valuation to Help Businesses Reach Top Talent Before Anyone Else Does Business Wire",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "c778d457fc33680b0988ec3b0b512904",
-      "title": "Exclusive: Recruiting platform Juicebox valued at $850 million - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUhuY3V3ekd2SWE0Q0ljMVMwMU0wUG5wMVktWjRNTGd0N0FJNk1qUzk4SE1ESGliUUdTMVBKTW83NVg1NUI2cV84U2wzQW1KTUtjVjZfdW5GX2JNRC1tMjRXUXVJejNBcGxSRnFHRFA2Ni1wZ1Y3LUVQWF9EaFZiU1BHQkt1TnlSWmNNb2dybUc4Zw?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Exclusive: Recruiting platform Juicebox valued at $850 million Axios",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "fba1ec129556bbc98ab06951e815788b",
-      "title": "Juicebox Raises $80M to Transform AI Recruiting - Ventureburn",
-      "source": "Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWR9IBYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWRw?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Juicebox Raises $80M to Transform AI Recruiting Ventureburn",
       "category": "investments",
       "language": "en"
     }
