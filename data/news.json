@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-11T06:54:50Z",
-  "total": 13,
+  "last_updated": "2026-04-12T07:07:00Z",
+  "total": 12,
   "articles": [
     {
       "id": "2fa78478c6b85c4105f1da0ad6d8a472",
@@ -19,6 +19,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
       "published": "2026-04-03T06:13:45+00:00",
       "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "5f148dceaab31dbb99c02c12db09f701",
+      "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - ENR",
+      "source": "ENR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3Z4bS1KZXItNV9waXpTSWJnZWJJbmN6b0M2blFjRFVoN2t6U0RqS3BVU3p0eDI1U213U0l2dUZXTklnVnUyX3pwckxpMkxGc2h5U3BKMWx0RnQ1cG12NXk0Nm8tbFprSWZ2WlBuUWlCaTM2MXF0Zks2ZmpJaGJGMFo5RUxTUHIyOVRhOFl0M2VoZVg2UHFmdlBIWEY?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix ENR",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -109,26 +119,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXlEQWVoLUE3Y21FbHBfc1k3bHRHUlQ1b2RPdHVYLVhWS2N6OE9pMVNrRnp5MlNCdTIydWwxUVBWbXFuYlVORmdnMXpTeUJnVEg5R29HNDF2bjJ0R1VKZE1YZmF0QkFTNWd5QnVONXlPZVEwTzdkS3N3NTVqOGtqbE1DYW9iZ3dMNllrMExsTzRycW4w0gGaAUFVX3lxTE80bzNET291Z01HTXNaNjU3QVdvTzdkMGNfaWxZNTV4bEpRTzRlVHdtczJhdVZta1VERUpxNmtDRVJtdko1UGFrOWJBTXRWVjR6OXg0X2d3TVJkb19MX05NM0U5WXNITEpyMnpqZVY5OFA2NUpGMkNfeDM3cHpZcmNiLTYzVWx3cHZNN1lIVDJlWGFHb0RIdDlsV3c?oc=5",
       "published": "2026-03-17T07:00:00+00:00",
       "snippet": "Definity: $7 Million Raised For Healthcare Workforce Management Platform Pulse 2.0",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "a56c6529f42b4a8b0ec27cf79ee35cb9",
-      "title": "Payroll software switch no defence for unpaid annual leave, court rules - hcamag.com",
-      "source": "hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGNCM1dVekgxOE9xQTg5bDVzV1Q2dXpTako1ZC1QSEhTc3ZyR1hKd09XYklmaUE1TnZERkhfVndGY2pjZGFUOWlyX2RGbWRrWlNOSXI2WC1YR19LbTd1RTlZX2Y3QW9VTnY2c2VUdzJ4YUg5RERfZkZ4c0xtZzRJUG1rNk5jeVFiWWpRTmxjQ3piZmkzdFVnMjlQOEk5MEJvSHd1cVhnNU1uTm5mM0ZCYl9IWHFhNmFDOVlxWlVBU21JTGY1ZXJkbi02UVhvUQ?oc=5",
-      "published": "2026-03-13T07:00:00+00:00",
-      "snippet": "Payroll software switch no defence for unpaid annual leave, court rules hcamag.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "2f47d4360635d4629360c2851768183f",
-      "title": "Qurrent: $15 Million Series A Raised For Autonomous Digital Workforce Platform - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlFRMGVEZDFYc0x4LURvZ2VJVkVtZS1WbkwwMF9LMGdXZ1ZEQ1RLRW9rY2tzS1hwVGZRaWFyTVd0Y1ZEcW0zdTMyb1gzdTRfYklXVkc0UEtoeWFmY1FIWUJqdko5UlQxOW5kb25lYndfZXhyRUpHMy14ZXBlcG9RcXRfRXlsQklrelJRd3ZKM0lsblBxSW0wUTJFdDbSAaIBQVVfeXFMUGZPOUN6aGR3OVVWa093SF9sRE8tQ21KMlpuRUpkWFZJSjYxcGNtZ05VaG81WEVOT2ltYnk4cXY1aWZNYnVJeUZTRTZYUHMtT0lvT3dicUVCUzBOV1JVa09yV1J2QnN3R0xTVjVsTWlZc1EtbWE2Ym5yRXJ2RWNRWDNDY2otbmN6Znc0ZGNvbTlGQWpnM09icVBjUm95eHdQZmtn?oc=5",
-      "published": "2026-03-12T07:00:00+00:00",
-      "snippet": "Qurrent: $15 Million Series A Raised For Autonomous Digital Workforce Platform Pulse 2.0",
       "category": "investments",
       "language": "en"
     }
