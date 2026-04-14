@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-13T07:54:10Z",
-  "total": 13,
+  "last_updated": "2026-04-14T07:22:40Z",
+  "total": 14,
   "articles": [
+    {
+      "id": "7c93f24df700079fad0cd95a1a19dbf9",
+      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNkZEelllOXIxSWhiSFhlbTNlR1A3SloxMWFrYjRBSmdtWlk0Y0k3cFUyTUI2UllQbFZfUzVYMnMtV2o5blFqSjZ3TkM2YU1jdTZSaFNTVDd4TzNPc2VOYzBxYjl4UDQ1SEJCRUw1TTVtblVneUVFeTNuOEt2eTBnU2hkbk1lY1FFZ2JIc1Y5WFo3ZzZYT2Q0TkY4T2paTlRUTDlQSloyYUNMd2I0SEVIanJFaWhnMlVNSEdRaEJ5OXlvZHlYVVZWNFpaVGFqWktiaTRaSFhvNDdtVEZwZzg2WnBVdEFpRzNBblRmZjNPVlRSMmdHNTMtSklCMkotYzJ3aTNhdnJ5QjJVam42RXlud1N1b0lfX3ZzdHYzMVBFZnBQdw?oc=5",
+      "published": "2026-04-13T00:29:32+00:00",
+      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "79808e766c1774de5d7d2c8199f6ed4b",
       "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
@@ -13,22 +23,22 @@
       "language": "en"
     },
     {
+      "id": "6612823641c2c58c3747b0a653b6768a",
+      "title": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them - GeekWire",
+      "source": "GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjlraVlGQzlLdUFjaWFqNy0zam81Qk9UU2F0dzRMd1dQbXJMTzZxcExBQ2VlUXVMOEdlaTd1d3hMZENfODVUVi1NZlFsQzhhU3IxWkY3WkR3LVRhazM1ODNNdVhLQ3A5b3FScVV3ZXZoc01EczF5enhFdmE1bVhILXl3MzhkaVFnTWNKX0dVQTQyTWRfak1xTFE5UC0wQmlrZlMxZ1VWcG4taFUyMVg2RUtuYThsQWFPRWc?oc=5",
+      "published": "2026-04-08T15:15:05+00:00",
+      "snippet": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them GeekWire",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "2fa78478c6b85c4105f1da0ad6d8a472",
       "title": "Quickbase Acquires Solvice - HRTech Series",
       "source": "HRTech Series",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pRUJrZ0R1bXJqTGFma3ZQdkpJa2VKVWxBNklKSnBPYVJwMGpTZVdLNVFlbzJFam5CRThoTWxLSHRMSzN5US1oWHd4Q3NRdnJpUzZmQWVxMFc1ZFZVR090Vi14NndfTURTcXFheWZCc2pqUdIBd0FVX3lxTE5UUmpDVU92T2RTaFNZYng2MDFEUUVwTks2TkFCbU9MZERzMXhpN2xjdVdyVmpsaE5qYWZ6amFRNHhyalpOdHFreVNUN0hRbGkySGktMjdOY2MwN3ZnZTE2ZlJvWTJia2VjUzJ3X2k0U2dFcVR1Znhr?oc=5",
       "published": "2026-04-06T10:40:59+00:00",
       "snippet": "Quickbase Acquires Solvice HRTech Series",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "b5fe2c5b4adaddc380cfccbd76110235",
-      "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
-      "published": "2026-04-03T06:13:45+00:00",
-      "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
       "category": "mergers_acquisitions",
       "language": "en"
     },
