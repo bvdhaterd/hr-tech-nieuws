@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-04-17T07:24:17Z",
-  "total": 20,
+  "last_updated": "2026-04-18T07:00:30Z",
+  "total": 19,
   "articles": [
+    {
+      "id": "ddbc7f9d96599ecfc2245006343dc41d",
+      "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFc2aU8zNnRMN1J0Rmt2U3NveHhzNE5WQ1UzdzRjM0JxYkJpRk1mYTlGNnBHVjlvSWxiZFF4aXlYZjN2T0plaUpxYUNMYWFlNWIxWjJEak4xMUlfS2F6S1htVDlrRk9RaWlPbXFscXRqTjVIa1hPcTR6dnN5ZEN0eWJLRWFwV0RCaXRQc0oyVmVoSjh0X0JMZ3ZHc0M3Z2Y5Nms1WThMRWJ1TTg?oc=5",
+      "published": "2026-04-17T13:40:55+00:00",
+      "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d261cf1d21a645245f282a96f4806637",
+      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
+      "source": "businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
+      "published": "2026-04-17T07:04:33+00:00",
+      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "4fb5952d690251419c2b61aa3040b1d5",
+      "title": "TraqCheck raises $8m to replace HR software with AI agents - TechMarketView",
+      "source": "TechMarketView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHlQZzVPYmU3Tm02eFQtdXFYd1BsUkxRTUE5b1Y5eTZFOEthSEh3TnB6dGtZeTQzQUxQbmVpYzB1SlZvb3FkSkRvOGdsenc1ZlZ4TmRRRjBGZXI5UHhQT2lzM0U5d09iN05FVTJiOGVlUzBoZVA0elBYeHhZYmdiLUtVSHlTTWVKdDQ5WEQyR21rVDFkYWVZMExaTXplSXdoNmVCNWREazVGdVpyS2YzUTloekRjakxnbFE?oc=5",
+      "published": "2026-04-16T00:00:00+00:00",
+      "snippet": "TraqCheck raises $8m to replace HR software with AI agents TechMarketView",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "11a19d7348555795629915a1fdc256d8",
       "title": "Lawsuit Targets AI Hiring Tools Using Consumer Data - ACA International",
@@ -53,16 +83,6 @@
       "language": "en"
     },
     {
-      "id": "2942760e578af0442fd7b8079366e6f7",
-      "title": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGowVnEzNWFPSWs3TDB5dmQtdHB6dDBZUGFIdm1IQURaOGVVRlVCeG9tUmlHX2xBTnlGRzh5MFZBNkhBNnktcGZ0UnlVVElrTFE3X2otbFVIQXJncUIxOVl1NW0zdS1FaGhnYXlDUWNxT05xX25NT0djcVVsblBJRk04X2J3RmRaOFRkWXFOMnV2ZHluTG9tVFRoY09iWGhxVEJIYVZMak9OamhMc29wc0FuYVRIV2h1dVd6RGJDeVFQUQ?oc=5",
-      "published": "2026-04-14T16:06:54+00:00",
-      "snippet": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions Siliconindia",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "31c1f30470bff27100ab725e4654746a",
       "title": "TraqCheck Raises $8M to Expand AI Hiring Platform - Bharat Fast",
       "source": "Bharat Fast",
@@ -77,29 +97,9 @@
       "title": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures - Passionate In Marketing",
       "source": "Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcmNEcWhkSnkwNkVwbHUtdDZFQUJTdGNMY3hBdHVPNzJPajRrUEdWZ1M0TEpFSTgwa253WklQXzZzNm9wZEhxRGZrdkxfdjJ1b1JIaTJ4ZG4wSE9IVDh3SXhGUERZemR6d1JfTWk0RmViX242NzdaQWJvcWZLZldkcWNDdjVudkp2WDJUV2otbFV4WXpKRDhHdVFEMTlsOE9YMzFKQ3l6VWNSRmxqTGdMM0lPRHgxXzVNMHVXdC1YbWY1SHlFek9POGROUUJUWGxaZWFoMXhmY0FTZw?oc=5",
-      "published": "2026-04-14T11:22:31+00:00",
+      "published": "2026-04-14T11:18:54+00:00",
       "snippet": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures Passionate In Marketing",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "1c12e01ffc480314bf498bcc9b9a2ee1",
-      "title": "HR Tech Startup TraqCheck Raises $8 Mn In Series A Round Led By IvyCap Ventures - BWDisrupt",
-      "source": "BWDisrupt",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWZxc2NYUFFCZ3BrSzM5bGZBeV9PN0tyb2NjRk1BMTNoaE9qckpJQ2cwa092ZjdhQ09IV19Bd05FbGxsbTJ6dTVRRVFaNFFBWWJxN2VXTWFaY0ozN0ZIck9vbGxQZHZWMHd0VDJrUmpFeGgyRVpqb1lpMUxqZmo2SUt0NlJ0enlhU2licnVrRF9hVGV1OTFtWG9IMzFiV2hqNE9xbUtnX0tiQlM0cF9HN3dqY0tiYnhvQlpR?oc=5",
-      "published": "2026-04-14T08:18:16+00:00",
-      "snippet": "HR Tech Startup TraqCheck Raises $8 Mn In Series A Round Led By IvyCap Ventures BWDisrupt",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "d9fe1d5c7f436d0941ab5c4888636daf",
-      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPQ1Z2NW54QUtQaGEyR3JwNWhYN2JGTEVfTG1kTHluTEtlakZCRDMtcXNfekF0SDJGRmRtZl9famw3UUdpd3J1aFc1VUl6YkpfakZxOGhxX1VPMThQNmtKTXpKMkFjZzZqTnVkcGQzNElfY3UxSHczbVQ4NUJoM0JkbmRTbjQzOXVGUnVJbXZrT3NJRjNUbU1Cbnk5QWFPYktlTXNTYnlidER2aklmbGUyaGROb3FsZXk5VTJDTVNGNzlFTnpvdUxNUkpvN0g0R0ktN2JTWlZSLU9UNDVqQjhScmZ0cHBlUWlyQVRWc1RVZ19SVGxrS1pUMV95TnZpamNwUUJLeTJhT3dGc3FCWHo5bWszRC02cjdRWC1wN2FsMDVucTZtMGFEOUVmbW1yZWVkLXcxTDdSMThMYzlmVkY1UTB3cUZSNWwzUWtnQUw1OHFEZ3hURlZhQncybTNid1dFWnVWdS1IS1FxOUM3bjlwUXpwbXZ3RGZZVjM5ZmxjZ1ZQdHprZVFSOXoxWXk1OUYtR0hkQ3VHclhVUFhkTE4zSHBFN2gzSGVLSGl6QkhNOGVDcTV4ODZJdw?oc=5",
-      "published": "2026-04-13T01:27:04+00:00",
-      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -123,6 +123,16 @@
       "language": "en"
     },
     {
+      "id": "fba1ec129556bbc98ab06951e815788b",
+      "title": "Juicebox Raises $80M to Transform AI Recruiting - Ventureburn",
+      "source": "Ventureburn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWR9IBYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWRw?oc=5",
+      "published": "2026-04-03T07:00:00+00:00",
+      "snippet": "Juicebox Raises $80M to Transform AI Recruiting Ventureburn",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "b5fe2c5b4adaddc380cfccbd76110235",
       "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - TipRanks",
       "source": "TipRanks",
@@ -134,11 +144,11 @@
     },
     {
       "id": "5f148dceaab31dbb99c02c12db09f701",
-      "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - ENR",
-      "source": "ENR",
+      "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - Engineering News-Record (ENR)",
+      "source": "Engineering News-Record (ENR)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3Z4bS1KZXItNV9waXpTSWJnZWJJbmN6b0M2blFjRFVoN2t6U0RqS3BVU3p0eDI1U213U0l2dUZXTklnVnUyX3pwckxpMkxGc2h5U3BKMWx0RnQ1cG12NXk0Nm8tbFprSWZ2WlBuUWlCaTM2MXF0Zks2ZmpJaGJGMFo5RUxTUHIyOVRhOFl0M2VoZVg2UHFmdlBIWEY?oc=5",
       "published": "2026-03-30T07:00:00+00:00",
-      "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix ENR",
+      "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix Engineering News-Record (ENR)",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -163,16 +173,6 @@
       "language": "en"
     },
     {
-      "id": "699c81a6ec913346d883622ab9c0c536",
-      "title": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation - Hunt Scanlon Media",
-      "source": "Hunt Scanlon Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUlkMG9WRkVHaG9wUmVtVHVKTUk1UHA1U2g0ZUZ2b2hJejlMNk1MTGNHbXNKemx6ZmhkbXZYYklqMFhaQUxONGJGNU1jQklSdDI0VVpFb2otSEg5LWF2V1VIMHlKQktrRlJ3ZHFkN3ZmdkdZUzlrZDlUcFVEMzRTTlAyM2VObUw2ekx1cVBQRTZpamVTOGc?oc=5",
-      "published": "2026-03-23T09:08:09+00:00",
-      "snippet": "Juicebox Secures $80 Million in Funding at an $850 Million Valuation Hunt Scanlon Media",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "7dfe16dc67667a219af8c99aa82ae37d",
       "title": "Paraform: $65 Million Raised For Agentic Hiring Platform Expanding AI-Driven Recruiting - Pulse 2.0",
       "source": "Pulse 2.0",
@@ -190,16 +190,6 @@
       "published": "2026-03-20T07:00:00+00:00",
       "snippet": "Ezra: $3.2 Million Raised By Voice AI Recruiting Platform To Rebuild Hiring Around Conversations Pulse 2.0",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "94c57b57b572fe1bb63fa1f854226692",
-      "title": "ASL Acquires SimpleHR to Accelerate HR Software Expansion - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlhWVXVJOGg4eHZ4SWJHRXpCSFpzWDJhNkJTNVpDejdRRkVPT0duSnFFc2x1NXE5VkMxbmxSZ0tEZmJnWTB4Wk5hWVFyODJLSy02VVlCS2JmM2pNWjBnX2h5SlI3UnIxZWlJb3NFODZ1Zk83YU5uZTE0SkFMZmZ6WUMyUHMtMGVjaHV0RkRXelJoMlNzclFTZDVqWdIBoAFBVV95cUxQSVhDNkpfS3NhQV9sQW41THZWRC1sLWJPTEpHa3BnM1Q2ZE52aHo4andCUHhLc2xZVGlBcUlrZjBXZmNwQlhWdUJZbGg5VU5BWTAyUTEyOERXYlZuMjFJdmRmN0czT093cXYySjlfSDFsYUZDWlM4ZHZTVGRRaThYTGNmWXJwbWItVGlYQ0NWRjdxMVlEdEJYSWNWcmwzYUJr?oc=5",
-      "published": "2026-03-18T14:44:26+00:00",
-      "snippet": "ASL Acquires SimpleHR to Accelerate HR Software Expansion HRTech Series",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
