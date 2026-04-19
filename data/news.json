@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T07:00:30Z",
-  "total": 19,
+  "last_updated": "2026-04-19T07:11:30Z",
+  "total": 15,
   "articles": [
     {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
@@ -10,26 +10,6 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "d261cf1d21a645245f282a96f4806637",
-      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
-      "source": "businesscloud.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
-      "published": "2026-04-17T07:04:33+00:00",
-      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "4fb5952d690251419c2b61aa3040b1d5",
-      "title": "TraqCheck raises $8m to replace HR software with AI agents - TechMarketView",
-      "source": "TechMarketView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHlQZzVPYmU3Tm02eFQtdXFYd1BsUkxRTUE5b1Y5eTZFOEthSEh3TnB6dGtZeTQzQUxQbmVpYzB1SlZvb3FkSkRvOGdsenc1ZlZ4TmRRRjBGZXI5UHhQT2lzM0U5d09iN05FVTJiOGVlUzBoZVA0elBYeHhZYmdiLUtVSHlTTWVKdDQ5WEQyR21rVDFkYWVZMExaTXplSXdoNmVCNWREazVGdVpyS2YzUTloekRjakxnbFE?oc=5",
-      "published": "2026-04-16T00:00:00+00:00",
-      "snippet": "TraqCheck raises $8m to replace HR software with AI agents TechMarketView",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -170,26 +150,6 @@
       "published": "2026-03-27T08:29:51+00:00",
       "snippet": "Medley: Acquisition strengthens HR platform in healthcare and accelerates AI-driven BPO expansion TradingView — Track All Markets",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "7dfe16dc67667a219af8c99aa82ae37d",
-      "title": "Paraform: $65 Million Raised For Agentic Hiring Platform Expanding AI-Driven Recruiting - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFB3djNCSUgxWlVreEFrNVZwc1FLWkpUUTZtNEdSVUxBejE5amxSRFlMV0xzOW1oTzY5WWhZOXg0cmVRN19XbUxXZFBYaDFoc1NPa3o3US1FS19kMXp0LUlQVm1acnhCUnFwQ3VRVGhubS1rbFc5Uk1sZFV2c085N3NtRjZfODZZckY3eFE3OFhzWXFKOE9YcUJKME83Tld1dWVuMDlsMjjSAa4BQVVfeXFMT0NaNkpGM3h6N2VuQ3c3T1BIdFdBQlJfa3QyV0w1eDJvb1Q2UkwzV09zTjJ2eEhRVTN6Z2pXdWNubmhJSWdsWF9VWTRGeDRlOHV2WE9wMGF6czlyMHJkelhuRTNOUFdvTFphVUJnS1ZTclpCRVA3YjVESEJSajdzSXVzRjVVcDhDa2xmSVAtOGNndW9aQy1XaWxjRUZncmY5RFhJTmxmTzgxOE1jdzdn?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "snippet": "Paraform: $65 Million Raised For Agentic Hiring Platform Expanding AI-Driven Recruiting Pulse 2.0",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "d6a6c521bee6f8880362a1957ebca4ae",
-      "title": "Ezra: $3.2 Million Raised By Voice AI Recruiting Platform To Rebuild Hiring Around Conversations - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblhsQUl2bE9HMXBvUWpmM00zRTBUd1FDaUJVMjQyU3hLem5LMktiVElicWk3dU5aazAwZ3dYTnptSC1OdWhETkk3STlPR1BSUkIxUk5LWk00VGZzMkJibDktTDRBcldaZ3NDRzI5YnctaHFDbE5xYllJOVZPQ2Z3RjhXMmlvdVN4NlpwdzFOeldfZVlxSDlOOWJFWG41QURiQTBlNnJJNWV1WHZiQlpZM1lVRUXSAboBQVVfeXFMTk1uTGNUZzR6ZjFyM3NCRUxzU3pPSFZIWkNRS3U0WjliU2psYkUwQTJKcUdjZUJlTEptdUJiUEZlUkJENG05bmxmS0d0ZzFWRm5YUFhDQWdHaWZUZTBXc2k1ZVdPSnVlakF4MmNmQk4yOHMtQ2hDbjdaRlE4ZTItVmw3T0plc2NkQmVKT2FFSExmUGtBa0lPUjI0MTF3Y2JwSDhicVg4bnJWaVgxVkNMREpNOTFWcnZTLVFR?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "snippet": "Ezra: $3.2 Million Raised By Voice AI Recruiting Platform To Rebuild Hiring Around Conversations Pulse 2.0",
-      "category": "investments",
       "language": "en"
     }
   ]
