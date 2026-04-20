@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T07:11:30Z",
-  "total": 15,
+  "last_updated": "2026-04-20T07:57:40Z",
+  "total": 16,
   "articles": [
     {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
@@ -10,6 +10,16 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4fb5952d690251419c2b61aa3040b1d5",
+      "title": "TraqCheck raises $8m to replace HR software with AI agents - TechMarketView",
+      "source": "TechMarketView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHlQZzVPYmU3Tm02eFQtdXFYd1BsUkxRTUE5b1Y5eTZFOEthSEh3TnB6dGtZeTQzQUxQbmVpYzB1SlZvb3FkSkRvOGdsenc1ZlZ4TmRRRjBGZXI5UHhQT2lzM0U5d09iN05FVTJiOGVlUzBoZVA0elBYeHhZYmdiLUtVSHlTTWVKdDQ5WEQyR21rVDFkYWVZMExaTXplSXdoNmVCNWREazVGdVpyS2YzUTloekRjakxnbFE?oc=5",
+      "published": "2026-04-16T00:00:00+00:00",
+      "snippet": "TraqCheck raises $8m to replace HR software with AI agents TechMarketView",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -83,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "7c93f24df700079fad0cd95a1a19dbf9",
+      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNkZEelllOXIxSWhiSFhlbTNlR1A3SloxMWFrYjRBSmdtWlk0Y0k3cFUyTUI2UllQbFZfUzVYMnMtV2o5blFqSjZ3TkM2YU1jdTZSaFNTVDd4TzNPc2VOYzBxYjl4UDQ1SEJCRUw1TTVtblVneUVFeTNuOEt2eTBnU2hkbk1lY1FFZ2JIc1Y5WFo3ZzZYT2Q0TkY4T2paTlRUTDlQSloyYUNMd2I0SEVIanJFaWhnMlVNSEdRaEJ5OXlvZHlYVVZWNFpaVGFqWktiaTRaSFhvNDdtVEZwZzg2WnBVdEFpRzNBblRmZjNPVlRSMmdHNTMtSklCMkotYzJ3aTNhdnJ5QjJVam42RXlud1N1b0lfX3ZzdHYzMVBFZnBQdw?oc=5",
+      "published": "2026-04-13T00:29:32+00:00",
+      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "79808e766c1774de5d7d2c8199f6ed4b",
       "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
       "source": "Pulse 2.0",
@@ -140,16 +160,6 @@
       "published": "2026-03-27T19:53:08+00:00",
       "snippet": "Using AI-powered recruitment platforms can compound your liability for discrimination Canadian Lawyer Mag",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "90e6e244509152af46b8a0f18f60d110",
-      "title": "Medley: Acquisition strengthens HR platform in healthcare and accelerates AI-driven BPO expansion - TradingView — Track All Markets",
-      "source": "TradingView — Track All Markets",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNejdlWHVSamdnNDNyazhtWmp3Q2lSbjdoaE53d1lVSmk0SmxWcG9yelNKWVU3bUxmMzZRaWhjdFdJS051c1cxaExwQ0xhRVJ1VWx0cmYwWnpVUWpRZFJuSld2aUtJZFdPLTZ6by1hcjhteG51a1JTSTlxNU1MSUZ6Z2htZ3VwMFNISEhDZmtkUW1id3ZBUWphSzNkeXRpaFlEblFVSDV4b0d0cnlHXzV4MXo0T1BJUTRvanFidmR6ZGstZVh3ajBPWDlPeFlBSjJVUFc1NDRLclNyUjlnR0FBckZ4LXhDaElSVzFfak9CQ2lRM2t2YlRKU0Ezd2I3bWE1akNaNmtIM1ZERkE?oc=5",
-      "published": "2026-03-27T08:29:51+00:00",
-      "snippet": "Medley: Acquisition strengthens HR platform in healthcare and accelerates AI-driven BPO expansion TradingView — Track All Markets",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
