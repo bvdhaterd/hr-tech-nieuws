@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-20T07:57:40Z",
-  "total": 16,
+  "last_updated": "2026-04-21T07:26:45Z",
+  "total": 18,
   "articles": [
+    {
+      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
+      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
+      "published": "2026-04-20T02:06:35+00:00",
+      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
@@ -10,6 +20,16 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d261cf1d21a645245f282a96f4806637",
+      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
+      "source": "businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
+      "published": "2026-04-17T07:04:33+00:00",
+      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -73,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "2942760e578af0442fd7b8079366e6f7",
+      "title": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions - Siliconindia",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGowVnEzNWFPSWs3TDB5dmQtdHB6dDBZUGFIdm1IQURaOGVVRlVCeG9tUmlHX2xBTnlGRzh5MFZBNkhBNnktcGZ0UnlVVElrTFE3X2otbFVIQXJncUIxOVl1NW0zdS1FaGhnYXlDUWNxT05xX25NT0djcVVsblBJRk04X2J3RmRaOFRkWXFOMnV2ZHluTG9tVFRoY09iWGhxVEJIYVZMak9OamhMc29wc0FuYVRIV2h1dVd6RGJDeVFQUQ?oc=5",
+      "published": "2026-04-14T16:06:54+00:00",
+      "snippet": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions Siliconindia",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "31c1f30470bff27100ab725e4654746a",
       "title": "TraqCheck Raises $8M to Expand AI Hiring Platform - Bharat Fast",
       "source": "Bharat Fast",
@@ -87,17 +117,17 @@
       "title": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures - Passionate In Marketing",
       "source": "Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcmNEcWhkSnkwNkVwbHUtdDZFQUJTdGNMY3hBdHVPNzJPajRrUEdWZ1M0TEpFSTgwa253WklQXzZzNm9wZEhxRGZrdkxfdjJ1b1JIaTJ4ZG4wSE9IVDh3SXhGUERZemR6d1JfTWk0RmViX242NzdaQWJvcWZLZldkcWNDdjVudkp2WDJUV2otbFV4WXpKRDhHdVFEMTlsOE9YMzFKQ3l6VWNSRmxqTGdMM0lPRHgxXzVNMHVXdC1YbWY1SHlFek9POGROUUJUWGxaZWFoMXhmY0FTZw?oc=5",
-      "published": "2026-04-14T11:18:54+00:00",
+      "published": "2026-04-14T11:22:31+00:00",
       "snippet": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures Passionate In Marketing",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "7c93f24df700079fad0cd95a1a19dbf9",
+      "id": "d9fe1d5c7f436d0941ab5c4888636daf",
       "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
       "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNkZEelllOXIxSWhiSFhlbTNlR1A3SloxMWFrYjRBSmdtWlk0Y0k3cFUyTUI2UllQbFZfUzVYMnMtV2o5blFqSjZ3TkM2YU1jdTZSaFNTVDd4TzNPc2VOYzBxYjl4UDQ1SEJCRUw1TTVtblVneUVFeTNuOEt2eTBnU2hkbk1lY1FFZ2JIc1Y5WFo3ZzZYT2Q0TkY4T2paTlRUTDlQSloyYUNMd2I0SEVIanJFaWhnMlVNSEdRaEJ5OXlvZHlYVVZWNFpaVGFqWktiaTRaSFhvNDdtVEZwZzg2WnBVdEFpRzNBblRmZjNPVlRSMmdHNTMtSklCMkotYzJ3aTNhdnJ5QjJVam42RXlud1N1b0lfX3ZzdHYzMVBFZnBQdw?oc=5",
-      "published": "2026-04-13T00:29:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPQ1Z2NW54QUtQaGEyR3JwNWhYN2JGTEVfTG1kTHluTEtlakZCRDMtcXNfekF0SDJGRmRtZl9famw3UUdpd3J1aFc1VUl6YkpfakZxOGhxX1VPMThQNmtKTXpKMkFjZzZqTnVkcGQzNElfY3UxSHczbVQ4NUJoM0JkbmRTbjQzOXVGUnVJbXZrT3NJRjNUbU1Cbnk5QWFPYktlTXNTYnlidER2aklmbGUyaGROb3FsZXk5VTJDTVNGNzlFTnpvdUxNUkpvN0g0R0ktN2JTWlZSLU9UNDVqQjhScmZ0cHBlUWlyQVRWc1RVZ19SVGxrS1pUMV95TnZpamNwUUJLeTJhT3dGc3FCWHo5bWszRC02cjdRWC1wN2FsMDVucTZtMGFEOUVmbW1yZWVkLXcxTDdSMThMYzlmVkY1UTB3cUZSNWwzUWtnQUw1OHFEZ3hURlZhQncybTNid1dFWnVWdS1IS1FxOUM3bjlwUXpwbXZ3RGZZVjM5ZmxjZ1ZQdHprZVFSOXoxWXk1OUYtR0hkQ3VHclhVUFhkTE4zSHBFN2gzSGVLSGl6QkhNOGVDcTV4ODZJdw?oc=5",
+      "published": "2026-04-13T01:27:04+00:00",
       "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
       "category": "lawsuits",
       "language": "en"
@@ -139,16 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
       "published": "2026-04-02T07:00:00+00:00",
       "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "5f148dceaab31dbb99c02c12db09f701",
-      "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - Engineering News-Record (ENR)",
-      "source": "Engineering News-Record (ENR)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3Z4bS1KZXItNV9waXpTSWJnZWJJbmN6b0M2blFjRFVoN2t6U0RqS3BVU3p0eDI1U213U0l2dUZXTklnVnUyX3pwckxpMkxGc2h5U3BKMWx0RnQ1cG12NXk0Nm8tbFprSWZ2WlBuUWlCaTM2MXF0Zks2ZmpJaGJGMFo5RUxTUHIyOVRhOFl0M2VoZVg2UHFmdlBIWEY?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix Engineering News-Record (ENR)",
       "category": "mergers_acquisitions",
       "language": "en"
     },
