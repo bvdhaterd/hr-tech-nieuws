@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-21T07:26:45Z",
-  "total": 18,
+  "last_updated": "2026-04-22T07:24:13Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "fcbfe10fdf41b387cf77e9d6a09689d1",
+      "title": "AI Recruitment Startup HireBound Raises $2 Million Seed Round Led by Kalaari Capital - Dailyhunt",
+      "source": "Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbnBRY2VQRTlUMy1PLUFnUHlLQlNwbUp6Y1VDTjJaMVNDdHdaek9WQnBBWi1DUTlubmFUcmw3eVNjcTk4dlZlcy1SYTNuUXNJbGRDUWJqb2JjN3FURzlVZUQzUG9HOWtEdFFsd2xSRmlGNVREVEFhQXFBR0I2R1lmQUt3cFc5amxaeFN4SHh5Z1RhangyaWczblhJZF9RajJzd01DclJGTXhOa0pya0dpRFJTWGMxRkpoang3Zy05MHNzRXhsdXRuS0t2bGdlbUVfWXVIV1ltTHdXeHM3U3BlazZiUjBvd2NYcjItekE1bEkteDF1b1hjekF0eDk2eGxmdFNB?oc=5",
+      "published": "2026-04-21T21:52:08+00:00",
+      "snippet": "AI Recruitment Startup HireBound Raises $2 Million Seed Round Led by Kalaari Capital Dailyhunt",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
       "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
@@ -29,16 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
       "published": "2026-04-17T07:04:33+00:00",
       "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "4fb5952d690251419c2b61aa3040b1d5",
-      "title": "TraqCheck raises $8m to replace HR software with AI agents - TechMarketView",
-      "source": "TechMarketView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHlQZzVPYmU3Tm02eFQtdXFYd1BsUkxRTUE5b1Y5eTZFOEthSEh3TnB6dGtZeTQzQUxQbmVpYzB1SlZvb3FkSkRvOGdsenc1ZlZ4TmRRRjBGZXI5UHhQT2lzM0U5d09iN05FVTJiOGVlUzBoZVA0elBYeHhZYmdiLUtVSHlTTWVKdDQ5WEQyR21rVDFkYWVZMExaTXplSXdoNmVCNWREazVGdVpyS2YzUTloekRjakxnbFE?oc=5",
-      "published": "2026-04-16T00:00:00+00:00",
-      "snippet": "TraqCheck raises $8m to replace HR software with AI agents TechMarketView",
       "category": "investments",
       "language": "en"
     },
@@ -93,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "2dc3419606a370fd3db78a039131b17c",
+      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjdHVU5xMkdWbURYSk8zSzk4WlJkUWloeDF1RS1JcVZTaF96dEhlRFl0MURKSEFTelNhVUNEX1JjMzVhb2lfMWFSMGZ4ZkJKTUtkWlNIU1ZIMXpOZHEwQ1RzUVNpcURZMnhNMndkbTUzQTFTQ0szWlBldlhaTHI5UnlIVlRkeDUxX1lwTk80cEI3cFE5dUgyRXVWZHp0akhUcGNKMjNSRm1tNWJyWUpZVHZfMXVDd0JHMmMyNXJBcnNnSXhNYzFUYg?oc=5",
+      "published": "2026-04-14T18:29:10+00:00",
+      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "2942760e578af0442fd7b8079366e6f7",
       "title": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions - Siliconindia",
       "source": "Siliconindia",
@@ -117,7 +127,7 @@
       "title": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures - Passionate In Marketing",
       "source": "Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcmNEcWhkSnkwNkVwbHUtdDZFQUJTdGNMY3hBdHVPNzJPajRrUEdWZ1M0TEpFSTgwa253WklQXzZzNm9wZEhxRGZrdkxfdjJ1b1JIaTJ4ZG4wSE9IVDh3SXhGUERZemR6d1JfTWk0RmViX242NzdaQWJvcWZLZldkcWNDdjVudkp2WDJUV2otbFV4WXpKRDhHdVFEMTlsOE9YMzFKQ3l6VWNSRmxqTGdMM0lPRHgxXzVNMHVXdC1YbWY1SHlFek9POGROUUJUWGxaZWFoMXhmY0FTZw?oc=5",
-      "published": "2026-04-14T11:22:31+00:00",
+      "published": "2026-04-14T11:18:54+00:00",
       "snippet": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures Passionate In Marketing",
       "category": "investments",
       "language": "en"
@@ -140,6 +150,16 @@
       "published": "2026-04-12T14:28:36+00:00",
       "snippet": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities Pulse 2.0",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "3f773009753defa9215c63c6370d5c92",
+      "title": "Hibob — $170M Raised, Investors, Team & Alternatives - StartupHub.ai",
+      "source": "StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYjdLSlNGbVY0NWJ1QXZ1OWVZMy1VZFpTQUVDaXY5X1I5cEVBVjVPZGtJUHUzdTlMQ0o0bXh6NDJVTVRhWTBLbWd6RXRjTld2cnc?oc=5",
+      "published": "2026-04-12T07:00:00+00:00",
+      "snippet": "Hibob — $170M Raised, Investors, Team & Alternatives StartupHub.ai",
+      "category": "investments",
       "language": "en"
     },
     {
