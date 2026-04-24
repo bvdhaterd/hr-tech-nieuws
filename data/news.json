@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T07:27:54Z",
+  "last_updated": "2026-04-24T07:53:13Z",
   "total": 19,
   "articles": [
     {
@@ -9,16 +9,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbnBRY2VQRTlUMy1PLUFnUHlLQlNwbUp6Y1VDTjJaMVNDdHdaek9WQnBBWi1DUTlubmFUcmw3eVNjcTk4dlZlcy1SYTNuUXNJbGRDUWJqb2JjN3FURzlVZUQzUG9HOWtEdFFsd2xSRmlGNVREVEFhQXFBR0I2R1lmQUt3cFc5amxaeFN4SHh5Z1RhangyaWczblhJZF9RajJzd01DclJGTXhOa0pya0dpRFJTWGMxRkpoang3Zy05MHNzRXhsdXRuS0t2bGdlbUVfWXVIV1ltTHdXeHM3U3BlazZiUjBvd2NYcjItekE1bEkteDF1b1hjekF0eDk2eGxmdFNB?oc=5",
       "published": "2026-04-21T21:52:08+00:00",
       "snippet": "AI Recruitment Startup HireBound Raises $2 Million Seed Round Led by Kalaari Capital Dailyhunt",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
-      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
-      "published": "2026-04-20T02:06:35+00:00",
-      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
       "category": "investments",
       "language": "en"
     },
@@ -39,6 +29,16 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
       "published": "2026-04-17T07:04:33+00:00",
       "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "2942760e578af0442fd7b8079366e6f7",
+      "title": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions - Siliconindia",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGowVnEzNWFPSWs3TDB5dmQtdHB6dDBZUGFIdm1IQURaOGVVRlVCeG9tUmlHX2xBTnlGRzh5MFZBNkhBNnktcGZ0UnlVVElrTFE3X2otbFVIQXJncUIxOVl1NW0zdS1FaGhnYXlDUWNxT05xX25NT0djcVVsblBJRk04X2J3RmRaOFRkWXFOMnV2ZHluTG9tVFRoY09iWGhxVEJIYVZMak9OamhMc29wc0FuYVRIV2h1dVd6RGJDeVFQUQ?oc=5",
+      "published": "2026-04-16T01:53:01+00:00",
+      "snippet": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions Siliconindia",
       "category": "investments",
       "language": "en"
     },
@@ -83,6 +83,16 @@
       "language": "en"
     },
     {
+      "id": "41261ad175aa34f365a0dd1cac9ed9f3",
+      "title": "Hr platform Darwinbox raises Rs 110 cr from Salesforce Ventures - IMDb",
+      "source": "IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hckhZM2tyWDA4Uk5oTjUydHFEYS1MaUpFU0dFU0F0ZVpFMDZhbkhMTnl1emUyNEZmeEJLbVZ2Z0h1SmxTbGpDYWs4RzRqNkVZdjkxWWRhZkRzcXY4SEJsckJMY0hqaXY4?oc=5",
+      "published": "2026-04-15T01:01:17+00:00",
+      "snippet": "Hr platform Darwinbox raises Rs 110 cr from Salesforce Ventures IMDb",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "c8a046fe7389aca595e537915a26c847",
       "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - GeekWire",
       "source": "GeekWire",
@@ -100,16 +110,6 @@
       "published": "2026-04-14T18:29:10+00:00",
       "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "2942760e578af0442fd7b8079366e6f7",
-      "title": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGowVnEzNWFPSWs3TDB5dmQtdHB6dDBZUGFIdm1IQURaOGVVRlVCeG9tUmlHX2xBTnlGRzh5MFZBNkhBNnktcGZ0UnlVVElrTFE3X2otbFVIQXJncUIxOVl1NW0zdS1FaGhnYXlDUWNxT05xX25NT0djcVVsblBJRk04X2J3RmRaOFRkWXFOMnV2ZHluTG9tVFRoY09iWGhxVEJIYVZMak9OamhMc29wc0FuYVRIV2h1dVd6RGJDeVFQUQ?oc=5",
-      "published": "2026-04-14T16:06:54+00:00",
-      "snippet": "TraqCheck Raises $8 Million to Scale AI Hiring Solutions Siliconindia",
-      "category": "investments",
       "language": "en"
     },
     {
