@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T07:06:43Z",
-  "total": 21,
+  "last_updated": "2026-04-26T07:21:05Z",
+  "total": 18,
   "articles": [
     {
       "id": "ccb13e9566134ec44ca4a171bf65704b",
@@ -40,16 +40,6 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "d261cf1d21a645245f282a96f4806637",
-      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
-      "source": "businesscloud.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
-      "published": "2026-04-17T07:04:33+00:00",
-      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -103,16 +93,6 @@
       "language": "en"
     },
     {
-      "id": "41261ad175aa34f365a0dd1cac9ed9f3",
-      "title": "Hr platform Darwinbox raises Rs 110 cr from Salesforce Ventures - IMDb",
-      "source": "IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hckhZM2tyWDA4Uk5oTjUydHFEYS1MaUpFU0dFU0F0ZVpFMDZhbkhMTnl1emUyNEZmeEJLbVZ2Z0h1SmxTbGpDYWs4RzRqNkVZdjkxWWRhZkRzcXY4SEJsckJMY0hqaXY4?oc=5",
-      "published": "2026-04-15T01:01:17+00:00",
-      "snippet": "Hr platform Darwinbox raises Rs 110 cr from Salesforce Ventures IMDb",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "c8a046fe7389aca595e537915a26c847",
       "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - GeekWire",
       "source": "GeekWire",
@@ -143,22 +123,12 @@
       "language": "en"
     },
     {
-      "id": "1f080cc0d288934b79133fa03248ee94",
+      "id": "3659ed63bbef699eb60c690693e9b92e",
       "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
       "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOOW5iS3l2b2VqRkVIVkUydmt2VExrMEE1NUI4bGdSZ1ZkUTdQaXJORng2aVpGMHZFbHpsQ2VmSHNoanpoVmFrVFAxdXBEUUdPRG1uNVRfZjdhb3VPSGg3c1hhVHR0SmVPNklENk9oMXVxNzI1SHJHRXRBT0pObDYzTWhjZ1Jqb3g0SUtXZDZRZ2ZSREZWemFZdzdSNF83VlFnVXJlcTI3WUYzUC1pUXppUGVYYWRKb18yLXptQVZiVTh6T1Zsd21fNnBoMlhBSjM0Zkh2RV96cFlxU2Rrbk5OdVlabkhRb3RPRWV2dmlCLVBqRE9Ma0dsTmh1NmhKR1ppOHcydlBZQ014bS1EZmowMGh2WTJmV1dRTXQzd2pJLVFSQkxTV0hKMVNFSDZPZnRKZVdzbUZtQjR6dEdyaF9XUU9VcFd2dzJ6Y2lkc0x2MnJpblBVSFl6ZklzSjNBRWQ4TEpQV1piNk9jenZjenlZUmhWdHYtbHF6Q3FJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSVBMNzZTYUJOQjhRLTU3eHVmUEJpbkx5bHEzSTlYVkJQSUhVZjREVG5NZ2FpVkZ1Q3BZLWNTUlRDajJQckJDbGNCakF2SmN6aGNjMC1IcDBjNlNMZFNVbzFmQnlCajBoZl9LcmhFN0tUbjZIQ0owRGt5c1dzUnlRY1BzVjNLSWctNnNDUlRqV1lHdVA2a3BmV0VscDlXZlpRcFo5ODNjSnpPX0JYZzh3amJFcHBIV3ltenhRNTYyaV93YWNqWE5id0VpamZTc0owbDI1ZEFUZEFudHZmWXRrSmZmSkluUnRVeU1j?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "79808e766c1774de5d7d2c8199f6ed4b",
-      "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3k4UEcwdXlyY0w1MjltbkN1Z2dNUWc4RC16ekxnU29sY29xMFF2TDV2RDRNRmZyNGdtTDlRVmtVUEE1NlpCYU9ubUVOc05lNnNuWTRvSUVHZzZKNGJVaHcwanQtbUZfRDdfRlQyanpmb1JXMnhndzkyWlFQZjNSeGN4cTFkdGI2QzVRSldJWWlsY3pXbGVfLW5EeXl0VjVPRGFQcXE4dEjSAa4BQVVfeXFMTWhDRm1MZDVaMktESnVTcXpuc3JDRXhjaTE4M1RSbmRHTjZoeU5mX0twWlJBbmlsR0ZPeTZwdFlhZDBjY2Z0alM0VUcwM1pMTkhWYzdDRW5kRjBFc2RSUDAzR2k2YVg2d1pHM1lTZDhYVWY2b2RrTGJ2eC1JQmZlaFdoaDZ3Q05hdlBaWExMV0xsVmlYN2hfbE8zbHhiVHN5emRfUjNpY09aUlZ4Ty13?oc=5",
-      "published": "2026-04-12T14:28:36+00:00",
-      "snippet": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities Pulse 2.0",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -170,6 +140,16 @@
       "published": "2026-04-12T07:00:00+00:00",
       "snippet": "Hibob — $170M Raised, Investors, Team & Alternatives StartupHub.ai",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "79808e766c1774de5d7d2c8199f6ed4b",
+      "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3k4UEcwdXlyY0w1MjltbkN1Z2dNUWc4RC16ekxnU29sY29xMFF2TDV2RDRNRmZyNGdtTDlRVmtVUEE1NlpCYU9ubUVOc05lNnNuWTRvSUVHZzZKNGJVaHcwanQtbUZfRDdfRlQyanpmb1JXMnhndzkyWlFQZjNSeGN4cTFkdGI2QzVRSldJWWlsY3pXbGVfLW5EeXl0VjVPRGFQcXE4dEjSAa4BQVVfeXFMTWhDRm1MZDVaMktESnVTcXpuc3JDRXhjaTE4M1RSbmRHTjZoeU5mX0twWlJBbmlsR0ZPeTZwdFlhZDBjY2Z0alM0VUcwM1pMTkhWYzdDRW5kRjBFc2RSUDAzR2k2YVg2d1pHM1lTZDhYVWY2b2RrTGJ2eC1JQmZlaFdoaDZ3Q05hdlBaWExMV0xsVmlYN2hfbE8zbHhiVHN5emRfUjNpY09aUlZ4Ty13?oc=5",
+      "published": "2026-04-12T07:00:00+00:00",
+      "snippet": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities Pulse 2.0",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -190,16 +170,6 @@
       "published": "2026-04-03T07:00:00+00:00",
       "snippet": "Juicebox Raises $80M to Transform AI Recruiting Ventureburn",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "b5fe2c5b4adaddc380cfccbd76110235",
-      "title": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities - TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNBT3RrcmRoTUlBaGVRYURpRnMwWFJLR2V2N2ZfVFRSdHdrMXlKSXpQTG1RMUplc0xtOFFkLTZVU29HTUx4SGwxZnpyTG5EU3BHU0NLWjR5T2xlWG85Skk0Mi11Um9tR0pnc2UtcUZOWGhoLUZQQlUydGVJeVlnOEJBellpZUY5aml3b0ludXplVEFROEtoNy1LY2ktc2ZCU0ZKaGZ1dkloSEpMWnVOMmg4V1k2S044MnpEaG1wRUZtUnBlcXJ6bnE1Nm1NQndqV1p1ZHpncw?oc=5",
-      "published": "2026-04-02T07:00:00+00:00",
-      "snippet": "Lattice Acquires AI-Native Coaching Platform Mandala to Expand People Analytics Capabilities TipRanks",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
