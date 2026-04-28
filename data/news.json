@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-27T08:12:19Z",
-  "total": 19,
+  "last_updated": "2026-04-28T08:13:58Z",
+  "total": 18,
   "articles": [
+    {
+      "id": "8b8b8c5a303c262170f765d03338aeb8",
+      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPRnJmZDlLLXo4Qnk3TkQwc3JKdDYyZHNacE9sWkdmQ3c1TnljazRCZXNkYm01NDRveVp0bDloYnZQNDhibnpvMTBGNEh0M1BDUnBFcVB2eGpvUUNYSG8xTzBhSnR1RVVpbzNYYTMxNHlFOWlodlg5cnJTZmlBZDBCY0FYNGYySkwxWjBuLTBwUUllN3hqajV0QnpyR3ZJRGlkc0d6cnY1ZHJwX2l6YmcxMHRYOVM3UEl6aXZVanBOWXF1SEhIbFpqRFlNSmdTVmdYSXY5NE8zSEdMLU9FM19fWm04bktvVlBqa1l3SGQ2NVBQc2NtdVJRRWlZaVp1Y2wtSE1QTjh2aGJjODVyTWFYZHlNd25HbTNvTDhuem1Lc0U1c2Vkb2YxWFgzWlFUX0p1QjdZRkZ5WjhFVzFNM3l3cVF4UlV6cVh2VzI3eTdKS01PV29nR2tfX2F6anZZcGJYZklONi1KamNaRFRyZV9zUjFrVjN1SF84d1FTTWlyRGxHUkswRDFVM05tZ0otalNjeUZGR25BUDNmcWFFZ0ZHNS1EUVZyOGxSNGRQbHBvVGJMTTdZSVdfdEc1MzhpVFYtNFdlaUJuTjRIV00yeG13X3l2VGtWdw?oc=5",
+      "published": "2026-04-27T15:17:01+00:00",
+      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "38ebe88c275da2070052d3e55c7868e9",
       "title": "HR tech firm Rippling raises new funding at $16.8 billion valuation, no IPO plans - MSN",
@@ -10,16 +20,6 @@
       "published": "2026-04-27T01:15:15+00:00",
       "snippet": "HR tech firm Rippling raises new funding at $16.8 billion valuation, no IPO plans MSN",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "6b700959ac1c29b6bdbdca542f3e50c7",
-      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPcGU0WjZTVUZuZm0zQmhtUHV4eW9JMjNBWmh0d0VGQjRyRl9GUjE1ckJ1cEJVRG5tQTJJQmx4anpmNzdvcjFBNnMwWm4zNnljcXlDZlZiMnNIenIwczBvcHFaNlBQb05XNkwzZnBLS2JpMU9oVl8zalZ1QnFPTXI5dWZVSmxiSGJrTTJ3RHBKSVIxRVB4TC1nOUdKRUlLWjFQUGV6d0NhRW1LQ0lNb0x2dTZoVnFpOEdLMWJkT0N2US1aT1dYWTBPMVdINnE5Qk93YUlDbnlMZ3pUMmZ3S1VNRW9zOUdZMXQ1dXRnSDQ1dVB6T3J3UTJwaHFWa2JRRVFqcDFOamNrNEN1dDhGSkN3c1RwUlA2OW4wSzZGalFpUW1yckg1S3BDSjhiTjFCcVlOWS1MQVg2QUlCRnFtTkxFMXVJQVFrOU9ya1F0aUREU1d0YnJhemV3WWtEbE9YSEdVaFUzYS1Dbk1udXNZVUQzX2c3T092emlFa2N5aUhTSDZ0Tnh3S3NlRnlVTVpaSDlrRjIxRTZYQzR0RXUxWlZ0TEpFd3JOM3FoTnBVZU9LT01ONlFrQWpaTTB0Y2pxR2hKZEtnMldONTVfM3VIWGRqQ2FaWWg4Zw?oc=5",
-      "published": "2026-04-26T15:35:45+00:00",
-      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -43,16 +43,6 @@
       "language": "en"
     },
     {
-      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
-      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
-      "published": "2026-04-20T02:06:35+00:00",
-      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
       "source": "citybiz",
@@ -60,6 +50,16 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d261cf1d21a645245f282a96f4806637",
+      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
+      "source": "businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
+      "published": "2026-04-17T07:04:33+00:00",
+      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -79,16 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZFd5SXVLV2xVQmJNT2JjXzlYb2VIa0lWWHdIV1MzaFpwOWZ0aXBNd2pKdWxhM2xENmpoYm15VS1MSWpMMFRMN2g2ZmF6Q0JlME9aLXJnczZCTHA4cWc?oc=5",
       "published": "2026-04-15T17:33:19+00:00",
       "snippet": "TraqCheck Raises $8M Series A for AI Hiring Agents technotrenz.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2273c37161966c324c1ba3d549fcb118",
-      "title": "AI Hiring Startup TraqCheck Raises $8M Led By IvyCap Ventures - Sahyadri Startups",
-      "source": "Sahyadri Startups",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnBWY3VWZVl6X2dvOEtqZDY1bnIxeFI1U21tYXhoeU1wSnNuY2M4cXBjSGJRaE03aDRCVU44SFRfSDZjOFZPc0QxbUpBTVdiRHN2QWJ6bmtkTUVzX2tudFRLUkxPNDNxdnh2Y3NUTng0UG5GQkJoUXVlSkdtZ29CNnQ2UjQ3LW1QVktPVWltYkFXYlVhdkxkOXBMTkI4RnItMXFLUW54cw?oc=5",
-      "published": "2026-04-15T14:31:21+00:00",
-      "snippet": "AI Hiring Startup TraqCheck Raises $8M Led By IvyCap Ventures Sahyadri Startups",
       "category": "investments",
       "language": "en"
     },
