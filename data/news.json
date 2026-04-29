@@ -1,15 +1,35 @@
 {
-  "last_updated": "2026-04-28T08:13:58Z",
-  "total": 18,
+  "last_updated": "2026-04-29T08:06:56Z",
+  "total": 20,
   "articles": [
     {
-      "id": "8b8b8c5a303c262170f765d03338aeb8",
-      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPRnJmZDlLLXo4Qnk3TkQwc3JKdDYyZHNacE9sWkdmQ3c1TnljazRCZXNkYm01NDRveVp0bDloYnZQNDhibnpvMTBGNEh0M1BDUnBFcVB2eGpvUUNYSG8xTzBhSnR1RVVpbzNYYTMxNHlFOWlodlg5cnJTZmlBZDBCY0FYNGYySkwxWjBuLTBwUUllN3hqajV0QnpyR3ZJRGlkc0d6cnY1ZHJwX2l6YmcxMHRYOVM3UEl6aXZVanBOWXF1SEhIbFpqRFlNSmdTVmdYSXY5NE8zSEdMLU9FM19fWm04bktvVlBqa1l3SGQ2NVBQc2NtdVJRRWlZaVp1Y2wtSE1QTjh2aGJjODVyTWFYZHlNd25HbTNvTDhuem1Lc0U1c2Vkb2YxWFgzWlFUX0p1QjdZRkZ5WjhFVzFNM3l3cVF4UlV6cVh2VzI3eTdKS01PV29nR2tfX2F6anZZcGJYZklONi1KamNaRFRyZV9zUjFrVjN1SF84d1FTTWlyRGxHUkswRDFVM05tZ0otalNjeUZGR25BUDNmcWFFZ0ZHNS1EUVZyOGxSNGRQbHBvVGJMTTdZSVdfdEc1MzhpVFYtNFdlaUJuTjRIV00yeG13X3l2VGtWdw?oc=5",
-      "published": "2026-04-27T15:17:01+00:00",
-      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
-      "category": "lawsuits",
+      "id": "fc1fa1d0afdc6ae55df29414be441970",
+      "title": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHZZenVXS1ZWQ3Z4SWNqSEdSUUVKUUZJLTQ4VmIxYW9YcEtzODI3TTZybXh3d2c1TzVlZ094WFppcC1hSEZKZ1RYZERDQXJVd3BEZlJCNGZIal90ZUNRTmhnekZtc1EzVXdBQ3FpTVV0R1ZlekVJeU1vYVJERXZEU0RGVlBTdDB6dTdCS0hlSVpMOFhnMWUtU3c1SzdySk1fQWJNQzV6dUlxb0JkUnpMSGY2QkI2TUdrR1hER0VJSUZlQzMzNVZsU2gyZGplQXlXLXZnc0o5VFJLQ3BLcW5HUw?oc=5",
+      "published": "2026-04-28T16:14:11+00:00",
+      "snippet": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "e75517736eca20fa88186fd51d4882a3",
+      "title": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlk2Wk1qRno5aXUyYnRUT2t4bjE1MmJDR3JEQkRScXNsRkdsVTNpLWpMMHE3S20zbHo3N21oMUcyaUlEQzdnaE1wRlh1ZFRrcEhTUXFFTmxNYlNXcF9KM0ZHcGtaT191ZG9tdnNWVWpQNTdTMHI1RlB5dk4wR1FTOG1sTFJsYm1lRlFENTVmVHF6Mnk4d3p6VTlFbDBhWVFtX21NdkZONWNQRnJZ?oc=5",
+      "published": "2026-04-28T15:41:00+00:00",
+      "snippet": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital Fortune",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "5facf51465611cf2eda6cacd41dd3bee",
+      "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1V1eGZRYzN5cjNUTnktWmNZOHNaNjMwNkp2NUkwWlkwUzgzemRVbF9kY05OTWhabXZLN2NSb2ZSZ3JORGg0eG4xUldYY19lOU1oVUxocjVhNXNDaGhaV2xkVW5heUw4WXUzcjVTTVgtVFZzZjZJSDFBUFd4UDRHVnMtaGJtMEVIdWJRT1k0SUpXWVh1U0xOdVpR?oc=5",
+      "published": "2026-04-28T11:53:31+00:00",
+      "snippet": "Exclusive: HR tech startup Windmill raises $12M Axios",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -20,6 +40,16 @@
       "published": "2026-04-27T01:15:15+00:00",
       "snippet": "HR tech firm Rippling raises new funding at $16.8 billion valuation, no IPO plans MSN",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "8b8b8c5a303c262170f765d03338aeb8",
+      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPRnJmZDlLLXo4Qnk3TkQwc3JKdDYyZHNacE9sWkdmQ3c1TnljazRCZXNkYm01NDRveVp0bDloYnZQNDhibnpvMTBGNEh0M1BDUnBFcVB2eGpvUUNYSG8xTzBhSnR1RVVpbzNYYTMxNHlFOWlodlg5cnJTZmlBZDBCY0FYNGYySkwxWjBuLTBwUUllN3hqajV0QnpyR3ZJRGlkc0d6cnY1ZHJwX2l6YmcxMHRYOVM3UEl6aXZVanBOWXF1SEhIbFpqRFlNSmdTVmdYSXY5NE8zSEdMLU9FM19fWm04bktvVlBqa1l3SGQ2NVBQc2NtdVJRRWlZaVp1Y2wtSE1QTjh2aGJjODVyTWFYZHlNd25HbTNvTDhuem1Lc0U1c2Vkb2YxWFgzWlFUX0p1QjdZRkZ5WjhFVzFNM3l3cVF4UlV6cVh2VzI3eTdKS01PV29nR2tfX2F6anZZcGJYZklONi1KamNaRFRyZV9zUjFrVjN1SF84d1FTTWlyRGxHUkswRDFVM05tZ0otalNjeUZGR25BUDNmcWFFZ0ZHNS1EUVZyOGxSNGRQbHBvVGJMTTdZSVdfdEc1MzhpVFYtNFdlaUJuTjRIV00yeG13X3l2VGtWdw?oc=5",
+      "published": "2026-04-26T18:08:31+00:00",
+      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -43,6 +73,16 @@
       "language": "en"
     },
     {
+      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
+      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
+      "published": "2026-04-20T02:06:35+00:00",
+      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
       "source": "citybiz",
@@ -50,16 +90,6 @@
       "published": "2026-04-17T13:40:55+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "d261cf1d21a645245f282a96f4806637",
-      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
-      "source": "businesscloud.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
-      "published": "2026-04-17T07:04:33+00:00",
-      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -133,16 +163,6 @@
       "language": "en"
     },
     {
-      "id": "3f773009753defa9215c63c6370d5c92",
-      "title": "Hibob — $170M Raised, Investors, Team & Alternatives - StartupHub.ai",
-      "source": "StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYjdLSlNGbVY0NWJ1QXZ1OWVZMy1VZFpTQUVDaXY5X1I5cEVBVjVPZGtJUHUzdTlMQ0o0bXh6NDJVTVRhWTBLbWd6RXRjTld2cnc?oc=5",
-      "published": "2026-04-12T07:00:00+00:00",
-      "snippet": "Hibob — $170M Raised, Investors, Team & Alternatives StartupHub.ai",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "79808e766c1774de5d7d2c8199f6ed4b",
       "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
       "source": "Pulse 2.0",
@@ -163,6 +183,16 @@
       "language": "en"
     },
     {
+      "id": "2fa78478c6b85c4105f1da0ad6d8a472",
+      "title": "Quickbase Acquires Solvice - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pRUJrZ0R1bXJqTGFma3ZQdkpJa2VKVWxBNklKSnBPYVJwMGpTZVdLNVFlbzJFam5CRThoTWxLSHRMSzN5US1oWHd4Q3NRdnJpUzZmQWVxMFc1ZFZVR090Vi14NndfTURTcXFheWZCc2pqUdIBd0FVX3lxTE5UUmpDVU92T2RTaFNZYng2MDFEUUVwTks2TkFCbU9MZERzMXhpN2xjdVdyVmpsaE5qYWZ6amFRNHhyalpOdHFreVNUN0hRbGkySGktMjdOY2MwN3ZnZTE2ZlJvWTJia2VjUzJ3X2k0U2dFcVR1Znhr?oc=5",
+      "published": "2026-04-06T10:40:59+00:00",
+      "snippet": "Quickbase Acquires Solvice HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "fba1ec129556bbc98ab06951e815788b",
       "title": "Juicebox Raises $80M to Transform AI Recruiting - Ventureburn",
       "source": "Ventureburn",
@@ -170,16 +200,6 @@
       "published": "2026-04-03T07:00:00+00:00",
       "snippet": "Juicebox Raises $80M to Transform AI Recruiting Ventureburn",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "5f148dceaab31dbb99c02c12db09f701",
-      "title": "Autodesk Acquires Trade Workforce Management Platform Rhumbix - Engineering News-Record (ENR)",
-      "source": "Engineering News-Record (ENR)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3Z4bS1KZXItNV9waXpTSWJnZWJJbmN6b0M2blFjRFVoN2t6U0RqS3BVU3p0eDI1U213U0l2dUZXTklnVnUyX3pwckxpMkxGc2h5U3BKMWx0RnQ1cG12NXk0Nm8tbFprSWZ2WlBuUWlCaTM2MXF0Zks2ZmpJaGJGMFo5RUxTUHIyOVRhOFl0M2VoZVg2UHFmdlBIWEY?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "snippet": "Autodesk Acquires Trade Workforce Management Platform Rhumbix Engineering News-Record (ENR)",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
