@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-04-29T08:06:56Z",
-  "total": 20,
+  "last_updated": "2026-04-30T08:11:04Z",
+  "total": 21,
   "articles": [
+    {
+      "id": "f1b5816660461ffcb95ec2a2a36613b6",
+      "title": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. - Akin",
+      "source": "Akin",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOXd2ZDJQRE9fNTZCSWc0ZVZJeE9rdEdNSUh1N3NyVTJxNHRGZXhPRl9wYksxaWZVSG9IVFJXYlFuNm0xdlkwcWlZUTFvbnNpdU5LT0tHRTVDTThFdHBnZm1RU2phUFRNdnUzanRlSFZzUTVIQ1VIZWZIMnp5WTZoYVlOa1UzcXF2V3c4SlI3cGdpMFZicFcybllzLUhHaEdsbjI2bF9jT0pwMF8zN043dlFkT3Y3ejY2N2dQc1cyNmhWTmNnZTN6MHJUcEtwbVNqaTVIYXBvNDhIOWRhLTRvWEV6ZWFySVppVlA4bXloaTI?oc=5",
+      "published": "2026-04-30T02:04:42+00:00",
+      "snippet": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. Akin",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "d65698b02fcbeb664c50cbd9e10f63bd",
+      "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - Irish Examiner",
+      "source": "Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUlpWc25GZGs1c2xHYXFLVmstV1ZRNGQzazNJUTRER1cyN2Jlalo5WU1pUVhMUXYzRTFQamhKRnhQOWtZOUt6YVA2Ukxfc25DTWJCLUd5cXlISExhMUU5QUZFYmxQbURqb2FTVnpYLVZBdG1TTHc?oc=5",
+      "published": "2026-04-30T00:00:00+00:00",
+      "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook Irish Examiner",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "fc1fa1d0afdc6ae55df29414be441970",
       "title": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting - citybiz",
@@ -43,16 +63,6 @@
       "language": "en"
     },
     {
-      "id": "8b8b8c5a303c262170f765d03338aeb8",
-      "title": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPRnJmZDlLLXo4Qnk3TkQwc3JKdDYyZHNacE9sWkdmQ3c1TnljazRCZXNkYm01NDRveVp0bDloYnZQNDhibnpvMTBGNEh0M1BDUnBFcVB2eGpvUUNYSG8xTzBhSnR1RVVpbzNYYTMxNHlFOWlodlg5cnJTZmlBZDBCY0FYNGYySkwxWjBuLTBwUUllN3hqajV0QnpyR3ZJRGlkc0d6cnY1ZHJwX2l6YmcxMHRYOVM3UEl6aXZVanBOWXF1SEhIbFpqRFlNSmdTVmdYSXY5NE8zSEdMLU9FM19fWm04bktvVlBqa1l3SGQ2NVBQc2NtdVJRRWlZaVp1Y2wtSE1QTjh2aGJjODVyTWFYZHlNd25HbTNvTDhuem1Lc0U1c2Vkb2YxWFgzWlFUX0p1QjdZRkZ5WjhFVzFNM3l3cVF4UlV6cVh2VzI3eTdKS01PV29nR2tfX2F6anZZcGJYZklONi1KamNaRFRyZV9zUjFrVjN1SF84d1FTTWlyRGxHUkswRDFVM05tZ0otalNjeUZGR25BUDNmcWFFZ0ZHNS1EUVZyOGxSNGRQbHBvVGJMTTdZSVdfdEc1MzhpVFYtNFdlaUJuTjRIV00yeG13X3l2VGtWdw?oc=5",
-      "published": "2026-04-26T18:08:31+00:00",
-      "snippet": "Workday and Amazon’s alleged AI employment biases are among myriad ‘oddball results’ that could exacerbate hiring discrimination MSN",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "ccb13e9566134ec44ca4a171bf65704b",
       "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
       "source": "The Business Journals",
@@ -70,16 +80,6 @@
       "published": "2026-04-23T12:51:00+00:00",
       "snippet": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the compan The Times of India",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
-      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
-      "published": "2026-04-20T02:06:35+00:00",
-      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -180,6 +180,16 @@
       "published": "2026-04-08T07:00:00+00:00",
       "snippet": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them GeekWire",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e52e09c29f1deb0b942f216ca76db06a",
+      "title": "Paylocity acquires Grayscale Labs to enhance AI recruiting - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTRLd3l4U3hnczF4Y0N4ZFRuT1ZlTzFQQ1g1OVF1dVBMVVp0VjFVYUdXOTVwSDFSS185bER1TlA0bE1qQ013Y0R2a3k0UGRNSUIxT1d5YVZTM3dJSTZhN3lhNnJzbTZwQ2xreGNqSUMydVZJa0dMYm9zek9ET213d2d0M3lnYnBQUkxtY0tIZFRxb1l6V25NaHpjY21uRWxZdUwwNzZ4TnhOMHVXMFE?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
+      "snippet": "Paylocity acquires Grayscale Labs to enhance AI recruiting MSN",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
