@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-01T08:05:50Z",
-  "total": 19,
+  "last_updated": "2026-05-02T07:24:15Z",
+  "total": 18,
   "articles": [
+    {
+      "id": "4cd6de1fb841697f822b9f2af1fad77d",
+      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
+      "source": "Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
+      "published": "2026-04-30T19:05:37+00:00",
+      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "f1b5816660461ffcb95ec2a2a36613b6",
       "title": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. - Akin",
@@ -53,16 +63,6 @@
       "language": "en"
     },
     {
-      "id": "92a90cb1d090b055bbd473093e6e8731",
-      "title": "HR tech firm Rippling raises new funding at $16.8 billion valuation, no IPO plans - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMkpxOGdrS2VuZmV5c0tKNzJQNzJVVzlKdTV5MkJpN3hDQjRrYzljXzA4S28tQ1Y4QkgwenUzNkU0UllEZUVqX1kydlhpU19RN1cyU0ZmU19TN1MyLXN4dUNIRERYYXFYaU10c3FwMlpqQ2hEeXViNGVUT1VlRE1hbUFtRXktVVVGcEhMelBUdzJuTW5NN2NZTmxRYi1JYlBNX1lONHI2d205b0w0WkxNN3RsUVhhb2d3OEVXX05ncjZYd3pWOVp1TDdDNE9ZeXAwbDJ5RU5hOG1qRVE4S0xkR2p1akhWVWpnN1JVaXc4cDRsN1pMdWU1LVhUN2xHVzIzMDhhdFpUMkRxQ2FmYllnOS1LYWlITW5Ga1gyeFVaNTZWeEI3MTRiMUt6VFVtVThOWmpPRGk0XzY5VGVJcjhPM0JGRHRMNElEb2N0LVMtVVdpb1NMMkE2S1EzcTB0Vmo0Vzhqd0JyaURmQmRrVl9kX1pBRWFEQnVwSXEtSnozNFM2eUE?oc=5",
-      "published": "2026-04-27T01:15:16+00:00",
-      "snippet": "HR tech firm Rippling raises new funding at $16.8 billion valuation, no IPO plans MSN",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "ccb13e9566134ec44ca4a171bf65704b",
       "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
       "source": "The Business Journals",
@@ -83,13 +83,13 @@
       "language": "en"
     },
     {
-      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
-      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
-      "published": "2026-04-20T02:06:35+00:00",
-      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
-      "category": "investments",
+      "id": "ddbc7f9d96599ecfc2245006343dc41d",
+      "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFc2aU8zNnRMN1J0Rmt2U3NveHhzNE5WQ1UzdzRjM0JxYkJpRk1mYTlGNnBHVjlvSWxiZFF4aXlYZjN2T0plaUpxYUNMYWFlNWIxWjJEak4xMUlfS2F6S1htVDlrRk9RaWlPbXFscXRqTjVIa1hPcTR6dnN5ZEN0eWJLRWFwV0RCaXRQc0oyVmVoSjh0X0JMZ3ZHc0M3Z2Y5Nms1WThMRWJ1TTg?oc=5",
+      "published": "2026-04-17T13:40:55+00:00",
+      "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -130,16 +130,6 @@
       "published": "2026-04-14T15:13:38+00:00",
       "snippet": "TraqCheck Raises $8M to Expand AI Hiring Platform Bharat Fast",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "3659ed63bbef699eb60c690693e9b92e",
-      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSVBMNzZTYUJOQjhRLTU3eHVmUEJpbkx5bHEzSTlYVkJQSUhVZjREVG5NZ2FpVkZ1Q3BZLWNTUlRDajJQckJDbGNCakF2SmN6aGNjMC1IcDBjNlNMZFNVbzFmQnlCajBoZl9LcmhFN0tUbjZIQ0owRGt5c1dzUnlRY1BzVjNLSWctNnNDUlRqV1lHdVA2a3BmV0VscDlXZlpRcFo5ODNjSnpPX0JYZzh3amJFcHBIV3ltenhRNTYyaV93YWNqWE5id0VpamZTc0owbDI1ZEFUZEFudHZmWXRrSmZmSkluUnRVeU1j?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
