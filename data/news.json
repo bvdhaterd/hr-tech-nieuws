@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-05-02T07:24:15Z",
-  "total": 18,
+  "last_updated": "2026-05-03T07:53:56Z",
+  "total": 19,
   "articles": [
-    {
-      "id": "4cd6de1fb841697f822b9f2af1fad77d",
-      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
-      "source": "Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
-      "published": "2026-04-30T19:05:37+00:00",
-      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
-      "category": "lawsuits",
-      "language": "en"
-    },
     {
       "id": "f1b5816660461ffcb95ec2a2a36613b6",
       "title": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. - Akin",
@@ -30,6 +20,16 @@
       "published": "2026-04-30T00:00:00+00:00",
       "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook Irish Examiner",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "43f7f650b6918c11ca423feb2ce9539f",
+      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXVMQUlSVEtBNEt3RWJCWlBzUXBaT3hYNmFsclJxdnZ3bkZUTERvNF84SU92R1FIeEpkSnRqYThOazFZdzlFU08wVVg0MUI5aUg5bDN1QWw2WUVIVkVReEo4ZWhMcHZlTXVzZWxfbFdvNEx3UDVINEJ6cDRRY3I4bDROZFY0MjZMRnJrT2RFM0hXbFpMN2E0NFdoVlQtd0ZnOWRtTlk1eGMxZk14LTI2WjRBRHhQSmxfQ21zcWxoamlTcGRQ0gHKAUFVX3lxTE1zaC1MbkU2cHJzbTZiZzZaejlZdmRzX0FtN0N2WXV2M3p1TUJjQ2haOHJDMERuYko0MWp6cVRQcmRSODdrdjVhRGJycnpfemx3Q0QzSnRiV0tmNFNoQy1wNHlEcVVLeUxDZUhZTEtxRDBlZzMyd0twUVFEWk5iYmJPc2JzS0ppYVRoRmQyVlMzSnRvYmNHT0ZuQXJub2hhd3FZTGpubXZmQTV3VWtWZVB2Tzl0dWlOMFhTRVNjQUVRNEtMTVVONzhwcFE?oc=5",
+      "published": "2026-04-29T08:27:03+00:00",
+      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans simplywall.st",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -83,6 +83,16 @@
       "language": "en"
     },
     {
+      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
+      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
+      "published": "2026-04-20T02:06:35+00:00",
+      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
       "source": "citybiz",
@@ -133,6 +143,16 @@
       "language": "en"
     },
     {
+      "id": "d4596af53431aebc3f9c472e05a1e221",
+      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPb2hVU2hwMVBrXzdRM2pJeklpZWxjcEVpYnFqRktKcTFYMGJ2Mmc0bzkzVGg2NHdBWEI0OWNSN3ZDSkxDU2o2ek9iOTlGRE9Yb3liNk9STU9hOUEyX3VFZVYxclN6Mk5lNWl3UTI0RUNMQ1NfWjFsWUVSSDk2V0dmU2N0M0NzS2ZmVjhSMV9oeXA3bWwyQUFGWVZBMEZ1c0Fuc0hnWmdzaDlyZkROSjg4SDZUR0tNV2xBalRrbVZjSGRSY1BIaXNlWHJaeDVXcTVfaElJQk05OGZSRzNwaVFpS1BENlRibElRT1J4UDh2UVpyeW1CbE1JYmRvZ3ZoeE9wYXY2N3NZSW1ldVhTMmpZZGhUbS1FT1pLZ2FnbVozTkFON0JpaC1BdnFKMmxNMDU5VFZFbEtOelhjTUFJaVhqTXBSX3BYN21sZTFzNk1xME13Z01tWHh3RHc4V3J0M0E?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "79808e766c1774de5d7d2c8199f6ed4b",
       "title": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities - Pulse 2.0",
       "source": "Pulse 2.0",
@@ -170,16 +190,6 @@
       "published": "2026-04-06T10:40:59+00:00",
       "snippet": "Quickbase Acquires Solvice HRTech Series",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fba1ec129556bbc98ab06951e815788b",
-      "title": "Juicebox Raises $80M to Transform AI Recruiting - Ventureburn",
-      "source": "Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWR9IBYEFVX3lxTFBvU0Fnak5HNVljWnFTMmdOa1FfYVc5NzMyZVFYYy05YVp2SkF4WWZxejFZZ2lscXBBUndheWJfQmRtQ2dSemZ2cDI4VlNCRVRwbzdoemRmeU1Eckh6RHRWRw?oc=5",
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Juicebox Raises $80M to Transform AI Recruiting Ventureburn",
-      "category": "investments",
       "language": "en"
     }
   ]
