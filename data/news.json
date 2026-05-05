@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-04T08:22:42Z",
-  "total": 19,
+  "last_updated": "2026-05-05T08:00:50Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "d1a47715f9631cd804ebcd3e98124d8b",
+      "title": "Plum acquired by US-based Phenom to reduce bad hires in the age of AI - BetaKit",
+      "source": "BetaKit",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVxSjB4NnlaYWgzSmM4d3kyRXFSYklzMXJicjM1OU5Hc09HYmNUSnB4d2o4YnhqNUVZU1J6akdVTGdQVVY4R1J4NzhlSnJsS29lM0RZZXlUaWRNZXBldDZSNGd3cEpqZ1haUnNoSXRzb1FYQWVoakYwakxDRWZBRTMtTUVCVFo1bk9uMWZ0U0dJWVZw?oc=5",
+      "published": "2026-05-04T10:04:53+00:00",
+      "snippet": "Plum acquired by US-based Phenom to reduce bad hires in the age of AI BetaKit",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4cd6de1fb841697f822b9f2af1fad77d",
+      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
+      "source": "Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
+      "published": "2026-04-30T19:05:37+00:00",
+      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "f1b5816660461ffcb95ec2a2a36613b6",
       "title": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. - Akin",
@@ -23,13 +43,13 @@
       "language": "en"
     },
     {
-      "id": "43f7f650b6918c11ca423feb2ce9539f",
-      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - simplywall.st",
-      "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXVMQUlSVEtBNEt3RWJCWlBzUXBaT3hYNmFsclJxdnZ3bkZUTERvNF84SU92R1FIeEpkSnRqYThOazFZdzlFU08wVVg0MUI5aUg5bDN1QWw2WUVIVkVReEo4ZWhMcHZlTXVzZWxfbFdvNEx3UDVINEJ6cDRRY3I4bDROZFY0MjZMRnJrT2RFM0hXbFpMN2E0NFdoVlQtd0ZnOWRtTlk1eGMxZk14LTI2WjRBRHhQSmxfQ21zcWxoamlTcGRQ0gHKAUFVX3lxTE1zaC1MbkU2cHJzbTZiZzZaejlZdmRzX0FtN0N2WXV2M3p1TUJjQ2haOHJDMERuYko0MWp6cVRQcmRSODdrdjVhRGJycnpfemx3Q0QzSnRiV0tmNFNoQy1wNHlEcVVLeUxDZUhZTEtxRDBlZzMyd0twUVFEWk5iYmJPc2JzS0ppYVRoRmQyVlMzSnRvYmNHT0ZuQXJub2hhd3FZTGpubXZmQTV3VWtWZVB2Tzl0dWlOMFhTRVNjQUVRNEtMTVVONzhwcFE?oc=5",
-      "published": "2026-04-29T08:27:03+00:00",
-      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans simplywall.st",
-      "category": "lawsuits",
+      "id": "0b430f3e661f43b19866a9e3ccd7e361",
+      "title": "As HR Tech Funding Surges, One AI Agent Brings the Candidate Back to Life - TechBullion",
+      "source": "TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1ZFRXAwaXFQd3BiUWptTVlXU3EwTENOdmlPdU41c0ZHdy1Uc2VHM0tsTndRUUVOREJlRVF0WmQtR1JxZ3B6a0ZqNnBiNy1GalZiWEFDZ1VXbnVwaFZFSV9zX01aRkswY3dBTEpjaFJBUk9PSnVkNF9NUXhSOXJ5TDhEQlhiTHQ5Mnl2b1B0LVpWN2gya1NRTXNpUVdOZw?oc=5",
+      "published": "2026-04-29T15:34:46+00:00",
+      "snippet": "As HR Tech Funding Surges, One AI Agent Brings the Candidate Back to Life TechBullion",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -59,16 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1V1eGZRYzN5cjNUTnktWmNZOHNaNjMwNkp2NUkwWlkwUzgzemRVbF9kY05OTWhabXZLN2NSb2ZSZ3JORGg0eG4xUldYY19lOU1oVUxocjVhNXNDaGhaV2xkVW5heUw4WXUzcjVTTVgtVFZzZjZJSDFBUFd4UDRHVnMtaGJtMEVIdWJRT1k0SUpXWVh1U0xOdVpR?oc=5",
       "published": "2026-04-28T11:25:28+00:00",
       "snippet": "Exclusive: HR tech startup Windmill raises $12M Axios",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "ccb13e9566134ec44ca4a171bf65704b",
-      "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
-      "source": "The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
-      "published": "2026-04-24T18:14:00+00:00",
-      "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
       "category": "investments",
       "language": "en"
     },
@@ -123,16 +133,6 @@
       "language": "en"
     },
     {
-      "id": "c8a046fe7389aca595e537915a26c847",
-      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - GeekWire",
-      "source": "GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0ZCZzZidHoxT2ZManczVWR4NE1WZWE0WHpYSmdTb1E5Zld0Q19hd1BuNXhDZWdnMjNfZnIwdHBUSURhS3V1ZzlqZjUxRDkwR3VJaFFYeW5mTVlkX3RnczhmM3N6ODdDdGttNWZvWkJVWFRHLU5GaHdZWW40MTAyek1RYWthQ0dHaEhHV0llc2hyRjY1VVdLTlBSUDFKSlk3S0NCQVYxQWhibVZjM2dv?oc=5",
-      "published": "2026-04-14T18:29:10+00:00",
-      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement GeekWire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "31c1f30470bff27100ab725e4654746a",
       "title": "TraqCheck Raises $8M to Expand AI Hiring Platform - Bharat Fast",
       "source": "Bharat Fast",
@@ -143,10 +143,20 @@
       "language": "en"
     },
     {
-      "id": "d4596af53431aebc3f9c472e05a1e221",
+      "id": "c8a046fe7389aca595e537915a26c847",
+      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - GeekWire",
+      "source": "GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0ZCZzZidHoxT2ZManczVWR4NE1WZWE0WHpYSmdTb1E5Zld0Q19hd1BuNXhDZWdnMjNfZnIwdHBUSURhS3V1ZzlqZjUxRDkwR3VJaFFYeW5mTVlkX3RnczhmM3N6ODdDdGttNWZvWkJVWFRHLU5GaHdZWW40MTAyek1RYWthQ0dHaEhHV0llc2hyRjY1VVdLTlBSUDFKSlk3S0NCQVYxQWhibVZjM2dv?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement GeekWire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "38fe6bdfdc5a7ade44e2fcc1ac5a3812",
       "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
       "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPb2hVU2hwMVBrXzdRM2pJeklpZWxjcEVpYnFqRktKcTFYMGJ2Mmc0bzkzVGg2NHdBWEI0OWNSN3ZDSkxDU2o2ek9iOTlGRE9Yb3liNk9STU9hOUEyX3VFZVYxclN6Mk5lNWl3UTI0RUNMQ1NfWjFsWUVSSDk2V0dmU2N0M0NzS2ZmVjhSMV9oeXA3bWwyQUFGWVZBMEZ1c0Fuc0hnWmdzaDlyZkROSjg4SDZUR0tNV2xBalRrbVZjSGRSY1BIaXNlWHJaeDVXcTVfaElJQk05OGZSRzNwaVFpS1BENlRibElRT1J4UDh2UVpyeW1CbE1JYmRvZ3ZoeE9wYXY2N3NZSW1ldVhTMmpZZGhUbS1FT1pLZ2FnbVozTkFON0JpaC1BdnFKMmxNMDU5VFZFbEtOelhjTUFJaVhqTXBSX3BYN21sZTFzNk1xME13Z01tWHh3RHc4V3J0M0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZHd3cTVOM2tYZEIzaFVnVmVpWFU4WVJBczFFOTFPMWZOaDdzS3g1Zmw1cnJHbWRiVElQUDZ4OWpHbEk4NUpaODdtRGtQcmIxMzVGamlqY2s4UFhUZldkdUUxLUFKWDlJLUdVT2RlOUo0LWliOUhkRERVLVZVeWRsRWNPdWZhY3dhay0zc2htamVxWU1lUm5GX0hwaVZoWDlsOG1sUE9pRnEtRHpLT3ZnQkcwRzJDVGRsVzhRc1JYNEdSSnZabkx0a2dSMXMzcU1ORklMQy15V2R4NnpucjNsNFJzSDhVVUxhcURJd09BSmd2S0VCWW1BNU5OdVh0a3otNTNMR3NwOUZXMWZ0WVp1YzYwcnpyaDVuWnJ3cklSUDdLWkVncUpTdEpDbWoyczRQWldxNldMUU5OcVVCRlR0RVBLc0tkYWhvUTJfSng2enh0NV9XOHkteVQ2LVEtNXRlV3dtQjdrRVpYQmRoa05US0NBcFRaX2MwWFo4LWZvdzkwdw?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
       "category": "mergers_acquisitions",
