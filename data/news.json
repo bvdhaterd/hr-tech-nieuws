@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-05T08:00:50Z",
+  "last_updated": "2026-05-06T08:14:41Z",
   "total": 20,
   "articles": [
+    {
+      "id": "a2e51672209ea42eba8a030d42773b36",
+      "title": "Rejected 150 times: Inside the AI hiring lawsuit against Workday - The American Bazaar",
+      "source": "The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOVBvSUFEcl9pdHU4ZlV1X0F2SUhZMi1DUXdfYTFxYUstMW05eEVoZjByazdaa21sSXRWMktmQmdCSElsOWZ0MHJsLVFCWTZIOUx0VGg3aVo0YTlfM3h1V1N6VDBqQS0wQlJfbDR4WXZndzdVU1JQVHBMTmlfcGVlbjRoS1MySmtSSmtNWTFrMFVLeHA5bTduekg4ZERKWnI4eWxOWnpORlhTLW1tSkdhUW5ZVlVuQQ?oc=5",
+      "published": "2026-05-05T23:00:25+00:00",
+      "snippet": "Rejected 150 times: Inside the AI hiring lawsuit against Workday The American Bazaar",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "d1a47715f9631cd804ebcd3e98124d8b",
       "title": "Plum acquired by US-based Phenom to reduce bad hires in the age of AI - BetaKit",
@@ -10,16 +20,6 @@
       "published": "2026-05-04T10:04:53+00:00",
       "snippet": "Plum acquired by US-based Phenom to reduce bad hires in the age of AI BetaKit",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "4cd6de1fb841697f822b9f2af1fad77d",
-      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
-      "source": "Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
-      "published": "2026-04-30T19:05:37+00:00",
-      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -50,6 +50,26 @@
       "published": "2026-04-29T15:34:46+00:00",
       "snippet": "As HR Tech Funding Surges, One AI Agent Brings the Candidate Back to Life TechBullion",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "3f773009753defa9215c63c6370d5c92",
+      "title": "Hibob — $565M Raised, Investors, Team & Alternatives - StartupHub.ai",
+      "source": "StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYjdLSlNGbVY0NWJ1QXZ1OWVZMy1VZFpTQUVDaXY5X1I5cEVBVjVPZGtJUHUzdTlMQ0o0bXh6NDJVTVRhWTBLbWd6RXRjTld2cnc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "snippet": "Hibob — $565M Raised, Investors, Team & Alternatives StartupHub.ai",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "4cd6de1fb841697f822b9f2af1fad77d",
+      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
+      "source": "Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -90,16 +110,6 @@
       "published": "2026-04-23T07:00:00+00:00",
       "snippet": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the compan The Times of India",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "382e79b3ece0e6ebe2ab4ed4f07b2b68",
-      "title": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge - Siliconindia",
-      "source": "Siliconindia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcXh0UDhiREh2YmY1YUNSaTB1c2ZJMktScWp3MmRELWVvNlBqOV8waEVmV0Y3WnFieEdBNXUwbGpuOEd2Zk1TSW5NRDhoWnlzWThfay12d3gwNEVnSjM2aEFYYkdfdjNtWU5HRFZ1MlZYQVRJVFljYUxROWw5NXFNbUZOSWRCZ0lkclNJYjNCMF80UEk4aUgxbm9iVmhORmVQajNDZC1lUVZPbGhDR0MtcEZtUmM3Wk9JcUh6dnlqa2ZjQUREdjN5TXQ1TDZGSmFWRDFNcUFpZlAtMXN1dS1OejRGLTlmZDRmcGc?oc=5",
-      "published": "2026-04-20T02:06:35+00:00",
-      "snippet": "Remote Employee Engagement Platform Let's Dive Raises $1.7 Million from Sequoia's Surge Siliconindia",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -149,16 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0ZCZzZidHoxT2ZManczVWR4NE1WZWE0WHpYSmdTb1E5Zld0Q19hd1BuNXhDZWdnMjNfZnIwdHBUSURhS3V1ZzlqZjUxRDkwR3VJaFFYeW5mTVlkX3RnczhmM3N6ODdDdGttNWZvWkJVWFRHLU5GaHdZWW40MTAyek1RYWthQ0dHaEhHV0llc2hyRjY1VVdLTlBSUDFKSlk3S0NCQVYxQWhibVZjM2dv?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement GeekWire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "38fe6bdfdc5a7ade44e2fcc1ac5a3812",
-      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZHd3cTVOM2tYZEIzaFVnVmVpWFU4WVJBczFFOTFPMWZOaDdzS3g1Zmw1cnJHbWRiVElQUDZ4OWpHbEk4NUpaODdtRGtQcmIxMzVGamlqY2s4UFhUZldkdUUxLUFKWDlJLUdVT2RlOUo0LWliOUhkRERVLVZVeWRsRWNPdWZhY3dhay0zc2htamVxWU1lUm5GX0hwaVZoWDlsOG1sUE9pRnEtRHpLT3ZnQkcwRzJDVGRsVzhRc1JYNEdSSnZabkx0a2dSMXMzcU1ORklMQy15V2R4NnpucjNsNFJzSDhVVUxhcURJd09BSmd2S0VCWW1BNU5OdVh0a3otNTNMR3NwOUZXMWZ0WVp1YzYwcnpyaDVuWnJ3cklSUDdLWkVncUpTdEpDbWoyczRQWldxNldMUU5OcVVCRlR0RVBLc0tkYWhvUTJfSng2enh0NV9XOHkteVQ2LVEtNXRlV3dtQjdrRVpYQmRoa05US0NBcFRaX2MwWFo4LWZvdzkwdw?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement MSN",
       "category": "mergers_acquisitions",
       "language": "en"
     },
