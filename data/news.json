@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-06T08:14:41Z",
-  "total": 20,
+  "last_updated": "2026-05-07T08:25:03Z",
+  "total": 19,
   "articles": [
+    {
+      "id": "7b46f90d4062c829b83f77d1ec6d0432",
+      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
+      "source": "People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
+      "published": "2026-05-07T05:48:45+00:00",
+      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "a2e51672209ea42eba8a030d42773b36",
       "title": "Rejected 150 times: Inside the AI hiring lawsuit against Workday - The American Bazaar",
@@ -83,22 +93,22 @@
       "language": "en"
     },
     {
-      "id": "e75517736eca20fa88186fd51d4882a3",
-      "title": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital - Fortune",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlk2Wk1qRno5aXUyYnRUT2t4bjE1MmJDR3JEQkRScXNsRkdsVTNpLWpMMHE3S20zbHo3N21oMUcyaUlEQzdnaE1wRlh1ZFRrcEhTUXFFTmxNYlNXcF9KM0ZHcGtaT191ZG9tdnNWVWpQNTdTMHI1RlB5dk4wR1FTOG1sTFJsYm1lRlFENTVmVHF6Mnk4d3p6VTlFbDBhWVFtX21NdkZONWNQRnJZ?oc=5",
-      "published": "2026-04-28T15:41:00+00:00",
-      "snippet": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital Fortune",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "5facf51465611cf2eda6cacd41dd3bee",
       "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1V1eGZRYzN5cjNUTnktWmNZOHNaNjMwNkp2NUkwWlkwUzgzemRVbF9kY05OTWhabXZLN2NSb2ZSZ3JORGg0eG4xUldYY19lOU1oVUxocjVhNXNDaGhaV2xkVW5heUw4WXUzcjVTTVgtVFZzZjZJSDFBUFd4UDRHVnMtaGJtMEVIdWJRT1k0SUpXWVh1U0xOdVpR?oc=5",
       "published": "2026-04-28T11:25:28+00:00",
       "snippet": "Exclusive: HR tech startup Windmill raises $12M Axios",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e75517736eca20fa88186fd51d4882a3",
+      "title": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlk2Wk1qRno5aXUyYnRUT2t4bjE1MmJDR3JEQkRScXNsRkdsVTNpLWpMMHE3S20zbHo3N21oMUcyaUlEQzdnaE1wRlh1ZFRrcEhTUXFFTmxNYlNXcF9KM0ZHcGtaT191ZG9tdnNWVWpQNTdTMHI1RlB5dk4wR1FTOG1sTFJsYm1lRlFENTVmVHF6Mnk4d3p6VTlFbDBhWVFtX21NdkZONWNQRnJZ?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "snippet": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital Fortune",
       "category": "investments",
       "language": "en"
     },
@@ -180,26 +190,6 @@
       "published": "2026-04-08T07:00:00+00:00",
       "snippet": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them GeekWire",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "e52e09c29f1deb0b942f216ca76db06a",
-      "title": "Paylocity acquires Grayscale Labs to enhance AI recruiting - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTRLd3l4U3hnczF4Y0N4ZFRuT1ZlTzFQQ1g1OVF1dVBMVVp0VjFVYUdXOTVwSDFSS185bER1TlA0bE1qQ013Y0R2a3k0UGRNSUIxT1d5YVZTM3dJSTZhN3lhNnJzbTZwQ2xreGNqSUMydVZJa0dMYm9zek9ET213d2d0M3lnYnBQUkxtY0tIZFRxb1l6V25NaHpjY21uRWxZdUwwNzZ4TnhOMHVXMFE?oc=5",
-      "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "Paylocity acquires Grayscale Labs to enhance AI recruiting MSN",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "2fa78478c6b85c4105f1da0ad6d8a472",
-      "title": "Quickbase Acquires Solvice - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pRUJrZ0R1bXJqTGFma3ZQdkpJa2VKVWxBNklKSnBPYVJwMGpTZVdLNVFlbzJFam5CRThoTWxLSHRMSzN5US1oWHd4Q3NRdnJpUzZmQWVxMFc1ZFZVR090Vi14NndfTURTcXFheWZCc2pqUdIBd0FVX3lxTE5UUmpDVU92T2RTaFNZYng2MDFEUUVwTks2TkFCbU9MZERzMXhpN2xjdVdyVmpsaE5qYWZ6amFRNHhyalpOdHFreVNUN0hRbGkySGktMjdOY2MwN3ZnZTE2ZlJvWTJia2VjUzJ3X2k0U2dFcVR1Znhr?oc=5",
-      "published": "2026-04-06T10:40:59+00:00",
-      "snippet": "Quickbase Acquires Solvice HRTech Series",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
