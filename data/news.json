@@ -1,13 +1,23 @@
 {
-  "last_updated": "2026-05-07T08:25:03Z",
+  "last_updated": "2026-05-08T07:21:49Z",
   "total": 19,
   "articles": [
+    {
+      "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
+      "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
+      "published": "2026-05-07T11:51:00+00:00",
+      "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "7b46f90d4062c829b83f77d1ec6d0432",
       "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
       "source": "People Matters - HR News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
-      "published": "2026-05-07T05:48:45+00:00",
+      "published": "2026-05-07T05:49:34+00:00",
       "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
       "category": "investments",
       "language": "en"
@@ -83,16 +93,6 @@
       "language": "en"
     },
     {
-      "id": "fc1fa1d0afdc6ae55df29414be441970",
-      "title": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHZZenVXS1ZWQ3Z4SWNqSEdSUUVKUUZJLTQ4VmIxYW9YcEtzODI3TTZybXh3d2c1TzVlZ094WFppcC1hSEZKZ1RYZERDQXJVd3BEZlJCNGZIal90ZUNRTmhnekZtc1EzVXdBQ3FpTVV0R1ZlekVJeU1vYVJERXZEU0RGVlBTdDB6dTdCS0hlSVpMOFhnMWUtU3c1SzdySk1fQWJNQzV6dUlxb0JkUnpMSGY2QkI2TUdrR1hER0VJSUZlQzMzNVZsU2gyZGplQXlXLXZnc0o5VFJLQ3BLcW5HUw?oc=5",
-      "published": "2026-04-28T16:14:11+00:00",
-      "snippet": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "5facf51465611cf2eda6cacd41dd3bee",
       "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
       "source": "Axios",
@@ -109,6 +109,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlk2Wk1qRno5aXUyYnRUT2t4bjE1MmJDR3JEQkRScXNsRkdsVTNpLWpMMHE3S20zbHo3N21oMUcyaUlEQzdnaE1wRlh1ZFRrcEhTUXFFTmxNYlNXcF9KM0ZHcGtaT191ZG9tdnNWVWpQNTdTMHI1RlB5dk4wR1FTOG1sTFJsYm1lRlFENTVmVHF6Mnk4d3p6VTlFbDBhWVFtX21NdkZONWNQRnJZ?oc=5",
       "published": "2026-04-28T07:00:00+00:00",
       "snippet": "Exclusive: AI-powered recruiting startup Dex raises $5.3 million seed round led by Notion Capital Fortune",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "ccb13e9566134ec44ca4a171bf65704b",
+      "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
+      "published": "2026-04-24T18:14:00+00:00",
+      "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
       "category": "investments",
       "language": "en"
     },
@@ -180,16 +190,6 @@
       "published": "2026-04-12T07:00:00+00:00",
       "snippet": "TriNet: Acquisition Of Cocoon To Expand Leave Management And AI-Driven HR Capabilities Pulse 2.0",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "6612823641c2c58c3747b0a653b6768a",
-      "title": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them - GeekWire",
-      "source": "GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjlraVlGQzlLdUFjaWFqNy0zam81Qk9UU2F0dzRMd1dQbXJMTzZxcExBQ2VlUXVMOEdlaTd1d3hMZENfODVUVi1NZlFsQzhhU3IxWkY3WkR3LVRhazM1ODNNdVhLQ3A5b3FScVV3ZXZoc01EczF5enhFdmE1bVhILXl3MzhkaVFnTWNKX0dVQTQyTWRfak1xTFE5UC0wQmlrZlMxZ1VWcG4taFUyMVg2RUtuYThsQWFPRWc?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
-      "snippet": "Humanly raises $25M to put AI to work for job seekers, not just the companies hiring them GeekWire",
-      "category": "investments",
       "language": "en"
     }
   ]
