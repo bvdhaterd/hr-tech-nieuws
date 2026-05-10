@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T07:48:33Z",
-  "total": 20,
+  "last_updated": "2026-05-10T08:01:31Z",
+  "total": 21,
   "articles": [
     {
       "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
@@ -9,16 +9,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
       "published": "2026-05-07T11:51:00+00:00",
       "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "7b46f90d4062c829b83f77d1ec6d0432",
-      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
-      "published": "2026-05-07T05:49:34+00:00",
-      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
@@ -43,12 +33,12 @@
       "language": "en"
     },
     {
-      "id": "d65698b02fcbeb664c50cbd9e10f63bd",
-      "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - Irish Examiner",
-      "source": "Irish Examiner",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUlpWc25GZGs1c2xHYXFLVmstV1ZRNGQzazNJUTRER1cyN2Jlalo5WU1pUVhMUXYzRTFQamhKRnhQOWtZOUt6YVA2Ukxfc25DTWJCLUd5cXlISExhMUU5QUZFYmxQbURqb2FTVnpYLVZBdG1TTHc?oc=5",
-      "published": "2026-04-30T07:00:00+00:00",
-      "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook Irish Examiner",
+      "id": "1ba9c40219df0cb511d27b7604637aa6",
+      "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1ZJSTNIMWFseGJqU1RHUXVUMWxYSGwxdVhSSm1ZMkZOOVFScTNlZ3JoR1BaMFNpakR2emVBa01rVWczbUxoSDE0TG9wZXVYdTFibTBucnlGNWVMU2stTFpCUmEyRFpKVXFheUJNeUcxbzR5X2tRVHJnTlVlcXhPNUctYm14SGtkNGd5dEk3U18tNk9ocGc2QTB4UER5N2p0b2cxNnoyVVc0cHE5MGdDa2psVkh0b1V3?oc=5",
+      "published": "2026-05-04T04:05:06+00:00",
+      "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook MSN",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -103,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "fc1fa1d0afdc6ae55df29414be441970",
+      "title": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHZZenVXS1ZWQ3Z4SWNqSEdSUUVKUUZJLTQ4VmIxYW9YcEtzODI3TTZybXh3d2c1TzVlZ094WFppcC1hSEZKZ1RYZERDQXJVd3BEZlJCNGZIal90ZUNRTmhnekZtc1EzVXdBQ3FpTVV0R1ZlekVJeU1vYVJERXZEU0RGVlBTdDB6dTdCS0hlSVpMOFhnMWUtU3c1SzdySk1fQWJNQzV6dUlxb0JkUnpMSGY2QkI2TUdrR1hER0VJSUZlQzMzNVZsU2gyZGplQXlXLXZnc0o5VFJLQ3BLcW5HUw?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "snippet": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "ccb13e9566134ec44ca4a171bf65704b",
       "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
       "source": "The Business Journals",
@@ -127,9 +127,19 @@
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFc2aU8zNnRMN1J0Rmt2U3NveHhzNE5WQ1UzdzRjM0JxYkJpRk1mYTlGNnBHVjlvSWxiZFF4aXlYZjN2T0plaUpxYUNMYWFlNWIxWjJEak4xMUlfS2F6S1htVDlrRk9RaWlPbXFscXRqTjVIa1hPcTR6dnN5ZEN0eWJLRWFwV0RCaXRQc0oyVmVoSjh0X0JMZ3ZHc0M3Z2Y5Nms1WThMRWJ1TTg?oc=5",
-      "published": "2026-04-17T13:40:55+00:00",
+      "published": "2026-04-17T07:00:00+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "11a19d7348555795629915a1fdc256d8",
+      "title": "Lawsuit Targets AI Hiring Tools Using Consumer Data - ACA International",
+      "source": "ACA International",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3ppOU1pZDZhQkg2SkFTUnhkdEZ4SkMwWnZINnRCMUh3VjlmeXhHNHFGQUdmLU4zY2FtZlMwd1lZSkZlemdfbVB5NFRtdnhhUFFTSDhWWHNDU2tWNnVhQU8yTXVVQ2dqdVFZV1IzaU9LNjZpb1RoRDFuLWw0NmVEWDEtY3ZlVC1Sb1d5ZGVRMW93bUZD?oc=5",
+      "published": "2026-04-15T19:45:04+00:00",
+      "snippet": "Lawsuit Targets AI Hiring Tools Using Consumer Data ACA International",
+      "category": "lawsuits",
       "language": "en"
     },
     {
