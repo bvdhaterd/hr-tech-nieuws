@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T08:01:31Z",
-  "total": 21,
+  "last_updated": "2026-05-11T09:30:05Z",
+  "total": 25,
   "articles": [
     {
       "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
@@ -9,6 +9,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
       "published": "2026-05-07T11:51:00+00:00",
       "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "7b46f90d4062c829b83f77d1ec6d0432",
+      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
+      "source": "People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
+      "published": "2026-05-07T05:49:34+00:00",
+      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
@@ -39,6 +49,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1ZJSTNIMWFseGJqU1RHUXVUMWxYSGwxdVhSSm1ZMkZOOVFScTNlZ3JoR1BaMFNpakR2emVBa01rVWczbUxoSDE0TG9wZXVYdTFibTBucnlGNWVMU2stTFpCUmEyRFpKVXFheUJNeUcxbzR5X2tRVHJnTlVlcXhPNUctYm14SGtkNGd5dEk3U18tNk9ocGc2QTB4UER5N2p0b2cxNnoyVVc0cHE5MGdDa2psVkh0b1V3?oc=5",
       "published": "2026-05-04T04:05:06+00:00",
       "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook MSN",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d65698b02fcbeb664c50cbd9e10f63bd",
+      "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - Irish Examiner",
+      "source": "Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUlpWc25GZGs1c2xHYXFLVmstV1ZRNGQzazNJUTRER1cyN2Jlalo5WU1pUVhMUXYzRTFQamhKRnhQOWtZOUt6YVA2Ukxfc25DTWJCLUd5cXlISExhMUU5QUZFYmxQbURqb2FTVnpYLVZBdG1TTHc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook Irish Examiner",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -77,7 +97,7 @@
       "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
       "source": "Axios",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1V1eGZRYzN5cjNUTnktWmNZOHNaNjMwNkp2NUkwWlkwUzgzemRVbF9kY05OTWhabXZLN2NSb2ZSZ3JORGg0eG4xUldYY19lOU1oVUxocjVhNXNDaGhaV2xkVW5heUw4WXUzcjVTTVgtVFZzZjZJSDFBUFd4UDRHVnMtaGJtMEVIdWJRT1k0SUpXWVh1U0xOdVpR?oc=5",
-      "published": "2026-04-28T11:25:28+00:00",
+      "published": "2026-04-28T07:00:00+00:00",
       "snippet": "Exclusive: HR tech startup Windmill raises $12M Axios",
       "category": "investments",
       "language": "en"
@@ -113,6 +133,16 @@
       "language": "en"
     },
     {
+      "id": "bfc83ad84748add38837a036aa608567",
+      "title": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the company has to say - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNjJrNHVNNUJYTFE0dWVvbXY0ekVYZVQ4VmlRaElEdHNYNjZnRWZfM2lZYWZsUGtPTHFiTUhkWjdYYjhMUTMtWWc3RnlmOHhBR1V1ZXFVRXRyRDdvaHBfRXRsaUpwMWlMTmFvVVVhR25nQndob2N2MS1nVEk4TUJKMEZGZFg3aDV1QW5Scm5EYnlyR1JTd1ZRTGlWNTdrR1FZRU55c2xYUnJDT2p3NFhCNkkxRmVFbnhmZzkzaDhmR0drV1ZBbk5WT1hKb1Vrcm9qRm5LbmtaLTI5dG9ONUdfRmFXT3hFS05SSTh5VXFaZldfVWR3alhoOGl6eUNGMzFsODBVOS1XRlA2RmtpbVRQUjl2aTJKVzdQaEt3?oc=5",
+      "published": "2026-04-23T15:27:10+00:00",
+      "snippet": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the company has to say MSN",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "1c7ce72b53119cfa72dd6f4a6aea7a46",
       "title": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the compan - The Times of India",
       "source": "The Times of India",
@@ -120,6 +150,16 @@
       "published": "2026-04-23T07:00:00+00:00",
       "snippet": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the compan The Times of India",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "d261cf1d21a645245f282a96f4806637",
+      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
+      "source": "businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -133,26 +173,6 @@
       "language": "en"
     },
     {
-      "id": "11a19d7348555795629915a1fdc256d8",
-      "title": "Lawsuit Targets AI Hiring Tools Using Consumer Data - ACA International",
-      "source": "ACA International",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3ppOU1pZDZhQkg2SkFTUnhkdEZ4SkMwWnZINnRCMUh3VjlmeXhHNHFGQUdmLU4zY2FtZlMwd1lZSkZlemdfbVB5NFRtdnhhUFFTSDhWWHNDU2tWNnVhQU8yTXVVQ2dqdVFZV1IzaU9LNjZpb1RoRDFuLWw0NmVEWDEtY3ZlVC1Sb1d5ZGVRMW93bUZD?oc=5",
-      "published": "2026-04-15T19:45:04+00:00",
-      "snippet": "Lawsuit Targets AI Hiring Tools Using Consumer Data ACA International",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "88d5e7e381fe3030b44c992d40bde7b3",
-      "title": "TraqCheck Raises $8M Series A for AI Hiring Agents - technotrenz.com",
-      "source": "technotrenz.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZFd5SXVLV2xVQmJNT2JjXzlYb2VIa0lWWHdIV1MzaFpwOWZ0aXBNd2pKdWxhM2xENmpoYm15VS1MSWpMMFRMN2g2ZmF6Q0JlME9aLXJnczZCTHA4cWc?oc=5",
-      "published": "2026-04-15T17:33:19+00:00",
-      "snippet": "TraqCheck Raises $8M Series A for AI Hiring Agents technotrenz.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "fced1e48549907440886a2ab7163405f",
       "title": "TraqCheck raises $8 million to expand AI HR platform - IT Brief UK",
       "source": "IT Brief UK",
@@ -160,6 +180,26 @@
       "published": "2026-04-15T07:00:00+00:00",
       "snippet": "TraqCheck raises $8 million to expand AI HR platform IT Brief UK",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "88d5e7e381fe3030b44c992d40bde7b3",
+      "title": "TraqCheck Raises $8M Series A for AI Hiring Agents - technotrenz.com",
+      "source": "technotrenz.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZFd5SXVLV2xVQmJNT2JjXzlYb2VIa0lWWHdIV1MzaFpwOWZ0aXBNd2pKdWxhM2xENmpoYm15VS1MSWpMMFRMN2g2ZmF6Q0JlME9aLXJnczZCTHA4cWc?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "snippet": "TraqCheck Raises $8M Series A for AI Hiring Agents technotrenz.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "11a19d7348555795629915a1fdc256d8",
+      "title": "Lawsuit Targets AI Hiring Tools Using Consumer Data - ACA International",
+      "source": "ACA International",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3ppOU1pZDZhQkg2SkFTUnhkdEZ4SkMwWnZINnRCMUh3VjlmeXhHNHFGQUdmLU4zY2FtZlMwd1lZSkZlemdfbVB5NFRtdnhhUFFTSDhWWHNDU2tWNnVhQU8yTXVVQ2dqdVFZV1IzaU9LNjZpb1RoRDFuLWw0NmVEWDEtY3ZlVC1Sb1d5ZGVRMW93bUZD?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "snippet": "Lawsuit Targets AI Hiring Tools Using Consumer Data ACA International",
+      "category": "lawsuits",
       "language": "en"
     },
     {
