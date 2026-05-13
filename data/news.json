@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T08:31:51Z",
+  "last_updated": "2026-05-13T08:37:45Z",
   "total": 23,
   "articles": [
     {
@@ -13,12 +13,32 @@
       "language": "en"
     },
     {
+      "id": "686155f83fc643a429517848658e1b0c",
+      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
+      "source": "Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
+      "published": "2026-05-10T05:43:46+00:00",
+      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
       "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
       "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
       "published": "2026-05-07T11:51:00+00:00",
       "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "7b46f90d4062c829b83f77d1ec6d0432",
+      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
+      "source": "People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
+      "published": "2026-05-07T05:49:34+00:00",
+      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
@@ -53,16 +73,6 @@
       "language": "en"
     },
     {
-      "id": "80d472459a9da5322579566efbc9f486",
-      "title": "Developer Hiring Startup HackerRank Bags $60 Mn Funding - Dailyhunt",
-      "source": "Dailyhunt",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDN3Q2hCQ1VjY3R1VVFHZHlzS0E5aHZYQUxKcGZnWWV3VDRDc0ZiWFY2YUtoSjJ1WU9fbzkyN2o5Y3YwZlpac0dHYXBUdXpFVzFzcGVXVmVyZVJ1SlZiMS1ER0t3ejRpUXlmc0t4YnctM1BkX2lha2hHcTBsTU9kLW0xQ3hqeFMxbWN5bTdzNm9YSGNXcmxVOTRfcjVhc0xmelZTaWNZaW9DOV9QY3Jmek1KX29tZHE2NThGdWN3dlpUNUlaSUpwWktPZw?oc=5",
-      "published": "2026-05-01T08:05:53+00:00",
-      "snippet": "Developer Hiring Startup HackerRank Bags $60 Mn Funding Dailyhunt",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "d65698b02fcbeb664c50cbd9e10f63bd",
       "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - Irish Examiner",
       "source": "Irish Examiner",
@@ -83,13 +93,13 @@
       "language": "en"
     },
     {
-      "id": "0b430f3e661f43b19866a9e3ccd7e361",
-      "title": "As HR Tech Funding Surges, One AI Agent Brings the Candidate Back to Life - TechBullion",
-      "source": "TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1ZFRXAwaXFQd3BiUWptTVlXU3EwTENOdmlPdU41c0ZHdy1Uc2VHM0tsTndRUUVOREJlRVF0WmQtR1JxZ3B6a0ZqNnBiNy1GalZiWEFDZ1VXbnVwaFZFSV9zX01aRkswY3dBTEpjaFJBUk9PSnVkNF9NUXhSOXJ5TDhEQlhiTHQ5Mnl2b1B0LVpWN2gya1NRTXNpUVdOZw?oc=5",
-      "published": "2026-04-29T15:34:46+00:00",
-      "snippet": "As HR Tech Funding Surges, One AI Agent Brings the Candidate Back to Life TechBullion",
-      "category": "investments",
+      "id": "4cd6de1fb841697f822b9f2af1fad77d",
+      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
+      "source": "Sahm",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -127,7 +137,7 @@
       "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
       "source": "The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
-      "published": "2026-04-24T18:14:00+00:00",
+      "published": "2026-04-24T07:00:00+00:00",
       "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
       "category": "investments",
       "language": "en"
@@ -140,16 +150,6 @@
       "published": "2026-04-23T07:00:00+00:00",
       "snippet": "AI recruiting startup Mercor hit with at least seven class-action lawsuits after hacking: What the compan The Times of India",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "d261cf1d21a645245f282a96f4806637",
-      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
-      "source": "businesscloud.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
-      "published": "2026-04-17T07:00:00+00:00",
-      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
-      "category": "investments",
       "language": "en"
     },
     {
