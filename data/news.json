@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T08:37:45Z",
-  "total": 23,
+  "last_updated": "2026-05-14T08:31:13Z",
+  "total": 18,
   "articles": [
     {
       "id": "54873e5ce6cee2e62b599e722af3fdb4",
@@ -29,16 +29,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
       "published": "2026-05-07T11:51:00+00:00",
       "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "7b46f90d4062c829b83f77d1ec6d0432",
-      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
-      "published": "2026-05-07T05:49:34+00:00",
-      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
@@ -93,16 +83,6 @@
       "language": "en"
     },
     {
-      "id": "4cd6de1fb841697f822b9f2af1fad77d",
-      "title": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans - Sahm",
-      "source": "Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW05dVNEZ2pBZmQ2ZmhQSkVKQzBzSnpRaHBObGdVTnZONjhQOTczSVE5akNIdUlyTXhCSVVNY3ZibHdoaGpnYmpfeERZTG9OUjRyYTd3SlROZWlVcHdDX3J5UUs3UU9UQU1talE1LUhLWmFPX2x5d2FUQVlKQXFYT3VYMTNtYjdmdl9OVGhtbjZXWlJMNjdsTG16M19tUUVROXZoNUpSYzcyYWFJaXRpS0RKUjA4emlsZHc?oc=5",
-      "published": "2026-04-29T07:00:00+00:00",
-      "snippet": "Salesforce Sues Microsoft Over Teams As It Expands AI Hiring Plans Sahm",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "5facf51465611cf2eda6cacd41dd3bee",
       "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
       "source": "Axios",
@@ -153,6 +133,16 @@
       "language": "en"
     },
     {
+      "id": "d261cf1d21a645245f282a96f4806637",
+      "title": "HR startup for AI era raises £1.7m - businesscloud.co.uk",
+      "source": "businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZTJScFJLMTNhdFBjR0c3NEVxZTVuaFNPc3Y4OEJUdDg1QmRVbXhOOFNBRDhZaEExVEpEc3ljWldOb0tjWWZQS29FeDdXRlhZbjJfX2xhVlExY19YS2JwaC1VS1dKMWtUYkZ3dEEwNnY4T0tfM0E?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "snippet": "HR startup for AI era raises £1.7m businesscloud.co.uk",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "ddbc7f9d96599ecfc2245006343dc41d",
       "title": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion - citybiz",
       "source": "citybiz",
@@ -190,46 +180,6 @@
       "published": "2026-04-15T07:00:00+00:00",
       "snippet": "Lawsuit Targets AI Hiring Tools Using Consumer Data ACA International",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "1c12e01ffc480314bf498bcc9b9a2ee1",
-      "title": "HR Tech Startup TraqCheck Raises $8 Mn In Series A Round Led By IvyCap Ventures - BW Disrupt",
-      "source": "BW Disrupt",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWZxc2NYUFFCZ3BrSzM5bGZBeV9PN0tyb2NjRk1BMTNoaE9qckpJQ2cwa092ZjdhQ09IV19Bd05FbGxsbTJ6dTVRRVFaNFFBWWJxN2VXTWFaY0ozN0ZIck9vbGxQZHZWMHd0VDJrUmpFeGgyRVpqb1lpMUxqZmo2SUt0NlJ0enlhU2licnVrRF9hVGV1OTFtWG9IMzFiV2hqNE9xbUtnX0tiQlM0cF9HN3dqY0tiYnhvQlpR?oc=5",
-      "published": "2026-04-14T08:18:39+00:00",
-      "snippet": "HR Tech Startup TraqCheck Raises $8 Mn In Series A Round Led By IvyCap Ventures BW Disrupt",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "364b78890cb51c52753d58d61ab5413c",
-      "title": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures - Passionate In Marketing",
-      "source": "Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcmNEcWhkSnkwNkVwbHUtdDZFQUJTdGNMY3hBdHVPNzJPajRrUEdWZ1M0TEpFSTgwa253WklQXzZzNm9wZEhxRGZrdkxfdjJ1b1JIaTJ4ZG4wSE9IVDh3SXhGUERZemR6d1JfTWk0RmViX242NzdaQWJvcWZLZldkcWNDdjVudkp2WDJUV2otbFV4WXpKRDhHdVFEMTlsOE9YMzFKQ3l6VWNSRmxqTGdMM0lPRHgxXzVNMHVXdC1YbWY1SHlFek9POGROUUJUWGxaZWFoMXhmY0FTZw?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "TraqCheck Raises $8M to Replace Traditional HR Software with Autonomous AI Agents, Led by IvyCap Ventures Passionate In Marketing",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "31c1f30470bff27100ab725e4654746a",
-      "title": "TraqCheck Raises $8M to Expand AI Hiring Platform - Bharat Fast",
-      "source": "Bharat Fast",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlR6d2FpOS1lV05HUzdMUzU1QWdjQS1YZFlaWUZaeWcteVJHbGtBOTQzazRGeXU2X3lTRF8tX0xQWGJRMkJoRTNGLUNkWmJOMjZXT3diVm8yejJHdDN4X0NpcURId282aEkzVkp6UXNCS3RwcVpjVTZlbzI0OXdlYw?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "TraqCheck Raises $8M to Expand AI Hiring Platform Bharat Fast",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "c8a046fe7389aca595e537915a26c847",
-      "title": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement - GeekWire",
-      "source": "GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0ZCZzZidHoxT2ZManczVWR4NE1WZWE0WHpYSmdTb1E5Zld0Q19hd1BuNXhDZWdnMjNfZnIwdHBUSURhS3V1ZzlqZjUxRDkwR3VJaFFYeW5mTVlkX3RnczhmM3N6ODdDdGttNWZvWkJVWFRHLU5GaHdZWW40MTAyek1RYWthQ0dHaEhHV0llc2hyRjY1VVdLTlBSUDFKSlk3S0NCQVYxQWhibVZjM2dv?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "AI-powered hiring startup Humanly acquires Anthill to boost employee engagement GeekWire",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
