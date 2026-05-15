@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-14T08:31:13Z",
-  "total": 18,
+  "last_updated": "2026-05-15T08:42:25Z",
+  "total": 17,
   "articles": [
+    {
+      "id": "88f89d6c04e7a6bcaea060e7ef3b9b98",
+      "title": "Amazon’s Reinvention Of End-to-End Talent Acquisition - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lzUjBOYXNHVnZTZGJycGhWZDd5WHVjYy1SQUNxaGlCUXpkNTF0aGo0OXlmYjJTa0lkc1IwZll2SWtoWlg1T2U5Y0VkSmpXbzc3aGpuQmNfbWctVEhFQlRsSW5tQ0NEWm1fRkVZTXh2YzA1UHlta0JWSjR5R2c0a2FmblNqa2NDNDQwbF9XRQ?oc=5",
+      "published": "2026-05-14T12:12:11+00:00",
+      "snippet": "Amazon’s Reinvention Of End-to-End Talent Acquisition HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "54873e5ce6cee2e62b599e722af3fdb4",
       "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
@@ -33,11 +43,21 @@
       "language": "en"
     },
     {
+      "id": "7b46f90d4062c829b83f77d1ec6d0432",
+      "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters Media",
+      "source": "People Matters Media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
+      "published": "2026-05-07T05:49:34+00:00",
+      "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters Media",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "a2e51672209ea42eba8a030d42773b36",
       "title": "Rejected 150 times: Inside the AI hiring lawsuit against Workday - The American Bazaar",
       "source": "The American Bazaar",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOVBvSUFEcl9pdHU4ZlV1X0F2SUhZMi1DUXdfYTFxYUstMW05eEVoZjByazdaa21sSXRWMktmQmdCSElsOWZ0MHJsLVFCWTZIOUx0VGg3aVo0YTlfM3h1V1N6VDBqQS0wQlJfbDR4WXZndzdVU1JQVHBMTmlfcGVlbjRoS1MySmtSSmtNWTFrMFVLeHA5bTduekg4ZERKWnI4eWxOWnpORlhTLW1tSkdhUW5ZVlVuQQ?oc=5",
-      "published": "2026-05-05T23:00:25+00:00",
+      "published": "2026-05-05T07:00:00+00:00",
       "snippet": "Rejected 150 times: Inside the AI hiring lawsuit against Workday The American Bazaar",
       "category": "lawsuits",
       "language": "en"
@@ -53,11 +73,11 @@
       "language": "en"
     },
     {
-      "id": "1ba9c40219df0cb511d27b7604637aa6",
+      "id": "b1125f0500c493762f2233fd7c2d9ad8",
       "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - MSN",
       "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1ZJSTNIMWFseGJqU1RHUXVUMWxYSGwxdVhSSm1ZMkZOOVFScTNlZ3JoR1BaMFNpakR2emVBa01rVWczbUxoSDE0TG9wZXVYdTFibTBucnlGNWVMU2stTFpCUmEyRFpKVXFheUJNeUcxbzR5X2tRVHJnTlVlcXhPNUctYm14SGtkNGd5dEk3U18tNk9ocGc2QTB4UER5N2p0b2cxNnoyVVc0cHE5MGdDa2psVkh0b1V3?oc=5",
-      "published": "2026-05-04T04:05:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQQjQxczZDNXkzQmxUekNhN0Y1VGpFSlhCZFlSbzBfbmJyVi0zbDNTX19rbEtucll1S3lDMVhlSGVObjZacHVLU1R2dkZuSldPRHFNVTJNbWR1Z3F4alVqanE3TTB6eW1vbnI2TFhYMDVpQjVOVGJLNXZ0d2hQQkNRc0pmdFV2UlBfYVdsZ3lIT3I1WnQ1dWNKck5wOFBYSy0tc1dXTklCdHVVMXFVY3ZybUtqZUNpUHVFbVVkN2xyMlF0WVJhMjhmU01ZUVZqY3VMRG1LVEZoZmtBRFUtMWdsUWxuZzRuNFBsRmswbXBCWjNQY0xScE9WOVJSeFZqYVBYS2F4MUNiYzgwQWdYZ1V2aGt2aURUcEtDbUFHa1I1ejBIeHFUM0xCTmZsMWx3bEJCNk5ibVdFSzF0dEozaG5xeUlCanRmQ0JON1hHa2pIRQ?oc=5",
+      "published": "2026-05-04T04:33:59+00:00",
       "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook MSN",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -150,36 +170,6 @@
       "published": "2026-04-17T07:00:00+00:00",
       "snippet": "OneDigital Acquires MP Wired for HR in Payroll and HR Tech Expansion citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fced1e48549907440886a2ab7163405f",
-      "title": "TraqCheck raises $8 million to expand AI HR platform - IT Brief UK",
-      "source": "IT Brief UK",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0hPV2lPbEpNSWFydEpsVDJBakIwZ0NISkptUDFRRm1fX1VtTzNQUFdVZGEweXBTMmRENmxVVjM2RGszMVhxRHdRUGtpWUpLUFpaY0dOMlQ5TU1rTDVDWkpXWXRKd1BMa2l0MHdwQzRrOTZTelkyem8weW5QdW9telJkbk5NUQ?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
-      "snippet": "TraqCheck raises $8 million to expand AI HR platform IT Brief UK",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "88d5e7e381fe3030b44c992d40bde7b3",
-      "title": "TraqCheck Raises $8M Series A for AI Hiring Agents - technotrenz.com",
-      "source": "technotrenz.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZFd5SXVLV2xVQmJNT2JjXzlYb2VIa0lWWHdIV1MzaFpwOWZ0aXBNd2pKdWxhM2xENmpoYm15VS1MSWpMMFRMN2g2ZmF6Q0JlME9aLXJnczZCTHA4cWc?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
-      "snippet": "TraqCheck Raises $8M Series A for AI Hiring Agents technotrenz.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "11a19d7348555795629915a1fdc256d8",
-      "title": "Lawsuit Targets AI Hiring Tools Using Consumer Data - ACA International",
-      "source": "ACA International",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3ppOU1pZDZhQkg2SkFTUnhkdEZ4SkMwWnZINnRCMUh3VjlmeXhHNHFGQUdmLU4zY2FtZlMwd1lZSkZlemdfbVB5NFRtdnhhUFFTSDhWWHNDU2tWNnVhQU8yTXVVQ2dqdVFZV1IzaU9LNjZpb1RoRDFuLWw0NmVEWDEtY3ZlVC1Sb1d5ZGVRMW93bUZD?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
-      "snippet": "Lawsuit Targets AI Hiring Tools Using Consumer Data ACA International",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
