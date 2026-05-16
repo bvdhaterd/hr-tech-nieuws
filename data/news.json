@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T08:42:25Z",
-  "total": 17,
+  "last_updated": "2026-05-16T07:55:52Z",
+  "total": 18,
   "articles": [
     {
       "id": "88f89d6c04e7a6bcaea060e7ef3b9b98",
@@ -9,6 +9,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lzUjBOYXNHVnZTZGJycGhWZDd5WHVjYy1SQUNxaGlCUXpkNTF0aGo0OXlmYjJTa0lkc1IwZll2SWtoWlg1T2U5Y0VkSmpXbzc3aGpuQmNfbWctVEhFQlRsSW5tQ0NEWm1fRkVZTXh2YzA1UHlta0JWSjR5R2c0a2FmblNqa2NDNDQwbF9XRQ?oc=5",
       "published": "2026-05-14T12:12:11+00:00",
       "snippet": "Amazon’s Reinvention Of End-to-End Talent Acquisition HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "460bfe670ea5dc2a19ad3a6a83e4f2cd",
+      "title": "JuiceMe acquires Ajiraworks to boost African HR tech - ITWeb Africa",
+      "source": "ITWeb Africa",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUlMX2FJQ3lwSXFCOGFjclRia1BfTWdsVGpJb2RrcVlKM0loU2hhWWE0Y1BuLUxPbWJJZkNEM19JZmNZNEpCMnRDWEZibHl0YkdiVHdIVVlnQ1M2Rk5QNHNBdUt6a0xIU3p4XzQ3TlIwaXM3dEc2QXl2RTI5TkcxQUo0akIybXdmVDZUWGpjNXJ0M0tGVGY3eUhXT3hEOWc?oc=5",
+      "published": "2026-05-14T08:59:57+00:00",
+      "snippet": "JuiceMe acquires Ajiraworks to boost African HR tech ITWeb Africa",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -37,7 +47,7 @@
       "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
       "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
-      "published": "2026-05-07T11:51:00+00:00",
+      "published": "2026-05-07T07:00:00+00:00",
       "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
       "category": "investments",
       "language": "en"
