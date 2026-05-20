@@ -1,15 +1,25 @@
 {
-  "last_updated": "2026-05-19T09:32:24Z",
-  "total": 16,
+  "last_updated": "2026-05-20T08:57:47Z",
+  "total": 18,
   "articles": [
     {
-      "id": "79ebe9f5fdb4268c9194595930281084",
-      "title": "Background Check Company Failed To Notify Victims Of Massive Data Breach, Lawsuit Says (ujMBBo1PmX) - fathomjournal.org",
-      "source": "fathomjournal.org",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9taG1mVGE0VDJ5MlN5QnhJUnJsbGJhdXBmcFhhX0tzejQtbkhMYUJGcno4bUJBWTQtQ3hWbXhKUE9BWkdYNHBhei10dWtFM2xlTjRaN3Rvd2V4Qm9vbE9BbEtVb0hnOW9JT2I1YXAtZ0w?oc=5",
-      "published": "2026-05-16T05:18:17+00:00",
-      "snippet": "Background Check Company Failed To Notify Victims Of Massive Data Breach, Lawsuit Says (ujMBBo1PmX) fathomjournal.org",
-      "category": "lawsuits",
+      "id": "c01a1b3a30e267c67dd950ec32eb8fa8",
+      "title": "RemotePass raises $17.4M to scale global payroll and hiring platform - Tech.eu",
+      "source": "Tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZzaXJ1NmRyQm1tYXBKdndFdFVMY0hUeWlWQ1FKazgyX0VHVVc3cTJSTzBaWUJTc1NKRjNqSFI0X0ZMTlZPUllKbE5fN0ZDdFU5MVN4X2NCN3pXRS0yQnVMb3RXSU9iTElnWmRwVS1FUElZZW56Q0dfbkpndHI1UDAwX2pwLTF4ZmtCZlZWN0JXU1lKSVQwaHRR?oc=5",
+      "published": "2026-05-20T04:23:00+00:00",
+      "snippet": "RemotePass raises $17.4M to scale global payroll and hiring platform Tech.eu",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "3dd286aabf4d16c8329edc6e01312b62",
+      "title": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance - UC Today",
+      "source": "UC Today",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VWVdkVnJrSC12cHV5cWliU1dKRHluVkg5ZXk0VC16OUtHZUFXWFZsUVpaMnFmU3I1RFBKem5leWt1R29pdWFTbzhxZVQySmtWOWxMbXRfQ3dvVGpLVVZDNUVRYUozSWpZdFZNUm5NdlEtUkVsV2sw?oc=5",
+      "published": "2026-05-14T14:21:56+00:00",
+      "snippet": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance UC Today",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -33,22 +43,22 @@
       "language": "en"
     },
     {
-      "id": "54873e5ce6cee2e62b599e722af3fdb4",
-      "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
-      "source": "MyChesCo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEQ3cUdpQklpUUFrYVYtNWtObXJ0S3ZLWDZwZ2k3WWEtU1NEcUNZeUVBNUkyUGhISnFicDJ4VGpIdEFtR3BJTWc5bGI0R0JCVi1ZZnNKVWV2MnlIU2x5NURzLVctcDcyYUcxQmYyaG9Zd3hsV21yd2xOUHNQTkZkMW51aGtCQjZxWVMxU21QMWxxUm1rN2hvT3Z2LXctaGc5?oc=5",
-      "published": "2026-05-11T11:00:00+00:00",
-      "snippet": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns MyChesCo",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
       "source": "Tracxn",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-05-10T05:43:46+00:00",
       "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
+      "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
       "category": "investments",
       "language": "en"
     },
@@ -149,6 +159,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
       "published": "2026-04-24T07:00:00+00:00",
       "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e9f4e1cfa8def6d98319882cfed43b52",
+      "title": "Inploi: £3M Raised To Accelerate AI Hiring Platform Growth And Expansion - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXhTaU43ZVpZdnBPYUlMM3NrNTA2eWxwTm5XUjduZ1NRcy1UU1pGaldkdmhvUlhFSVhXMjdoMmUtSW1mckczVkQzcnVQaktjMTJobW8yUDdmNG1pR0xBTTRwYU1YOWFmeWh5bmh1eG44Y3dkV2JaNHVkdkFtNlNSTHlCUmdLY0pPN1hkUnl2cE5GcWky0gGaAUFVX3lxTE9qemFjakNCcmp1TXFOX3loSlVKVnV1ekYxeWtlREQwZW8xU2wwWDBJcWtleEdDZUN1SGRTcGI2YlM1T25HSkhOX3VSU212bmtVZlRSdDJzNWt5UWhDYkdtVXR5RWxDRkk2ZUszczNSdU1yeElhN2ZWSnNHeVpmQlRVSVRpSGYweXBsZ04zRV9JMWNDclBUS0hRLVE?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "snippet": "Inploi: £3M Raised To Accelerate AI Hiring Platform Growth And Expansion Pulse 2.0",
       "category": "investments",
       "language": "en"
     },
