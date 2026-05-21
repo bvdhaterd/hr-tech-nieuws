@@ -1,13 +1,33 @@
 {
-  "last_updated": "2026-05-20T08:57:47Z",
-  "total": 18,
+  "last_updated": "2026-05-21T09:28:19Z",
+  "total": 19,
   "articles": [
+    {
+      "id": "43a36432bfa9ddc0eddbf6904756d0dc",
+      "title": "RemotePass raises $17.4m to expand UAE-built global hiring platform - Gulf Business",
+      "source": "Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWRXVUJZOU02Z1dPdF9rUG5yaGh1dHhtbDRJSHpnLTBWaV9MYV80eE81WldQNXRUSGdNbndJdThQSVNWOFdQT1B1U3ZVNC13UUFFSzRpSV9iNmhPUW0waFoza1lUZFVkT2JxbjNaSmZXWEFoY0lGckxMdEV3aEtoc21LbzB3c1YxMHAyclZndmVaTGJBREx5S2dFSFI?oc=5",
+      "published": "2026-05-20T13:20:58+00:00",
+      "snippet": "RemotePass raises $17.4m to expand UAE-built global hiring platform Gulf Business",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "feff0c04a9f8668586c0eff24bb42860",
+      "title": "Contrario: $2.3 Million Raised For AI Recruiting Platform That Hit $6 Million Annualized Revenue - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02M3hWaFJReTF2a1VZeGRiTkNOdHdqZ3hxV0NqakhjRk1kRzVxN1FCM1NXV2Q5eEl0Qkg1S2l5bkR2VElNYm1YZUd5YXp3VkVOZTJIVV9fcFBsNG0tSXfSAWNBVV95cUxQZXdxeTVsUjl3ejdwcmNpeThBU3pNLXJUM1R2SF9XQy02UW9XdFl4cDRSam14UnZ5Y19jVlpkNVFMczNfNms5WEx1NnhyRnhsM0xNWjdNLWNDNHFPUGNjcnJXc1U?oc=5",
+      "published": "2026-05-20T13:07:30+00:00",
+      "snippet": "Contrario: $2.3 Million Raised For AI Recruiting Platform That Hit $6 Million Annualized Revenue Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "c01a1b3a30e267c67dd950ec32eb8fa8",
       "title": "RemotePass raises $17.4M to scale global payroll and hiring platform - Tech.eu",
       "source": "Tech.eu",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZzaXJ1NmRyQm1tYXBKdndFdFVMY0hUeWlWQ1FKazgyX0VHVVc3cTJSTzBaWUJTc1NKRjNqSFI0X0ZMTlZPUllKbE5fN0ZDdFU5MVN4X2NCN3pXRS0yQnVMb3RXSU9iTElnWmRwVS1FUElZZW56Q0dfbkpndHI1UDAwX2pwLTF4ZmtCZlZWN0JXU1lKSVQwaHRR?oc=5",
-      "published": "2026-05-20T04:23:00+00:00",
+      "published": "2026-05-20T04:00:52+00:00",
       "snippet": "RemotePass raises $17.4M to scale global payroll and hiring platform Tech.eu",
       "category": "investments",
       "language": "en"
@@ -39,6 +59,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUlMX2FJQ3lwSXFCOGFjclRia1BfTWdsVGpJb2RrcVlKM0loU2hhWWE0Y1BuLUxPbWJJZkNEM19JZmNZNEpCMnRDWEZibHl0YkdiVHdIVVlnQ1M2Rk5QNHNBdUt6a0xIU3p4XzQ3TlIwaXM3dEc2QXl2RTI5TkcxQUo0akIybXdmVDZUWGpjNXJ0M0tGVGY3eUhXT3hEOWc?oc=5",
       "published": "2026-05-14T08:59:57+00:00",
       "snippet": "JuiceMe acquires Ajiraworks to boost African HR tech ITWeb Africa",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "54873e5ce6cee2e62b599e722af3fdb4",
+      "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
+      "source": "MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEQ3cUdpQklpUUFrYVYtNWtObXJ0S3ZLWDZwZ2k3WWEtU1NEcUNZeUVBNUkyUGhISnFicDJ4VGpIdEFtR3BJTWc5bGI0R0JCVi1ZZnNKVWV2MnlIU2x5NURzLVctcDcyYUcxQmYyaG9Zd3hsV21yd2xOUHNQTkZkMW51aGtCQjZxWVMxU21QMWxxUm1rN2hvT3Z2LXctaGc5?oc=5",
+      "published": "2026-05-11T11:00:00+00:00",
+      "snippet": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns MyChesCo",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -89,16 +119,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVxSjB4NnlaYWgzSmM4d3kyRXFSYklzMXJicjM1OU5Hc09HYmNUSnB4d2o4YnhqNUVZU1J6akdVTGdQVVY4R1J4NzhlSnJsS29lM0RZZXlUaWRNZXBldDZSNGd3cEpqZ1haUnNoSXRzb1FYQWVoakYwakxDRWZBRTMtTUVCVFo1bk9uMWZ0U0dJWVZw?oc=5",
       "published": "2026-05-04T10:04:53+00:00",
       "snippet": "Plum acquired by US-based Phenom to reduce bad hires in the age of AI BetaKit",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "b1125f0500c493762f2233fd7c2d9ad8",
-      "title": "Noledge Group acquires Waterford payroll software firm Pimbrook - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQQjQxczZDNXkzQmxUekNhN0Y1VGpFSlhCZFlSbzBfbmJyVi0zbDNTX19rbEtucll1S3lDMVhlSGVObjZacHVLU1R2dkZuSldPRHFNVTJNbWR1Z3F4alVqanE3TTB6eW1vbnI2TFhYMDVpQjVOVGJLNXZ0d2hQQkNRc0pmdFV2UlBfYVdsZ3lIT3I1WnQ1dWNKck5wOFBYSy0tc1dXTklCdHVVMXFVY3ZybUtqZUNpUHVFbVVkN2xyMlF0WVJhMjhmU01ZUVZqY3VMRG1LVEZoZmtBRFUtMWdsUWxuZzRuNFBsRmswbXBCWjNQY0xScE9WOVJSeFZqYVBYS2F4MUNiYzgwQWdYZ1V2aGt2aURUcEtDbUFHa1I1ejBIeHFUM0xCTmZsMWx3bEJCNk5ibVdFSzF0dEozaG5xeUlCanRmQ0JON1hHa2pIRQ?oc=5",
-      "published": "2026-05-04T04:33:59+00:00",
-      "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook MSN",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -159,16 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
       "published": "2026-04-24T07:00:00+00:00",
       "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "e9f4e1cfa8def6d98319882cfed43b52",
-      "title": "Inploi: £3M Raised To Accelerate AI Hiring Platform Growth And Expansion - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXhTaU43ZVpZdnBPYUlMM3NrNTA2eWxwTm5XUjduZ1NRcy1UU1pGaldkdmhvUlhFSVhXMjdoMmUtSW1mckczVkQzcnVQaktjMTJobW8yUDdmNG1pR0xBTTRwYU1YOWFmeWh5bmh1eG44Y3dkV2JaNHVkdkFtNlNSTHlCUmdLY0pPN1hkUnl2cE5GcWky0gGaAUFVX3lxTE9qemFjakNCcmp1TXFOX3loSlVKVnV1ekYxeWtlREQwZW8xU2wwWDBJcWtleEdDZUN1SGRTcGI2YlM1T25HSkhOX3VSU212bmtVZlRSdDJzNWt5UWhDYkdtVXR5RWxDRkk2ZUszczNSdU1yeElhN2ZWSnNHeVpmQlRVSVRpSGYweXBsZ04zRV9JMWNDclBUS0hRLVE?oc=5",
-      "published": "2026-04-23T07:00:00+00:00",
-      "snippet": "Inploi: £3M Raised To Accelerate AI Hiring Platform Growth And Expansion Pulse 2.0",
       "category": "investments",
       "language": "en"
     },
