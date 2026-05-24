@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-23T08:10:25Z",
-  "total": 15,
+  "last_updated": "2026-05-24T08:22:07Z",
+  "total": 17,
   "articles": [
+    {
+      "id": "95153b7392ca1e8b9aa9c0ad78dfeae8",
+      "title": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors - Arab News PK",
+      "source": "Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRU1hVHJsWnN5U2o5dDdVaW96V1BRTUJJNEFtdms5NVBOeVNlUm1Ib3VJSk83VnhVdmQ4OWRBbWNDdENyNTl0RXBVV25TdVdac1V4c09VaGxIV2R3OS1FZU1kYw?oc=5",
+      "published": "2026-05-23T19:02:20+00:00",
+      "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News PK",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "53a2e2ae20679c1571403f077a827e91",
+      "title": "RemotePass raises $17.4 million Series B to expand global payroll and workforce platform - innovation-village.com",
+      "source": "innovation-village.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3hkQjZmX3hCT0dYMVlNRDQ0QW5qWm5tcVNqS2pKQS1wZ0t2UncwcWpMckhDc3dJbDJYOWJndWpYWW9rOGFfeG5DVzhIRFYtSU96c0Y2Zkl6N2FHVXl6ZDBfN21nQThQeEtMZ0tNOWJEYVpoWmxUYk13NHEwOHllbmE5bnNUYUIya3gxRUg0MVlvcTJ5WVdSVjZHdWxnalB1MVJGLVFOQjAxY3ppZmgybzNmXzJxUEw0eFJB?oc=5",
+      "published": "2026-05-23T10:19:04+00:00",
+      "snippet": "RemotePass raises $17.4 million Series B to expand global payroll and workforce platform innovation-village.com",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "fe42d6c129d2cfacdb7082595bd85f5b",
       "title": "What Phenom’s latest acquisition says about its HR tech growth strategy - Technical.ly",
@@ -63,22 +83,22 @@
       "language": "en"
     },
     {
+      "id": "54873e5ce6cee2e62b599e722af3fdb4",
+      "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
+      "source": "MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEQ3cUdpQklpUUFrYVYtNWtObXJ0S3ZLWDZwZ2k3WWEtU1NEcUNZeUVBNUkyUGhISnFicDJ4VGpIdEFtR3BJTWc5bGI0R0JCVi1ZZnNKVWV2MnlIU2x5NURzLVctcDcyYUcxQmYyaG9Zd3hsV21yd2xOUHNQTkZkMW51aGtCQjZxWVMxU21QMWxxUm1rN2hvT3Z2LXctaGc5?oc=5",
+      "published": "2026-05-11T11:00:00+00:00",
+      "snippet": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns MyChesCo",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
       "source": "Tracxn",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-05-10T07:00:00+00:00",
       "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
-      "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
-      "published": "2026-05-07T07:00:00+00:00",
-      "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
       "category": "investments",
       "language": "en"
     },
@@ -143,13 +163,13 @@
       "language": "en"
     },
     {
-      "id": "ccb13e9566134ec44ca4a171bf65704b",
-      "title": "Recruiting technology company Humanly raises $25M, makes another acquisition - The Business Journals",
-      "source": "The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEpGNDFJZXRUMHJNclg5TUZ3cnBsOEVjcVFiQzZjVS1GVVk3ekRKTVBIUlNmSEM0WS0tVG1CNVVvY0Q4OUlJTFRTM283aGlPNmVWc1JpSnFnVHNmeHdLSTlOUXNmTmdxdzBqU2wzNFhxZjEyY0NpSmg0dGJGN01ZdV80Q3VpXzVJUDl5T2lXZXM?oc=5",
-      "published": "2026-04-24T07:00:00+00:00",
-      "snippet": "Recruiting technology company Humanly raises $25M, makes another acquisition The Business Journals",
-      "category": "investments",
+      "id": "fc1fa1d0afdc6ae55df29414be441970",
+      "title": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHZZenVXS1ZWQ3Z4SWNqSEdSUUVKUUZJLTQ4VmIxYW9YcEtzODI3TTZybXh3d2c1TzVlZ094WFppcC1hSEZKZ1RYZERDQXJVd3BEZlJCNGZIal90ZUNRTmhnekZtc1EzVXdBQ3FpTVV0R1ZlekVJeU1vYVJERXZEU0RGVlBTdDB6dTdCS0hlSVpMOFhnMWUtU3c1SzdySk1fQWJNQzV6dUlxb0JkUnpMSGY2QkI2TUdrR1hER0VJSUZlQzMzNVZsU2gyZGplQXlXLXZnc0o5VFJLQ3BLcW5HUw?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "snippet": "Phenom Acquires Plum, Expands AI Hiring Platform With Behavioral Verification Layer for Enterprise Recruiting citybiz",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
