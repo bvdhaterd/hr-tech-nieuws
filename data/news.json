@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-25T09:55:08Z",
-  "total": 16,
+  "last_updated": "2026-05-26T09:41:52Z",
+  "total": 19,
   "articles": [
     {
-      "id": "95153b7392ca1e8b9aa9c0ad78dfeae8",
-      "title": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors - Arab News PK",
-      "source": "Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRU1hVHJsWnN5U2o5dDdVaW96V1BRTUJJNEFtdms5NVBOeVNlUm1Ib3VJSk83VnhVdmQ4OWRBbWNDdENyNTl0RXBVV25TdVdac1V4c09VaGxIV2R3OS1FZU1kYw?oc=5",
-      "published": "2026-05-23T19:02:20+00:00",
-      "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News PK",
+      "id": "b6ad168af1e3a3e6e309f449bd3b9537",
+      "title": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors - Arab News",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibFNEV2FLOGt6cm1COGdrZlpkVDRjOVJ0VmkzNElRQ3VZQkJkS0tHM1kyRzRzYXBNX2tGdFk3VnVCTEY2TjYxTERycExDZkpUUU1z?oc=5",
+      "published": "2026-05-23T19:09:19+00:00",
+      "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News",
       "category": "investments",
       "language": "en"
     },
@@ -30,6 +30,16 @@
       "published": "2026-05-21T10:15:00+00:00",
       "snippet": "What Phenom’s latest acquisition says about its HR tech growth strategy Technical.ly",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "6ad49cd3f51aae25afbd014155ebaffd",
+      "title": "RemotePass raises $17.4m to expand UAE-built global hiring platform - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHE0WDloRlYwaWtQVEpqQ2RTMkRNb0x2dEpFZ1dSZVRqbVBCOFZOV1AxWU9QZXRYTl9ZUkhRZEZJZWNjd3luVDZZWDNMWnVDUUxDM2Vkcm43TENpaThOVGIwWFBPcldkUkZaZm5jbThxRUR5ZFJrV0ZGSDQ5NWEtZkRBTlAwRDhHOGNraVA0QmRha3RTVGwteFFDWkxsY0xFVUlnNFdJR1NkT1kzVExwdTYzTWpGUQ?oc=5",
+      "published": "2026-05-20T14:31:27+00:00",
+      "snippet": "RemotePass raises $17.4m to expand UAE-built global hiring platform MSN",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -63,16 +73,6 @@
       "language": "en"
     },
     {
-      "id": "3dd286aabf4d16c8329edc6e01312b62",
-      "title": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance - UC Today",
-      "source": "UC Today",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VWVdkVnJrSC12cHV5cWliU1dKRHluVkg5ZXk0VC16OUtHZUFXWFZsUVpaMnFmU3I1RFBKem5leWt1R29pdWFTbzhxZVQySmtWOWxMbXRfQ3dvVGpLVVZDNUVRYUozSWpZdFZNUm5NdlEtUkVsV2sw?oc=5",
-      "published": "2026-05-14T14:21:56+00:00",
-      "snippet": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance UC Today",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "88f89d6c04e7a6bcaea060e7ef3b9b98",
       "title": "Amazon’s Reinvention Of End-to-End Talent Acquisition - HRTech Series",
       "source": "HRTech Series",
@@ -83,12 +83,32 @@
       "language": "en"
     },
     {
+      "id": "54873e5ce6cee2e62b599e722af3fdb4",
+      "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
+      "source": "MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEQ3cUdpQklpUUFrYVYtNWtObXJ0S3ZLWDZwZ2k3WWEtU1NEcUNZeUVBNUkyUGhISnFicDJ4VGpIdEFtR3BJTWc5bGI0R0JCVi1ZZnNKVWV2MnlIU2x5NURzLVctcDcyYUcxQmYyaG9Zd3hsV21yd2xOUHNQTkZkMW51aGtCQjZxWVMxU21QMWxxUm1rN2hvT3Z2LXctaGc5?oc=5",
+      "published": "2026-05-11T11:00:00+00:00",
+      "snippet": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns MyChesCo",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
       "source": "Tracxn",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-05-10T07:00:00+00:00",
       "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "aea6e1fe7c9675409311b2a0cdc4acbf",
+      "title": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFaMHZYZjhYenllRXcwZndMUnd5RV9lSENqN0pCWXA0WXdMMENyd3N3TGd3Ym1RREc2VEZHUWJXQXdPVUZGU3JhU0ZVS084elZhU1Y5dGFqbmxpcmNmMjlPRmRKVkY2MnlOSmJFRlVQby1CLUl5REZGRUQxbUVTWGc3ekpKYXh4U0QwR1ZGR0tWVWNXSUE?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "snippet": "Exclusive: Gusto crosses $1 billion in 12-month trailing revenue Fortune",
       "category": "investments",
       "language": "en"
     },
@@ -139,6 +159,16 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOXd2ZDJQRE9fNTZCSWc0ZVZJeE9rdEdNSUh1N3NyVTJxNHRGZXhPRl9wYksxaWZVSG9IVFJXYlFuNm0xdlkwcWlZUTFvbnNpdU5LT0tHRTVDTThFdHBnZm1RU2phUFRNdnUzanRlSFZzUTVIQ1VIZWZIMnp5WTZoYVlOa1UzcXF2V3c4SlI3cGdpMFZicFcybllzLUhHaEdsbjI2bF9jT0pwMF8zN043dlFkT3Y3ejY2N2dQc1cyNmhWTmNnZTN6MHJUcEtwbVNqaTVIYXBvNDhIOWRhLTRvWEV6ZWFySVppVlA4bXloaTI?oc=5",
       "published": "2026-04-29T07:00:00+00:00",
       "snippet": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. Akin",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "ae1590e3fe027e7f75a446de3ec31692",
+      "title": "AI Hiring Platform Faces FCRA Class Action Over Data Use | Kistler et al. v. Eightfold AI Inc. - Akin",
+      "source": "Akin",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSW1LRlhJRnNfTktPY3JPMjMzTXJPVnNlLWpVVldrV3NVbDdyRThsYl9POTVWeDVEVmxJTHFGdUhYZUp4Q3pLZUUxNUpSb1ZtbTZ6cDA5QkZXQ0p4S0JnX2FXejdBdDN3VjdzTkgwOGJZT1Faa1FZWVdxUXpqYVFxa3N1UF9xNFdQYmFjSmtkUUp5cGZORmFDQXhtV2VNR1ZiMDg5U2dycmUzb0FGMG92NXJFaUYtMzJfUm1QZG9mZV83ZGJ4MXZGVENCMGkxNGNuM0dWM201YllMODJuVnVGMEZ4ZUQwRVBUa2hFZG5icGg?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "snippet": "AI Hiring Platform Faces FCRA Class Action Over Data Use | Kistler et al. v. Eightfold AI Inc. Akin",
       "category": "lawsuits",
       "language": "en"
     },
