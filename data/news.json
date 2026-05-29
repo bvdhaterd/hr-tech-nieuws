@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-28T09:52:43Z",
+  "last_updated": "2026-05-29T09:42:20Z",
   "total": 17,
   "articles": [
+    {
+      "id": "8f948b1eb3cf941f5c08317305b6bc0a",
+      "title": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3oyc1BVVURncmtMVWRTT3NFUnZxQmNGdWdWNkVzNDhtTklGRWZrck83alJCcjlCYjI0cU1nZjdUT19CRGt0bDEtVlZZWVZoWDJCY3p1UWEtc3VLUi1mbEhqbnZJTnEwSTJNVlFfaUl6Z3k3bjRBVnFnTEZZUXpJMmRxdm5vQ25GVWpSaDlzYWlPcnR1dzVST252Ql9vN3FpcmkxcTdwUDFxU3FXNV81ZW03SGJkQlNjQ1pkMmdsMEUzZw?oc=5",
+      "published": "2026-05-28T14:29:35+00:00",
+      "snippet": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "a2f9d5735de6a8babfbe5716c6e30d13",
+      "title": "JobGet Acquires RippleMatch, Expanding Its AI-Powered Hiring Platform Across Hourly and Early-Career Talent - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNalVSd1RqeGZZUHlCWFdlNXVQOUlLRkJWY1BiSUNtSGROMG1SaEN4d19wa1h3YlBOYnhDUUhaMlNzaW9Hd2UwOWRROHd4SFE5bG1HN3lOTkpSSEpOU3VCSGJsaGtLaDJ3RmZBSlZLWmpSYTFBWmlrT0cxNnZVeWJaM1lqVXFmT05YRGE2cC1nUUo4RXJHSkEta1B0dmVSeWdZWGp1dmpDZWw3SnNacC13RnpnWHFsS2c4RFhKejlJeF94dkdpZ2JBdlhTeDMtZXJWSnpLVHoySG5faXE4RFhycXp3S0NsLUJlU3BMYlRmRVRUQUox?oc=5",
+      "published": "2026-05-28T12:00:00+00:00",
+      "snippet": "JobGet Acquires RippleMatch, Expanding Its AI-Powered Hiring Platform Across Hourly and Early-Career Talent PR Newswire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "5d9700a92287a3dc5fd5c8943b9a3d58",
       "title": "Workday likely must defend AI hiring-discrimination allegations, US judge says - MLex",
@@ -63,16 +83,6 @@
       "language": "en"
     },
     {
-      "id": "43a36432bfa9ddc0eddbf6904756d0dc",
-      "title": "RemotePass raises $17.4m to expand UAE-built global hiring platform - Gulf Business",
-      "source": "Gulf Business",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWRXVUJZOU02Z1dPdF9rUG5yaGh1dHhtbDRJSHpnLTBWaV9MYV80eE81WldQNXRUSGdNbndJdThQSVNWOFdQT1B1U3ZVNC13UUFFSzRpSV9iNmhPUW0waFoza1lUZFVkT2JxbjNaSmZXWEFoY0lGckxMdEV3aEtoc21LbzB3c1YxMHAyclZndmVaTGJBREx5S2dFSFI?oc=5",
-      "published": "2026-05-20T13:21:18+00:00",
-      "snippet": "RemotePass raises $17.4m to expand UAE-built global hiring platform Gulf Business",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "feff0c04a9f8668586c0eff24bb42860",
       "title": "Contrario: $2.3 Million Raised For AI Recruiting Platform That Hit $6 Million Annualized Revenue - Pulse 2.0",
       "source": "Pulse 2.0",
@@ -89,6 +99,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lzUjBOYXNHVnZTZGJycGhWZDd5WHVjYy1SQUNxaGlCUXpkNTF0aGo0OXlmYjJTa0lkc1IwZll2SWtoWlg1T2U5Y0VkSmpXbzc3aGpuQmNfbWctVEhFQlRsSW5tQ0NEWm1fRkVZTXh2YzA1UHlta0JWSjR5R2c0a2FmblNqa2NDNDQwbF9XRQ?oc=5",
       "published": "2026-05-14T12:12:11+00:00",
       "snippet": "Amazon’s Reinvention Of End-to-End Talent Acquisition HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "54873e5ce6cee2e62b599e722af3fdb4",
+      "title": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns - MyChesCo",
+      "source": "MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEQ3cUdpQklpUUFrYVYtNWtObXJ0S3ZLWDZwZ2k3WWEtU1NEcUNZeUVBNUkyUGhISnFicDJ4VGpIdEFtR3BJTWc5bGI0R0JCVi1ZZnNKVWV2MnlIU2x5NURzLVctcDcyYUcxQmYyaG9Zd3hsV21yd2xOUHNQTkZkMW51aGtCQjZxWVMxU21QMWxxUm1rN2hvT3Z2LXctaGc5?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "snippet": "Phenom Acquires Plum Amid Rising AI Hiring Fraud Concerns MyChesCo",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -150,26 +170,6 @@
       "published": "2026-04-30T07:00:00+00:00",
       "snippet": "Noledge Group acquires Waterford payroll software firm Pimbrook Irish Examiner",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "f1b5816660461ffcb95ec2a2a36613b6",
-      "title": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. - Akin",
-      "source": "Akin",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOXd2ZDJQRE9fNTZCSWc0ZVZJeE9rdEdNSUh1N3NyVTJxNHRGZXhPRl9wYksxaWZVSG9IVFJXYlFuNm0xdlkwcWlZUTFvbnNpdU5LT0tHRTVDTThFdHBnZm1RU2phUFRNdnUzanRlSFZzUTVIQ1VIZWZIMnp5WTZoYVlOa1UzcXF2V3c4SlI3cGdpMFZicFcybllzLUhHaEdsbjI2bF9jT0pwMF8zN043dlFkT3Y3ejY2N2dQc1cyNmhWTmNnZTN6MHJUcEtwbVNqaTVIYXBvNDhIOWRhLTRvWEV6ZWFySVppVlA4bXloaTI?oc=5",
-      "published": "2026-04-29T07:00:00+00:00",
-      "snippet": "Court Allows Discrimination Claims Against AI Hiring Tool to Proceed | Mobley v. Workday, Inc. Akin",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "ae1590e3fe027e7f75a446de3ec31692",
-      "title": "AI Hiring Platform Faces FCRA Class Action Over Data Use | Kistler et al. v. Eightfold AI Inc. - Akin",
-      "source": "Akin",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSW1LRlhJRnNfTktPY3JPMjMzTXJPVnNlLWpVVldrV3NVbDdyRThsYl9POTVWeDVEVmxJTHFGdUhYZUp4Q3pLZUUxNUpSb1ZtbTZ6cDA5QkZXQ0p4S0JnX2FXejdBdDN3VjdzTkgwOGJZT1Faa1FZWVdxUXpqYVFxa3N1UF9xNFdQYmFjSmtkUUp5cGZORmFDQXhtV2VNR1ZiMDg5U2dycmUzb0FGMG92NXJFaUYtMzJfUm1QZG9mZV83ZGJ4MXZGVENCMGkxNGNuM0dWM201YllMODJuVnVGMEZ4ZUQwRVBUa2hFZG5icGg?oc=5",
-      "published": "2026-04-29T07:00:00+00:00",
-      "snippet": "AI Hiring Platform Faces FCRA Class Action Over Data Use | Kistler et al. v. Eightfold AI Inc. Akin",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
