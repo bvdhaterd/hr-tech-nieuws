@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T10:48:33Z",
+  "last_updated": "2026-06-04T09:48:00Z",
   "total": 26,
   "articles": [
     {
@@ -33,12 +33,32 @@
       "language": "nl"
     },
     {
+      "id": "20781fa92e62d856fb8fa234fb2ff503",
+      "title": "Main Capital-backed BCS HR Software acquires Timegrip - pehub.com",
+      "source": "pehub.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2oxVTdwQ1VyNTJUNFdqWVlaQURIYThaSTI3T3JwUE9CYkJqYUJrT3k4aDNvcnQ3ZGFDUTVqVFNPTXRTTVhqMkNwQVdGRHVVWi1PUUtPYXp3dE5SeUI5X1NEV2s2dmUtMy15X0dzNU9LenFIWGhELTN3Mk9iN0xVZXh3?oc=5",
+      "published": "2026-06-03T07:28:35+00:00",
+      "snippet": "Main Capital-backed BCS HR Software acquires Timegrip pehub.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "21cdc48c011d04ddd25c184ba8bc1325",
       "title": "Factorial raises $150M Series D at $2.5B valuation and a $700M play on AI-native workforce software — TFN - Tech Funding News",
       "source": "Tech Funding News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHBrUE9JOERVWU1zcUVVZ2JlQUhnUDR0QjBaX3hmQzkyTE9WUGtnbFhWMnd2ZG9ublp1M182WGxyQ0JCTFdNSzdIUnNONG1BWkNrX0pLeVRXdGlPdEIxeWNXWGlrRkV6R1Z2OU15dno1MjNEUDJ3YW96UVZzdVRQS2hWYTVfMDBxeDlTOVUyN1V4SEplN05VSlhGZFRsVkROM3FLNU9BVTVlcTNFRzNRVVlRRUpZWEw3aTVIYWthb3J2WFU?oc=5",
       "published": "2026-06-03T05:51:49+00:00",
       "snippet": "Factorial raises $150M Series D at $2.5B valuation and a $700M play on AI-native workforce software — TFN Tech Funding News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "4da3527cdf2a63ba18cf5f02739a9364",
+      "title": "Factorial closes its Series D funding round, raising $150 million - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzlkV0UwNktZUUZjWEtiRGo3VVc3ZlhsX0pQWGl1ZVk0cDZoM0haMkQ3OHlJX3ozenpzOHp1clpvZFN2RC1nZ09STXhkSHFBdlNlRlBnQldXa0dTTmVVM0RmeEJlNmk0U3czMk1NclF5clZJWnFCRkZseHY1RnNkR3pITC1xYXZFbWEzcGFfV2NlTURpbDlmb0V4amtoTTNwZmRmcDZEWEQ?oc=5",
+      "published": "2026-06-03T01:25:27+00:00",
+      "snippet": "Factorial closes its Series D funding round, raising $150 million Startupbusiness.it",
       "category": "investments",
       "language": "en"
     },
@@ -73,16 +93,6 @@
       "language": "en"
     },
     {
-      "id": "653020b5b1c6cf4592808ea54322f9be",
-      "title": "Click Holdings acquires digital HR platform for construction sector - Investing.com UK",
-      "source": "Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOE0wLW9RempHM05ZVl9WQ3JJNjlEcXh5ZmQzUWhpWTczaG8xdEc3bmR6NVcwOFBmdzEwSlh3cWVDMjhNNlR6ZFlXb0ZVVWFBX1JmM2tnck1EUjlPUTlTOFVaUGg4SEhSZmlRcDR3VGs4THBrcHVMVVVib29DMXY2ZVc5ZjhUcEJNei01LUtYa2RMZkxzTzdEcFN2OGE4cDVsd0l4ME9xR3ZxYUgtVDZOdS14U1VsVllCSERVTTE4N200S2NFZ0dGQk5HOG5SMFpLbkpoS29Qdw?oc=5",
-      "published": "2026-05-29T21:38:21+00:00",
-      "snippet": "Click Holdings acquires digital HR platform for construction sector Investing.com UK",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "c7131a8c540563ea0ab498b14a0955cf",
       "title": "JobGet acquires early career hiring platform RippleMatch - Staffing Industry Analysts",
       "source": "Staffing Industry Analysts",
@@ -97,7 +107,7 @@
       "title": "Click Holdings stock jumps on HR tech acquisition - Investing.com",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFF5MXlaQ0tfYnJmYUdJTmNORF84TXFMLUVQLWxvRlVZVlVnRnppdnlIRmFrODh5bURSVTY3RXNsOFJKLXZrTzdlZXBMcjVIZWYzd0YtMDIyUE1CWHJjLWE2bkIwS2FYa2JiNDdlSl9JTEppZ3hYcXZRVHRZZ3c1UTlFeTVsWGFwV0p5OVZybzlBbDdxSFNMRW4xa0VfZHZpUjd0bVc1TnVuanYxUktFRg?oc=5",
-      "published": "2026-05-29T12:49:17+00:00",
+      "published": "2026-05-29T12:48:50+00:00",
       "snippet": "Click Holdings stock jumps on HR tech acquisition Investing.com",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -247,19 +257,9 @@
       "title": "Voice AI hiring platform JobsUPI secures $250K pre-seed round - People Matters Media",
       "source": "People Matters Media",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05Uc3hUNFdTcmFSVDBLa1ZJM1VRTkZVdm1DLWJFZkJoSGlocWpCQmNMeGZUUTBkdERKMzBRcjNBVHcyMGFpY2VyS2F4VW8taFU5cDZYdUloTmxVTlkwam94SG1GbUtFOXNqV3ljWm5BeXNobVByN1p2MEdOVFM3VXZGWk9oZjc1WC1NVjRXaFhlRGRjcUVDWEI3S0pqLU12M2UxWExpUkt5cEgyTGFFcmR3cU5WTHFBb05uYnc4X0trbGc?oc=5",
-      "published": "2026-05-07T05:49:34+00:00",
+      "published": "2026-05-06T07:00:00+00:00",
       "snippet": "Voice AI hiring platform JobsUPI secures $250K pre-seed round People Matters Media",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "a2e51672209ea42eba8a030d42773b36",
-      "title": "Rejected 150 times: Inside the AI hiring lawsuit against Workday - The American Bazaar",
-      "source": "The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOVBvSUFEcl9pdHU4ZlV1X0F2SUhZMi1DUXdfYTFxYUstMW05eEVoZjByazdaa21sSXRWMktmQmdCSElsOWZ0MHJsLVFCWTZIOUx0VGg3aVo0YTlfM3h1V1N6VDBqQS0wQlJfbDR4WXZndzdVU1JQVHBMTmlfcGVlbjRoS1MySmtSSmtNWTFrMFVLeHA5bTduekg4ZERKWnI4eWxOWnpORlhTLW1tSkdhUW5ZVlVuQQ?oc=5",
-      "published": "2026-05-05T07:00:00+00:00",
-      "snippet": "Rejected 150 times: Inside the AI hiring lawsuit against Workday The American Bazaar",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
