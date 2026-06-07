@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T08:27:37Z",
-  "total": 25,
+  "last_updated": "2026-06-07T08:48:42Z",
+  "total": 28,
   "articles": [
     {
       "id": "9fc9ad31bad7bdccf8b78419615586ae",
@@ -14,11 +14,21 @@
     },
     {
       "id": "ff7a6c6281235c5d7dec4eb483ede112",
-      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Global",
-      "source": "People Matters Global",
+      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - anz.peoplemattersglobal.com",
+      "source": "anz.peoplemattersglobal.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzc4c2otOXNPSmhDelk2bGVEQUdRdFJGQTJDZWxMNDkyTHBXREdFcWhRbjQ2WkdsdEU5Y1FkNTY4VWtuNGVac1BodXNTVG5nWWtvZDlXZEFrdkZyXzRENHNzNEVMWG1zaDJueXJYV05IcjlhejdvNUUtdmNVejItblctY1p6aGZBT2NyOTdFbjBUazY4Z2ZaUWRPYjBtdmtqVXBxNWRqVjAyR29NNTJnbnpvVkZxaXpzZy10RTFlbk8xN21PQlRBSjNZaEo5OHcwOFdxYk5JdDVzempGQVd0cjVIVWRrcHFQY1E?oc=5",
       "published": "2026-06-05T05:06:37+00:00",
-      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Global",
+      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation anz.peoplemattersglobal.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "ed8c5f1864f29c2bb50ef3b6594d0b4f",
+      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Media",
+      "source": "People Matters Media",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdl9HeFJDMW1BemFWQkU5amFEMFVwVl9wZlBuT3F6Q3JpVEZGa1d4Yi0tRVJURDZ4cGg4blVKalBiRG5aeThOTW9PRHFBYmhrQTVtZlpSeVlNUE9UQ3lXTjhzNXZZdWZKeVBtaVhIaFBGQm45VGtpenhvZ1FQbVBuak8wX1JIMDBxQW9RUmJEcGluSTV3NGNzUC1PNkRZVUxsLTVXTjBQbm1kdnkwajlMY0pkdXFtRmtqZGYxTEk2VkhyLWNKb3hNVmhjczVYWGZtT1BaQmJwMnh6NXdVRjhIUA?oc=5",
+      "published": "2026-06-05T05:06:37+00:00",
+      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Media",
       "category": "investments",
       "language": "en"
     },
@@ -43,14 +53,24 @@
       "language": "en"
     },
     {
-      "id": "f9e9b37372045538df4f02cb59586520",
-      "title": "Factorial raises $150m Series D backed by General Catalyst and Atomico - Sifted",
-      "source": "Sifted",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1IY0tPZkxXVDVYWnN3X1RRSDdBOUtJd2w2ZThfUmNEcWtmWjVMQ2toTEVvWmRhODFDNjhnR3NiRTdodTlFcnhCSTdVYVIzRFZUMXFzTHNRUWVtZzFsRUtRUmoyaGxKR0pYWnBlMkN1VkFDY1NVdlRxUnJsUlRQNi1n?oc=5",
-      "published": "2026-06-03T09:55:41+00:00",
-      "snippet": "Factorial raises $150m Series D backed by General Catalyst and Atomico Sifted",
+      "id": "5a44a4c787589deec77b1b5ae1765ec4",
+      "title": "Spain’s AI Business-Software Group Factorial Hits $2.5 Billion Valuation - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejlFWkxwdmN2THVma1ZVM1kzb2d2eVpYME5LdXgyMExJb2Q0amZHdHBHXzJaUW5uU2pENERkZ1ZCZXd0VFFyd1NaTU16MjA0V0pibWc3WmVGdkJiZ2x4NmNhN250bWR1aXBNbUhzWUdlX1VZeWVNRGhGd2hDRmlaQ3pja3dZLWZMUm9hZzl2akY1YmQ4eW1fZkJMSC1PNDM4UFNRUW9NdFZrelE?oc=5",
+      "published": "2026-06-03T08:07:00+00:00",
+      "snippet": "Spain’s AI Business-Software Group Factorial Hits $2.5 Billion Valuation WSJ",
       "category": "investments",
       "language": "en"
+    },
+    {
+      "id": "036dc90056a1779060f33318bb771b1b",
+      "title": "Main Capital ondersteunt BCS bij add-on acquisitie van Timegrip voor pan-Europees HCM- en payrollplatform - mena.nl",
+      "source": "mena.nl",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEU4bVZzN3N2WVZjcEYyTjh4SVdWQW1ObEl2ZmJCaFE0LVBqY1BYTTdmMVdxNmc4X2hwd0FnOHFzU1FwbDJhcDNTa2JMMFpjbzVKa2QzdFNCU3FXNldyMHc3T1pjTHVBRTRldXMtWUl6Nzh1b2dvN3VRZjFkU0FjZi1xUmJlbFFLQUdpSW9oVHRxam5lYkwzdEZnU2pPRHk0cU5HSQ?oc=5",
+      "published": "2026-06-03T07:51:14+00:00",
+      "snippet": "Main Capital ondersteunt BCS bij add-on acquisitie van Timegrip voor pan-Europees HCM- en payrollplatform mena.nl",
+      "category": "mergers_acquisitions",
+      "language": "nl"
     },
     {
       "id": "20781fa92e62d856fb8fa234fb2ff503",
@@ -83,6 +103,16 @@
       "language": "en"
     },
     {
+      "id": "e61936ea09159d3c5f5e90a27b8e4331",
+      "title": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGREMWMwUEtDQlBhYzhXTEhQRnRLRzBiWE55QjlRTnFjOHdIXzdxT0FGT0JYZzJnNnVxM0g4UXR4c0RXRTUyT3doNERpTVNqbUNYaW40WWN3dG9fWHRVZnZ0OUk1ZnZUUEcwSDllMDUyRWl6ZUV2Umg1OU9CejNCYjItcUJ1UE5WcWQxUTRLNmZSNmpiREMzb0tWRk5DZlo4YVd2T0FKek9tY2dUUWpIRVJxZHJ2UmZDdjRyUXRMaGNXT1VBT290TmxKTl9TeHRmMGtxYw?oc=5",
+      "published": "2026-06-01T15:30:17+00:00",
+      "snippet": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "d0542935b4b03473933c4003e972f486",
       "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz",
       "source": "citybiz",
@@ -93,32 +123,12 @@
       "language": "en"
     },
     {
-      "id": "a790485d9080322b11d33da64ed69039",
-      "title": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition - The Manila Times",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEZib2VuckEySVMwc2VZQV9GeGh2T1ZxLXFqb1cwYXhBT1dGZWpsaVpxNUY0TGJDamJkNkpkZ2V1RzgyZG9WZnVjdURjdTJjc0JaVU40bVZhVlRWWGR5UDZTeXR4WEJnamJhWFdicHk4WkVCLTVLQjR3ZXI2b0NYYWNWM0daODBET3o3MUlkRzNqNlFPNXJPSEZsemdQVGxGTkdhQ3F3YlhNZ1VWYXd3ODBGYW1iTXl0ZG9WQ283RWNZZ2Y3c29LZkVlWGdiRzlPdV83ZC01bm9WRlEtZWRGZXppMUFnVTg3d0VhRFhKN3d4MjhXWFBiR19zdWnSAYICQVVfeXFMUF90RzRJd2tjcFF1a1pDWWF5bkdrRk90T0VuUlJtTnctYlFJWlBtZXhKZUxKY1Zfa3pQYVkwZzZaWkRNSElQYUNiMF9wWWp0aUp3N21LLUtUbWhPR3FvcG9mcVNMTDFCVnFhcWtnZE1YOVJtRmJVV2VyUnRFN1NET2tOZXFHU05uTWhUZFhvLVVGbGU5ZUZmSTNTTjlQMTBwTkpRbUdlVmN2N1AwMHVzZ0FqM0RGRkNFU1BVUF8zZklBTUxUeElGUG05S2VKeFVJQkl1V05tdGVNbktlbjVCZ3ZfWVZEbGlfbGhoT2I5MHpnMG1fQ3V2RjhTaTloMHo2RDR3?oc=5",
-      "published": "2026-06-01T08:14:15+00:00",
-      "snippet": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition The Manila Times",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "c7131a8c540563ea0ab498b14a0955cf",
       "title": "JobGet acquires early career hiring platform RippleMatch - Staffing Industry Analysts",
       "source": "Staffing Industry Analysts",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEl3RFdGVzdjOTJpY1JnNFZpV1Y4cVNpLUV3LXl0N2M3RTIyQWREZmJ2TXltQ3NjZ2l0OGxXeVRaR0c3MjFNUU1zY2gxdl8tbFNoQWM0OU5rcjlsWEVEdlJSclhVYjNkQU90R0RGS0NNdFpVNi0yQVRyRHV5dWdfWElKWEF4LVU0WDBxN19EQU1idVo4MWszZGliWGxjcmdRQnFYc1lVblBBU2t2RHY3NnJR?oc=5",
       "published": "2026-05-29T16:00:10+00:00",
       "snippet": "JobGet acquires early career hiring platform RippleMatch Staffing Industry Analysts",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "dea31b6e4dc9ef039bc8ea2b3ba496f4",
-      "title": "Click Holdings stock jumps on HR tech acquisition - Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFF5MXlaQ0tfYnJmYUdJTmNORF84TXFMLUVQLWxvRlVZVlVnRnppdnlIRmFrODh5bURSVTY3RXNsOFJKLXZrTzdlZXBMcjVIZWYzd0YtMDIyUE1CWHJjLWE2bkIwS2FYa2JiNDdlSl9JTEppZ3hYcXZRVHRZZ3c1UTlFeTVsWGFwV0p5OVZybzlBbDdxSFNMRW4xa0VfZHZpUjd0bVc1TnVuanYxUktFRg?oc=5",
-      "published": "2026-05-29T12:48:50+00:00",
-      "snippet": "Click Holdings stock jumps on HR tech acquisition Investing.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -147,7 +157,7 @@
       "title": "Click Holdings Limited (CLIK) Acquires Hong Kong Construction HR Tech Company, Targeting Over HK$50 Million Annual Revenue in New Segment Within Two Years - Yahoo Finance",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFVfaWFrZXJ1TnpYN3g0VHo3cXJ6VGRJU2hFSG96Vl9IUzVUSUpiM3RQekEwXzd2MFNyNUFzX2huZWFWQnh6Njc0Mk96SFRFZVZod29XTTdNR204ZERvTlhCWlhZOGQtNXczRTVudU9hZ3VMMEJzMkNvQVRrQUJHVlVLQnA3NEJIbFhldVZqakFuYnQ1Z3ZfRmNDYlUxeFNHX244?oc=5",
-      "published": "2026-05-29T11:00:00+00:00",
+      "published": "2026-05-29T07:00:00+00:00",
       "snippet": "Click Holdings Limited (CLIK) Acquires Hong Kong Construction HR Tech Company, Targeting Over HK$50 Million Annual Revenue in New Segment Within Two Years Yahoo Finance",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -239,6 +249,26 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUlMX2FJQ3lwSXFCOGFjclRia1BfTWdsVGpJb2RrcVlKM0loU2hhWWE0Y1BuLUxPbWJJZkNEM19JZmNZNEpCMnRDWEZibHl0YkdiVHdIVVlnQ1M2Rk5QNHNBdUt6a0xIU3p4XzQ3TlIwaXM3dEc2QXl2RTI5TkcxQUo0akIybXdmVDZUWGpjNXJ0M0tGVGY3eUhXT3hEOWc?oc=5",
       "published": "2026-05-14T08:59:57+00:00",
       "snippet": "JuiceMe acquires Ajiraworks to boost African HR tech ITWeb Africa",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "3dd286aabf4d16c8329edc6e01312b62",
+      "title": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance - UC Today",
+      "source": "UC Today",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VWVdkVnJrSC12cHV5cWliU1dKRHluVkg5ZXk0VC16OUtHZUFXWFZsUVpaMnFmU3I1RFBKem5leWt1R29pdWFTbzhxZVQySmtWOWxMbXRfQ3dvVGpLVVZDNUVRYUozSWpZdFZNUm5NdlEtUkVsV2sw?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "snippet": "Deel Buys Sastrify as HR Platforms Move Closer to Identity, Access, and SaaS Governance UC Today",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "88f89d6c04e7a6bcaea060e7ef3b9b98",
+      "title": "Amazon’s Reinvention Of End-to-End Talent Acquisition - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lzUjBOYXNHVnZTZGJycGhWZDd5WHVjYy1SQUNxaGlCUXpkNTF0aGo0OXlmYjJTa0lkc1IwZll2SWtoWlg1T2U5Y0VkSmpXbzc3aGpuQmNfbWctVEhFQlRsSW5tQ0NEWm1fRkVZTXh2YzA1UHlta0JWSjR5R2c0a2FmblNqa2NDNDQwbF9XRQ?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "snippet": "Amazon’s Reinvention Of End-to-End Talent Acquisition HRTech Series",
       "category": "mergers_acquisitions",
       "language": "en"
     },
