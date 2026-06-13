@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T10:01:09Z",
-  "total": 23,
+  "last_updated": "2026-06-13T08:50:47Z",
+  "total": 21,
   "articles": [
     {
       "id": "6fbafff5a6525a468209fab322d598d2",
@@ -19,16 +19,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEdVY0JIcVliSFZyN21wanY5NFZKUURlNkNySlpNUzNYTjdyZEczdjQtOXh0bEc2VHZyUGdaTG9oUFN4OHE2aGZZU29jLXN6ZE44T3BYTjNxLUZleHdWQzBNNUU2WHR3djVYYnNrOVZnQnhqS29YZW9rVzFwN25kZzdfdzdMM01LZndQdHRKeXRtWkthMHZucw?oc=5",
       "published": "2026-06-08T14:15:22+00:00",
       "snippet": "RemotePass raises $17.4m to expand UAE-built global hiring platform Gulf Business",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "8f222a73facaa3d0d663864d521033a0",
-      "title": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round - BRIDGE（ブリッジ）",
-      "source": "BRIDGE（ブリッジ）",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYklnS3g3N0FReENQNERhcnNvcWZ6M05nbzJqWFFmV1kxVHNlVV9iLXpPdWlaenRMc2VTN1hQNDBOQjZTM3oyNXRFOF8wRlJDMW00SUpxZTNUV2UwVmhXT1ZSdGFVSTBWZDhneXl2eFRWYTVlcFNxcFVHOUhxSzFBdFpwUmFoVHYyTGdxV1hUY1ZfU1Z2S04ya0k1NUNzS2tMUUo0a2x4b0VkLTZCd0w1N3lYcU16eFVMWG8yTVZETkFoLWI4ZzhEOTVnZmNUTVhsT0Jtb3dnd1dweXlVamg4VHhNV3pNME1oOHpoVVVncVc?oc=5",
-      "published": "2026-06-05T09:55:00+00:00",
-      "snippet": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round BRIDGE（ブリッジ）",
       "category": "investments",
       "language": "en"
     },
@@ -70,16 +60,6 @@
       "published": "2026-06-03T07:00:00+00:00",
       "snippet": "Spain’s AI Business-Software Group Factorial Hits $2.5 Billion Valuation WSJ",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "05bde9d8241c0e7c17f70c0ca042a818",
-      "title": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth - People Matters Global",
-      "source": "People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX1NFN3RJcm5ibk9tSWZYRmZPLThXQ0w4X1g3bzItTVV6Wl9CYngyakVhNjF6TjRkb0t1VTZSTDNoODh2VUNybEZIMW9vWDVWTFpsM0FDTWppbk1CcXBtR29SODEyM2liQnJSMHJfMy16Wm0wQVIwT2ZaaFVQUjlVb3BoclU3VXA3TThpdHI4clAxcnJZeW51QnNMcUN2UTRWZEJGcFJyalZDNHBZOTc2MDNFUHQzRlhmRHluZGp5ZDJaQllhcW1ESXZwQ1FuSlItZnRzbFZsemxid3BtclhMclU1bG5PWVpMdFlWa091VjMxdmZkMXc4cHdn?oc=5",
-      "published": "2026-06-02T10:56:26+00:00",
-      "snippet": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth People Matters Global",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -173,6 +153,16 @@
       "language": "en"
     },
     {
+      "id": "a2da556074c48631291caff37135bdbe",
+      "title": "Workday likely must defend AI hiring-discrimination allegations, US judge says - MLex",
+      "source": "MLex",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdldDd0FOUGtVR3A1Vk9Uem9WTkM3Q0VoNXFBUGNUODRpb0xfRHUyUzVGNWZJSW1WTkNKbTI4MTVuNS1EdnFvUGdlRmZYWHppX3l4RDRwWU44aXlsOWgySzVjLWxwcmh0ak5RTUl0RzhPN2I3d25hVjBaZzVKbmJscl82Q3dUZld1NXhMRFpfblhiSThINkNieHVZU0huQ19ZUWdPNjlPT1h6RlJrenVWUXE1Y1h5d0lkanZCcdIBWkFVX3lxTE5EN1JJUjU3c0NIV0JSb0RXZ2MxQ1cxNV95Yl9IdGdyTXRZXzlvOW5IVEZGajgwNTBpZ1g2NWFYcVhRaWF0cjhodFpLOTdVdWxaeDNJdkFvRlowdw?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "snippet": "Workday likely must defend AI hiring-discrimination allegations, US judge says MLex",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "6684e89dcefa64104d6871d7d215ba38",
       "title": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform - citybiz",
       "source": "citybiz",
@@ -219,16 +209,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUlMX2FJQ3lwSXFCOGFjclRia1BfTWdsVGpJb2RrcVlKM0loU2hhWWE0Y1BuLUxPbWJJZkNEM19JZmNZNEpCMnRDWEZibHl0YkdiVHdIVVlnQ1M2Rk5QNHNBdUt6a0xIU3p4XzQ3TlIwaXM3dEc2QXl2RTI5TkcxQUo0akIybXdmVDZUWGpjNXJ0M0tGVGY3eUhXT3hEOWc?oc=5",
       "published": "2026-05-14T08:59:57+00:00",
       "snippet": "JuiceMe acquires Ajiraworks to boost African HR tech ITWeb Africa",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "88f89d6c04e7a6bcaea060e7ef3b9b98",
-      "title": "Amazon’s Reinvention Of End-to-End Talent Acquisition - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lzUjBOYXNHVnZTZGJycGhWZDd5WHVjYy1SQUNxaGlCUXpkNTF0aGo0OXlmYjJTa0lkc1IwZll2SWtoWlg1T2U5Y0VkSmpXbzc3aGpuQmNfbWctVEhFQlRsSW5tQ0NEWm1fRkVZTXh2YzA1UHlta0JWSjR5R2c0a2FmblNqa2NDNDQwbF9XRQ?oc=5",
-      "published": "2026-05-14T07:00:00+00:00",
-      "snippet": "Amazon’s Reinvention Of End-to-End Talent Acquisition HRTech Series",
       "category": "mergers_acquisitions",
       "language": "en"
     }
