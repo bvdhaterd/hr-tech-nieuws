@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T08:50:47Z",
-  "total": 21,
+  "last_updated": "2026-06-14T09:23:41Z",
+  "total": 24,
   "articles": [
     {
       "id": "6fbafff5a6525a468209fab322d598d2",
@@ -23,12 +23,32 @@
       "language": "en"
     },
     {
+      "id": "8f222a73facaa3d0d663864d521033a0",
+      "title": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round - BRIDGE（ブリッジ）",
+      "source": "BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYklnS3g3N0FReENQNERhcnNvcWZ6M05nbzJqWFFmV1kxVHNlVV9iLXpPdWlaenRMc2VTN1hQNDBOQjZTM3oyNXRFOF8wRlJDMW00SUpxZTNUV2UwVmhXT1ZSdGFVSTBWZDhneXl2eFRWYTVlcFNxcFVHOUhxSzFBdFpwUmFoVHYyTGdxV1hUY1ZfU1Z2S04ya0k1NUNzS2tMUUo0a2x4b0VkLTZCd0w1N3lYcU16eFVMWG8yTVZETkFoLWI4ZzhEOTVnZmNUTVhsT0Jtb3dnd1dweXlVamg4VHhNV3pNME1oOHpoVVVncVc?oc=5",
+      "published": "2026-06-05T09:55:00+00:00",
+      "snippet": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round BRIDGE（ブリッジ）",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "7f28eea2e44d2b555b8ccfa281fc242f",
       "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Global",
       "source": "People Matters Global",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaW4tcGhCRjltT0xlNW53Vk1TWldOLUpMWGdrc1laTTRnbHFsa3lSbGtndkFSTXd5bGY4eVVwMjVqOUMzU0NQYmkwSU8yQVFWR1o2eUlBNVc4alNNZGNJRU9OOEtYb3hfTG82enZwQ0E5Z0R6a2lKVUJfVHUzLUhSeXVfQXFJdEhOb0dxdjlJeml4OXZHRkZqM1pEN0VVZ2lqWXdRM3pyVmE0aTQ1Q0lFY1RFTUNENE5NUTViS2pISTFGTzZwSmFLdUJBd1M3a1VleDJSZllGa1VXUF9sNWh6dFo2Tmo?oc=5",
       "published": "2026-06-05T07:36:46+00:00",
       "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Global",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "4da3527cdf2a63ba18cf5f02739a9364",
+      "title": "Factorial closes its Series D funding round, raising $150 million - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzlkV0UwNktZUUZjWEtiRGo3VVc3ZlhsX0pQWGl1ZVk0cDZoM0haMkQ3OHlJX3ozenpzOHp1clpvZFN2RC1nZ09STXhkSHFBdlNlRlBnQldXa0dTTmVVM0RmeEJlNmk0U3czMk1NclF5clZJWnFCRkZseHY1RnNkR3pITC1xYXZFbWEzcGFfV2NlTURpbDlmb0V4amtoTTNwZmRmcDZEWEQ?oc=5",
+      "published": "2026-06-03T15:25:27+00:00",
+      "snippet": "Factorial closes its Series D funding round, raising $150 million Startupbusiness.it",
       "category": "investments",
       "language": "en"
     },
@@ -41,6 +61,16 @@
       "snippet": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities HRTech Series",
       "category": "mergers_acquisitions",
       "language": "en"
+    },
+    {
+      "id": "036dc90056a1779060f33318bb771b1b",
+      "title": "Main Capital ondersteunt BCS bij add-on acquisitie van Timegrip voor pan-Europees HCM- en payrollplatform - mena.nl",
+      "source": "mena.nl",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEU4bVZzN3N2WVZjcEYyTjh4SVdWQW1ObEl2ZmJCaFE0LVBqY1BYTTdmMVdxNmc4X2hwd0FnOHFzU1FwbDJhcDNTa2JMMFpjbzVKa2QzdFNCU3FXNldyMHc3T1pjTHVBRTRldXMtWUl6Nzh1b2dvN3VRZjFkU0FjZi1xUmJlbFFLQUdpSW9oVHRxam5lYkwzdEZnU2pPRHk0cU5HSQ?oc=5",
+      "published": "2026-06-03T07:51:14+00:00",
+      "snippet": "Main Capital ondersteunt BCS bij add-on acquisitie van Timegrip voor pan-Europees HCM- en payrollplatform mena.nl",
+      "category": "mergers_acquisitions",
+      "language": "nl"
     },
     {
       "id": "20781fa92e62d856fb8fa234fb2ff503",
@@ -63,13 +93,13 @@
       "language": "en"
     },
     {
-      "id": "10fe83d4e9e36b7bf90fb4e761dfa8e9",
-      "title": "The legal mistake courts should avoid in Eightfold AI lawsuit - TechTarget",
-      "source": "TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmZjMXZ6YV9iVEtlME9jOHRybVBCeFotaGd0QnIzTXN6cmFJSThWNVFuNTY4cmROTC1PdnRkVnlORktSU0xZenh3MlVBMTlpVm1yRjljaU9COC1vQll6UkpHQ3FMS05GNkVMQ2NUbXNuRVRLYmJCLXlBNzVyMEstczltZ1RIZnJSMlRXaDItVEFGWHEwSGp0Y2FSWTVSdGFSZHZ0bmRQUVFXZXFkTy12MTFCMGhjdw?oc=5",
-      "published": "2026-06-01T22:08:20+00:00",
-      "snippet": "The legal mistake courts should avoid in Eightfold AI lawsuit TechTarget",
-      "category": "lawsuits",
+      "id": "1f90a5531ee93162f83759e747d96ffa",
+      "title": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe - Tech.eu",
+      "source": "Tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUtLcmRPSExHMWQ5Q18wTGdRUEQ0akRTY1lMLUs1OWp4VHpTWXk4SWl3Z0E3dG9FbktkaVBDRmVPS1NmdzRBN2xoM00yRFU4Q2g4LVR3Qlh1NUlrM3UyOHNTN1ZKdHJnVFZiSVp5RlBXd1VObUVkN2dxX1Flbnp5TkZvUkpMVVhOdHZaUHFCVG9lTjZWNmZ5d2QwSDJEbmk3?oc=5",
+      "published": "2026-06-03T06:08:24+00:00",
+      "snippet": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe Tech.eu",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -80,6 +110,16 @@
       "published": "2026-06-01T08:14:15+00:00",
       "snippet": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition The Manila Times",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "10fe83d4e9e36b7bf90fb4e761dfa8e9",
+      "title": "The legal mistake courts should avoid in Eightfold AI lawsuit - TechTarget",
+      "source": "TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmZjMXZ6YV9iVEtlME9jOHRybVBCeFotaGd0QnIzTXN6cmFJSThWNVFuNTY4cmROTC1PdnRkVnlORktSU0xZenh3MlVBMTlpVm1yRjljaU9COC1vQll6UkpHQ3FMS05GNkVMQ2NUbXNuRVRLYmJCLXlBNzVyMEstczltZ1RIZnJSMlRXaDItVEFGWHEwSGp0Y2FSWTVSdGFSZHZ0bmRQUVFXZXFkTy12MTFCMGhjdw?oc=5",
+      "published": "2026-06-01T07:00:00+00:00",
+      "snippet": "The legal mistake courts should avoid in Eightfold AI lawsuit TechTarget",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -177,7 +217,7 @@
       "title": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors - Arab News PK",
       "source": "Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRU1hVHJsWnN5U2o5dDdVaW96V1BRTUJJNEFtdms5NVBOeVNlUm1Ib3VJSk83VnhVdmQ4OWRBbWNDdENyNTl0RXBVV25TdVdac1V4c09VaGxIV2R3OS1FZU1kYw?oc=5",
-      "published": "2026-05-23T19:02:20+00:00",
+      "published": "2026-05-23T07:00:00+00:00",
       "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News PK",
       "category": "investments",
       "language": "en"
@@ -200,16 +240,6 @@
       "published": "2026-05-20T07:00:00+00:00",
       "snippet": "RemotePass raises $17.4M to scale global payroll and hiring platform Tech.eu",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "460bfe670ea5dc2a19ad3a6a83e4f2cd",
-      "title": "JuiceMe acquires Ajiraworks to boost African HR tech - ITWeb Africa",
-      "source": "ITWeb Africa",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUlMX2FJQ3lwSXFCOGFjclRia1BfTWdsVGpJb2RrcVlKM0loU2hhWWE0Y1BuLUxPbWJJZkNEM19JZmNZNEpCMnRDWEZibHl0YkdiVHdIVVlnQ1M2Rk5QNHNBdUt6a0xIU3p4XzQ3TlIwaXM3dEc2QXl2RTI5TkcxQUo0akIybXdmVDZUWGpjNXJ0M0tGVGY3eUhXT3hEOWc?oc=5",
-      "published": "2026-05-14T08:59:57+00:00",
-      "snippet": "JuiceMe acquires Ajiraworks to boost African HR tech ITWeb Africa",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
