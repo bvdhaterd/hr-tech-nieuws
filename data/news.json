@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T09:23:41Z",
+  "last_updated": "2026-06-15T11:52:21Z",
   "total": 24,
   "articles": [
     {
@@ -43,16 +43,6 @@
       "language": "en"
     },
     {
-      "id": "4da3527cdf2a63ba18cf5f02739a9364",
-      "title": "Factorial closes its Series D funding round, raising $150 million - Startupbusiness.it",
-      "source": "Startupbusiness.it",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzlkV0UwNktZUUZjWEtiRGo3VVc3ZlhsX0pQWGl1ZVk0cDZoM0haMkQ3OHlJX3ozenpzOHp1clpvZFN2RC1nZ09STXhkSHFBdlNlRlBnQldXa0dTTmVVM0RmeEJlNmk0U3czMk1NclF5clZJWnFCRkZseHY1RnNkR3pITC1xYXZFbWEzcGFfV2NlTURpbDlmb0V4amtoTTNwZmRmcDZEWEQ?oc=5",
-      "published": "2026-06-03T15:25:27+00:00",
-      "snippet": "Factorial closes its Series D funding round, raising $150 million Startupbusiness.it",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "bb8c5e0e041e36a555f95419a3015fa9",
       "title": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities - HRTech Series",
       "source": "HRTech Series",
@@ -83,16 +73,6 @@
       "language": "en"
     },
     {
-      "id": "5a44a4c787589deec77b1b5ae1765ec4",
-      "title": "Spain’s AI Business-Software Group Factorial Hits $2.5 Billion Valuation - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejlFWkxwdmN2THVma1ZVM1kzb2d2eVpYME5LdXgyMExJb2Q0amZHdHBHXzJaUW5uU2pENERkZ1ZCZXd0VFFyd1NaTU16MjA0V0pibWc3WmVGdkJiZ2x4NmNhN250bWR1aXBNbUhzWUdlX1VZeWVNRGhGd2hDRmlaQ3pja3dZLWZMUm9hZzl2akY1YmQ4eW1fZkJMSC1PNDM4UFNRUW9NdFZrelE?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "snippet": "Spain’s AI Business-Software Group Factorial Hits $2.5 Billion Valuation WSJ",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "1f90a5531ee93162f83759e747d96ffa",
       "title": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe - Tech.eu",
       "source": "Tech.eu",
@@ -100,6 +80,16 @@
       "published": "2026-06-03T06:08:24+00:00",
       "snippet": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe Tech.eu",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "d0542935b4b03473933c4003e972f486",
+      "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3REd1VNbXd3QXZZbEtSNURHQzVpUmVXWDlrSE9CUmRCWWdTZENGaDJBUjB4VzllazZVVlpPTjBscl96N2gyNmpSUU41SmxNYm9vWGhqdG1qWGh1a0ltWHlKNFh3ZGVRRm5WQXhQLVlXZmc1UVBJZHJnNnpVQ01vVUJiT1dMTnFkMzZkd2hQVXZha0R2VUViaXEtSXFJc0NlVHlKNU9ieUFVOUJt?oc=5",
+      "published": "2026-06-01T14:20:20+00:00",
+      "snippet": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform citybiz",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -120,6 +110,16 @@
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "The legal mistake courts should avoid in Eightfold AI lawsuit TechTarget",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c7131a8c540563ea0ab498b14a0955cf",
+      "title": "JobGet acquires early career hiring platform RippleMatch - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEl3RFdGVzdjOTJpY1JnNFZpV1Y4cVNpLUV3LXl0N2M3RTIyQWREZmJ2TXltQ3NjZ2l0OGxXeVRaR0c3MjFNUU1zY2gxdl8tbFNoQWM0OU5rcjlsWEVEdlJSclhVYjNkQU90R0RGS0NNdFpVNi0yQVRyRHV5dWdfWElKWEF4LVU0WDBxN19EQU1idVo4MWszZGliWGxjcmdRQnFYc1lVblBBU2t2RHY3NnJR?oc=5",
+      "published": "2026-05-29T16:00:30+00:00",
+      "snippet": "JobGet acquires early career hiring platform RippleMatch Staffing Industry Analysts",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -177,18 +177,8 @@
       "title": "JobGet Acquires RippleMatch, Expanding Its AI-Powered Hiring Platform Across Hourly and Early-Career Talent - PR Newswire",
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNalVSd1RqeGZZUHlCWFdlNXVQOUlLRkJWY1BiSUNtSGROMG1SaEN4d19wa1h3YlBOYnhDUUhaMlNzaW9Hd2UwOWRROHd4SFE5bG1HN3lOTkpSSEpOU3VCSGJsaGtLaDJ3RmZBSlZLWmpSYTFBWmlrT0cxNnZVeWJaM1lqVXFmT05YRGE2cC1nUUo4RXJHSkEta1B0dmVSeWdZWGp1dmpDZWw3SnNacC13RnpnWHFsS2c4RFhKejlJeF94dkdpZ2JBdlhTeDMtZXJWSnpLVHoySG5faXE4RFhycXp3S0NsLUJlU3BMYlRmRVRUQUox?oc=5",
-      "published": "2026-05-28T12:00:00+00:00",
+      "published": "2026-05-28T07:00:00+00:00",
       "snippet": "JobGet Acquires RippleMatch, Expanding Its AI-Powered Hiring Platform Across Hourly and Early-Career Talent PR Newswire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fe42d6c129d2cfacdb7082595bd85f5b",
-      "title": "What Phenom’s latest acquisition says about its HR tech growth strategy - Technical.ly",
-      "source": "Technical.ly",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkpEMTM2MlZXZEtzMjdnZVEzOHcwUVNqdENLNHUxTFE3cG00aWJmY0RoRVZ3dzAtUlVybFMwenhFalJMVmROQUpDUk1sdHBMbDlweFhaUWlaUElYRHJtX1p2UXdCbXgyUTh4NzkxZFpUSjg4MGs5MFJ0T2c3MU5xUmRFNzNvS0h6U2MzWExwc3o?oc=5",
-      "published": "2026-05-27T07:00:00+00:00",
-      "snippet": "What Phenom’s latest acquisition says about its HR tech growth strategy Technical.ly",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -220,6 +210,16 @@
       "published": "2026-05-23T07:00:00+00:00",
       "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News PK",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "fe42d6c129d2cfacdb7082595bd85f5b",
+      "title": "What Phenom’s latest acquisition says about its HR tech growth strategy - Technical.ly",
+      "source": "Technical.ly",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkpEMTM2MlZXZEtzMjdnZVEzOHcwUVNqdENLNHUxTFE3cG00aWJmY0RoRVZ3dzAtUlVybFMwenhFalJMVmROQUpDUk1sdHBMbDlweFhaUWlaUElYRHJtX1p2UXdCbXgyUTh4NzkxZFpUSjg4MGs5MFJ0T2c3MU5xUmRFNzNvS0h6U2MzWExwc3o?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "snippet": "What Phenom’s latest acquisition says about its HR tech growth strategy Technical.ly",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
