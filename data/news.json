@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-16T11:00:31Z",
-  "total": 25,
+  "last_updated": "2026-06-17T10:44:28Z",
+  "total": 34,
   "articles": [
+    {
+      "id": "993f890182396a234260d0ad950d84ef",
+      "title": "HeyMilo AI Raises $6 Million To Expand Agentic Recruiting Platform And Launch New AI Hiring Agents - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzlqeTFsaVpZX1BjZHRoVTZiWHQ1eWxFRHhrTHBMXzVtUEU3bTFlOEJNMzRUQnVQTHhCNlBSR0VWUTM0TUU0Y1VnQ1NvUG1SMzFmNU9mRWh5RmFjRWNkRFFUNEsxZHlJTktaS19IUkRMN0IyaU5TSFJoenVfczFWcXVFTU16akt0c3oxbHNqWFNFUldXRVRCM2Z4czd3UmxCN1ZNVmxtUXdEcGt4VVItLTZWRjdaRTBM0gG-AUFVX3lxTE03bXR3Q1ZzSzFkMjJWZF9JYzRmb2RMMERIeGc0aldVd0ljLUFqUFppdGZqcTZ5alZyNThmTkw1cjNZN3NxOXo5YjRHQzVEZ0ZSMHU0a2RZWVhjSGFNSjBoNkVDRUxaU0xhSmZtMHhfZG5iWVhrUkFNZndaTUxKUzlxZHF6S1QxcTBWODEtSjdvNWJiSlRJRG1ZQnVya09UU2F5dXhvOVl4WUhlOEdGbk4xMEVPQmtsdVhaTVhHVmc?oc=5",
+      "published": "2026-06-17T10:24:29+00:00",
+      "snippet": "HeyMilo AI Raises $6 Million To Expand Agentic Recruiting Platform And Launch New AI Hiring Agents Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "721c3806e1693adf0b5d1f7689616fad",
+      "title": "Workday will likely face California claims in sprawling AI bias lawsuit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMERLY21nZzFITHdPb1MxVFY1c29wVkRPd3lqeWlwZENEeEhHT0h4STdWRTY5aG0zSm9kQWxJYjFtZEtIa0oxTjFjQjJkN2VJbjBwQnlLaWJRS0R0aUNQdmt2ZmNic2hHVE1XWWNScFdMYWluOUxvQTU0blRLSFk1UXh0SkN5b1plbkJmdEdyVVhOdUJQVWtyRUItVkxQeTdjaDJPU0VEVkE1cHNsSXBBODlsd0RhRnk4UWRyNGt3?oc=5",
+      "published": "2026-06-16T21:42:48+00:00",
+      "snippet": "Workday will likely face California claims in sprawling AI bias lawsuit Reuters",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "823d061a37b363758d9fa26f843a2922",
+      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElINGw5LVI1aTEtWFI3MkdTYlFTWHo1X09fM3Y2eWs2c29BZzNveUZfQmpmcm93VC12NG1OWE9Eb0NlNm80ZTY5LTcwazFXbmFWbzdaZDZTZTBjS1J2bDQycGJ4Mm0yajZWdl9ZRUk2WmVHN2N6U0tURjNndzZtT3NlS3ZJSmtpNFp3ejh3QnVkRHNyenBUVnJsSzloUQ?oc=5",
+      "published": "2026-06-16T17:52:49+00:00",
+      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "ab304ac0a343580d30d7dcff30ae99c5",
+      "title": "The Citation Group Acquires PayCaptain to Add Advanced Payroll Software and Services to Their Market-leading Compliance Platform - Fintech Finance",
+      "source": "Fintech Finance",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPazdwNHFsMC1vSjlxX1pHOWtfSFd6MUxLNjltbUJ0T0JBTDYwTEduQ0huUlBXN2hsc0hzTFJJT1RNYlVHOF9QNS15TGRxV09HekxOemlkeU1nVGluaWd0c09TVGFZSVk3VGY0a2pnLU5nU1N6RnBIWUtYX3pETm5YTnpLRWEwNjVxNDZTTlJPSkhoUEZiRjNQZEJHd1hVZzU5a0ttWDRiUUVobUp4OWRkWEk4UlZ4OXNYV1JBeTlFZndvbFRnSXZDTll6QUljOFR2cWdmemNaVlFGRE1FeXhyMndrU3J0blZMTU1YYng5YUVibnhCVFlUMXRraWg?oc=5",
+      "published": "2026-06-16T14:44:57+00:00",
+      "snippet": "The Citation Group Acquires PayCaptain to Add Advanced Payroll Software and Services to Their Market-leading Compliance Platform Fintech Finance",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "57050ca23e39755c6124ff60846274e5",
+      "title": "Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague - The Recursive",
+      "source": "The Recursive",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjZUQUJpeGlhT3NvNnBDdVhXRzdsd2o3WTBpZ0htaU4wNzBCUC1FQ3o4UklRM1g1SXhhVmZJb3JUVkFQYk5rM1luM3ZqbUVVd2VvY0lNaWt1QWk1OXdBYlFWNmVsaG5fX19wSnpWTnZWMGY2dUNvc1FEc3ZfMzVVbVN5RVRiV1oyMHNEaEUwRkZVdzdNR3hWaFJNc2x3OTVtRjZZcEljd3VvTXBHaHdidXJKSEhuampTd1cwZnBYTGk?oc=5",
+      "published": "2026-06-16T14:06:48+00:00",
+      "snippet": "Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague The Recursive",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "d26111878b20f07b1f2fd96ac091f665",
+      "title": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers - unleash.ai",
+      "source": "unleash.ai",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRGx4YjJkSVBuYm0ycXVpb25FNU5faGhmQ1habE82VmEtYmZQc01qNGticHM4Uk8wTHRrcDFzUEJORjF6M2dJVXozNWp4ZmRnVHV0Wm1Ha3BIMXcyVm0yNWpqNWtOcUdDakEzTW5GZXZ0bnNqMG1FOWQybTZDUmZqQlI0SjZHQ2ctM0tuS0tJUjNhbEplejl6WHV0d1V1Tko3RnhJdmRlNUUyZzZXLS1oSktlVUZ4TzFqMW5rV2s4UHZnZlViU0tjYndOa1Q4b1U?oc=5",
+      "published": "2026-06-16T13:39:29+00:00",
+      "snippet": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers unleash.ai",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "5ca010508f44709b464c48dbe6785df6",
+      "title": "Sloneek raises $6M to turn HR software into AI agents - Tech.eu",
+      "source": "Tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUI4MGtETWFacklTNVBCeTB4ZDgtZE92eWRfenh1bEVQREtPY29oMEtwTGliRTFFSlNGUWNMV1VzZEJkSW12ZW82Rzc0c0xHdjgxM2ptM2VxVGVWWnQ4QlpWZVNfTGtHNGZlTTA5SmxsSWxaVWhTMXVQdGQ1YVE2TUN3OTRHRWc?oc=5",
+      "published": "2026-06-16T08:28:25+00:00",
+      "snippet": "Sloneek raises $6M to turn HR software into AI agents Tech.eu",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "2c3c6cde7fcbd45934938de2824a4205",
       "title": "Factorial Secures $150 Million Series D to Expand AI Workforce Solutions - streamlinefeed.co.ke",
@@ -43,16 +113,6 @@
       "language": "en"
     },
     {
-      "id": "8f222a73facaa3d0d663864d521033a0",
-      "title": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round - BRIDGE（ブリッジ）",
-      "source": "BRIDGE（ブリッジ）",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYklnS3g3N0FReENQNERhcnNvcWZ6M05nbzJqWFFmV1kxVHNlVV9iLXpPdWlaenRMc2VTN1hQNDBOQjZTM3oyNXRFOF8wRlJDMW00SUpxZTNUV2UwVmhXT1ZSdGFVSTBWZDhneXl2eFRWYTVlcFNxcFVHOUhxSzFBdFpwUmFoVHYyTGdxV1hUY1ZfU1Z2S04ya0k1NUNzS2tMUUo0a2x4b0VkLTZCd0w1N3lYcU16eFVMWG8yTVZETkFoLWI4ZzhEOTVnZmNUTVhsT0Jtb3dnd1dweXlVamg4VHhNV3pNME1oOHpoVVVncVc?oc=5",
-      "published": "2026-06-05T09:55:00+00:00",
-      "snippet": "Visualizing Employee Voices with AI, Employee Engagement Platform “U-ZERO Engagement Suite” Raises ¥9.5 Billion in Seed Round BRIDGE（ブリッジ）",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "7f28eea2e44d2b555b8ccfa281fc242f",
       "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Global",
       "source": "People Matters Global",
@@ -63,12 +123,32 @@
       "language": "en"
     },
     {
+      "id": "1af25639775d0568f4bf5dbe84cb950c",
+      "title": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWFvV1Z4OHhRYjhtODQ4cHY2Xzg4OVE0NzdhU0FCR2RYQ05wX1paaENyUXBpRFZlNTRFSXBJODNuMEVZUmY1TWJ4M1JJbmtHNXdTZUM3RFNMQmxaQWZsMEtkdXhNREFhVWR4N0hXRnI0VWhuWFg3R3pyZEZOZ2VEYjZmNXYxb01KZEJHeGVtNjI4YVVOTFVQX0dvYUJPUGJjcm5xYTdLcnpIYjNGTDl2OFlkS2tmcHZCVVJlaUNvYW5id19WYVNn?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "snippet": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i AD HOC NEWS",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "bb8c5e0e041e36a555f95419a3015fa9",
       "title": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities - HRTech Series",
       "source": "HRTech Series",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOXVqRWZQQkI0SUFET1Q4eHAtdElIUDlfT0Fvb0YwMERPNDV0bHRkRUNCQk45bG5Ob05UcW1OYVJHWjI5X0lYbDVHZmh1c1c1emd0enlHeGRQUEVUaDBtdUxZUTRJRjN2NTdIcTZmdlhvYWpueGNkNE5BVkdiQ2JuMGxTOTl5MDlDbkNsOU1jamhfekpXMlg3Qk91bHg2d0pLRmljQ043a0h5MmlVbTlyS0VRTFBBSXBnYlZTVHp1WW1UcVZxRGFYRHFrNGZBVm92bGxWWmk2NzFIeE44dk5yT3l3VzdGM2tWamZxYVRiWnpUTEhpc1E?oc=5",
       "published": "2026-06-03T14:42:58+00:00",
       "snippet": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "20781fa92e62d856fb8fa234fb2ff503",
+      "title": "Main Capital-backed BCS HR Software acquires Timegrip - pehub.com",
+      "source": "pehub.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2oxVTdwQ1VyNTJUNFdqWVlaQURIYThaSTI3T3JwUE9CYkJqYUJrT3k4aDNvcnQ3ZGFDUTVqVFNPTXRTTVhqMkNwQVdGRHVVWi1PUUtPYXp3dE5SeUI5X1NEV2s2dmUtMy15X0dzNU9LenFIWGhELTN3Mk9iN0xVZXh3?oc=5",
+      "published": "2026-06-03T07:28:35+00:00",
+      "snippet": "Main Capital-backed BCS HR Software acquires Timegrip pehub.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -93,22 +173,22 @@
       "language": "en"
     },
     {
-      "id": "e61936ea09159d3c5f5e90a27b8e4331",
-      "title": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGREMWMwUEtDQlBhYzhXTEhQRnRLRzBiWE55QjlRTnFjOHdIXzdxT0FGT0JYZzJnNnVxM0g4UXR4c0RXRTUyT3doNERpTVNqbUNYaW40WWN3dG9fWHRVZnZ0OUk1ZnZUUEcwSDllMDUyRWl6ZUV2Umg1OU9CejNCYjItcUJ1UE5WcWQxUTRLNmZSNmpiREMzb0tWRk5DZlo4YVd2T0FKek9tY2dUUWpIRVJxZHJ2UmZDdjRyUXRMaGNXT1VBT290TmxKTl9TeHRmMGtxYw?oc=5",
-      "published": "2026-06-01T15:30:17+00:00",
-      "snippet": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid for Talent Acquisition HRTech Series",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "d0542935b4b03473933c4003e972f486",
       "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz",
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3REd1VNbXd3QXZZbEtSNURHQzVpUmVXWDlrSE9CUmRCWWdTZENGaDJBUjB4VzllazZVVlpPTjBscl96N2gyNmpSUU41SmxNYm9vWGhqdG1qWGh1a0ltWHlKNFh3ZGVRRm5WQXhQLVlXZmc1UVBJZHJnNnpVQ01vVUJiT1dMTnFkMzZkd2hQVXZha0R2VUViaXEtSXFJc0NlVHlKNU9ieUFVOUJt?oc=5",
       "published": "2026-06-01T14:20:20+00:00",
       "snippet": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "a28e378106adec3ddc765f96811330a1",
+      "title": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWVsSVlabHlaV1RJb1ZSUmZ3Sm5nS2h0dG1xWWhIOXBRX096cTVMeUdoYnhVYmRianFBWmtnbWc3VkZSSTNEN1M5RVVSMEhkdlFSZk1sc1E3eldsaFZYSVRRRjJMMFE0T3FUTTBSNncxRG1YempkVzVhNmdMYWxSbEVoVkxFSlhubjdhTVZMTVZnWEFYU3IyOEZKLXlSLUZ6UnhsME1OdUdJbUNtemZfNWNKdGJRcG1nckFiUlRZOC1MS1ZVR1ZrVFZ5cWVhM0xNZDJ5UnNYcXlhQXFER1M1cThseVpYTzJuY0pvQ2tuV29USTVCT3lvaTVB?oc=5",
+      "published": "2026-06-01T08:00:00+00:00",
+      "snippet": "Eightfold AI Positioned as a Strategic Leader in the 2026 Fosway 9-Grid™ for Talent Acquisition GlobeNewswire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -129,16 +209,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEl3RFdGVzdjOTJpY1JnNFZpV1Y4cVNpLUV3LXl0N2M3RTIyQWREZmJ2TXltQ3NjZ2l0OGxXeVRaR0c3MjFNUU1zY2gxdl8tbFNoQWM0OU5rcjlsWEVEdlJSclhVYjNkQU90R0RGS0NNdFpVNi0yQVRyRHV5dWdfWElKWEF4LVU0WDBxN19EQU1idVo4MWszZGliWGxjcmdRQnFYc1lVblBBU2t2RHY3NnJR?oc=5",
       "published": "2026-05-29T16:00:30+00:00",
       "snippet": "JobGet acquires early career hiring platform RippleMatch Staffing Industry Analysts",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fc82c47167028dbe8f644b67bddca4a9",
-      "title": "Click Holdings Limited (Clik) acquires Hong Kong Construction HR Tech Company, targeting over HK$50 million annual revenue in new segment within two years - marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaG5MbV9NZUI3RHh1WTNkR2xQUm5WRVd1VzJBRzhBTE9BOEdsalB4dWYzTmFLMHNGeFpXNHpPM0sxTlFEeE1GU255SF9kX2dLeHphN1ZVaDdYZWl6S2dNei1Cd3RUd3ViTDJjS0xTWWNnMXdIVU1JSkNBSXpNNGlUN3hjQWJjUDhFaURqYXZuZEtnMHphdk1KQ2Nsd3hWRWYtM0pjZHpMVVhuU0daMXZqaHIwdXo0bHBNeV9WODZwSGFWOG00MjJFdWptaHhIeVNXT1N2WTNDQkJpY25UZjBjTFl6OA?oc=5",
-      "published": "2026-05-29T12:42:47+00:00",
-      "snippet": "Click Holdings Limited (Clik) acquires Hong Kong Construction HR Tech Company, targeting over HK$50 million annual revenue in new segment within two years marketscreener.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -169,6 +239,26 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXpFTmZNSWhyMzJvbm51MGtMVzkycGV6bUtXLTNvUDE5LXJKMzJmbU5ac2ZJQXRjZHNkWUEyY0l1bnAxZDJ3YTczTlpDNGNWOURJRkpubTY0bFdGbDl6WDREN2NWUE1CdVdjU3FtQnRYOXNBRnBfNzZOWjFKVUItbF8waTNNVVc2Z21OUFE0SHZzbmlNLTU0Rzg5ZUU?oc=5",
       "published": "2026-05-29T07:00:00+00:00",
       "snippet": "Click Holdings Acquires Hong Kong HR Tech Firm, Eyes HK$50M+ in Revenue geneonline.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "fc82c47167028dbe8f644b67bddca4a9",
+      "title": "Click Holdings Limited (Clik) acquires Hong Kong Construction HR Tech Company, targeting over HK$50 million annual revenue in new segment within two years - marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaG5MbV9NZUI3RHh1WTNkR2xQUm5WRVd1VzJBRzhBTE9BOEdsalB4dWYzTmFLMHNGeFpXNHpPM0sxTlFEeE1GU255SF9kX2dLeHphN1ZVaDdYZWl6S2dNei1Cd3RUd3ViTDJjS0xTWWNnMXdIVU1JSkNBSXpNNGlUN3hjQWJjUDhFaURqYXZuZEtnMHphdk1KQ2Nsd3hWRWYtM0pjZHpMVVhuU0daMXZqaHIwdXo0bHBNeV9WODZwSGFWOG00MjJFdWptaHhIeVNXT1N2WTNDQkJpY25UZjBjTFl6OA?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "snippet": "Click Holdings Limited (Clik) acquires Hong Kong Construction HR Tech Company, targeting over HK$50 million annual revenue in new segment within two years marketscreener.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "dea31b6e4dc9ef039bc8ea2b3ba496f4",
+      "title": "Click Holdings stock jumps on HR tech acquisition - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFF5MXlaQ0tfYnJmYUdJTmNORF84TXFMLUVQLWxvRlVZVlVnRnppdnlIRmFrODh5bURSVTY3RXNsOFJKLXZrTzdlZXBMcjVIZWYzd0YtMDIyUE1CWHJjLWE2bkIwS2FYa2JiNDdlSl9JTEppZ3hYcXZRVHRZZ3c1UTlFeTVsWGFwV0p5OVZybzlBbDdxSFNMRW4xa0VfZHZpUjd0bVc1TnVuanYxUktFRg?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "snippet": "Click Holdings stock jumps on HR tech acquisition Investing.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
