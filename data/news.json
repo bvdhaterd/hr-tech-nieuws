@@ -1,15 +1,35 @@
 {
-  "last_updated": "2026-06-17T10:44:28Z",
+  "last_updated": "2026-06-18T10:12:24Z",
   "total": 34,
   "articles": [
     {
-      "id": "993f890182396a234260d0ad950d84ef",
+      "id": "577b36a4f19d4868fdb6d578e37254d3",
+      "title": "Judge signals AI recruitment tool vendors like Workday may not escape liability for discrimination - Computerworld",
+      "source": "Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzZ1eFp2ZVN0R1VUaW1HWFRVRXhKMVJqV2RzSDJoNGZidW4tVVFNbTZ1dlBmTGhtVE83VkhKQURLUXdwdVlkbjJrZzlJdnVDNVRWM0ZPZzFyaVFjQkhZMUZiRU1uZ0JkTElzcld3TGZhdlJGQlRWN1BqaS1rTURkbmtzVHhKU2ZWanJiS2Q2d25vSmVHQ19DeURlSDdZTGstV2l2Sk1sOG45MU51c2RvbkZkQm1fVXdxZXNNNTNaamRxNExsc1h0cnlLakZpaHhZRFRBRnpSX0FQT0I1WTctQXhLM1ktZw?oc=5",
+      "published": "2026-06-18T01:22:43+00:00",
+      "snippet": "Judge signals AI recruitment tool vendors like Workday may not escape liability for discrimination Computerworld",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "b89af0458364f8db4ea124129b5a0047",
       "title": "HeyMilo AI Raises $6 Million To Expand Agentic Recruiting Platform And Launch New AI Hiring Agents - Pulse 2.0",
       "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzlqeTFsaVpZX1BjZHRoVTZiWHQ1eWxFRHhrTHBMXzVtUEU3bTFlOEJNMzRUQnVQTHhCNlBSR0VWUTM0TUU0Y1VnQ1NvUG1SMzFmNU9mRWh5RmFjRWNkRFFUNEsxZHlJTktaS19IUkRMN0IyaU5TSFJoenVfczFWcXVFTU16akt0c3oxbHNqWFNFUldXRVRCM2Z4czd3UmxCN1ZNVmxtUXdEcGt4VVItLTZWRjdaRTBM0gG-AUFVX3lxTE03bXR3Q1ZzSzFkMjJWZF9JYzRmb2RMMERIeGc0aldVd0ljLUFqUFppdGZqcTZ5alZyNThmTkw1cjNZN3NxOXo5YjRHQzVEZ0ZSMHU0a2RZWVhjSGFNSjBoNkVDRUxaU0xhSmZtMHhfZG5iWVhrUkFNZndaTUxKUzlxZHF6S1QxcTBWODEtSjdvNWJiSlRJRG1ZQnVya09UU2F5dXhvOVl4WUhlOEdGbk4xMEVPQmtsdVhaTVhHVmc?oc=5",
-      "published": "2026-06-17T10:24:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN210d0NWc0sxZDIyVmRfSWM0Zm9kTDBESHhnNGpXVXdJYy1BalBaaXRmanE2eWpWcjU4Zk5MNXIzWTdzcTl6OWI0R0M1RGdGUjB1NGtkWVlYY0hhTUowaDZFQ0VMWlNMYUpmbTB4X2RuYllYa1JBTWZ3Wk1MSlM5cWRxektUMXEwVjgxLUo3bzViYkpUSURtWUJ1cmtPVFNheXV4bzlZeFlIZThHRm5OMTBFT0JrbHVYWk1YR1Zn0gG-AUFVX3lxTE03bXR3Q1ZzSzFkMjJWZF9JYzRmb2RMMERIeGc0aldVd0ljLUFqUFppdGZqcTZ5alZyNThmTkw1cjNZN3NxOXo5YjRHQzVEZ0ZSMHU0a2RZWVhjSGFNSjBoNkVDRUxaU0xhSmZtMHhfZG5iWVhrUkFNZndaTUxKUzlxZHF6S1QxcTBWODEtSjdvNWJiSlRJRG1ZQnVya09UU2F5dXhvOVl4WUhlOEdGbk4xMEVPQmtsdVhaTVhHVmc?oc=5",
+      "published": "2026-06-17T10:23:12+00:00",
       "snippet": "HeyMilo AI Raises $6 Million To Expand Agentic Recruiting Platform And Launch New AI Hiring Agents Pulse 2.0",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "facf9db0f7fb303c7b846e930ab18887",
+      "title": "Workday Hit With Major AI Bias Lawsuit Challenge - jdjournal.com",
+      "source": "jdjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS216a1JLZGRzaC15Nm5hVDJLOVVxMjR0OVV4dHRvcEpHS0tYTk5SMUVQNEM4cV8wNkxzTVBoUmRtZmozWkdBZmVsV0ZYcUFaX0ZWb0NaWGk0OEhkaExoY0Z4QW5aVlh5b1JXR2xoVHdYZ0hsYU9uNlI0d3B0Um1pR2VHdG9uSVBZbTRuNg?oc=5",
+      "published": "2026-06-17T05:30:00+00:00",
+      "snippet": "Workday Hit With Major AI Bias Lawsuit Challenge jdjournal.com",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -24,11 +44,11 @@
     },
     {
       "id": "823d061a37b363758d9fa26f843a2922",
-      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz",
-      "source": "citybiz",
+      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz.co",
+      "source": "citybiz.co",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElINGw5LVI1aTEtWFI3MkdTYlFTWHo1X09fM3Y2eWs2c29BZzNveUZfQmpmcm93VC12NG1OWE9Eb0NlNm80ZTY5LTcwazFXbmFWbzdaZDZTZTBjS1J2bDQycGJ4Mm0yajZWdl9ZRUk2WmVHN2N6U0tURjNndzZtT3NlS3ZJSmtpNFp3ejh3QnVkRHNyenBUVnJsSzloUQ?oc=5",
       "published": "2026-06-16T17:52:49+00:00",
-      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz",
+      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz.co",
       "category": "investments",
       "language": "en"
     },
@@ -43,16 +63,6 @@
       "language": "en"
     },
     {
-      "id": "57050ca23e39755c6124ff60846274e5",
-      "title": "Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague - The Recursive",
-      "source": "The Recursive",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjZUQUJpeGlhT3NvNnBDdVhXRzdsd2o3WTBpZ0htaU4wNzBCUC1FQ3o4UklRM1g1SXhhVmZJb3JUVkFQYk5rM1luM3ZqbUVVd2VvY0lNaWt1QWk1OXdBYlFWNmVsaG5fX19wSnpWTnZWMGY2dUNvc1FEc3ZfMzVVbVN5RVRiV1oyMHNEaEUwRkZVdzdNR3hWaFJNc2x3OTVtRjZZcEljd3VvTXBHaHdidXJKSEhuampTd1cwZnBYTGk?oc=5",
-      "published": "2026-06-16T14:06:48+00:00",
-      "snippet": "Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague The Recursive",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "d26111878b20f07b1f2fd96ac091f665",
       "title": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers - unleash.ai",
       "source": "unleash.ai",
@@ -63,12 +73,12 @@
       "language": "en"
     },
     {
-      "id": "5ca010508f44709b464c48dbe6785df6",
-      "title": "Sloneek raises $6M to turn HR software into AI agents - Tech.eu",
-      "source": "Tech.eu",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUI4MGtETWFacklTNVBCeTB4ZDgtZE92eWRfenh1bEVQREtPY29oMEtwTGliRTFFSlNGUWNMV1VzZEJkSW12ZW82Rzc0c0xHdjgxM2ptM2VxVGVWWnQ4QlpWZVNfTGtHNGZlTTA5SmxsSWxaVWhTMXVQdGQ1YVE2TUN3OTRHRWc?oc=5",
-      "published": "2026-06-16T08:28:25+00:00",
-      "snippet": "Sloneek raises $6M to turn HR software into AI agents Tech.eu",
+      "id": "ca82fb1ec78382b1d47b580b29fbea25",
+      "title": "HeyMilo AI Raises Additional Capital and Expands AI Recruiting Agents - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVhRSEloaDlaYnFLU0hWa2tuc3FOa1NCTThRT2tOd3N6YmtyLTJmTjkwZlFZNGlGdW50ZUN6R0s0dVZDckhMRzdIbk9hcjdPNmFjbHlybHBvc3Vfcmk0UC03X0tfWngzXzJBcUdLaWQ3eFFyYTBaQnZsYkcweXBNb3ZNdTVid3VUSUREVndoSkllN3NWN2RWeE1tRU9FRXJZVUE?oc=5",
+      "published": "2026-06-16T12:00:00+00:00",
+      "snippet": "HeyMilo AI Raises Additional Capital and Expands AI Recruiting Agents Yahoo Finance",
       "category": "investments",
       "language": "en"
     },
@@ -123,13 +133,13 @@
       "language": "en"
     },
     {
-      "id": "1af25639775d0568f4bf5dbe84cb950c",
-      "title": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i - AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWFvV1Z4OHhRYjhtODQ4cHY2Xzg4OVE0NzdhU0FCR2RYQ05wX1paaENyUXBpRFZlNTRFSXBJODNuMEVZUmY1TWJ4M1JJbmtHNXdTZUM3RFNMQmxaQWZsMEtkdXhNREFhVWR4N0hXRnI0VWhuWFg3R3pyZEZOZ2VEYjZmNXYxb01KZEJHeGVtNjI4YVVOTFVQX0dvYUJPUGJjcm5xYTdLcnpIYjNGTDl2OFlkS2tmcHZCVVJlaUNvYW5id19WYVNn?oc=5",
+      "id": "9fc9ad31bad7bdccf8b78419615586ae",
+      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Media",
+      "source": "People Matters Media",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdnFOdlBpRXR5a1gxRnV2WVRLakZ2ZUJhcUNqTGNXRTQwWVdLcjZfY3RHc1d2V0FIX3h0M05HaFNTNFNzaVI1X3RycVBISHhQQVpNaWNCMlB0N001dERNbGlXQU1XN0tMV2hhQ2tJRE5reTlKQUdoemk4eDJJWDBLell2OF9GMEU3TzFVcTRGVlFwWVZucTZ1WWw4dGJMaXJZaDYwNWM1YXRBMF9wMHYzNGNGX2N6WDE5SndsRTkyT3R0b1VaMjVISmp4emxmV09nSjJCaXYwdl9PN3M?oc=5",
       "published": "2026-06-04T07:00:00+00:00",
-      "snippet": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i AD HOC NEWS",
-      "category": "lawsuits",
+      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Media",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -150,6 +160,16 @@
       "published": "2026-06-03T07:28:35+00:00",
       "snippet": "Main Capital-backed BCS HR Software acquires Timegrip pehub.com",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4da3527cdf2a63ba18cf5f02739a9364",
+      "title": "Factorial closes its Series D funding round, raising $150 million - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzlkV0UwNktZUUZjWEtiRGo3VVc3ZlhsX0pQWGl1ZVk0cDZoM0haMkQ3OHlJX3ozenpzOHp1clpvZFN2RC1nZ09STXhkSHFBdlNlRlBnQldXa0dTTmVVM0RmeEJlNmk0U3czMk1NclF5clZJWnFCRkZseHY1RnNkR3pITC1xYXZFbWEzcGFfV2NlTURpbDlmb0V4amtoTTNwZmRmcDZEWEQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "snippet": "Factorial closes its Series D funding round, raising $150 million Startupbusiness.it",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -174,11 +194,11 @@
     },
     {
       "id": "d0542935b4b03473933c4003e972f486",
-      "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz",
-      "source": "citybiz",
+      "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz.co",
+      "source": "citybiz.co",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3REd1VNbXd3QXZZbEtSNURHQzVpUmVXWDlrSE9CUmRCWWdTZENGaDJBUjB4VzllazZVVlpPTjBscl96N2gyNmpSUU41SmxNYm9vWGhqdG1qWGh1a0ltWHlKNFh3ZGVRRm5WQXhQLVlXZmc1UVBJZHJnNnpVQ01vVUJiT1dMTnFkMzZkd2hQVXZha0R2VUViaXEtSXFJc0NlVHlKNU9ieUFVOUJt?oc=5",
       "published": "2026-06-01T14:20:20+00:00",
-      "snippet": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform citybiz",
+      "snippet": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform citybiz.co",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -223,16 +243,6 @@
       "language": "en"
     },
     {
-      "id": "77f767ba8f4d5ce7acb30e7253c92516",
-      "title": "Click Holdings Limited (Clik) Acquires Hong Kong Construction Hr Tech Company, Targeting Over Hk$50 Million Annual Revenue In New Segment Within Two Years - TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNm5rZ1RzVGc5VzVyX1ZfZUw3TV8wWnV6UjItM0VDVHdaM2JoWUdndFhEZExNSV9YeHVERC0xQ3h0TUFjc3NPRDZDUjJsd19oSjkyOTF2VUYyeW5wcDJCZ000UTZWSzhWaVZ3VjVHTjIzSDJHNVZiZVgzdjRURHkxN1BQbEd1R182ZTRGbkQ2bWtzMER0dTFucjNZaVJwSlFtSUFhWGFSeUsyTU9BREFwQlp2Y05IU2Y0Q0MwNGZRd1dZdmJnZnZFYW5kbXV1MmVqVlk3eUwzeWY2RzBoMVhWUEhNOGdmV1RHTGJkdXpfaHpxdUlSVDhnQXF0OG4xUHN4bkVwajRfaW11Q0FnV29KZ2JTLWZaMWJFYXcyZmNCTDdVQTRFdDc0VGpWR0x6ODl2cmlLYjNOdURhcXhxbXUtWTVDQQ?oc=5",
-      "published": "2026-05-29T07:00:00+00:00",
-      "snippet": "Click Holdings Limited (Clik) Acquires Hong Kong Construction Hr Tech Company, Targeting Over Hk$50 Million Annual Revenue In New Segment Within Two Years TradingView",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "246c01c36b669b4b9625193444545ffb",
       "title": "Click Holdings Acquires Hong Kong HR Tech Firm, Eyes HK$50M+ in Revenue - geneonline.com",
       "source": "geneonline.com",
@@ -253,22 +263,12 @@
       "language": "en"
     },
     {
-      "id": "dea31b6e4dc9ef039bc8ea2b3ba496f4",
-      "title": "Click Holdings stock jumps on HR tech acquisition - Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFF5MXlaQ0tfYnJmYUdJTmNORF84TXFMLUVQLWxvRlVZVlVnRnppdnlIRmFrODh5bURSVTY3RXNsOFJKLXZrTzdlZXBMcjVIZWYzd0YtMDIyUE1CWHJjLWE2bkIwS2FYa2JiNDdlSl9JTEppZ3hYcXZRVHRZZ3c1UTlFeTVsWGFwV0p5OVZybzlBbDdxSFNMRW4xa0VfZHZpUjd0bVc1TnVuanYxUktFRg?oc=5",
-      "published": "2026-05-29T07:00:00+00:00",
-      "snippet": "Click Holdings stock jumps on HR tech acquisition Investing.com",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "8f948b1eb3cf941f5c08317305b6bc0a",
-      "title": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting - citybiz",
-      "source": "citybiz",
+      "title": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting - citybiz.co",
+      "source": "citybiz.co",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3oyc1BVVURncmtMVWRTT3NFUnZxQmNGdWdWNkVzNDhtTklGRWZrck83alJCcjlCYjI0cU1nZjdUT19CRGt0bDEtVlZZWVZoWDJCY3p1UWEtc3VLUi1mbEhqbnZJTnEwSTJNVlFfaUl6Z3k3bjRBVnFnTEZZUXpJMmRxdm5vQ25GVWpSaDlzYWlPcnR1dzVST252Ql9vN3FpcmkxcTdwUDFxU3FXNV81ZW03SGJkQlNjQ1pkMmdsMEUzZw?oc=5",
       "published": "2026-05-28T14:29:35+00:00",
-      "snippet": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting citybiz",
+      "snippet": "JobGet Acquires RippleMatch to Expand AI Hiring Platform Into Early-Career Recruiting citybiz.co",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -294,11 +294,11 @@
     },
     {
       "id": "6684e89dcefa64104d6871d7d215ba38",
-      "title": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform - citybiz",
-      "source": "citybiz",
+      "title": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform - citybiz.co",
+      "source": "citybiz.co",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTItamhBVmE1QWpTR3JhQ1NEZG5sSU4yMlVkMWNTUU42SXNIOVpYc2s1eWFPenRuczVnYm1TXzdMQkZRVm9sUzRDazNaYW5qc1RnX21mbjNzQmpWdExmVGFMTEk4OTRiRFVGb3NhbVRkWmgxQTYxMXJMS2ZlVGhwVmxfcFlBM3MxQXR1a0VKQktjNE9uSUZaNXQ1dXRBLURsSFBkREtVcnlQZG4wSlFhdHpR?oc=5",
       "published": "2026-05-26T07:00:00+00:00",
-      "snippet": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform citybiz",
+      "snippet": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform citybiz.co",
       "category": "investments",
       "language": "en"
     },
