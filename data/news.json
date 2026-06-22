@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T09:41:18Z",
-  "total": 34,
+  "last_updated": "2026-06-22T11:41:48Z",
+  "total": 31,
   "articles": [
     {
       "id": "46c907f051a522afccdd9315469b2e92",
@@ -143,16 +143,6 @@
       "language": "en"
     },
     {
-      "id": "7f28eea2e44d2b555b8ccfa281fc242f",
-      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Global",
-      "source": "People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaW4tcGhCRjltT0xlNW53Vk1TWldOLUpMWGdrc1laTTRnbHFsa3lSbGtndkFSTXd5bGY4eVVwMjVqOUMzU0NQYmkwSU8yQVFWR1o2eUlBNVc4alNNZGNJRU9OOEtYb3hfTG82enZwQ0E5Z0R6a2lKVUJfVHUzLUhSeXVfQXFJdEhOb0dxdjlJeml4OXZHRkZqM1pEN0VVZ2lqWXdRM3pyVmE0aTQ1Q0lFY1RFTUNENE5NUTViS2pISTFGTzZwSmFLdUJBd1M3a1VleDJSZllGa1VXUF9sNWh6dFo2Tmo?oc=5",
-      "published": "2026-06-05T07:36:46+00:00",
-      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Global",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "9fc9ad31bad7bdccf8b78419615586ae",
       "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Media",
       "source": "People Matters Media",
@@ -160,16 +150,6 @@
       "published": "2026-06-04T07:00:00+00:00",
       "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Media",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "1af25639775d0568f4bf5dbe84cb950c",
-      "title": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i - AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWFvV1Z4OHhRYjhtODQ4cHY2Xzg4OVE0NzdhU0FCR2RYQ05wX1paaENyUXBpRFZlNTRFSXBJODNuMEVZUmY1TWJ4M1JJbmtHNXdTZUM3RFNMQmxaQWZsMEtkdXhNREFhVWR4N0hXRnI0VWhuWFg3R3pyZEZOZ2VEYjZmNXYxb01KZEJHeGVtNjI4YVVOTFVQX0dvYUJPUGJjcm5xYTdLcnpIYjNGTDl2OFlkS2tmcHZCVVJlaUNvYW5id19WYVNn?oc=5",
-      "published": "2026-06-04T07:00:00+00:00",
-      "snippet": "German Antidiscrimination Chief Calls for Legal Right to Challenge AI Hiring Decisions as EU Locks i AD HOC NEWS",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -189,6 +169,16 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk5MdzVUVzd4MXR0ckt5S0t3eUFoNnhvRXozRDc2eFdPUHNzZWRPbTlMbXpxcVViZ0pYWG1oeENyaXFDR2hxRW9GbW5WQXRtazA0YWR1RmNLMThmREluRy1Wa0wtYkpVUElPLV83YkhkcW9IQTJETE1ETzZGRERDcW9BbEk?oc=5",
       "published": "2026-06-03T08:56:26+00:00",
       "snippet": "Factorial Raises $150M Series D in Funding FinSMEs",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "b61ae67375f1fd0a2443b88694d05a2d",
+      "title": "Factorial raises fresh capital to turn HR software into AI work - Startup Fortune",
+      "source": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1lEWXMyQk1YNkR6b1FKUXZlNjFVdWlMT21DOE45YW5EcTlUdWo4VGhsNTRBT3ZRVFRfeWhlNkdqMWRiUWxSclVUUGRCZzl3NDRpTl9ZeXBUNnRGUHV4QUpJSFFScDNqZ2F4ODBkbnZEaFd3ZlNMQnlhMlRvWk41N3cxU2haQ1RsUllPWk1XSm9mUk5xclE?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "snippet": "Factorial raises fresh capital to turn HR software into AI work Startup Fortune",
       "category": "investments",
       "language": "en"
     },
@@ -249,16 +239,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX1NFN3RJcm5ibk9tSWZYRmZPLThXQ0w4X1g3bzItTVV6Wl9CYngyakVhNjF6TjRkb0t1VTZSTDNoODh2VUNybEZIMW9vWDVWTFpsM0FDTWppbk1CcXBtR29SODEyM2liQnJSMHJfMy16Wm0wQVIwT2ZaaFVQUjlVb3BoclU3VXA3TThpdHI4clAxcnJZeW51QnNMcUN2UTRWZEJGcFJyalZDNHBZOTc2MDNFUHQzRlhmRHluZGp5ZDJaQllhcW1ESXZwQ1FuSlItZnRzbFZsemxid3BtclhMclU1bG5PWVpMdFlWa091VjMxdmZkMXc4cHdn?oc=5",
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth People Matters Global",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "d0542935b4b03473933c4003e972f486",
-      "title": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3REd1VNbXd3QXZZbEtSNURHQzVpUmVXWDlrSE9CUmRCWWdTZENGaDJBUjB4VzllazZVVlpPTjBscl96N2gyNmpSUU41SmxNYm9vWGhqdG1qWGh1a0ltWHlKNFh3ZGVRRm5WQXhQLVlXZmc1UVBJZHJnNnpVQ01vVUJiT1dMTnFkMzZkd2hQVXZha0R2VUViaXEtSXFJc0NlVHlKNU9ieUFVOUJt?oc=5",
-      "published": "2026-06-01T14:20:20+00:00",
-      "snippet": "FrankCrum Acquires Haneke Design to Strengthen HR Technology Platform citybiz",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -329,16 +309,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTItamhBVmE1QWpTR3JhQ1NEZG5sSU4yMlVkMWNTUU42SXNIOVpYc2s1eWFPenRuczVnYm1TXzdMQkZRVm9sUzRDazNaYW5qc1RnX21mbjNzQmpWdExmVGFMTEk4OTRiRFVGb3NhbVRkWmgxQTYxMXJMS2ZlVGhwVmxfcFlBM3MxQXR1a0VKQktjNE9uSUZaNXQ1dXRBLURsSFBkREtVcnlQZG4wSlFhdHpR?oc=5",
       "published": "2026-05-26T07:00:00+00:00",
       "snippet": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform citybiz",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "95153b7392ca1e8b9aa9c0ad78dfeae8",
-      "title": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors - Arab News PK",
-      "source": "Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRU1hVHJsWnN5U2o5dDdVaW96V1BRTUJJNEFtdms5NVBOeVNlUm1Ib3VJSk83VnhVdmQ4OWRBbWNDdENyNTl0RXBVV25TdVdac1V4c09VaGxIV2R3OS1FZU1kYw?oc=5",
-      "published": "2026-05-23T07:00:00+00:00",
-      "snippet": "Startup Wrap: MENA startups attract fresh funding across fintech, HR tech and AI sectors Arab News PK",
       "category": "investments",
       "language": "en"
     }
