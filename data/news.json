@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-06-22T11:41:48Z",
-  "total": 31,
+  "last_updated": "2026-06-23T09:28:21Z",
+  "total": 39,
   "articles": [
+    {
+      "id": "668bba0793ae10fe27307c76b234dd11",
+      "title": "Judge says Workday to face lawsuit over AI bias in job screening tools: report - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekRWWFV4bEk5UHgyV0dTNTRrNlRhM2R3UkJOaFhZLW1RMUdFWGlONElJYmZxUjE0VVJOZ1ZucXhoTkYxWUd1dGx0Rk0xdTBnOVA4LW03YzA5U05wdndqX2kwMl9sUkN6d2c3T2ZSMWRtVk9zSURQUlRsYk8tWi1UNWx5VHVNVDVQbjl1dzgtYllES3dJS2gwNGhZNE1uc3pobldQMnlpVTIydHRC?oc=5",
+      "published": "2026-06-23T09:01:51+00:00",
+      "snippet": "Judge says Workday to face lawsuit over AI bias in job screening tools: report Seeking Alpha",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "7dbfee78e2c23e8ca92847eb37f77be7",
+      "title": "The algorithm said no: Workday must answer AI bias claims in court - Cybernews",
+      "source": "Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGVfZlBIVWJlbjVWbmpEQlNOMm1xTklXVTVaa3RmdlhqTXhjZ1JYNm9hbnExYXdIaEtMQjA5dmhVdFBhY01FSVZFcHhHVVVLcGstQ0xKeGFiLVo5ZlgxZmZzWC14TTJOX1lNbkxRZE9VMHVSWkJCV3l4dFJiNVFTRXc0NA?oc=5",
+      "published": "2026-06-23T07:47:52+00:00",
+      "snippet": "The algorithm said no: Workday must answer AI bias claims in court Cybernews",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "3732676674ef1b4102bcc6a55c6752e4",
+      "title": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability - Startup Fortune",
+      "source": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVNLSWN6eTBiSllhZ0dBMjF4WTEzbTcxMTJJZ0YtdjNVbmF4UnpxRDZRMlREMTg3VHVFcEVETS1SZEdncWFrbU9BYi1jRmtLYTJzakZyTmswQW51WG9aRUpqQjVScjR0SXUtcENtZW9ad0JTUmItU1JSU3Y1Yml4eFprYk5qQTBJN2s4bThtY2hROU9ZUXNlQ3otTkpOeU5xV1cya3djeUhTb1g3b1dSeWdJMDUwWlV1dlVsVEZKSjFTTW42M24teDVVQ1c4WVU?oc=5",
+      "published": "2026-06-23T00:53:23+00:00",
+      "snippet": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability Startup Fortune",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "fbdb6b4c93306392a6418d904f1b0860",
+      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - mezha.net",
+      "source": "mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXM5SWc3Mmx3RzdFOWtJenhCekpEdHJKNS1qQVkxaWE2OHJYdjlGX2EzMlZGWGNiQlMyMjhyTVhzUDJNdlBmS1lFaXFnMmFQQUpELU9DbXR1S3RxaGRTWkZzSkM?oc=5",
+      "published": "2026-06-22T23:41:07+00:00",
+      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination mezha.net",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "7694c92fc58564f21d2b04a6a667eac8",
+      "title": "Workday must face California lawsuit over AI bias in job screening tools - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEFnaDFLeWpTOHU2eUZGaFItaXZxU1g2ZVFsVUx4eWNZNlZOUDQyYjJNSG1SajU1OFoyaUhkaGVqbUlZWjA3M1hKeEpRTEJmRi1Qbm04R2FWUGpiV01ZNVljZm1RMUZkSnNHZVpDQVhRa2RvRTRlY2RsTlRaMWNnSTZZMXdUeE92N19zQ2diQTVySmQ0ZktiSG42cEQ0R3NaSGlkX0hMdjd0Z2xYTGYyZkRUY3JRejBMb19BSVY4cw?oc=5",
+      "published": "2026-06-22T21:07:28+00:00",
+      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "4206916ef53317181892c74e77257759",
+      "title": "Workday must face California lawsuit over AI bias in job screening tools - Devdiscourse",
+      "source": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON25TbUFnSS1aRGE5ZDUwT3MtTFhxUDZkOVhnNGdSbnl2bTFITk93V0o4aE15dU9WV0N1UGRrdEFzdHZ6ZkJUN3EzRk1Vb2VRVC1zbWw2RWRFZzFLZGpkWUhHMDRPc015Z1JUTXM1aXNwcHl3SFRUVUFyRDYxWkYxbkgxRVp4dThEQUVWVkgyMk1CN0VGdGJlaVY0YnY1T1dKXzB0N2RYU3dZNXlwQ3c2YkZ6aWhlaGQ0WFNMbzFWemlTbWF0S1p4YWoyMNIBywFBVV95cUxON25TbUFnSS1aRGE5ZDUwT3MtTFhxUDZkOVhnNGdSbnl2bTFITk93V0o4aE15dU9WV0N1UGRrdEFzdHZ6ZkJUN3EzRk1Vb2VRVC1zbWw2RWRFZzFLZGpkWUhHMDRPc015Z1JUTXM1aXNwcHl3SFRUVUFyRDYxWkYxbkgxRVp4dThEQUVWVkgyMk1CN0VGdGJlaVY0YnY1T1dKXzB0N2RYU3dZNXlwQ3c2YkZ6aWhlaGQ0WFNMbzFWemlTbWF0S1p4YWoyMA?oc=5",
+      "published": "2026-06-22T21:07:19+00:00",
+      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Devdiscourse",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "177eb3615ca378835b21d70586dbfce3",
+      "title": "Workday must face California lawsuit over AI bias in job screening tools - Devdiscourse",
+      "source": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnhfSE1YY18xUzVpSFJCWlJScVZWQTVfaFJYRjNQQmVaQ0x0SkxJWV9Dck55ekwzbmNaZjE2OF9DRTlQQXQ3cmhWZDlwd3U2bTlxcWdfMjRIQWlYU3VLcW1NbHJVYnhGVTVvWldvQ2RxbEw4dEo2OHhGWjVYODRaYndTdGVJMzRVVjh2VkJoMVFGVGJaUHFKV0hXYTRENGpIaDI0dEVZZjBkVUF4MHdDXzB1aDNuYUNlUVMwS0tfcDhwUlN1VHfSAcsBQVVfeXFMT0xtc3hvRHVsTm5vWXJ2b1BVZm02SzdnOTIyZ0Vfbm9lcDZCc3kyUW1xNnVFNE1mT0xrRVV0NjZTZkNnVnFQa1ZnSTVNOGdCLVFhc3R2UWJEUXVwNEg5VXVGbHktM1ZjSXlnUUNPQlM1LTFDdWVmRFVpR3BTRVB2TUUwMjc4RWtWVV8wV29kclcxRjRDcDQwQ1ZDTXR3M1o5Vm9uOTN0VGpOVHVKOHFMUVU1Y1R5Z1J3cFhENmtCUEZHRHo1X1FQb3REVzA?oc=5",
+      "published": "2026-06-22T20:09:01+00:00",
+      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Devdiscourse",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "1bf3c3a0852c58152088b35c570ed1f8",
+      "title": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools - MLex",
+      "source": "MLex",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlhGa1R6djN6UlFuWGdMZEFXSzNYUEs2MVFUNGNRQ1QyZmJDMEU0cWRGX2ZCQzFreGJHYkEyYlNVaENGbi0yQW9iNGFlVEEtRlE0a1NaS0JMUFFZczJNaURjcnNWbG82dGZGU1BTMjdjSlRaVlh5NHk4T25XTmNvVVZqb25kZ3AyOEdicHpUdGpjNHAzZzhuNUtMdVpyanJqd21fa0pwcHN4eXhhNm93dFJCVFl6WlI3ODZj0gFaQVVfeXFMTU5EaGxuQnBhY3lfRWdDbmlJekhEUnBleWxkcW9wUXNJVVpnVUVTNk9aZFdWYzlOQkkwa3JjLWo1dFFGYlE0QzFUNXVWZHN2MmJpRTEtUzBnaUp3?oc=5",
+      "published": "2026-06-22T18:25:00+00:00",
+      "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c7af19405c54c5aaab1dab82b75854d7",
+      "title": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools - MLex",
+      "source": "MLex",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKd9IBWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKdw?oc=5",
+      "published": "2026-06-22T18:25:00+00:00",
+      "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "46c907f051a522afccdd9315469b2e92",
       "title": "Orbio AI Lands US$21 Million to Scale AI HR Platform - Mexico Business News",
@@ -123,16 +213,6 @@
       "language": "en"
     },
     {
-      "id": "6fbafff5a6525a468209fab322d598d2",
-      "title": "FrankCrum: Haneke Design Acquisition Enhances HR Platform Capabilities - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdG9FcVl6aC1zLVlYZ19sYzh1blREOGxRNjk1cVktUllpNEE4dXFiTy13NHladmlMeG0ySDduSHZ5NDJIZHV6UzN0dXdFWmF6ekVTR3RpaW5jUHBOc1hrbjVXRjdMSVlXQ3BiOHdRbnpFTEtKR1l1QnVkY2liODJOSElleGRibmtLUFJCMXQ1ZjdaNE3SAZgBQVVfeXFMTy1aSXQ1Tm94WWlGRExHLWpZeGpoYkpQdFVZVlVpZDQxRFhRNGJiUWhONWx6bWlVN2ZndjNGcG8zZFJaVlNUV29lVkI3ZmtzZVM1c0Z1Ml9CNlVBaHRyNFBwbWhYWjZIQ3RUNEtZX2JjWXZqSWd3QS1ibjFnMVRxWHR1VWVJTmplWVphUmdNcUQ3MjljNl9zZVU?oc=5",
-      "published": "2026-06-10T07:00:00+00:00",
-      "snippet": "FrankCrum: Haneke Design Acquisition Enhances HR Platform Capabilities Pulse 2.0",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "4509c693acc0446df5758308fc9ed7c5",
       "title": "RemotePass raises $17.4m to expand UAE-built global hiring platform - Gulf Business",
       "source": "Gulf Business",
@@ -160,16 +240,6 @@
       "published": "2026-06-03T14:42:58+00:00",
       "snippet": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities HRTech Series",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "3fda06d91dbd1f66f05a4ef3643d2601",
-      "title": "Factorial Raises $150M Series D in Funding - FinSMEs",
-      "source": "FinSMEs",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk5MdzVUVzd4MXR0ckt5S0t3eUFoNnhvRXozRDc2eFdPUHNzZWRPbTlMbXpxcVViZ0pYWG1oeENyaXFDR2hxRW9GbW5WQXRtazA0YWR1RmNLMThmREluRy1Wa0wtYkpVUElPLV83YkhkcW9IQTJETE1ETzZGRERDcW9BbEk?oc=5",
-      "published": "2026-06-03T08:56:26+00:00",
-      "snippet": "Factorial Raises $150M Series D in Funding FinSMEs",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -213,6 +283,16 @@
       "language": "en"
     },
     {
+      "id": "3fda06d91dbd1f66f05a4ef3643d2601",
+      "title": "Factorial Raises $150M Series D in Funding - FinSMEs",
+      "source": "FinSMEs",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk5MdzVUVzd4MXR0ckt5S0t3eUFoNnhvRXozRDc2eFdPUHNzZWRPbTlMbXpxcVViZ0pYWG1oeENyaXFDR2hxRW9GbW5WQXRtazA0YWR1RmNLMThmREluRy1Wa0wtYkpVUElPLV83YkhkcW9IQTJETE1ETzZGRERDcW9BbEk?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "snippet": "Factorial Raises $150M Series D in Funding FinSMEs",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "1f90a5531ee93162f83759e747d96ffa",
       "title": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe - Tech.eu",
       "source": "Tech.eu",
@@ -229,16 +309,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2oxVTdwQ1VyNTJUNFdqWVlaQURIYThaSTI3T3JwUE9CYkJqYUJrT3k4aDNvcnQ3ZGFDUTVqVFNPTXRTTVhqMkNwQVdGRHVVWi1PUUtPYXp3dE5SeUI5X1NEV2s2dmUtMy15X0dzNU9LenFIWGhELTN3Mk9iN0xVZXh3?oc=5",
       "published": "2026-06-03T07:00:00+00:00",
       "snippet": "Main Capital-backed BCS HR Software acquires Timegrip pehub.com",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "05bde9d8241c0e7c17f70c0ca042a818",
-      "title": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth - People Matters Global",
-      "source": "People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX1NFN3RJcm5ibk9tSWZYRmZPLThXQ0w4X1g3bzItTVV6Wl9CYngyakVhNjF6TjRkb0t1VTZSTDNoODh2VUNybEZIMW9vWDVWTFpsM0FDTWppbk1CcXBtR29SODEyM2liQnJSMHJfMy16Wm0wQVIwT2ZaaFVQUjlVb3BoclU3VXA3TThpdHI4clAxcnJZeW51QnNMcUN2UTRWZEJGcFJyalZDNHBZOTc2MDNFUHQzRlhmRHluZGp5ZDJaQllhcW1ESXZwQ1FuSlItZnRzbFZsemxid3BtclhMclU1bG5PWVpMdFlWa091VjMxdmZkMXc4cHdn?oc=5",
-      "published": "2026-06-02T07:00:00+00:00",
-      "snippet": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth People Matters Global",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -279,6 +349,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFVfaWFrZXJ1TnpYN3g0VHo3cXJ6VGRJU2hFSG96Vl9IUzVUSUpiM3RQekEwXzd2MFNyNUFzX2huZWFWQnh6Njc0Mk96SFRFZVZod29XTTdNR204ZERvTlhCWlhZOGQtNXczRTVudU9hZ3VMMEJzMkNvQVRrQUJHVlVLQnA3NEJIbFhldVZqakFuYnQ1Z3ZfRmNDYlUxeFNHX244?oc=5",
       "published": "2026-05-29T07:00:00+00:00",
       "snippet": "Click Holdings Limited (CLIK) Acquires Hong Kong Construction HR Tech Company, Targeting Over HK$50 Million Annual Revenue in New Segment Within Two Years Yahoo Finance",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "77f767ba8f4d5ce7acb30e7253c92516",
+      "title": "Click Holdings Limited (Clik) Acquires Hong Kong Construction Hr Tech Company, Targeting Over Hk$50 Million Annual Revenue In New Segment Within Two Years - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNm5rZ1RzVGc5VzVyX1ZfZUw3TV8wWnV6UjItM0VDVHdaM2JoWUdndFhEZExNSV9YeHVERC0xQ3h0TUFjc3NPRDZDUjJsd19oSjkyOTF2VUYyeW5wcDJCZ000UTZWSzhWaVZ3VjVHTjIzSDJHNVZiZVgzdjRURHkxN1BQbEd1R182ZTRGbkQ2bWtzMER0dTFucjNZaVJwSlFtSUFhWGFSeUsyTU9BREFwQlp2Y05IU2Y0Q0MwNGZRd1dZdmJnZnZFYW5kbXV1MmVqVlk3eUwzeWY2RzBoMVhWUEhNOGdmV1RHTGJkdXpfaHpxdUlSVDhnQXF0OG4xUHN4bkVwajRfaW11Q0FnV29KZ2JTLWZaMWJFYXcyZmNCTDdVQTRFdDc0VGpWR0x6ODl2cmlLYjNOdURhcXhxbXUtWTVDQQ?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "snippet": "Click Holdings Limited (Clik) Acquires Hong Kong Construction Hr Tech Company, Targeting Over Hk$50 Million Annual Revenue In New Segment Within Two Years TradingView",
       "category": "mergers_acquisitions",
       "language": "en"
     },
