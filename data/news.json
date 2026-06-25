@@ -1,15 +1,85 @@
 {
-  "last_updated": "2026-06-24T08:57:29Z",
-  "total": 43,
+  "last_updated": "2026-06-25T08:52:08Z",
+  "total": 49,
   "articles": [
     {
-      "id": "bb1cb188800571f538a0bfcc5ea1a8b4",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEtEZlRDVm1mVllPVzBiOGdRV19LQ2gwaF91YlNIZzlwT2o1QWoxZ2Y4UnBhYzFORlpUUW1DVTQ3NThPVV80Ymk1Z19vTjBsY1ExUEczdG1zNWZwX1phMm1WNFRwN3owTThocjRhUi1uTHRsd3FqWGhEazhpVTlLTFNobUlnZzF4RUZpNFd2cTVHZkxJbVdWcTl6MkZmbzdHYWxZYm8xZHk?oc=5",
-      "published": "2026-06-23T18:27:18+00:00",
-      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates CryptoRank",
+      "id": "10806ccf07aad0280c3ed7087c1fdfe1",
+      "title": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lKMHk4ME0zY2V0OHZOaUJJS0RhY3RyejIxc291TXp1NWlhMmhldnVXSWlWbm1GUlFfMjRkY2F3MlVMZDN6X3ZxMmEyMWpqckYyNjNlQVJDelpuMXVpcnpRNE1QQmpSeWFQTVBIUjFBUkw3OEVxUlo4RTNmdXJDYVZDb3U5alVMcVNCRXdubnJ2aENpMDZFNFBsOU11eXBiSjJ6RFJ5bjVqUm1pN2JJckM0TjJJLXdid1dMVXR5UQ?oc=5",
+      "published": "2026-06-24T16:25:21+00:00",
+      "snippet": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8af9f3329111f8bcf605aa01abd9ab8d",
+      "title": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools - peopleofcolorintech.com",
+      "source": "peopleofcolorintech.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZvbmJlV3BadWhvSVZCMFdHdlVTZ0Z0aHo2a1pGTmc0SGFqQmRaZnl0TVFjTVl5Q2pxRGNPajRkWGh2bnFucktNelpoVkJVU1VYX1lVdVQzTXBlMGZiUUJhc3dXZ2xfcWFNalE1SDdwSkNxM2tQNFY1YV8xOGJoYm1lS0czTXRmOEd5VjRCWGhVVHBCb0s1MUttWkdqUkkxQjl3X0ZJdWQzczRjTWFhZUt6RDV6cGh4a0xYclFJSVVicnZ2ZWN0T3hvcXgyUTB5bmFJRWlfekxidw?oc=5",
+      "published": "2026-06-24T13:46:29+00:00",
+      "snippet": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools peopleofcolorintech.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "8174fa07c105845fc59f3c520e17e190",
+      "title": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit - Lapaas Voice",
+      "source": "Lapaas Voice",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEdPWnI4a01VYVdzTHltR0NBZ0dqU3lKU0pIZzIyY2U4VjU0d0dicExLVkJ3cjBibWhZZUI2Qno3Y2pNcHlUdUlPaWI4amVGLURlRG1ZU3JyS1lPQXlTU2w2UzZFQkczcHVyV3FrLXJLUEpTVnByQTBPN0ZUOEx2VnVJTQ?oc=5",
+      "published": "2026-06-24T12:49:52+00:00",
+      "snippet": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit Lapaas Voice",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "ac83cf8e2f49a17df4ca5b5d15e973a3",
+      "title": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents - Lapaas Voice",
+      "source": "Lapaas Voice",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbmt5RDI2a28wX1h1MUc1dmQ5U1RuZ29fZnBMV3dJY3FGaERUWjE3UFRVZDJqb0xrU3d0NXVlZlN2cmJxcF9fN1cxbGdDVWZrNHZQUzk4dmJUX0VmTHNRR29iNVlEVG1YZjI4WTBicXQwdzZQcVE?oc=5",
+      "published": "2026-06-24T12:41:28+00:00",
+      "snippet": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents Lapaas Voice",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "3949dfaf13140bdcd354a09ac72db3cd",
+      "title": "Judge refuses to dismiss most Workday hiring bias allegations - HR Executive",
+      "source": "HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjdkczdzYkcwUkRxZ0tmVl8yWGZ5dWxHUUFRQXM5cVRLVGExa000eHNoQ00wRW1zNndWbDMtaGkzMENLMi1OVG94MWFsXzQ1TjJ5b1pwLW1TVERBei1kUzBLNXZmSjBTM2U1VldWa2NlclpiX1B5bGxsYThEZFExcHR6RnVrUGc0a09VOGIwNA?oc=5",
+      "published": "2026-06-24T12:00:40+00:00",
+      "snippet": "Judge refuses to dismiss most Workday hiring bias allegations HR Executive",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "99ae66abd32f45c884eb25d16f719384",
+      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnNVakRCa0FzaHpJMDNraGd6WmpPQThHb0ZLWTZkckh3c0hfNi1waVIwUXpNdmNMWUlTMUhjdUROMENOTkt5dlU2WUZkUG4tNHBQRjNKa2JjclgzRDlUMFhKbzJFLWs4Q2M1bmJYQ2oxRTNFM0p3V1FLVzZHRUxWY19SVVVVdzQwLWM1cXdBbTJYVXhacDdXMXRJRi1PRnRQQVZCcw?oc=5",
+      "published": "2026-06-24T05:23:08+00:00",
+      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c44e93ee24503d158439e34fc9257d89",
+      "title": "Workday can’t shake California AI discrimination claims - HR Dive",
+      "source": "HR Dive",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWS1vWmZpaGN4cktENjUxdUJXejFMWmZrZExlVFBxR0M2UnBWTFZJMmx1X0Y5bnJ1NjJObk52MzU2MER3NmhYdnF1dXBOa3FGSmVfNjFkS0EtbXNqR2dpVmMtbEl4NWs1UkxoemE1UklPTUxUN1owMk5DcV8zQkR3LQ?oc=5",
+      "published": "2026-06-23T20:58:08+00:00",
+      "snippet": "Workday can’t shake California AI discrimination claims HR Dive",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c60bca0f3613f4069996bc08929f6e5b",
+      "title": "California Judge Upholds Discrimination Claims In Lawsuit Filed Against Workday's AI Job Screening Tools - afrotech.com",
+      "source": "afrotech.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVFF4aG1yb3djSmRJeklkRklHcUMxR21KVDJSX0drZ25oN0MzdDFVTjNRNElNV3pqSk8zU2NXR09hNTVkbjMtektPb3ZXclQ5d0RsNkNxZmNOUndKekNwU2haaTBxMGp4NEtqbDNrS2NBVVRZZlViTjFIV1JCT21laGtOaVR3UnZBMkpz?oc=5",
+      "published": "2026-06-23T20:26:10+00:00",
+      "snippet": "California Judge Upholds Discrimination Claims In Lawsuit Filed Against Workday's AI Job Screening Tools afrotech.com",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -23,23 +93,13 @@
       "language": "en"
     },
     {
-      "id": "475c149c78fc4ba8637ce6500180fab2",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkxIX1ZranREV3JIbmlXd2JuUnBBSzVSWUl0NWpjSFNON1hMYmtFWThlWER4V0hiWWVHQ21jZnJDYjJlWFl6c0hZdWJ4VHEzb1JTMjZTNUY2WmZzOTRfZnV4THRrRm9ObEtZSi1iaVVHMHYxUUxpcG5yUmtuZ3JMLXJxSllTWG1EX1NWRDdHMkdVTzBnTUhXT1NFaWJNY1lkUlNhWFRfMVZjNFB0SHRPak9XLXRPZWJpUWxic1R2a1ZNQ0pOVXdzM0xB?oc=5",
-      "published": "2026-06-23T13:00:00+00:00",
-      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates TechCrunch",
+      "id": "df3b84e63958c839fdcbd2495fd34b7a",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - Bitcoin World",
+      "source": "Bitcoin World",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjlQQW9mUDd0clRucnhRS0lTRmYxZkRaa0JMN0poVHFNUFNDR0NTRlcxb3NXY2hMNlktUFkwQWhFSkc2WGxXSkhNeUZVTGJ6SWg1YXczU3Fka0pRbFMzckticEpNVzRXbVZhbkJGTDlSamxVTmg5ZzJUUUl0MC10aUFjTkFoZUI3WGdxelI3RDBva0ZHNXNqcV9oSQ?oc=5",
+      "published": "2026-06-23T14:10:11+00:00",
+      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates Bitcoin World",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "ce830fb7071616c384c9bfa6a5583d72",
-      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVB3d2Z0MXNHR2VlVXZpTE9RbWtMY3JWYVRQSS01bWdtMDI3RXFXaUxoMzJkOFlDZWtjWlp2aWV3ZXBWT3E4MjE2LTAzVGFGTDBVeU5OM1Vpc2YxajB4czBMUXYwSmJsMmIwNmN2TVQ5XzVlaFZiaTRua1hLb0lZUW9tZ0k3eWhSMzlGbWZjMGJRMm80?oc=5",
-      "published": "2026-06-23T12:29:48+00:00",
-      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -233,6 +293,16 @@
       "language": "en"
     },
     {
+      "id": "5ca010508f44709b464c48dbe6785df6",
+      "title": "Sloneek raises $6M to turn HR software into AI agents - Tech.eu",
+      "source": "Tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUI4MGtETWFacklTNVBCeTB4ZDgtZE92eWRfenh1bEVQREtPY29oMEtwTGliRTFFSlNGUWNMV1VzZEJkSW12ZW82Rzc0c0xHdjgxM2ptM2VxVGVWWnQ4QlpWZVNfTGtHNGZlTTA5SmxsSWxaVWhTMXVQdGQ1YVE2TUN3OTRHRWc?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "snippet": "Sloneek raises $6M to turn HR software into AI agents Tech.eu",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "a5be8f673b732456a53eb2e5e021c6af",
       "title": "Citation acquires payroll software company PayCaptain - FinTech Futures",
       "source": "FinTech Futures",
@@ -259,6 +329,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEdVY0JIcVliSFZyN21wanY5NFZKUURlNkNySlpNUzNYTjdyZEczdjQtOXh0bEc2VHZyUGdaTG9oUFN4OHE2aGZZU29jLXN6ZE44T3BYTjNxLUZleHdWQzBNNUU2WHR3djVYYnNrOVZnQnhqS29YZW9rVzFwN25kZzdfdzdMM01LZndQdHRKeXRtWkthMHZucw?oc=5",
       "published": "2026-06-08T14:15:22+00:00",
       "snippet": "RemotePass raises $17.4m to expand UAE-built global hiring platform Gulf Business",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "7f28eea2e44d2b555b8ccfa281fc242f",
+      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Global",
+      "source": "People Matters Global",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaW4tcGhCRjltT0xlNW53Vk1TWldOLUpMWGdrc1laTTRnbHFsa3lSbGtndkFSTXd5bGY4eVVwMjVqOUMzU0NQYmkwSU8yQVFWR1o2eUlBNVc4alNNZGNJRU9OOEtYb3hfTG82enZwQ0E5Z0R6a2lKVUJfVHUzLUhSeXVfQXFJdEhOb0dxdjlJeml4OXZHRkZqM1pEN0VVZ2lqWXdRM3pyVmE0aTQ1Q0lFY1RFTUNENE5NUTViS2pISTFGTzZwSmFLdUJBd1M3a1VleDJSZllGa1VXUF9sNWh6dFo2Tmo?oc=5",
+      "published": "2026-06-05T07:36:46+00:00",
+      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Global",
       "category": "investments",
       "language": "en"
     },
@@ -333,6 +413,16 @@
       "language": "en"
     },
     {
+      "id": "3fda06d91dbd1f66f05a4ef3643d2601",
+      "title": "Factorial Raises $150M Series D in Funding - FinSMEs",
+      "source": "FinSMEs",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk5MdzVUVzd4MXR0ckt5S0t3eUFoNnhvRXozRDc2eFdPUHNzZWRPbTlMbXpxcVViZ0pYWG1oeENyaXFDR2hxRW9GbW5WQXRtazA0YWR1RmNLMThmREluRy1Wa0wtYkpVUElPLV83YkhkcW9IQTJETE1ETzZGRERDcW9BbEk?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "snippet": "Factorial Raises $150M Series D in Funding FinSMEs",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "1f90a5531ee93162f83759e747d96ffa",
       "title": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe - Tech.eu",
       "source": "Tech.eu",
@@ -340,16 +430,6 @@
       "published": "2026-06-03T07:00:00+00:00",
       "snippet": "Factorial raises $150M Series D at $2.5B valuation to expand across Europe Tech.eu",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "20781fa92e62d856fb8fa234fb2ff503",
-      "title": "Main Capital-backed BCS HR Software acquires Timegrip - pehub.com",
-      "source": "pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2oxVTdwQ1VyNTJUNFdqWVlaQURIYThaSTI3T3JwUE9CYkJqYUJrT3k4aDNvcnQ3ZGFDUTVqVFNPTXRTTVhqMkNwQVdGRHVVWi1PUUtPYXp3dE5SeUI5X1NEV2s2dmUtMy15X0dzNU9LenFIWGhELTN3Mk9iN0xVZXh3?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "snippet": "Main Capital-backed BCS HR Software acquires Timegrip pehub.com",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -383,16 +463,6 @@
       "language": "en"
     },
     {
-      "id": "71cb6f1a10738388b34ed7e013339dd1",
-      "title": "Click Holdings Limited (CLIK) Acquires Hong Kong Construction HR Tech Company, Targeting Over HK$50 Million Annual Revenue in New Segment Within Two Years - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFVfaWFrZXJ1TnpYN3g0VHo3cXJ6VGRJU2hFSG96Vl9IUzVUSUpiM3RQekEwXzd2MFNyNUFzX2huZWFWQnh6Njc0Mk96SFRFZVZod29XTTdNR204ZERvTlhCWlhZOGQtNXczRTVudU9hZ3VMMEJzMkNvQVRrQUJHVlVLQnA3NEJIbFhldVZqakFuYnQ1Z3ZfRmNDYlUxeFNHX244?oc=5",
-      "published": "2026-05-29T07:00:00+00:00",
-      "snippet": "Click Holdings Limited (CLIK) Acquires Hong Kong Construction HR Tech Company, Targeting Over HK$50 Million Annual Revenue in New Segment Within Two Years Yahoo Finance",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "77f767ba8f4d5ce7acb30e7253c92516",
       "title": "Click Holdings Limited (Clik) Acquires Hong Kong Construction Hr Tech Company, Targeting Over Hk$50 Million Annual Revenue In New Segment Within Two Years - TradingView",
       "source": "TradingView",
@@ -420,16 +490,6 @@
       "published": "2026-05-28T07:00:00+00:00",
       "snippet": "JobGet Acquires RippleMatch, Expanding Its AI-Powered Hiring Platform Across Hourly and Early-Career Talent PR Newswire",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "6684e89dcefa64104d6871d7d215ba38",
-      "title": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTItamhBVmE1QWpTR3JhQ1NEZG5sSU4yMlVkMWNTUU42SXNIOVpYc2s1eWFPenRuczVnYm1TXzdMQkZRVm9sUzRDazNaYW5qc1RnX21mbjNzQmpWdExmVGFMTEk4OTRiRFVGb3NhbVRkWmgxQTYxMXJMS2ZlVGhwVmxfcFlBM3MxQXR1a0VKQktjNE9uSUZaNXQ1dXRBLURsSFBkREtVcnlQZG4wSlFhdHpR?oc=5",
-      "published": "2026-05-26T07:00:00+00:00",
-      "snippet": "Contrario Raises $2.3M Seed Round to Expand AI-Powered Recruiting Platform citybiz",
-      "category": "investments",
       "language": "en"
     }
   ]
