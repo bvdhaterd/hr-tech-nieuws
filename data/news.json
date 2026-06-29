@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-28T08:44:23Z",
-  "total": 51,
+  "last_updated": "2026-06-29T10:45:31Z",
+  "total": 50,
   "articles": [
+    {
+      "id": "688b993c9867c24d42df4fc8b2024ba8",
+      "title": "Workday faces lawsuit over AI bias in job application screenings - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmhOSWNnVmtZczZCU3BvX1BkVGJSUkx6RnVBRHlBNjFBVWY4UFV0QkxhV09CdnRDNnVVeWNTczZkRzk1SnkzdU5rSW12dEQ5NTM0cVR6MWZhVktLSXRMNllFQnZiUFFpdG84V2trTjB5ZURJLU5nMk1pRDNlYzRKU3hORlB1X0JDSS1hSnJGVng0d1I1aEV2cmhsRkU3QVYwU0w2SmMyLVIzOWRjQi1FbWxOVTRlZEhHcnExWW9MZw?oc=5",
+      "published": "2026-06-28T11:20:07+00:00",
+      "snippet": "Workday faces lawsuit over AI bias in job application screenings MSN",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "709f4a056e465476728dd563a1582b8c",
       "title": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening - Baller Alert",
@@ -153,16 +163,6 @@
       "language": "en"
     },
     {
-      "id": "ce830fb7071616c384c9bfa6a5583d72",
-      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVB3d2Z0MXNHR2VlVXZpTE9RbWtMY3JWYVRQSS01bWdtMDI3RXFXaUxoMzJkOFlDZWtjWlp2aWV3ZXBWT3E4MjE2LTAzVGFGTDBVeU5OM1Vpc2YxajB4czBMUXYwSmJsMmIwNmN2TVQ5XzVlaFZiaTRua1hLb0lZUW9tZ0k3eWhSMzlGbWZjMGJRMm80?oc=5",
-      "published": "2026-06-23T12:29:48+00:00",
-      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "b72f501e0b0d724460065a8a74aac833",
       "title": "‘The claims in the suit are false’: Workday hits back amid lawsuit claiming AI recruitment discrimination - IT Pro",
       "source": "IT Pro",
@@ -193,16 +193,6 @@
       "language": "en"
     },
     {
-      "id": "fbdb6b4c93306392a6418d904f1b0860",
-      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - mezha.net",
-      "source": "mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXM5SWc3Mmx3RzdFOWtJenhCekpEdHJKNS1qQVkxaWE2OHJYdjlGX2EzMlZGWGNiQlMyMjhyTVhzUDJNdlBmS1lFaXFnMmFQQUpELU9DbXR1S3RxaGRTWkZzSkM?oc=5",
-      "published": "2026-06-22T23:41:07+00:00",
-      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination mezha.net",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "7694c92fc58564f21d2b04a6a667eac8",
       "title": "Workday must face California lawsuit over AI bias in job screening tools - Reuters",
       "source": "Reuters",
@@ -223,10 +213,10 @@
       "language": "en"
     },
     {
-      "id": "58c24d84faacebdd34c93223675e8213",
+      "id": "7b3d6800174fc1cbbb3c9818ab618aac",
       "title": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools - MLex",
       "source": "MLex",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0gtT1hmU2tYRV9XemloeGZMd2EwbXY3M01zR0J5dU51bVlGd1F0cF92LUMtcVdOclRDWWhaaWJ1azI3T0k5WDBSaXZDdEIycl9IdWhDT2NzRWtOMGppVk5iMGs2cjk5c0lSWmJBcWR1LWt3LU5PYWZoamt1RzcxZGxDZ0NIeTRPcmtWMW1sRl9WWU8xWGluaVpUQkM2Q2xFdXRNSFpMUm1fVUg2amljQXM0TmVVd2lOVlk3ZW9TVG9Ubm1KREtfa0hGWFItV0I3UW9La2NMcUg1NE4zb3JvT3RR0gFaQVVfeXFMTU5EaGxuQnBhY3lfRWdDbmlJekhEUnBleWxkcW9wUXNJVVpnVUVTNk9aZFdWYzlOQkkwa3JjLWo1dFFGYlE0QzFUNXVWZHN2MmJpRTEtUzBnaUp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzEyb1ZPM3VOQXZLVHRrbDF6QXhNa2RHNjdFY2RRdVBiWGJ3enRZN25xdTNUYklPajBLcXp3MFdOb2FZXzVjN1NXcVJFbzJlcFBFQTE4Sk1hNlEzdmR3Z1pWYmJmbW5VbVppNTAwZWZkd1BmUEVpdFFxdnIxaFRvR3lZSVFxVlVkSkMtdWMxN2R0aU9CYnBsRXU5ZW4zQndBVjBSaUU3Y1VadC1selh0UFpadF9xWDRLX2h3X1NCTThQZ9IBWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKdw?oc=5",
       "published": "2026-06-22T18:25:00+00:00",
       "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
       "category": "lawsuits",
@@ -283,16 +273,6 @@
       "language": "en"
     },
     {
-      "id": "823d061a37b363758d9fa26f843a2922",
-      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElINGw5LVI1aTEtWFI3MkdTYlFTWHo1X09fM3Y2eWs2c29BZzNveUZfQmpmcm93VC12NG1OWE9Eb0NlNm80ZTY5LTcwazFXbmFWbzdaZDZTZTBjS1J2bDQycGJ4Mm0yajZWdl9ZRUk2WmVHN2N6U0tURjNndzZtT3NlS3ZJSmtpNFp3ejh3QnVkRHNyenBUVnJsSzloUQ?oc=5",
-      "published": "2026-06-16T17:52:49+00:00",
-      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "d26111878b20f07b1f2fd96ac091f665",
       "title": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers - unleash.ai",
       "source": "unleash.ai",
@@ -309,6 +289,16 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUI4MGtETWFacklTNVBCeTB4ZDgtZE92eWRfenh1bEVQREtPY29oMEtwTGliRTFFSlNGUWNMV1VzZEJkSW12ZW82Rzc0c0xHdjgxM2ptM2VxVGVWWnQ4QlpWZVNfTGtHNGZlTTA5SmxsSWxaVWhTMXVQdGQ1YVE2TUN3OTRHRWc?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "snippet": "Sloneek raises $6M to turn HR software into AI agents Tech.eu",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "823d061a37b363758d9fa26f843a2922",
+      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElINGw5LVI1aTEtWFI3MkdTYlFTWHo1X09fM3Y2eWs2c29BZzNveUZfQmpmcm93VC12NG1OWE9Eb0NlNm80ZTY5LTcwazFXbmFWbzdaZDZTZTBjS1J2bDQycGJ4Mm0yajZWdl9ZRUk2WmVHN2N6U0tURjNndzZtT3NlS3ZJSmtpNFp3ejh3QnVkRHNyenBUVnJsSzloUQ?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz",
       "category": "investments",
       "language": "en"
     },
@@ -463,6 +453,16 @@
       "language": "en"
     },
     {
+      "id": "330353f4dc132993033812b713c988b3",
+      "title": "Recur Software Acquires PCRecruiter with Long-Term Commitment to Product Investment - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdllMSDU1YmE5MnIzb1c1eV9BMk52RVBLUjVqdlJyRHpZY1N0Qjl4SDVPVlhTa3FsM1hyd0NoSzVfc3lCc28zUHVoSXg1Mnhad2JreWlQR1BFLVo5dUlqS0lCSmpvWG0ybDVjS2c3VnR1aUJXN0dVYUpnQjh0Z1lISnlUNWV5SlduZDhZcXllOGwtSHlkMjJ2N3BVcndOTWo2XzUxNXhkV3hZaS03dURLUGRfQkJfYy1Pd2NGZms2WndDYkdUY3lBT2xwS1UweC1yZFE?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "snippet": "Recur Software Acquires PCRecruiter with Long-Term Commitment to Product Investment HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "05bde9d8241c0e7c17f70c0ca042a818",
       "title": "Click Holdings acquires Hong Kong construction HR tech firm, Eyes HK$50 million revenue growth - People Matters Global",
       "source": "People Matters Global",
@@ -500,16 +500,6 @@
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "The legal mistake courts should avoid in Eightfold AI lawsuit TechTarget",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "c7131a8c540563ea0ab498b14a0955cf",
-      "title": "JobGet acquires early career hiring platform RippleMatch - Staffing Industry Analysts",
-      "source": "Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEl3RFdGVzdjOTJpY1JnNFZpV1Y4cVNpLUV3LXl0N2M3RTIyQWREZmJ2TXltQ3NjZ2l0OGxXeVRaR0c3MjFNUU1zY2gxdl8tbFNoQWM0OU5rcjlsWEVEdlJSclhVYjNkQU90R0RGS0NNdFpVNi0yQVRyRHV5dWdfWElKWEF4LVU0WDBxN19EQU1idVo4MWszZGliWGxjcmdRQnFYc1lVblBBU2t2RHY3NnJR?oc=5",
-      "published": "2026-05-29T16:00:30+00:00",
-      "snippet": "JobGet acquires early career hiring platform RippleMatch Staffing Industry Analysts",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
