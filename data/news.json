@@ -1,13 +1,33 @@
 {
-  "last_updated": "2026-06-29T10:45:31Z",
-  "total": 50,
+  "last_updated": "2026-06-30T09:22:40Z",
+  "total": 52,
   "articles": [
     {
-      "id": "688b993c9867c24d42df4fc8b2024ba8",
+      "id": "7d1c82042961265903ef62e8778174da",
+      "title": "Workday Fails to Have Lawsuit Alleging Bias In Its AI Tools Dismissed - The HR Digest",
+      "source": "The HR Digest",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGpCUzZmQkFhaktOZEhMYTN3eUhWU0JCTjdxd2FwaEZ0eEhJc1RqTW5TRm9NekhGUTg1cmtUeFNuZEU5OGFYanJCeGRkOVkxVUJ3TFU3aXg5UVBHR0JtTDFzVmR2UWl2ZWZxQTNwcXhDNkxKeDhENm1hUkJ5WkZEX29GdEg5OXNIZFBib1N3Zzl5d21mbWxIV0NJcE9qekk?oc=5",
+      "published": "2026-06-29T13:22:58+00:00",
+      "snippet": "Workday Fails to Have Lawsuit Alleging Bias In Its AI Tools Dismissed The HR Digest",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c8243f8d167f429757f94a237933e9ed",
+      "title": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform - Судово-юридична газета",
+      "source": "Судово-юридична газета",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak10VGpYeDZCclRJWG95SFQ2VzhnUGh4Zm5fWmp2andyTVRram0yMEQ4Y1NBcW1VZkE3YlVIazlTYkxZSXdpVjZJcGp4NTI1YVAyR0ktY2FMZUZHaGZYQ1BqaW1xR3NZUUxPcVBjZ0JMR3RUYmtYeThxSllGS0FrZTd6Yzd3MWhtSDhGTGZRTllfUWxmeHBuYkhyMVowWm5ibHZrZnl6VWY4ZzNJWkpkT0MtdHF6MWFROHJDZnNnT0Y?oc=5",
+      "published": "2026-06-28T19:58:00+00:00",
+      "snippet": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform Судово-юридична газета",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "8e668c0d2fdb71b3fad505ab61ec3de7",
       "title": "Workday faces lawsuit over AI bias in job application screenings - MSN",
       "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmhOSWNnVmtZczZCU3BvX1BkVGJSUkx6RnVBRHlBNjFBVWY4UFV0QkxhV09CdnRDNnVVeWNTczZkRzk1SnkzdU5rSW12dEQ5NTM0cVR6MWZhVktLSXRMNllFQnZiUFFpdG84V2trTjB5ZURJLU5nMk1pRDNlYzRKU3hORlB1X0JDSS1hSnJGVng0d1I1aEV2cmhsRkU3QVYwU0w2SmMyLVIzOWRjQi1FbWxOVTRlZEhHcnExWW9MZw?oc=5",
-      "published": "2026-06-28T11:20:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1hSZVF6MmxRbG9FRmFBTVdZUHgyZFRZX01kNTYtVjdQUl9EdGY0VDQ2ZzU2SHNfOGstVHc1cHM2bzNjMm9HRnBNN1lTbGRfUTBJdnpsZTVVb1dYa0cxbmx5LUU0aGc1NXItdWF5TzdZQlRiUjdUQnk4bEc2dVVXTDR3MFJsTEFOeHNRY0pkamRjNmhIZ0M1VkIyNmtXZmotTVdna3djQkdzdTFpZlJTUlNPdUgyaGF3TUlZOVNmOA?oc=5",
+      "published": "2026-06-27T20:49:32+00:00",
       "snippet": "Workday faces lawsuit over AI bias in job application screenings MSN",
       "category": "lawsuits",
       "language": "en"
@@ -19,16 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PR1p4VXJkZ3FQX0xwRVVCLUFUT3RiX3ZFdS1NYXNuR0puX3o2c2JuVjRuaWRIVzBTNVoxd3BZOWJMUTJYSEtCaWFVR2FJMW9VSVVUMjg2d1VDdC1MTk8zNFN6bE9mZw?oc=5",
       "published": "2026-06-27T13:01:45+00:00",
       "snippet": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening Baller Alert",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "220c8a87a48ef0e469ea7e39eb8444e9",
-      "title": "Workday faces lawsuit over AI bias in job application screenings - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGJld0RaR3hYNFpwYlNPMXo3WHMtck9yd1dzYjdDd2ZqYjg0b24zQ0kxdFcwbVVyejR4WTlfVUx1ZjB1SzNhTkZIdFM3dVltOE5wOGZrWktoZWRrNkJzd0lqWFZLRVAzOWJiSGNjMzlOTE5uWmpia1MyTXlidno2SGlvcmh6ZWxUSDZwT29LdmpXaHRLWGJfQ0E2WkM5Z2FDUjNNZi1rb2N5X194SWdtaTdSUTJMOUlzQjVUWnpXWQ?oc=5",
-      "published": "2026-06-26T20:50:21+00:00",
-      "snippet": "Workday faces lawsuit over AI bias in job application screenings MSN",
       "category": "lawsuits",
       "language": "en"
     },
@@ -153,6 +163,16 @@
       "language": "en"
     },
     {
+      "id": "1b2fae8d6e427a9a6f656e87c5516e54",
+      "title": "Workday Faces Court Battle Over AI Hiring Bias Allegations - MEXC",
+      "source": "MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xeHNnRmp1SWd4Z2hpXzNCUmVTckFTZ0pHZ0h1MlRFV2FMakVwMlBDSXJ1RXV1RFhmdERtMXd5bGdOVjlLc3Njdg?oc=5",
+      "published": "2026-06-23T15:59:53+00:00",
+      "snippet": "Workday Faces Court Battle Over AI Hiring Bias Allegations MEXC",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "475c149c78fc4ba8637ce6500180fab2",
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - TechCrunch",
       "source": "TechCrunch",
@@ -183,12 +203,12 @@
       "language": "en"
     },
     {
-      "id": "3732676674ef1b4102bcc6a55c6752e4",
-      "title": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability - Startup Fortune",
-      "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVNLSWN6eTBiSllhZ0dBMjF4WTEzbTcxMTJJZ0YtdjNVbmF4UnpxRDZRMlREMTg3VHVFcEVETS1SZEdncWFrbU9BYi1jRmtLYTJzakZyTmswQW51WG9aRUpqQjVScjR0SXUtcENtZW9ad0JTUmItU1JSU3Y1Yml4eFprYk5qQTBJN2s4bThtY2hROU9ZUXNlQ3otTkpOeU5xV1cya3djeUhTb1g3b1dSeWdJMDUwWlV1dlVsVEZKSjFTTW42M24teDVVQ1c4WVU?oc=5",
-      "published": "2026-06-23T00:53:23+00:00",
-      "snippet": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability Startup Fortune",
+      "id": "fbdb6b4c93306392a6418d904f1b0860",
+      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - Межа. Новини України.",
+      "source": "Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXM5SWc3Mmx3RzdFOWtJenhCekpEdHJKNS1qQVkxaWE2OHJYdjlGX2EzMlZGWGNiQlMyMjhyTVhzUDJNdlBmS1lFaXFnMmFQQUpELU9DbXR1S3RxaGRTWkZzSkM?oc=5",
+      "published": "2026-06-22T23:41:07+00:00",
+      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination Межа. Новини України.",
       "category": "lawsuits",
       "language": "en"
     },
@@ -237,19 +257,9 @@
       "title": "AI staffing platform raises $6 million, launches new tools - Staffing Industry Analysts",
       "source": "Staffing Industry Analysts",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXF5YzBoY3ByQ0NvS2R5OGhheUhqWTNXWHRFODZ1UGRtckY4RFNKU1BjUGNPN3VXLUl4TVBLNjl2X2pmby1IYm9nSjVXV1ZpTzVkYXAzd1BRQzZYRTdJdUFKSmVkM1BXdmUzWE1KbE1yTVdPQktNOWVicV96Qlk2U1BJNDFaZW9SWE41ZUJsbjJINUJUd0p2U2lQR1pDcERkT2ZrczhSbzVmamhud2xlUmdB?oc=5",
-      "published": "2026-06-18T16:22:57+00:00",
+      "published": "2026-06-18T07:00:00+00:00",
       "snippet": "AI staffing platform raises $6 million, launches new tools Staffing Industry Analysts",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "4f266bc68af6a36846bc61c0748ffa98",
-      "title": "Workday’s AI recruitment tool could be liable for discrimination - cio.com",
-      "source": "cio.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVRqSV9xVHJfdDh4UmRrdDJQbzQ1M3k2ZDhhX0RQV05LUTJwbnY5ZmpPcDMzVXNtRlZvM0N1TnBreHlMekpGWl9Rdi1PdWktMVBFelg0X3pmOXpabHdva0dyUzNWdE5VaVdHaW9SWmJwbWFSODVkeUNKdHpVTE1zT0FSZTFqTHAtZjdCU242OUxseFZaRUZsOEJLbDBXTFl3c09kM2NBQkpzWndNZ1gwRmpBcGh6R0ttRmVwbXpCb09jOWhaYjV0aGhtTGpkZVpxNkZ2MGVn?oc=5",
-      "published": "2026-06-18T01:17:09+00:00",
-      "snippet": "Workday’s AI recruitment tool could be liable for discrimination cio.com",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -260,6 +270,16 @@
       "published": "2026-06-17T10:28:51+00:00",
       "snippet": "HeyMilo AI Raises $6 Million To Expand Agentic Recruiting Platform And Launch New AI Hiring Agents Pulse 2.0",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "4f266bc68af6a36846bc61c0748ffa98",
+      "title": "Workday’s AI recruitment tool could be liable for discrimination - cio.com",
+      "source": "cio.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVRqSV9xVHJfdDh4UmRrdDJQbzQ1M3k2ZDhhX0RQV05LUTJwbnY5ZmpPcDMzVXNtRlZvM0N1TnBreHlMekpGWl9Rdi1PdWktMVBFelg0X3pmOXpabHdva0dyUzNWdE5VaVdHaW9SWmJwbWFSODVkeUNKdHpVTE1zT0FSZTFqTHAtZjdCU242OUxseFZaRUZsOEJLbDBXTFl3c09kM2NBQkpzWndNZ1gwRmpBcGh6R0ttRmVwbXpCb09jOWhaYjV0aGhtTGpkZVpxNkZ2MGVn?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "snippet": "Workday’s AI recruitment tool could be liable for discrimination cio.com",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -364,11 +384,11 @@
     },
     {
       "id": "9fc9ad31bad7bdccf8b78419615586ae",
-      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters - HR News",
-      "source": "People Matters - HR News",
+      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters Media",
+      "source": "People Matters Media",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdnFOdlBpRXR5a1gxRnV2WVRLakZ2ZUJhcUNqTGNXRTQwWVdLcjZfY3RHc1d2V0FIX3h0M05HaFNTNFNzaVI1X3RycVBISHhQQVpNaWNCMlB0N001dERNbGlXQU1XN0tMV2hhQ2tJRE5reTlKQUdoemk4eDJJWDBLell2OF9GMEU3TzFVcTRGVlFwWVZucTZ1WWw4dGJMaXJZaDYwNWM1YXRBMF9wMHYzNGNGX2N6WDE5SndsRTkyT3R0b1VaMjVISmp4emxmV09nSjJCaXYwdl9PN3M?oc=5",
       "published": "2026-06-04T07:00:00+00:00",
-      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters - HR News",
+      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Media",
       "category": "investments",
       "language": "en"
     },
