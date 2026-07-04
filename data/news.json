@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T08:53:42Z",
-  "total": 47,
+  "last_updated": "2026-07-04T08:28:37Z",
+  "total": 44,
   "articles": [
     {
       "id": "2a1eab0a8a4edf7e196dffec740e8811",
@@ -107,7 +107,7 @@
       "title": "Factorial raises $150 million in Series D as East Africa's HR tech market expands - Citizen Digital",
       "source": "Citizen Digital",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzRPUnBaZFhkZjI2ck0wemNHNnRqT0t1T2s1RS1Pc1VZR21PWFBwZnphbm5CVGhFYU91RHY3Nklib0ItNTQxRG56YV9YZmUwNzZ6UHAzVDk0M0d1TkRDUUNRemxsSGEzUkpYMjJabUxSbmFSYW52V3h3c3M0cUxqQ0RocFJTUlNOOVhKay1ZZ1lNazI4U3NvcmxiYjJKcTR3a0FEdG9uWlR6S1Z0bXZtMzgwUXZYaVN0S2dr?oc=5",
-      "published": "2026-07-01T11:15:00+00:00",
+      "published": "2026-07-01T11:17:08+00:00",
       "snippet": "Factorial raises $150 million in Series D as East Africa's HR tech market expands Citizen Digital",
       "category": "investments",
       "language": "en"
@@ -273,16 +273,6 @@
       "language": "en"
     },
     {
-      "id": "b72f501e0b0d724460065a8a74aac833",
-      "title": "‘The claims in the suit are false’: Workday hits back amid lawsuit claiming AI recruitment discrimination - IT Pro",
-      "source": "IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeXlPaU1BbWpQV0NEWjhfYUhnV0tvaDNOX0tDb0MzMWtNbTB0MUUwaTlYa0xNUjNKUTBxNlo0eVVMX0tBNFpkdHNBT2IySTNwVkZ6VzBxbUF4ODMwY1NkSzRoSG52UGdkTzVuNlFFMEtxOHlxSDlnSEtxaHJCOUw4QnA4a0V0NWw1Z3E0MXZ4QXNrYWdFaEIyWXJXcVZmUmtJZFFMdFFRaTNHcENWb2t2SjhDeHNVb2U1cG0tMjA2bWxUYmNHTzNuN0NSWGNiQ3dZYmFLZV9xR2p6UkxoUlpoWmNuOXliUElUTjB6UFp6cGY?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "‘The claims in the suit are false’: Workday hits back amid lawsuit claiming AI recruitment discrimination IT Pro",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "c44e93ee24503d158439e34fc9257d89",
       "title": "Workday can’t shake California AI discrimination claims - HR Dive",
       "source": "HR Dive",
@@ -313,12 +303,12 @@
       "language": "en"
     },
     {
-      "id": "7b3d6800174fc1cbbb3c9818ab618aac",
-      "title": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools - MLex",
-      "source": "MLex",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzEyb1ZPM3VOQXZLVHRrbDF6QXhNa2RHNjdFY2RRdVBiWGJ3enRZN25xdTNUYklPajBLcXp3MFdOb2FZXzVjN1NXcVJFbzJlcFBFQTE4Sk1hNlEzdmR3Z1pWYmJmbW5VbVppNTAwZWZkd1BmUEVpdFFxdnIxaFRvR3lZSVFxVlVkSkMtdWMxN2R0aU9CYnBsRXU5ZW4zQndBVjBSaUU3Y1VadC1selh0UFpadF9xWDRLX2h3X1NCTThQZ9IBWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKdw?oc=5",
-      "published": "2026-06-22T18:25:00+00:00",
-      "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
+      "id": "87bb6f53ed2305eb40af43e1f19c1c8e",
+      "title": "Workday must face California lawsuit over AI bias in job screening tools - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2IyQXZmcXRscjE1bUZKakR3eXRQVnZSVTdFV1FobTRjOGRrM3NfNGRhNlAxcWJTX3pkV2psVkgtUS1jcTI2aDcyZkNlOFY0NmVHSk95Q1ZkVkFzNUxXRUhHbHQwNGhnNDBEQzAyNEU3QnU1SGhwYmV1c1hqY3NjSk50RmpYcWcyU0VBYlAxZFVoNUttSzFYVkpHQ3R0M0Q1cnc?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Yahoo Finance",
       "category": "lawsuits",
       "language": "en"
     },
@@ -330,6 +320,16 @@
       "published": "2026-06-22T07:00:00+00:00",
       "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "46c907f051a522afccdd9315469b2e92",
+      "title": "Orbio AI Lands US$21 Million to Scale AI HR Platform - Mexico Business News",
+      "source": "Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3BIaVpIVTZsM0FLRE5UVldBODA0VlhSNTRJZThpejRYNW1TSndSQ29XTUlWMHg0TW05Uklfb3RkTGxoWUg5cFVJR1I0TEg1Y0xHWEF0ZEJsSzBIcmk2X1BEYkcxY1BnNzA0S0hmOG1IWEhPOW43QjZqdWs0QlFROVhyT1VnR1k2eW1PbWp1bVM3OUU?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "snippet": "Orbio AI Lands US$21 Million to Scale AI HR Platform Mexico Business News",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -423,16 +423,6 @@
       "language": "en"
     },
     {
-      "id": "721c3806e1693adf0b5d1f7689616fad",
-      "title": "Workday will likely face California claims in sprawling AI bias lawsuit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMERLY21nZzFITHdPb1MxVFY1c29wVkRPd3lqeWlwZENEeEhHT0h4STdWRTY5aG0zSm9kQWxJYjFtZEtIa0oxTjFjQjJkN2VJbjBwQnlLaWJRS0R0aUNQdmt2ZmNic2hHVE1XWWNScFdMYWluOUxvQTU0blRLSFk1UXh0SkN5b1plbkJmdEdyVVhOdUJQVWtyRUItVkxQeTdjaDJPU0VEVkE1cHNsSXBBODlsd0RhRnk4UWRyNGt3?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "Workday will likely face California claims in sprawling AI bias lawsuit Reuters",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "a5be8f673b732456a53eb2e5e021c6af",
       "title": "Citation acquires payroll software company PayCaptain - FinTech Futures",
       "source": "FinTech Futures",
@@ -450,26 +440,6 @@
       "published": "2026-06-05T07:36:46+00:00",
       "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters Global",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "9fc9ad31bad7bdccf8b78419615586ae",
-      "title": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdnFOdlBpRXR5a1gxRnV2WVRLakZ2ZUJhcUNqTGNXRTQwWVdLcjZfY3RHc1d2V0FIX3h0M05HaFNTNFNzaVI1X3RycVBISHhQQVpNaWNCMlB0N001dERNbGlXQU1XN0tMV2hhQ2tJRE5reTlKQUdoemk4eDJJWDBLell2OF9GMEU3TzFVcTRGVlFwWVZucTZ1WWw4dGJMaXJZaDYwNWM1YXRBMF9wMHYzNGNGX2N6WDE5SndsRTkyT3R0b1VaMjVISmp4emxmV09nSjJCaXYwdl9PN3M?oc=5",
-      "published": "2026-06-04T07:00:00+00:00",
-      "snippet": "HR tech unicorn Factorial raises $150 million at $2.5 billion valuation People Matters - HR News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "bb8c5e0e041e36a555f95419a3015fa9",
-      "title": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOXVqRWZQQkI0SUFET1Q4eHAtdElIUDlfT0Fvb0YwMERPNDV0bHRkRUNCQk45bG5Ob05UcW1OYVJHWjI5X0lYbDVHZmh1c1c1emd0enlHeGRQUEVUaDBtdUxZUTRJRjN2NTdIcTZmdlhvYWpueGNkNE5BVkdiQ2JuMGxTOTl5MDlDbkNsOU1jamhfekpXMlg3Qk91bHg2d0pLRmljQ043a0h5MmlVbTlyS0VRTFBBSXBnYlZTVHp1WW1UcVZxRGFYRHFrNGZBVm92bGxWWmk2NzFIeE44dk5yT3l3VzdGM2tWamZxYVRiWnpUTEhpc1E?oc=5",
-      "published": "2026-06-03T14:42:58+00:00",
-      "snippet": "Harbor Acquires CE Global Partners, Expanding HCM Advisory Practice with Specialist HR and Payroll Transformation Capabilities HRTech Series",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
