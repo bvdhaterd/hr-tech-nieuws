@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-13T08:56:34Z",
-  "total": 45,
+  "last_updated": "2026-07-14T07:52:21Z",
+  "total": 47,
   "articles": [
+    {
+      "id": "d89c428cfc06c94802b543abfb7c983d",
+      "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhoa0p3ZmZoaUQ4dndVRHAzck04OXFjVWtwSzNZQzFxU25CU3JzaV9EckcwN1BPRmhFdUN2Nm9EZk55a0U5Vk96WTNUeFZTU01EajduVWZjVV81dzV3SmFoQ3UtWS1uUndMei13bVphaTZDMlllYXZfRHFLZmVwZHBuLV9WTmR4ZE0xbldxemZMdVZhZWl0SVI2cDdfUDRJNkpzN0dLbjM1Q1NIbHlGNFA0V2kxYlBMd2VRNTJYT1ZsT3B2Q3hXUXVXakZHWGxEM0NST1RVb19BM0RTZHRhN24tdEd6bnh4Y3lTWlFDQ1lFNHdEQkJKMnJYeWE?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "1e4837f85b2e62b62ffcfc727000d5b2",
+      "title": "Workday, female ex-engineer agree to dismiss retaliation lawsuit - HR Dive",
+      "source": "HR Dive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2lLeHVhTnA0OVl6WWwtdHVlMmJoMW1pRlg0TzlyenJISTlYQ0tXUGpaMGVJQUpTcXpXVlluc0RwLTJSNFFjcGlqSnc1MnlucmZlVmFiNkJuYkwwSWF4N2tFbXFNRGRScEdjR0d4TVJ2d21URlBQLXpyWEU2RHRBTDhxME9yUHBJajFoUWo3S1VickRnWGhqQkVhVURpbXRk?oc=5",
+      "published": "2026-07-13T17:07:01+00:00",
+      "snippet": "Workday, female ex-engineer agree to dismiss retaliation lawsuit HR Dive",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "947cc1a033a3ecb814ceb4b8ea89e402",
       "title": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund - Axios",
@@ -33,6 +53,16 @@
       "language": "en"
     },
     {
+      "id": "78c0e0072550c8b4290e728594408b17",
+      "title": "Top Software Comparison Sites for Recruiting and Talent Acquisition Software - Onrec",
+      "source": "Onrec",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUwtd25UZnRzMGJ4TGEzZEtpczg3a25FVlZHLWwtdE9kNWllMGlnNXpTQWxwZVlPbGZEZXhONmRBNG1Sd2c0clcxN3FQbmE4b1BDVnBBYWdMX0VLVFV1LXN3SE0zR0c3YUZJak0welJ1X05fcmEteFZfdWxUTXJMaEdEdlZIcEc4X2J0LWJFVEF0MWU4TTBKTF9UQTZSbnF1?oc=5",
+      "published": "2026-07-08T01:58:57+00:00",
+      "snippet": "Top Software Comparison Sites for Recruiting and Talent Acquisition Software Onrec",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "af3ce3a35a5c561da168e7bdcb4f1b19",
       "title": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit - Mealey's",
       "source": "Mealey's",
@@ -43,16 +73,6 @@
       "language": "en"
     },
     {
-      "id": "58321ca36956998184381d64fe018a11",
-      "title": "Top Software Comparison Sites for Recruiting and Talent Acquisition Software - Onrec",
-      "source": "Onrec",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHRwYUNGX0c2TXJyVHNzbGRsdnZXOEJuYUliaWJYN01ab2k1T1Qyd3pnZGtnS21YUUNzMl9tMS1FRlFOdUZEUjlxTGhoVEEyenNmR2t3dGwxUmpzaEhMZy1FY3JmVFJvbnluZ3dWOXNmdHBRSW4xalZiWXAxTWthbUN2bS1CbHZfMF95QXQyaTEtazl1U2ZUQ2I0Qld4WlhpWmdOalBR?oc=5",
-      "published": "2026-07-07T11:24:06+00:00",
-      "snippet": "Top Software Comparison Sites for Recruiting and Talent Acquisition Software Onrec",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "2514a19fadcde175c973d26b51445ebe",
       "title": "AscentHR acquires OS HRS to strengthen APAC payroll technology position - TNGlobal",
       "source": "TNGlobal",
@@ -60,6 +80,16 @@
       "published": "2026-07-06T09:26:19+00:00",
       "snippet": "AscentHR acquires OS HRS to strengthen APAC payroll technology position TNGlobal",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "f8e421c7797b4e727c752beb3ad67def",
+      "title": "Eightfold Revenue 2024: $96.6M ARR, $2.1B Valuation - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCR0dlSnY0UW5qSGdaXzF6eGR1SFh5Z3dBeXZuWFpPd2pET2Z0Z3IzalRFd05kcXpucFpnY1VjU1ZjQkpqZ3ByamRubXZzUGYxSHc?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "snippet": "Eightfold Revenue 2024: $96.6M ARR, $2.1B Valuation GetLatka",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -117,19 +147,9 @@
       "title": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker - Black Enterprise",
       "source": "Black Enterprise",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWdmOTFTeDBKc1pHRWZ3NHpuS2Y4RkdTdGhFNXlvczFnUlF4eG5KN24yN1U5WVBJRERvdV9kN1ZSa2hKNks4UVBNX29kT2M3VEFwcWF6Vmp2T3gwOFdNbjB5OXA2ZVh5dExxR25BaUdvX3JhbGNCSncwQjVjWG8wV09FZUNJQlhhOUE?oc=5",
-      "published": "2026-07-01T14:07:38+00:00",
+      "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker Black Enterprise",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "dbdcc54689b97c2dee974f85fc69368b",
-      "title": "Factorial raises $150 million in Series D as East Africa's HR tech market expands - Citizen Digital",
-      "source": "Citizen Digital",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzRPUnBaZFhkZjI2ck0wemNHNnRqT0t1T2s1RS1Pc1VZR21PWFBwZnphbm5CVGhFYU91RHY3Nklib0ItNTQxRG56YV9YZmUwNzZ6UHAzVDk0M0d1TkRDUUNRemxsSGEzUkpYMjJabUxSbmFSYW52V3h3c3M0cUxqQ0RocFJTUlNOOVhKay1ZZ1lNazI4U3NvcmxiYjJKcTR3a0FEdG9uWlR6S1Z0bXZtMzgwUXZYaVN0S2dr?oc=5",
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Factorial raises $150 million in Series D as East Africa's HR tech market expands Citizen Digital",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -183,16 +203,6 @@
       "language": "en"
     },
     {
-      "id": "8af9f3329111f8bcf605aa01abd9ab8d",
-      "title": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools - peopleofcolorintech.com",
-      "source": "peopleofcolorintech.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZvbmJlV3BadWhvSVZCMFdHdlVTZ0Z0aHo2a1pGTmc0SGFqQmRaZnl0TVFjTVl5Q2pxRGNPajRkWGh2bnFucktNelpoVkJVU1VYX1lVdVQzTXBlMGZiUUJhc3dXZ2xfcWFNalE1SDdwSkNxM2tQNFY1YV8xOGJoYm1lS0czTXRmOEd5VjRCWGhVVHBCb0s1MUttWkdqUkkxQjl3X0ZJdWQzczRjTWFhZUt6RDV6cGh4a0xYclFJSVVicnZ2ZWN0T3hvcXgyUTB5bmFJRWlfekxidw?oc=5",
-      "published": "2026-06-24T13:46:29+00:00",
-      "snippet": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools peopleofcolorintech.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "8174fa07c105845fc59f3c520e17e190",
       "title": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit - Lapaas Voice",
       "source": "Lapaas Voice",
@@ -200,6 +210,16 @@
       "published": "2026-06-24T12:49:52+00:00",
       "snippet": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit Lapaas Voice",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "ac83cf8e2f49a17df4ca5b5d15e973a3",
+      "title": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents - Lapaas Voice",
+      "source": "Lapaas Voice",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbmt5RDI2a28wX1h1MUc1dmQ5U1RuZ29fZnBMV3dJY3FGaERUWjE3UFRVZDJqb0xrU3d0NXVlZlN2cmJxcF9fN1cxbGdDVWZrNHZQUzk4dmJUX0VmTHNRR29iNVlEVG1YZjI4WTBicXQwdzZQcVE?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "snippet": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents Lapaas Voice",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -213,12 +233,22 @@
       "language": "en"
     },
     {
-      "id": "df3b84e63958c839fdcbd2495fd34b7a",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - Bitcoin World",
-      "source": "Bitcoin World",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjlQQW9mUDd0clRucnhRS0lTRmYxZkRaa0JMN0poVHFNUFNDR0NTRlcxb3NXY2hMNlktUFkwQWhFSkc2WGxXSkhNeUZVTGJ6SWg1YXczU3Fka0pRbFMzckticEpNVzRXbVZhbkJGTDlSamxVTmg5ZzJUUUl0MC10aUFjTkFoZUI3WGdxelI3RDBva0ZHNXNqcV9oSQ?oc=5",
-      "published": "2026-06-23T14:10:11+00:00",
-      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates Bitcoin World",
+      "id": "8af9f3329111f8bcf605aa01abd9ab8d",
+      "title": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools - peopleofcolorintech.com",
+      "source": "peopleofcolorintech.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZvbmJlV3BadWhvSVZCMFdHdlVTZ0Z0aHo2a1pGTmc0SGFqQmRaZnl0TVFjTVl5Q2pxRGNPajRkWGh2bnFucktNelpoVkJVU1VYX1lVdVQzTXBlMGZiUUJhc3dXZ2xfcWFNalE1SDdwSkNxM2tQNFY1YV8xOGJoYm1lS0czTXRmOEd5VjRCWGhVVHBCb0s1MUttWkdqUkkxQjl3X0ZJdWQzczRjTWFhZUt6RDV6cGh4a0xYclFJSVVicnZ2ZWN0T3hvcXgyUTB5bmFJRWlfekxidw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "snippet": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools peopleofcolorintech.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "bb1cb188800571f538a0bfcc5ea1a8b4",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - CryptoRank",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEtEZlRDVm1mVllPVzBiOGdRV19LQ2gwaF91YlNIZzlwT2o1QWoxZ2Y4UnBhYzFORlpUUW1DVTQ3NThPVV80Ymk1Z19vTjBsY1ExUEczdG1zNWZwX1phMm1WNFRwN3owTThocjRhUi1uTHRsd3FqWGhEazhpVTlLTFNobUlnZzF4RUZpNFd2cTVHZkxJbVdWcTl6MkZmbzdHYWxZYm8xZHk?oc=5",
+      "published": "2026-06-23T18:27:18+00:00",
+      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates CryptoRank",
       "category": "investments",
       "language": "en"
     },
@@ -263,16 +293,6 @@
       "language": "en"
     },
     {
-      "id": "7dbfee78e2c23e8ca92847eb37f77be7",
-      "title": "The algorithm said no: Workday must answer AI bias claims in court - Cybernews",
-      "source": "Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGVfZlBIVWJlbjVWbmpEQlNOMm1xTklXVTVaa3RmdlhqTXhjZ1JYNm9hbnExYXdIaEtMQjA5dmhVdFBhY01FSVZFcHhHVVVLcGstQ0xKeGFiLVo5ZlgxZmZzWC14TTJOX1lNbkxRZE9VMHVSWkJCV3l4dFJiNVFTRXc0NA?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "The algorithm said no: Workday must answer AI bias claims in court Cybernews",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "c44e93ee24503d158439e34fc9257d89",
       "title": "Workday can’t shake California AI discrimination claims - HR Dive",
       "source": "HR Dive",
@@ -293,22 +313,12 @@
       "language": "en"
     },
     {
-      "id": "3732676674ef1b4102bcc6a55c6752e4",
-      "title": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability - Startup Fortune",
-      "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVNLSWN6eTBiSllhZ0dBMjF4WTEzbTcxMTJJZ0YtdjNVbmF4UnpxRDZRMlREMTg3VHVFcEVETS1SZEdncWFrbU9BYi1jRmtLYTJzakZyTmswQW51WG9aRUpqQjVScjR0SXUtcENtZW9ad0JTUmItU1JSU3Y1Yml4eFprYk5qQTBJN2s4bThtY2hROU9ZUXNlQ3otTkpOeU5xV1cya3djeUhTb1g3b1dSeWdJMDUwWlV1dlVsVEZKSjFTTW42M24teDVVQ1c4WVU?oc=5",
-      "published": "2026-06-23T00:53:23+00:00",
-      "snippet": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability Startup Fortune",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "fbdb6b4c93306392a6418d904f1b0860",
-      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - mezha.net",
-      "source": "mezha.net",
+      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - Межа. Новини України.",
+      "source": "Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXM5SWc3Mmx3RzdFOWtJenhCekpEdHJKNS1qQVkxaWE2OHJYdjlGX2EzMlZGWGNiQlMyMjhyTVhzUDJNdlBmS1lFaXFnMmFQQUpELU9DbXR1S3RxaGRTWkZzSkM?oc=5",
       "published": "2026-06-22T23:41:07+00:00",
-      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination mezha.net",
+      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination Межа. Новини України.",
       "category": "lawsuits",
       "language": "en"
     },
@@ -329,6 +339,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2IyQXZmcXRscjE1bUZKakR3eXRQVnZSVTdFV1FobTRjOGRrM3NfNGRhNlAxcWJTX3pkV2psVkgtUS1jcTI2aDcyZkNlOFY0NmVHSk95Q1ZkVkFzNUxXRUhHbHQwNGhnNDBEQzAyNEU3QnU1SGhwYmV1c1hqY3NjSk50RmpYcWcyU0VBYlAxZFVoNUttSzFYVkpHQ3R0M0Q1cnc?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "snippet": "Workday must face California lawsuit over AI bias in job screening tools Yahoo Finance",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "3732676674ef1b4102bcc6a55c6752e4",
+      "title": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability - Startup Fortune",
+      "source": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVNLSWN6eTBiSllhZ0dBMjF4WTEzbTcxMTJJZ0YtdjNVbmF4UnpxRDZRMlREMTg3VHVFcEVETS1SZEdncWFrbU9BYi1jRmtLYTJzakZyTmswQW51WG9aRUpqQjVScjR0SXUtcENtZW9ad0JTUmItU1JSU3Y1Yml4eFprYk5qQTBJN2s4bThtY2hROU9ZUXNlQ3otTkpOeU5xV1cya3djeUhTb1g3b1dSeWdJMDUwWlV1dlVsVEZKSjFTTW42M24teDVVQ1c4WVU?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "snippet": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability Startup Fortune",
       "category": "lawsuits",
       "language": "en"
     },
