@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T07:55:59Z",
-  "total": 50,
+  "last_updated": "2026-07-16T08:02:01Z",
+  "total": 46,
   "articles": [
     {
       "id": "9be531547ecc2f0a897e94e4b549b5c9",
@@ -29,16 +29,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeWEzWlBNQXVvVUhYUjhsckVmWklEczJvRW9BQlh3SVF1endxNGN4amZaM19xTE5BWlM4clNSU3hwbXJvSURVSmV6dU02SEVSOW5lQV9fWDZNemdEZS1FZTF5d3JxQ3VDS0hDNzVVSHdXVXhKREphQnNpaDVxREQyWnlqVXlXQTRmTDlrbGZsUVVidmlFbU9wUGxzSW9mR092SUd3SnRiZGhtaXpZNjZNOUVJVHJKa0gzZjBXYU5xWEJCV2tJZkxCdUYycWJlbndDMTdkUm1oVjVkUmxSX2JJOUxnajZqX2FfbTlaYzVZNVZNQQ?oc=5",
       "published": "2026-07-14T07:00:00+00:00",
       "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "977ddc973890d2880927e994dfb09a54",
-      "title": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions - pehub.com",
-      "source": "pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeF8tTExQdmlzSG1CSjd0VnhxSUx4VlZpQzVsOC11LVkzNkZROEprSk9Sd25NWDdMYk01N0hVYjFib3ZSZnhzNThRSTI0d00xbjdfV0o5SjJFdUIxdnhUT0FnTnBhTmUzcHlGbHpRZEh1Y3piUVp5S1FxQmhzcEN0bi04TVdhRnZhaE5XWGdGcFlDbVN4V3VKMmM3Mk9IQWcyczZaakdMbm02UnotY241LXAtWGtqMEF6N1pCX1dSWTQ1QzFHLThwaF8yVkdmbzRSN1NSbVNnQmFDZTJEbUQtY2NIQUtsY213WjM0REprejJ5bVhkRHc?oc=5",
-      "published": "2026-07-14T05:00:12+00:00",
-      "snippet": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions pehub.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -163,22 +153,22 @@
       "language": "en"
     },
     {
-      "id": "bc88a4a5fab230c2ef20c9fb72c65ae6",
-      "title": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker - Black Enterprise",
-      "source": "Black Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWdmOTFTeDBKc1pHRWZ3NHpuS2Y4RkdTdGhFNXlvczFnUlF4eG5KN24yN1U5WVBJRERvdV9kN1ZSa2hKNks4UVBNX29kT2M3VEFwcWF6Vmp2T3gwOFdNbjB5OXA2ZVh5dExxR25BaUdvX3JhbGNCSncwQjVjWG8wV09FZUNJQlhhOUE?oc=5",
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker Black Enterprise",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "72df05ec6f73eb25c09eb4e7cedcda43",
       "title": "Workday: New Complaint Doesn’t Moot ADEA Appeal In AI Hiring Discrimination Case - Mealey's",
       "source": "Mealey's",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVBIWG5hdGlwVmZKY09JaGxfUWw2UV81QjUtWnZTVUtTNi1pcmlJTlpGaUhkRGo5NTBUVl9MVmVBQWhzbVBGaEdTQ2x2M253UkdqTkNkeE9fQW9ESlRPQzFLaXNSVGtMdjdUOXBiamN3a24zY1NkUmJKeGJXSVdDY2dTbmZPREVkM2tERXdCSkNSNlNDcTVTWVRfS0g2MFFjaTVZTURneHVjWXpGMHd3b0N1bW5iNTJUZGtIZ0huckkzemo5VmFN0gFiQVVfeXFMT0RZejh3dGpqdTduLW03WkFMVnpHOGg3S1hja0JhLWtmZHA5eFRaWXRSSElORmRnVDZZZDBtWjZsWWMwd0tzTElqVWpieUEwYXBFOU9GVHdoZGI5SmFOSkhoblE?oc=5",
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Workday: New Complaint Doesn’t Moot ADEA Appeal In AI Hiring Discrimination Case Mealey's",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "bc88a4a5fab230c2ef20c9fb72c65ae6",
+      "title": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker - Black Enterprise",
+      "source": "Black Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWdmOTFTeDBKc1pHRWZ3NHpuS2Y4RkdTdGhFNXlvczFnUlF4eG5KN24yN1U5WVBJRERvdV9kN1ZSa2hKNks4UVBNX29kT2M3VEFwcWF6Vmp2T3gwOFdNbjB5OXA2ZVh5dExxR25BaUdvX3JhbGNCSncwQjVjWG8wV09FZUNJQlhhOUE?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "Workday Loses Bid To Dismiss AI Hiring Bias Lawsuit Filed By Older Black Worker Black Enterprise",
       "category": "lawsuits",
       "language": "en"
     },
@@ -273,6 +263,16 @@
       "language": "en"
     },
     {
+      "id": "475c149c78fc4ba8637ce6500180fab2",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkxIX1ZranREV3JIbmlXd2JuUnBBSzVSWUl0NWpjSFNON1hMYmtFWThlWER4V0hiWWVHQ21jZnJDYjJlWFl6c0hZdWJ4VHEzb1JTMjZTNUY2WmZzOTRfZnV4THRrRm9ObEtZSi1iaVVHMHYxUUxpcG5yUmtuZ3JMLXJxSllTWG1EX1NWRDdHMkdVTzBnTUhXT1NFaWJNY1lkUlNhWFRfMVZjNFB0SHRPak9XLXRPZWJpUWxic1R2a1ZNQ0pOVXdzM0xB?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates TechCrunch",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "ce109df478b793fa85b8dc3538858e48",
       "title": "Workday to face lawsuit over hiring bias in AI-driven HR software - The American Bazaar",
       "source": "The American Bazaar",
@@ -289,16 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnhfSE1YY18xUzVpSFJCWlJScVZWQTVfaFJYRjNQQmVaQ0x0SkxJWV9Dck55ekwzbmNaZjE2OF9DRTlQQXQ3cmhWZDlwd3U2bTlxcWdfMjRIQWlYU3VLcW1NbHJVYnhGVTVvWldvQ2RxbEw4dEo2OHhGWjVYODRaYndTdGVJMzRVVjh2VkJoMVFGVGJaUHFKV0hXYTRENGpIaDI0dEVZZjBkVUF4MHdDXzB1aDNuYUNlUVMwS0tfcDhwUlN1VHfSAcsBQVVfeXFMT0xtc3hvRHVsTm5vWXJ2b1BVZm02SzdnOTIyZ0Vfbm9lcDZCc3kyUW1xNnVFNE1mT0xrRVV0NjZTZkNnVnFQa1ZnSTVNOGdCLVFhc3R2UWJEUXVwNEg5VXVGbHktM1ZjSXlnUUNPQlM1LTFDdWVmRFVpR3BTRVB2TUUwMjc4RWtWVV8wV29kclcxRjRDcDQwQ1ZDTXR3M1o5Vm9uOTN0VGpOVHVKOHFMUVU1Y1R5Z1J3cFhENmtCUEZHRHo1X1FQb3REVzA?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "snippet": "Workday must face California lawsuit over AI bias in job screening tools Devdiscourse",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "99ae66abd32f45c884eb25d16f719384",
-      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnNVakRCa0FzaHpJMDNraGd6WmpPQThHb0ZLWTZkckh3c0hfNi1waVIwUXpNdmNMWUlTMUhjdUROMENOTkt5dlU2WUZkUG4tNHBQRjNKa2JjclgzRDlUMFhKbzJFLWs4Q2M1bmJYQ2oxRTNFM0p3V1FLVzZHRUxWY19SVVVVdzQwLWM1cXdBbTJYVXhacDdXMXRJRi1PRnRQQVZCcw?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
       "category": "lawsuits",
       "language": "en"
     },
@@ -333,6 +323,26 @@
       "language": "en"
     },
     {
+      "id": "5e46788f56fd328317b5bb656562dbd2",
+      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzN6NHZNU1ZhT050NkZiZDNkR0Qxb3lyYldDZ1hMeGJndVRBaHlsc2l5WnREV0dRX3Z3aTUzcnBkT0RXNEt0aFBVakRheWdCcTFqYk9QdlVya0hmaDJNUmNmWFpsT24zeDViMjZURzRBTnJPRVFqaXFzdVE2bWY2U2tWeUVGZ3dMT0s1eUQ2QzNOSnFYSHlSV2N5NmZ2bUtZcG1PbXZfS0JsRy1zYmw4VGRrV211eDFzc244Y0R3QnhfQzA2Q0hEbmpB?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "7dbfee78e2c23e8ca92847eb37f77be7",
+      "title": "The algorithm said no: Workday must answer AI bias claims in court - Cybernews",
+      "source": "Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGVfZlBIVWJlbjVWbmpEQlNOMm1xTklXVTVaa3RmdlhqTXhjZ1JYNm9hbnExYXdIaEtMQjA5dmhVdFBhY01FSVZFcHhHVVVLcGstQ0xKeGFiLVo5ZlgxZmZzWC14TTJOX1lNbkxRZE9VMHVSWkJCV3l4dFJiNVFTRXc0NA?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "The algorithm said no: Workday must answer AI bias claims in court Cybernews",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "c44e93ee24503d158439e34fc9257d89",
       "title": "Workday can’t shake California AI discrimination claims - HR Dive",
       "source": "HR Dive",
@@ -349,6 +359,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVFF4aG1yb3djSmRJeklkRklHcUMxR21KVDJSX0drZ25oN0MzdDFVTjNRNElNV3pqSk8zU2NXR09hNTVkbjMtektPb3ZXclQ5d0RsNkNxZmNOUndKekNwU2haaTBxMGp4NEtqbDNrS2NBVVRZZlViTjFIV1JCT21laGtOaVR3UnZBMkpz?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "snippet": "California Judge Upholds Discrimination Claims In Lawsuit Filed Against Workday's AI Job Screening Tools AfroTech",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "519b90872da7979c9e7fb806ad58dc94",
+      "title": "Workday Facing Lawsuit Over Claims Its AI Hiring Tool ‘Weeded Out’ Disabled Applicants - TipRanks",
+      "source": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEhvWTRrUTlPMWpGQVFFdGluejZlSjUtaTh4UW5vRlMzV19tZ1B2WDVudjBvUkY2YUNFY3c1a0g4d1MzcXB6d0dOTTZhbmxyTEhybU5VY0NHTXM0bkhKSjlLaDRxRWtKQ1IyWFYxcTd2YUtacnVPa1ZzbU1DYm1MOGIwMC15RGM3UGJxN05GQzNubVU5b0NPR1p3c2E2MlplRlowd2V6dEdVSkZoZE9wZTFxN2M?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "Workday Facing Lawsuit Over Claims Its AI Hiring Tool ‘Weeded Out’ Disabled Applicants TipRanks",
       "category": "lawsuits",
       "language": "en"
     },
@@ -440,66 +460,6 @@
       "published": "2026-06-17T07:00:00+00:00",
       "snippet": "Workday’s AI recruitment tool could be liable for discrimination cio.com",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "d26111878b20f07b1f2fd96ac091f665",
-      "title": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers - unleash.ai",
-      "source": "unleash.ai",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRGx4YjJkSVBuYm0ycXVpb25FNU5faGhmQ1habE82VmEtYmZQc01qNGticHM4Uk8wTHRrcDFzUEJORjF6M2dJVXozNWp4ZmRnVHV0Wm1Ha3BIMXcyVm0yNWpqNWtOcUdDakEzTW5GZXZ0bnNqMG1FOWQybTZDUmZqQlI0SjZHQ2ctM0tuS0tJUjNhbEplejl6WHV0d1V1Tko3RnhJdmRlNUUyZzZXLS1oSktlVUZ4TzFqMW5rV2s4UHZnZlViU0tjYndOa1Q4b1U?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "'Fewer moonshots, more incumbents': What the biggest 2026 HR tech funding rounds tell buyers unleash.ai",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "5ca010508f44709b464c48dbe6785df6",
-      "title": "Sloneek raises $6M to turn HR software into AI agents - Tech.eu",
-      "source": "Tech.eu",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUI4MGtETWFacklTNVBCeTB4ZDgtZE92eWRfenh1bEVQREtPY29oMEtwTGliRTFFSlNGUWNMV1VzZEJkSW12ZW82Rzc0c0xHdjgxM2ptM2VxVGVWWnQ4QlpWZVNfTGtHNGZlTTA5SmxsSWxaVWhTMXVQdGQ1YVE2TUN3OTRHRWc?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "Sloneek raises $6M to turn HR software into AI agents Tech.eu",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "823d061a37b363758d9fa26f843a2922",
-      "title": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElINGw5LVI1aTEtWFI3MkdTYlFTWHo1X09fM3Y2eWs2c29BZzNveUZfQmpmcm93VC12NG1OWE9Eb0NlNm80ZTY5LTcwazFXbmFWbzdaZDZTZTBjS1J2bDQycGJ4Mm0yajZWdl9ZRUk2WmVHN2N6U0tURjNndzZtT3NlS3ZJSmtpNFp3ejh3QnVkRHNyenBUVnJsSzloUQ?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "HeyMilo AI Raises $6M to Expand Agentic Recruiting Platform citybiz",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "0fdf1f49253c9d304e6f431d977e011b",
-      "title": "Factorial Raises $150 Million Series D at $2.5 Billion Valuation - Soko Directory",
-      "source": "Soko Directory",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbW0xY1lKTmZaNk9qcktEbDZ5ZnBEck1OSTNFa3JSUVVtUVpzc0d1NFdSUTF0WUhSaFZpWm9FWWZxY1NZX0UzYmlveUZsWkVqYVBpT0ZlbFFfYzNDbUVPTGtmZW9idTdBUFhiR1phX2JEcU40TWd5MDFvbkduLWpTSjNWeUhXTDB4d1pLeXB4VnM2djdsbVZ3MXUwZUlSd9IBowFBVV95cUxOMHRtaU53RWlEd1ZXTTBkQlNRVm9WZmJ1OHF4WFYxbEhxOGNENm9fTWg1WmYtRG1qODNUM1RYcWRvQ2lfMlRJemxrTUtLdWFLbzRUd3BQLWx3RDdabW5pS2ZCMUlmQzlzb1h3Uk94SHhSXzg0bF9ZSHByTUV0V1hHdDNGaHZJM1VwaUh6YjVDdlVqRENpMW5nNjZSQmtwLUdQa1h3?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "Factorial Raises $150 Million Series D at $2.5 Billion Valuation Soko Directory",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "ca82fb1ec78382b1d47b580b29fbea25",
-      "title": "HeyMilo AI Raises Additional Capital and Expands AI Recruiting Agents - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVhRSEloaDlaYnFLU0hWa2tuc3FOa1NCTThRT2tOd3N6YmtyLTJmTjkwZlFZNGlGdW50ZUN6R0s0dVZDckhMRzdIbk9hcjdPNmFjbHlybHBvc3Vfcmk0UC03X0tfWngzXzJBcUdLaWQ3eFFyYTBaQnZsYkcweXBNb3ZNdTVid3VUSUREVndoSkllN3NWN2RWeE1tRU9FRXJZVUE?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "snippet": "HeyMilo AI Raises Additional Capital and Expands AI Recruiting Agents Yahoo Finance",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "a5be8f673b732456a53eb2e5e021c6af",
-      "title": "Citation acquires payroll software company PayCaptain - FinTech Futures",
-      "source": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmxRM2I1eWQ4Z01XZkIzMlQtNGRhekNHdFFRWEtMRVJzbUtfdkhHdnFjVS1aaVI4anhrWE9HeWtRQVMtS0F5SFYyY3dDZFNseWx5TDdoUkJkcUhYbmlYTXB3VXNIOTV0TFdhdklnZklqZHhSaFF0bTNmdVRrWElDNjhyd2ppdmJsaGFmZw?oc=5",
-      "published": "2026-06-16T05:00:50+00:00",
-      "snippet": "Citation acquires payroll software company PayCaptain FinTech Futures",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
