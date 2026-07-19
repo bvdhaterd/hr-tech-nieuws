@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T07:39:38Z",
-  "total": 49,
+  "last_updated": "2026-07-19T08:05:54Z",
+  "total": 51,
   "articles": [
     {
       "id": "a64ae3c7806ffa96c4a9a91341576dd2",
@@ -49,6 +49,16 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1NDVjFCNEo1cnFtcXpmeFpQUjNQVkFWdkRsNXpPNWEwOWxqSk1zOFFIYjB6SzNzUjZwd1lGRktuOHNic21zZmxnUWdlaU5ERk1tSC1sRFhrYVZNd0phMWdCRXplNXF2aXk5WUM5QUZ4SktpdmpKM0hIMjhKaF9WcjcxajNnMEhSU3NBeVlwMUJuWEpqZnZ6LWYxV1RDQllRTXRGc1Nn0gGrAUFVX3lxTE5VWEpfRkhpMXZPamZvLUt6aGgtRGhTQjR6MnpsTXMxN18tQXhZdVM3Q2NLX1JxUlE4M29UUkRqZnhXd2I4Y0RLRG5XSUZaYzVIejdydjh3MFA1b1VpMVRaem1UcmVGbmx4RjB5RUtidDc2a08xZ2Q2dTktaWFmU0ZDNmhZRVNOSU5TRDRFVTNTbF8wRk43RzNDVkJQSkNPdGNHdXNfcmZMTnRQcw?oc=5",
       "published": "2026-07-15T07:00:59+00:00",
       "snippet": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform Pulse 2.0",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "ae2dfde2115aef1016c7c87d33e2b17d",
+      "title": "Intuit to Acquire HR Platform GoCo - Intuit",
+      "source": "Intuit",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHZ3WjNMNUxvZVdDdWQzUk5PUlA0R05GMndtZVlPaGw4eXA2OWU3am5WM3ltcTBsUmNXbkU0N0VoTG04VEs0Uk5QZjNfU094VDU2dHAzWDQ1Wk5sYU9JTkFybzg1eWgybjNhaXNBNXRiQ3NRZ0FFV3JOcXE1ckM2SA?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "snippet": "Intuit to Acquire HR Platform GoCo Intuit",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -137,9 +147,19 @@
       "title": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit - Mealey's",
       "source": "Mealey's",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1E4bGFjMEdHZUpuV2t1ZnZyRWcwQmJaaUswbmNiQUZMUlVEOF9aTlcxWHJ5eENPS0gxYWNvM0dlTWFlS0R6NXc4QWl5Rm9QMzlMOVA2VVBEbmJrYmFVeERLQ0JoQWVUSkhnZ1JVQ19TaHAwc2lfZDFHRWwzTVpTZVVscThZb1ZWMW1NU05wRG5NaW96TkRWZTZGNXFsLUhUcmlRSy1uYmpqNEdyQ084RXF4WnhUUlJvU2Nya2VncndkZVYwbTJWWHdwYVlwb3dlYVHSAWJBVV95cUxQWWtUcGc2S1lzXzVrdFRlcGtycG5fc2U2OHFwZ1VFR1VBVW5wc28tcGhJampPdk5CdkRISWNfX0JvcWRibk1KVm5qczFkVFlOeGRYRkpVM29Od0FJTGMwcTQydw?oc=5",
-      "published": "2026-07-07T16:42:00+00:00",
+      "published": "2026-07-07T07:00:00+00:00",
       "snippet": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit Mealey's",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "334666e85c3f03ddd595c7ecc18af5c2",
+      "title": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDBDOWZqemhWVHdWenc1SU1hRlAtcklsWFN2WkgwLXliQURwVG94TENNM0syN3Jrd0FzYTRxWU51SkFpaTNGQy1nS0tpOEV3R3pVZHVNZnF2N1NoYUFQa1NlMndmck84NzJiVG9wWFA4TV92T2t2ODdzZXN4MzRpM1o2OEprRFRmSVd0SlZ2THo3MGtDMmxVVUJJN2R4M2x0N3ZCSjA4V2JHcVNqUXlrQlVJSnRfSlRfWktmbDN1ajRCZ0szdlRCMQ?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "snippet": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says Reuters",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -169,6 +189,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnpqcGd5eFRxQlNCbjY5aW9VV2Fya2hidHVmcXVVYks3a0Y0UXdLN2VIRTRtdHVFOGx6VGR2RktLVEktbVp0emRFaGUzczNnSERmeDN0b25QaFRfYTh3cDFJV0ZSLXgteUg4TjkzenVDZl9nbDJHN2ZkWmlac0hvNWNNTU1rN21jR25EanFjOGFKaERVTW1yNUt3cEJoYmJUQXVVbTlFYWFoQ3c4VVIyV2xJVi1wQ2dL0gHGAUFVX3lxTE1taGpNVWV5Y3ZLNmxfTnROaU5EUnhuRE9DRWd3NjFDYTlIbVhmakRxeWRmVmpvUV9UcnItOUpyOTJNV0dvNEtVcWtDT3VyUzY4bGNUMTRURXJMWUhMYmdXZ2VLZ0dDN2I3eUswQzNzRVBja2VKYWFLQkxIakFoVUw3V2FDN0IyZXFET2tTR0JTVXp3aW1IUHl6aTI5d2d1SWpjWE5iSDcwNlVoN3FKd0JtUnNMOVpIT2hFV01nNWw1SUd2Vl95QQ?oc=5",
       "published": "2026-07-03T06:02:19+00:00",
       "snippet": "Top News Today: Amazon’s AI Chips, BatX Funding, WEF AI Hiring Report and More Analytics Insight",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "22d27d0c52db91606a0a490429152b00",
+      "title": "Factorial Raises $150 Million at $2.5 Billion Valuation, Pivots to AI Workforce Platform With East Africa Growth Push - iAfrica.com",
+      "source": "iAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX1JDeXI3QVhoNjZvQTdpMzlLQWpoa3VFOFl3WWFGZjFUVlBWeDdXSHZWYWVVN1JQZUZSdnRPNF81dFgza0pyLU1GQ1EwV1lNcmFQZTc0Ym1rOXNHbnNNUG1Ca0laUVNmc3pLMkVlM3QyYWRBNlZUUERQd2lZVkRkcFVtWGdoVFFxMXNUdktZbVgzdWg2MjhBZHZCQnRLMnVGeVFsUXk1VzY2RWxoc2ZyZFUxU2RHVXJ2ZnlsSXdaNlhBdnd2N0xsRG1FY25yankx?oc=5",
+      "published": "2026-07-02T10:49:14+00:00",
+      "snippet": "Factorial Raises $150 Million at $2.5 Billion Valuation, Pivots to AI Workforce Platform With East Africa Growth Push iAfrica.com",
       "category": "investments",
       "language": "en"
     },
@@ -353,6 +383,16 @@
       "language": "en"
     },
     {
+      "id": "ca8dfde982fdd113ac53cb732118925f",
+      "title": "Workday can’t shake California AI discrimination claims - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjhlS1BNR2tBTEdaZUxaYjFDeWhHemJVTVd4WnhaX29meGF1aXl0dkVHcDNRbnRYRlBYQ3ZGU2l6bUpQVTI4aHhGdElzaUFHUUhkcGl2QXhINnd3ckswM2dDTURKaVFGNndIaHUwYkVnaW5QUTNUQmJzZkJYWXVVVHlUTmYyN2sxb00wb0ZidHByZ1pSWDJaNQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "Workday can’t shake California AI discrimination claims Yahoo Finance",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "fbdb6b4c93306392a6418d904f1b0860",
       "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - Межа. Новини України.",
       "source": "Межа. Новини України.",
@@ -470,26 +510,6 @@
       "published": "2026-06-22T07:00:00+00:00",
       "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "46c907f051a522afccdd9315469b2e92",
-      "title": "Orbio AI Lands US$21 Million to Scale AI HR Platform - Mexico Business News",
-      "source": "Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3BIaVpIVTZsM0FLRE5UVldBODA0VlhSNTRJZThpejRYNW1TSndSQ29XTUlWMHg0TW05Uklfb3RkTGxoWUg5cFVJR1I0TEg1Y0xHWEF0ZEJsSzBIcmk2X1BEYkcxY1BnNzA0S0hmOG1IWEhPOW43QjZqdWs0QlFROVhyT1VnR1k2eW1PbWp1bVM3OUU?oc=5",
-      "published": "2026-06-19T07:00:00+00:00",
-      "snippet": "Orbio AI Lands US$21 Million to Scale AI HR Platform Mexico Business News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "69527e23dc27b5eef9742f6876e72fc0",
-      "title": "AI staffing platform raises $6 million, launches new tools - Staffing Industry Analysts",
-      "source": "Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXF5YzBoY3ByQ0NvS2R5OGhheUhqWTNXWHRFODZ1UGRtckY4RFNKU1BjUGNPN3VXLUl4TVBLNjl2X2pmby1IYm9nSjVXV1ZpTzVkYXAzd1BRQzZYRTdJdUFKSmVkM1BXdmUzWE1KbE1yTVdPQktNOWVicV96Qlk2U1BJNDFaZW9SWE41ZUJsbjJINUJUd0p2U2lQR1pDcERkT2ZrczhSbzVmamhud2xlUmdB?oc=5",
-      "published": "2026-06-18T16:23:07+00:00",
-      "snippet": "AI staffing platform raises $6 million, launches new tools Staffing Industry Analysts",
-      "category": "investments",
       "language": "en"
     }
   ]
