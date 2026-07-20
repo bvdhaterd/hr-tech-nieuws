@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T08:05:54Z",
-  "total": 51,
+  "last_updated": "2026-07-20T08:46:57Z",
+  "total": 49,
   "articles": [
     {
       "id": "a64ae3c7806ffa96c4a9a91341576dd2",
@@ -103,16 +103,6 @@
       "language": "en"
     },
     {
-      "id": "da1277998d80cd20c57694578a4579b0",
-      "title": "Workday, female ex-engineer agree to dismiss retaliation lawsuit - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaW1ETjROVlNOZFZYTnFMcjVrdldLVi1vWXFTMzYxb0F0V2FsZURkMjFXTHpwNVFhTGZkUHl6N0tvdUFaNGNXd0pQaGFDY0N6eEdXd2RpREVORTB6VUJSUGJKSkJTNlREMzhqME5qazJraGoxTTBKUHhRSC1ocEhHZDE0SWhRRjduaVllaHRqSERRY3BDQnpSci1Va0ZxZw?oc=5",
-      "published": "2026-07-13T12:59:00+00:00",
-      "snippet": "Workday, female ex-engineer agree to dismiss retaliation lawsuit Yahoo Finance",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "947cc1a033a3ecb814ceb4b8ea89e402",
       "title": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund - Axios",
       "source": "Axios",
@@ -129,6 +119,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
       "published": "2026-07-08T15:19:42+00:00",
       "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "edbaf4497d40d48f1c1e210d0459005d",
+      "title": "Shore Capital acquires HR tech firm ThrivePass - pehub.com",
+      "source": "pehub.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVDN3ZmNQVkZtd0JYTkhlM2VFNDdGU3RUUTRmUzZzR1ZyLUwwZm9GUGJIczRYN28wNU1uS3VyQ19jZDA2b0RpMGtSaDhUZFowckxkbG9XM3l0YUpUa2pKc1Azc05VUkVJbHdjck5Uc3Rlb2o4SzRNUg?oc=5",
+      "published": "2026-07-08T08:48:49+00:00",
+      "snippet": "Shore Capital acquires HR tech firm ThrivePass pehub.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -263,16 +263,6 @@
       "language": "en"
     },
     {
-      "id": "c8243f8d167f429757f94a237933e9ed",
-      "title": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform - Судово-юридична газета",
-      "source": "Судово-юридична газета",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak10VGpYeDZCclRJWG95SFQ2VzhnUGh4Zm5fWmp2andyTVRram0yMEQ4Y1NBcW1VZkE3YlVIazlTYkxZSXdpVjZJcGp4NTI1YVAyR0ktY2FMZUZHaGZYQ1BqaW1xR3NZUUxPcVBjZ0JMR3RUYmtYeThxSllGS0FrZTd6Yzd3MWhtSDhGTGZRTllfUWxmeHBuYkhyMVowWm5ibHZrZnl6VWY4ZzNJWkpkT0MtdHF6MWFROHJDZnNnT0Y?oc=5",
-      "published": "2026-06-28T07:00:00+00:00",
-      "snippet": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform Судово-юридична газета",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "d2c5bf9929feeb3bf6da6162ff14692e",
       "title": "Blink Raises $17 Million and Partners With Shake Shack to Advance Frontline Workforce Technology for Restaurants - Restaurant Technology News",
       "source": "Restaurant Technology News",
@@ -283,22 +273,12 @@
       "language": "en"
     },
     {
-      "id": "10806ccf07aad0280c3ed7087c1fdfe1",
-      "title": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lKMHk4ME0zY2V0OHZOaUJJS0RhY3RyejIxc291TXp1NWlhMmhldnVXSWlWbm1GUlFfMjRkY2F3MlVMZDN6X3ZxMmEyMWpqckYyNjNlQVJDelpuMXVpcnpRNE1QQmpSeWFQTVBIUjFBUkw3OEVxUlo4RTNmdXJDYVZDb3U5alVMcVNCRXdubnJ2aENpMDZFNFBsOU11eXBiSjJ6RFJ5bjVqUm1pN2JJckM0TjJJLXdid1dMVXR5UQ?oc=5",
-      "published": "2026-06-24T16:25:21+00:00",
-      "snippet": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "8174fa07c105845fc59f3c520e17e190",
-      "title": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit - Lapaas Voice",
-      "source": "Lapaas Voice",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEdPWnI4a01VYVdzTHltR0NBZ0dqU3lKU0pIZzIyY2U4VjU0d0dicExLVkJ3cjBibWhZZUI2Qno3Y2pNcHlUdUlPaWI4amVGLURlRG1ZU3JyS1lPQXlTU2w2UzZFQkczcHVyV3FrLXJLUEpTVnByQTBPN0ZUOEx2VnVJTQ?oc=5",
-      "published": "2026-06-24T12:49:52+00:00",
-      "snippet": "Workday Accused of AI Bias in Job Screening, Faces California Lawsuit Lapaas Voice",
+      "id": "709f4a056e465476728dd563a1582b8c",
+      "title": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening - Baller Alert",
+      "source": "Baller Alert",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PR1p4VXJkZ3FQX0xwRVVCLUFUT3RiX3ZFdS1NYXNuR0puX3o2c2JuVjRuaWRIVzBTNVoxd3BZOWJMUTJYSEtCaWFVR2FJMW9VSVVUMjg2d1VDdC1MTk8zNFN6bE9mZw?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "snippet": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening Baller Alert",
       "category": "lawsuits",
       "language": "en"
     },
@@ -310,6 +290,16 @@
       "published": "2026-06-24T07:00:00+00:00",
       "snippet": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents Lapaas Voice",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "10806ccf07aad0280c3ed7087c1fdfe1",
+      "title": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lKMHk4ME0zY2V0OHZOaUJJS0RhY3RyejIxc291TXp1NWlhMmhldnVXSWlWbm1GUlFfMjRkY2F3MlVMZDN6X3ZxMmEyMWpqckYyNjNlQVJDelpuMXVpcnpRNE1QQmpSeWFQTVBIUjFBUkw3OEVxUlo4RTNmdXJDYVZDb3U5alVMcVNCRXdubnJ2aENpMDZFNFBsOU11eXBiSjJ6RFJ5bjVqUm1pN2JJckM0TjJJLXdid1dMVXR5UQ?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "snippet": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity citybiz",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -473,12 +463,12 @@
       "language": "en"
     },
     {
-      "id": "87bb6f53ed2305eb40af43e1f19c1c8e",
-      "title": "Workday must face California lawsuit over AI bias in job screening tools - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2IyQXZmcXRscjE1bUZKakR3eXRQVnZSVTdFV1FobTRjOGRrM3NfNGRhNlAxcWJTX3pkV2psVkgtUS1jcTI2aDcyZkNlOFY0NmVHSk95Q1ZkVkFzNUxXRUhHbHQwNGhnNDBEQzAyNEU3QnU1SGhwYmV1c1hqY3NjSk50RmpYcWcyU0VBYlAxZFVoNUttSzFYVkpHQ3R0M0Q1cnc?oc=5",
+      "id": "7694c92fc58564f21d2b04a6a667eac8",
+      "title": "Workday must face California lawsuit over AI bias in job screening tools - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEFnaDFLeWpTOHU2eUZGaFItaXZxU1g2ZVFsVUx4eWNZNlZOUDQyYjJNSG1SajU1OFoyaUhkaGVqbUlZWjA3M1hKeEpRTEJmRi1Qbm04R2FWUGpiV01ZNVljZm1RMUZkSnNHZVpDQVhRa2RvRTRlY2RsTlRaMWNnSTZZMXdUeE92N19zQ2diQTVySmQ0ZktiSG42cEQ0R3NaSGlkX0hMdjd0Z2xYTGYyZkRUY3JRejBMb19BSVY4cw?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
-      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Yahoo Finance",
+      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
       "category": "lawsuits",
       "language": "en"
     },
@@ -499,16 +489,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzEyb1ZPM3VOQXZLVHRrbDF6QXhNa2RHNjdFY2RRdVBiWGJ3enRZN25xdTNUYklPajBLcXp3MFdOb2FZXzVjN1NXcVJFbzJlcFBFQTE4Sk1hNlEzdmR3Z1pWYmJmbW5VbVppNTAwZWZkd1BmUEVpdFFxdnIxaFRvR3lZSVFxVlVkSkMtdWMxN2R0aU9CYnBsRXU5ZW4zQndBVjBSaUU3Y1VadC1selh0UFpadF9xWDRLX2h3X1NCTThQZ9IBWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKdw?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "7694c92fc58564f21d2b04a6a667eac8",
-      "title": "Workday must face California lawsuit over AI bias in job screening tools - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEFnaDFLeWpTOHU2eUZGaFItaXZxU1g2ZVFsVUx4eWNZNlZOUDQyYjJNSG1SajU1OFoyaUhkaGVqbUlZWjA3M1hKeEpRTEJmRi1Qbm04R2FWUGpiV01ZNVljZm1RMUZkSnNHZVpDQVhRa2RvRTRlY2RsTlRaMWNnSTZZMXdUeE92N19zQ2diQTVySmQ0ZktiSG42cEQ0R3NaSGlkX0hMdjd0Z2xYTGYyZkRUY3JRejBMb19BSVY4cw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
       "category": "lawsuits",
       "language": "en"
     }
