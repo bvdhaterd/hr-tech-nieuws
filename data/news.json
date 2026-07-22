@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T08:14:33Z",
-  "total": 52,
+  "last_updated": "2026-07-22T08:15:21Z",
+  "total": 46,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -97,7 +97,7 @@
       "title": "Talent acquisition leader Danny Rojas joins global HR tech company iCIMS - Fort Worth Report",
       "source": "Fort Worth Report",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTRXWnZpQ3huZmV4UzdGNlY1TS01ZzYxMnVpZXhiODdSM00xYWYydzFJeDFudUtCa1ZYTE40dWJSUlhiaTEycTByc3NXeFRsdWNzdlp5THM4VVZmZHJmRVI0Vk1ud2V5NE04VW1VTk5LQUd5RThWTWZYdlY2TDZmQTRKYzhoRjFMMEVZT25XRjJsNHFNcmZxVUVsX1czZkVtZGZzSUVKN1cxQTVINk53UTRn?oc=5",
-      "published": "2026-07-13T17:57:34+00:00",
+      "published": "2026-07-13T07:00:00+00:00",
       "snippet": "Talent acquisition leader Danny Rojas joins global HR tech company iCIMS Fort Worth Report",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -107,7 +107,7 @@
       "title": "Workday, female ex-engineer agree to dismiss retaliation lawsuit - HR Dive",
       "source": "HR Dive",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2lLeHVhTnA0OVl6WWwtdHVlMmJoMW1pRlg0TzlyenJISTlYQ0tXUGpaMGVJQUpTcXpXVlluc0RwLTJSNFFjcGlqSnc1MnlucmZlVmFiNkJuYkwwSWF4N2tFbXFNRGRScEdjR0d4TVJ2d21URlBQLXpyWEU2RHRBTDhxME9yUHBJajFoUWo3S1VickRnWGhqQkVhVURpbXRk?oc=5",
-      "published": "2026-07-13T17:07:01+00:00",
+      "published": "2026-07-13T07:00:00+00:00",
       "snippet": "Workday, female ex-engineer agree to dismiss retaliation lawsuit HR Dive",
       "category": "lawsuits",
       "language": "en"
@@ -150,16 +150,6 @@
       "published": "2026-07-07T07:00:00+00:00",
       "snippet": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit Mealey's",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "334666e85c3f03ddd595c7ecc18af5c2",
-      "title": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDBDOWZqemhWVHdWenc1SU1hRlAtcklsWFN2WkgwLXliQURwVG94TENNM0syN3Jrd0FzYTRxWU51SkFpaTNGQy1nS0tpOEV3R3pVZHVNZnF2N1NoYUFQa1NlMndmck84NzJiVG9wWFA4TV92T2t2ODdzZXN4MzRpM1o2OEprRFRmSVd0SlZ2THo3MGtDMmxVVUJJN2R4M2x0N3ZCSjA4V2JHcVNqUXlrQlVJSnRfSlRfWktmbDN1ajRCZ0szdlRCMQ?oc=5",
-      "published": "2026-07-05T07:00:00+00:00",
-      "snippet": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says Reuters",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -353,16 +343,6 @@
       "language": "en"
     },
     {
-      "id": "bb1cb188800571f538a0bfcc5ea1a8b4",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEtEZlRDVm1mVllPVzBiOGdRV19LQ2gwaF91YlNIZzlwT2o1QWoxZ2Y4UnBhYzFORlpUUW1DVTQ3NThPVV80Ymk1Z19vTjBsY1ExUEczdG1zNWZwX1phMm1WNFRwN3owTThocjRhUi1uTHRsd3FqWGhEazhpVTlLTFNobUlnZzF4RUZpNFd2cTVHZkxJbVdWcTl6MkZmbzdHYWxZYm8xZHk?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates CryptoRank",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "475c149c78fc4ba8637ce6500180fab2",
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - TechCrunch",
       "source": "TechCrunch",
@@ -413,12 +393,12 @@
       "language": "en"
     },
     {
-      "id": "fbdb6b4c93306392a6418d904f1b0860",
-      "title": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination - Межа. Новини України.",
-      "source": "Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXM5SWc3Mmx3RzdFOWtJenhCekpEdHJKNS1qQVkxaWE2OHJYdjlGX2EzMlZGWGNiQlMyMjhyTVhzUDJNdlBmS1lFaXFnMmFQQUpELU9DbXR1S3RxaGRTWkZzSkM?oc=5",
+      "id": "5e46788f56fd328317b5bb656562dbd2",
+      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzN6NHZNU1ZhT050NkZiZDNkR0Qxb3lyYldDZ1hMeGJndVRBaHlsc2l5WnREV0dRX3Z3aTUzcnBkT0RXNEt0aFBVakRheWdCcTFqYk9QdlVya0hmaDJNUmNmWFpsT24zeDViMjZURzRBTnJPRVFqaXFzdVE2bWY2U2tWeUVGZ3dMT0s1eUQ2QzNOSnFYSHlSV2N5NmZ2bUtZcG1PbXZfS0JsRy1zYmw4VGRrV211eDFzc244Y0R3QnhfQzA2Q0hEbmpB?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "US judge rejects Workday motion, allows class lawsuit over AI hiring discrimination Межа. Новини України.",
+      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
       "category": "lawsuits",
       "language": "en"
     },
@@ -439,16 +419,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekRWWFV4bEk5UHgyV0dTNTRrNlRhM2R3UkJOaFhZLW1RMUdFWGlONElJYmZxUjE0VVJOZ1ZucXhoTkYxWUd1dGx0Rk0xdTBnOVA4LW03YzA5U05wdndqX2kwMl9sUkN6d2c3T2ZSMWRtVk9zSURQUlRsYk8tWi1UNWx5VHVNVDVQbjl1dzgtYllES3dJS2gwNGhZNE1uc3pobldQMnlpVTIydHRC?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "snippet": "Judge says Workday to face lawsuit over AI bias in job screening tools: report Seeking Alpha",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "5e46788f56fd328317b5bb656562dbd2",
-      "title": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices - GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzN6NHZNU1ZhT050NkZiZDNkR0Qxb3lyYldDZ1hMeGJndVRBaHlsc2l5WnREV0dRX3Z3aTUzcnBkT0RXNEt0aFBVakRheWdCcTFqYk9QdlVya0hmaDJNUmNmWFpsT24zeDViMjZURzRBTnJPRVFqaXFzdVE2bWY2U2tWeUVGZ3dMT0s1eUQ2QzNOSnFYSHlSV2N5NmZ2bUtZcG1PbXZfS0JsRy1zYmw4VGRrV211eDFzc244Y0R3QnhfQzA2Q0hEbmpB?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "Workday (WDAY) Faces Lawsuit Over AI Hiring Practices GuruFocus",
       "category": "lawsuits",
       "language": "en"
     },
@@ -489,36 +459,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEhvWTRrUTlPMWpGQVFFdGluejZlSjUtaTh4UW5vRlMzV19tZ1B2WDVudjBvUkY2YUNFY3c1a0g4d1MzcXB6d0dOTTZhbmxyTEhybU5VY0NHTXM0bkhKSjlLaDRxRWtKQ1IyWFYxcTd2YUtacnVPa1ZzbU1DYm1MOGIwMC15RGM3UGJxN05GQzNubVU5b0NPR1p3c2E2MlplRlowd2V6dEdVSkZoZE9wZTFxN2M?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "snippet": "Workday Facing Lawsuit Over Claims Its AI Hiring Tool ‘Weeded Out’ Disabled Applicants TipRanks",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "7694c92fc58564f21d2b04a6a667eac8",
-      "title": "Workday must face California lawsuit over AI bias in job screening tools - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEFnaDFLeWpTOHU2eUZGaFItaXZxU1g2ZVFsVUx4eWNZNlZOUDQyYjJNSG1SajU1OFoyaUhkaGVqbUlZWjA3M1hKeEpRTEJmRi1Qbm04R2FWUGpiV01ZNVljZm1RMUZkSnNHZVpDQVhRa2RvRTRlY2RsTlRaMWNnSTZZMXdUeE92N19zQ2diQTVySmQ0ZktiSG42cEQ0R3NaSGlkX0hMdjd0Z2xYTGYyZkRUY3JRejBMb19BSVY4cw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "snippet": "Workday must face California lawsuit over AI bias in job screening tools Reuters",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "3732676674ef1b4102bcc6a55c6752e4",
-      "title": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability - Startup Fortune",
-      "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVNLSWN6eTBiSllhZ0dBMjF4WTEzbTcxMTJJZ0YtdjNVbmF4UnpxRDZRMlREMTg3VHVFcEVETS1SZEdncWFrbU9BYi1jRmtLYTJzakZyTmswQW51WG9aRUpqQjVScjR0SXUtcENtZW9ad0JTUmItU1JSU3Y1Yml4eFprYk5qQTBJN2s4bThtY2hROU9ZUXNlQ3otTkpOeU5xV1cya3djeUhTb1g3b1dSeWdJMDUwWlV1dlVsVEZKSjFTTW42M24teDVVQ1c4WVU?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "snippet": "A federal judge's ruling against Workday puts every AI hiring vendor on notice for discrimination liability Startup Fortune",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "7b3d6800174fc1cbbb3c9818ab618aac",
-      "title": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools - MLex",
-      "source": "MLex",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzEyb1ZPM3VOQXZLVHRrbDF6QXhNa2RHNjdFY2RRdVBiWGJ3enRZN25xdTNUYklPajBLcXp3MFdOb2FZXzVjN1NXcVJFbzJlcFBFQTE4Sk1hNlEzdmR3Z1pWYmJmbW5VbVppNTAwZWZkd1BmUEVpdFFxdnIxaFRvR3lZSVFxVlVkSkMtdWMxN2R0aU9CYnBsRXU5ZW4zQndBVjBSaUU3Y1VadC1selh0UFpadF9xWDRLX2h3X1NCTThQZ9IBWkFVX3lxTE1ORGhsbkJwYWN5X0VnQ25pSXpIRFJwZXlsZHFvcFFzSVVaZ1VFUzZPWmRXVmM5TkJJMGtyYy1qNXRRRmJRNEMxVDV1VmRzdjJiaUUxLVMwZ2lKdw?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "snippet": "US judge finds Workday must face Calif. discrimination claims over AI hiring tools MLex",
       "category": "lawsuits",
       "language": "en"
     }
