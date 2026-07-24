@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T08:19:48Z",
-  "total": 33,
+  "last_updated": "2026-07-24T08:14:18Z",
+  "total": 28,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -20,16 +20,6 @@
       "published": "2026-07-17T12:00:09+00:00",
       "snippet": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say HR Executive",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "99cb361da28c62c66a2c4a3f53fd80d2",
-      "title": "Talent Acquisition Software Market Is Going to Boom by Workforce Digitalization and Skills-Based Hiring - openPR.com",
-      "source": "openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWtaRnk1SG5tVkJ4Uk9JNHV4OTdoNjItQWx2M2llRUhuUVhqUi1KeWNQSXJ5b1NSWUR0emJuVzFFVzJaejlhTV9FWWdGR0Fmd2lLdDZkeDYxZDNNbzFkNlZxWHdCTl9Ud2c4QTJHc2JlZkhpZ2EtakNMdlNfVm1vRDJKZm40dlFRQUhWOG9rQS1rQmlHS2duS1BzSWd0WGRYRUE?oc=5",
-      "published": "2026-07-16T14:11:08+00:00",
-      "snippet": "Talent Acquisition Software Market Is Going to Boom by Workforce Digitalization and Skills-Based Hiring openPR.com",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -90,6 +80,16 @@
       "published": "2026-07-14T07:00:00+00:00",
       "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "37845ca339a85554754741a9e56df926",
+      "title": "Workday Lawsuit 2026: Case Update After Opt-In - LawFold.com",
+      "source": "LawFold.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EblA4cng1RU1JZV92cnNtcEFCR3ZmUHBXTEFoZi1EZTVzY1FlTXhZOExXQVJITHNjcDU3d213T0VlSmYxdEtZcUw3aTQ?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "snippet": "Workday Lawsuit 2026: Case Update After Opt-In LawFold.com",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -263,72 +263,22 @@
       "language": "en"
     },
     {
+      "id": "8d7dbdf36eb66fff13c9e46a1774a53c",
+      "title": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants - Business and Human Rights Centre",
+      "source": "Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRGZpV1pXbExqVVhma3dYU0lhODk5WFhGUVFBdXByMXhCZFFlUTR2WHdySzFhMEpvVWdMdmZCQWZpMF9RMjhBX3BEUzE4cnhSVGlwdGs0Tk1aUEpzaENRU3M4VEFfVGIzdnF2QnFOQ2RRcXM0b1NlOFpmQ2V5dHB0RzBrUTNPb1Z2VmVOU2I2akhtZ2ZLZE1pV3VzbnFPM1IzV0xWdFVpR1FrTVdrX1lvUnRqQUZ5WU9SMThiNXBQbHhKT1ZVaTVKRExQcW5LYVBhaHJoY1hNOS1HM043QUVKNEs1eW5YOWZ5RWd4Q1VXaV9xR05sMXJwUXBxeW1qTllhUkh3MURYeEJyWGd1aENoYmxtYlRZX1Z4QVpUNENSaXpJU0l2YVQzN05HWjBQbFJnTkNSVHVkSnNFTE5GRmVXUk5ialpYbmJJejVWcDNKQQ?oc=5",
+      "published": "2026-06-26T12:24:20+00:00",
+      "snippet": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants Business and Human Rights Centre",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "281c4036b78235998a0f49831837faea",
       "title": "Warp raises $60m Series B to rebuild HR software with AI - FinTech Global",
       "source": "FinTech Global",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1dpd3UwUGg3YW55bU1lNENvY1RvLVQwRGFfb1hGa3ZkNWdqNWdoR2NDSnJ1dmpnYlhTdjRLbHZZUndoN294NmZreXBVbnJQbWV1WXd4SnZrYWpsckx4QkpYUk1Wd1ZxbW9oUFRETTg4dExtSGEwX180S0hSRTI2bjZJdVp0anRJVzVyS1pRUXVfajVj?oc=5",
       "published": "2026-06-26T07:00:00+00:00",
       "snippet": "Warp raises $60m Series B to rebuild HR software with AI FinTech Global",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "ac83cf8e2f49a17df4ca5b5d15e973a3",
-      "title": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents - Lapaas Voice",
-      "source": "Lapaas Voice",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbmt5RDI2a28wX1h1MUc1dmQ5U1RuZ29fZnBMV3dJY3FGaERUWjE3UFRVZDJqb0xrU3d0NXVlZlN2cmJxcF9fN1cxbGdDVWZrNHZQUzk4dmJUX0VmTHNRR29iNVlEVG1YZjI4WTBicXQwdzZQcVE?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "snippet": "Fika Jobs Raises $4M To Build A Video-First Hiring Platform With AI Agents Lapaas Voice",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "10806ccf07aad0280c3ed7087c1fdfe1",
-      "title": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lKMHk4ME0zY2V0OHZOaUJJS0RhY3RyejIxc291TXp1NWlhMmhldnVXSWlWbm1GUlFfMjRkY2F3MlVMZDN6X3ZxMmEyMWpqckYyNjNlQVJDelpuMXVpcnpRNE1QQmpSeWFQTVBIUjFBUkw3OEVxUlo4RTNmdXJDYVZDb3U5alVMcVNCRXdubnJ2aENpMDZFNFBsOU11eXBiSjJ6RFJ5bjVqUm1pN2JJckM0TjJJLXdid1dMVXR5UQ?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "snippet": "Thrive Acquires Incentiv to Expand Executive Talent Intelligence for Private Equity citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "2b3f0ccbe9fc8966f04bf988fe0c5a0a",
-      "title": "EMA Partners acquires Taggd to strengthen AI-powered hiring capabilities - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVi0zMnhDYUd4WGNtOFVBQlJXem4wWVFwTGhvMnJRRXoxWGxOWENheUlRSFJYYUJrMzVfTWJQclhYNGNNbk1RTTlDUVd6OU9mdlFvMFYtcDJscm9QTEU5Y3gwUWV3eExmd28yeHduWU05ZVFCN29kZTQzWHJJWVFHVUw5WlZETExtRzMtNDhUdW9EcGUwS1BXVnZOeHB1S1Y3OHpfT1FtcTcwOEtxQXpnOEJwTUd2RnZmSWxpZC1RLVJmZW85N1JjdzdZbms1dw?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "snippet": "EMA Partners acquires Taggd to strengthen AI-powered hiring capabilities People Matters - HR News",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "3949dfaf13140bdcd354a09ac72db3cd",
-      "title": "Judge refuses to dismiss most Workday hiring bias allegations - HR Executive",
-      "source": "HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjdkczdzYkcwUkRxZ0tmVl8yWGZ5dWxHUUFRQXM5cVRLVGExa000eHNoQ00wRW1zNndWbDMtaGkzMENLMi1OVG94MWFsXzQ1TjJ5b1pwLW1TVERBei1kUzBLNXZmSjBTM2U1VldWa2NlclpiX1B5bGxsYThEZFExcHR6RnVrUGc0a09VOGIwNA?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "snippet": "Judge refuses to dismiss most Workday hiring bias allegations HR Executive",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "8af9f3329111f8bcf605aa01abd9ab8d",
-      "title": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools - peopleofcolorintech.com",
-      "source": "peopleofcolorintech.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1ZvbmJlV3BadWhvSVZCMFdHdlVTZ0Z0aHo2a1pGTmc0SGFqQmRaZnl0TVFjTVl5Q2pxRGNPajRkWGh2bnFucktNelpoVkJVU1VYX1lVdVQzTXBlMGZiUUJhc3dXZ2xfcWFNalE1SDdwSkNxM2tQNFY1YV8xOGJoYm1lS0czTXRmOEd5VjRCWGhVVHBCb0s1MUttWkdqUkkxQjl3X0ZJdWQzczRjTWFhZUt6RDV6cGh4a0xYclFJSVVicnZ2ZWN0T3hvcXgyUTB5bmFJRWlfekxidw?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "snippet": "California Judge Allows Discrimination Claims To Proceed In Lawsuit Against Workday’s AI Hiring Tools peopleofcolorintech.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "df3b84e63958c839fdcbd2495fd34b7a",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates - Bitcoin World",
-      "source": "Bitcoin World",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjlQQW9mUDd0clRucnhRS0lTRmYxZkRaa0JMN0poVHFNUFNDR0NTRlcxb3NXY2hMNlktUFkwQWhFSkc2WGxXSkhNeUZVTGJ6SWg1YXczU3Fka0pRbFMzckticEpNVzRXbVZhbkJGTDlSamxVTmg5ZzJUUUl0MC10aUFjTkFoZUI3WGdxelI3RDBva0ZHNXNqcV9oSQ?oc=5",
-      "published": "2026-06-23T14:10:11+00:00",
-      "snippet": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates Bitcoin World",
       "category": "investments",
       "language": "en"
     }
