@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T08:14:18Z",
-  "total": 28,
+  "last_updated": "2026-07-25T07:56:34Z",
+  "total": 29,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -99,6 +99,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2lLeHVhTnA0OVl6WWwtdHVlMmJoMW1pRlg0TzlyenJISTlYQ0tXUGpaMGVJQUpTcXpXVlluc0RwLTJSNFFjcGlqSnc1MnlucmZlVmFiNkJuYkwwSWF4N2tFbXFNRGRScEdjR0d4TVJ2d21URlBQLXpyWEU2RHRBTDhxME9yUHBJajFoUWo3S1VickRnWGhqQkVhVURpbXRk?oc=5",
       "published": "2026-07-13T07:00:00+00:00",
       "snippet": "Workday, female ex-engineer agree to dismiss retaliation lawsuit HR Dive",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "4a42235dc1b7ada97f3f9ac3298ab3f4",
+      "title": "The risks of the Workday AI lawsuit for banks - American Banker",
+      "source": "American Banker",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQi1YLUFHaGxmUllzeG1qSXlGTHdVV2lvNkJUTWhxZ011VVBqQXJ5bTR6QjBqV21jeURDLTN1Wkc3RGNDNzJrOGlEZkp5amZGRkcxcURKbVo5YkpCYmItY3A1MzZRUGgtQUFCV0podF9Uc2dqUW1KNEc0TGdsUHk3VXVDckNISkZ6?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "snippet": "The risks of the Workday AI lawsuit for banks American Banker",
       "category": "lawsuits",
       "language": "en"
     },
