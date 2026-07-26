@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T07:56:34Z",
-  "total": 29,
+  "last_updated": "2026-07-26T08:14:23Z",
+  "total": 30,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -17,7 +17,7 @@
       "title": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say - HR Executive",
       "source": "HR Executive",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHRId0RXQzZhcC03czZYbnBEbzR4YnZRVC01YzBqV1lzOFJyTnRnVFZRODlVMlhqYzhDQU83V0lmU0tsZm9wV2NVcFZwMjBWcnVRWjVjUDVJOG84M2J0ZDlfVGpiUzdnd1pYTW1JSFFpaFkxa1BFWG1jOVBBZGhFVkdQd1hGa0wyRDFJemdqLXpXZmUzVlBjS0hlUXlyWUlIa0hMSzNQZw?oc=5",
-      "published": "2026-07-17T12:00:09+00:00",
+      "published": "2026-07-17T07:00:00+00:00",
       "snippet": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say HR Executive",
       "category": "lawsuits",
       "language": "en"
@@ -253,6 +253,26 @@
       "language": "en"
     },
     {
+      "id": "7d1c82042961265903ef62e8778174da",
+      "title": "Workday Fails to Have Lawsuit Alleging Bias In Its AI Tools Dismissed - The HR Digest",
+      "source": "The HR Digest",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGpCUzZmQkFhaktOZEhMYTN3eUhWU0JCTjdxd2FwaEZ0eEhJc1RqTW5TRm9NekhGUTg1cmtUeFNuZEU5OGFYanJCeGRkOVkxVUJ3TFU3aXg5UVBHR0JtTDFzVmR2UWl2ZWZxQTNwcXhDNkxKeDhENm1hUkJ5WkZEX29GdEg5OXNIZFBib1N3Zzl5d21mbWxIV0NJcE9qekk?oc=5",
+      "published": "2026-06-29T13:22:58+00:00",
+      "snippet": "Workday Fails to Have Lawsuit Alleging Bias In Its AI Tools Dismissed The HR Digest",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "c8243f8d167f429757f94a237933e9ed",
+      "title": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform - Судово-юридична газета",
+      "source": "Судово-юридична газета",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak10VGpYeDZCclRJWG95SFQ2VzhnUGh4Zm5fWmp2andyTVRram0yMEQ4Y1NBcW1VZkE3YlVIazlTYkxZSXdpVjZJcGp4NTI1YVAyR0ktY2FMZUZHaGZYQ1BqaW1xR3NZUUxPcVBjZ0JMR3RUYmtYeThxSllGS0FrZTd6Yzd3MWhtSDhGTGZRTllfUWxmeHBuYkhyMVowWm5ibHZrZnl6VWY4ZzNJWkpkT0MtdHF6MWFROHJDZnNnT0Y?oc=5",
+      "published": "2026-06-28T07:00:00+00:00",
+      "snippet": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform Судово-юридична газета",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "d2c5bf9929feeb3bf6da6162ff14692e",
       "title": "Blink Raises $17 Million and Partners With Shake Shack to Advance Frontline Workforce Technology for Restaurants - Restaurant Technology News",
       "source": "Restaurant Technology News",
@@ -280,16 +300,6 @@
       "published": "2026-06-26T12:24:20+00:00",
       "snippet": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants Business and Human Rights Centre",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "281c4036b78235998a0f49831837faea",
-      "title": "Warp raises $60m Series B to rebuild HR software with AI - FinTech Global",
-      "source": "FinTech Global",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1dpd3UwUGg3YW55bU1lNENvY1RvLVQwRGFfb1hGa3ZkNWdqNWdoR2NDSnJ1dmpnYlhTdjRLbHZZUndoN294NmZreXBVbnJQbWV1WXd4SnZrYWpsckx4QkpYUk1Wd1ZxbW9oUFRETTg4dExtSGEwX180S0hSRTI2bjZJdVp0anRJVzVyS1pRUXVfajVj?oc=5",
-      "published": "2026-06-26T07:00:00+00:00",
-      "snippet": "Warp raises $60m Series B to rebuild HR software with AI FinTech Global",
-      "category": "investments",
       "language": "en"
     }
   ]
