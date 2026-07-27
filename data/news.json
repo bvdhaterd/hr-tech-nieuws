@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T08:14:23Z",
-  "total": 30,
+  "last_updated": "2026-07-27T09:38:34Z",
+  "total": 26,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -20,16 +20,6 @@
       "published": "2026-07-17T07:00:00+00:00",
       "snippet": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say HR Executive",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "41dce499bae7183e577218c0b45f4135",
-      "title": "Signal Labs Acquires BrassRing to Expand Enterprise Talent Intelligence Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXVuS1luUXJ1bmZZVXA2S09MUjNzVk9jZDA5SkJMbzR6ZE1rY2dxNzBQRE5lelJSbzNMRkFQUUt4OXlFMjktX3Z6RDdpQzhRRUNvSGxXN2F2OG9SQVk4cnJlcm1JRm50VGMxSkxPYUZzUFB1Nmt0dDViWWtwQUMyX1VheUllQmRwdnhOUmxVaDAwQjV6VEUxV2p1dWJRNUFJMXdBejc1aGxMcnhwSmRjUG9oVmVuT28tTVJz?oc=5",
-      "published": "2026-07-16T12:54:12+00:00",
-      "snippet": "Signal Labs Acquires BrassRing to Expand Enterprise Talent Intelligence Platform citybiz",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -269,36 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak10VGpYeDZCclRJWG95SFQ2VzhnUGh4Zm5fWmp2andyTVRram0yMEQ4Y1NBcW1VZkE3YlVIazlTYkxZSXdpVjZJcGp4NTI1YVAyR0ktY2FMZUZHaGZYQ1BqaW1xR3NZUUxPcVBjZ0JMR3RUYmtYeThxSllGS0FrZTd6Yzd3MWhtSDhGTGZRTllfUWxmeHBuYkhyMVowWm5ibHZrZnl6VWY4ZzNJWkpkT0MtdHF6MWFROHJDZnNnT0Y?oc=5",
       "published": "2026-06-28T07:00:00+00:00",
       "snippet": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform Судово-юридична газета",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "d2c5bf9929feeb3bf6da6162ff14692e",
-      "title": "Blink Raises $17 Million and Partners With Shake Shack to Advance Frontline Workforce Technology for Restaurants - Restaurant Technology News",
-      "source": "Restaurant Technology News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTUJiTkQ5aWJTc2ltYlBvdjFBZjg5cWVqU0JWY1FaUTJPUjFOZEE2YkNLVllRcGR1bVFmRjdDR29tbFNFZkJqVEx4T2pzdUFEWXp5MHBDenNrRjJkQjZqN3RNdV9HLUtIYlpxWUREYlpzUlNsWWtXdjUxQXRfdTFmdWJIQS1MT1hzTmFIR1FIa3h0YzhaNTRRbGdwS1NFNUtwWWlQZUZXMC1LNGI0bVhDX083MkctelZZYl8zeENURG9XYmhVcTBHLVV5cHJPbHk2SWpNT3p2eVNaUnpKcTl6M0FPeUxwWklMOUJ4WlZB?oc=5",
-      "published": "2026-06-27T07:00:00+00:00",
-      "snippet": "Blink Raises $17 Million and Partners With Shake Shack to Advance Frontline Workforce Technology for Restaurants Restaurant Technology News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "709f4a056e465476728dd563a1582b8c",
-      "title": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening - Baller Alert",
-      "source": "Baller Alert",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PR1p4VXJkZ3FQX0xwRVVCLUFUT3RiX3ZFdS1NYXNuR0puX3o2c2JuVjRuaWRIVzBTNVoxd3BZOWJMUTJYSEtCaWFVR2FJMW9VSVVUMjg2d1VDdC1MTk8zNFN6bE9mZw?oc=5",
-      "published": "2026-06-27T07:00:00+00:00",
-      "snippet": "Workday AI Hiring Lawsuit Raises Alarms Over Resume Screening Baller Alert",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "8d7dbdf36eb66fff13c9e46a1774a53c",
-      "title": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants - Business and Human Rights Centre",
-      "source": "Business and Human Rights Centre",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRGZpV1pXbExqVVhma3dYU0lhODk5WFhGUVFBdXByMXhCZFFlUTR2WHdySzFhMEpvVWdMdmZCQWZpMF9RMjhBX3BEUzE4cnhSVGlwdGs0Tk1aUEpzaENRU3M4VEFfVGIzdnF2QnFOQ2RRcXM0b1NlOFpmQ2V5dHB0RzBrUTNPb1Z2VmVOU2I2akhtZ2ZLZE1pV3VzbnFPM1IzV0xWdFVpR1FrTVdrX1lvUnRqQUZ5WU9SMThiNXBQbHhKT1ZVaTVKRExQcW5LYVBhaHJoY1hNOS1HM043QUVKNEs1eW5YOWZ5RWd4Q1VXaV9xR05sMXJwUXBxeW1qTllhUkh3MURYeEJyWGd1aENoYmxtYlRZX1Z4QVpUNENSaXpJU0l2YVQzN05HWjBQbFJnTkNSVHVkSnNFTE5GRmVXUk5ialpYbmJJejVWcDNKQQ?oc=5",
-      "published": "2026-06-26T12:24:20+00:00",
-      "snippet": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants Business and Human Rights Centre",
       "category": "lawsuits",
       "language": "en"
     }
