@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T09:38:34Z",
-  "total": 26,
+  "last_updated": "2026-07-28T08:22:55Z",
+  "total": 23,
   "articles": [
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
@@ -13,13 +13,13 @@
       "language": "en"
     },
     {
-      "id": "a64ae3c7806ffa96c4a9a91341576dd2",
-      "title": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say - HR Executive",
-      "source": "HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHRId0RXQzZhcC03czZYbnBEbzR4YnZRVC01YzBqV1lzOFJyTnRnVFZRODlVMlhqYzhDQU83V0lmU0tsZm9wV2NVcFZwMjBWcnVRWjVjUDVJOG84M2J0ZDlfVGpiUzdnd1pYTW1JSFFpaFkxa1BFWG1jOVBBZGhFVkdQd1hGa0wyRDFJemdqLXpXZmUzVlBjS0hlUXlyWUlIa0hMSzNQZw?oc=5",
-      "published": "2026-07-17T07:00:00+00:00",
-      "snippet": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say HR Executive",
-      "category": "lawsuits",
+      "id": "41dce499bae7183e577218c0b45f4135",
+      "title": "Signal Labs Acquires BrassRing to Expand Enterprise Talent Intelligence Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXVuS1luUXJ1bmZZVXA2S09MUjNzVk9jZDA5SkJMbzR6ZE1rY2dxNzBQRE5lelJSbzNMRkFQUUt4OXlFMjktX3Z6RDdpQzhRRUNvSGxXN2F2OG9SQVk4cnJlcm1JRm50VGMxSkxPYUZzUFB1Nmt0dDViWWtwQUMyX1VheUllQmRwdnhOUmxVaDAwQjV6VEUxV2p1dWJRNUFJMXdBejc1aGxMcnhwSmRjUG9oVmVuT28tTVJz?oc=5",
+      "published": "2026-07-16T12:54:12+00:00",
+      "snippet": "Signal Labs Acquires BrassRing to Expand Enterprise Talent Intelligence Platform citybiz",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -53,16 +53,6 @@
       "language": "en"
     },
     {
-      "id": "4fd19927b29d6fc773920f5befdbe715",
-      "title": "Mobley v. Workday Update: AI Hiring Discrimination Lawsuit Continues to Shape Employment Law - bamlawca.com",
-      "source": "bamlawca.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd09ELW0xWWxvaXFXTzZhd28xa2t2MG5ZWXVlb3U4QVQ5eTlYS0dNOFpkeVlGN01TR3dIdzI5WUtFVmEya3RObjV2WEx0OVFnenQtQk5uN0ZIVVZvZWdtRUVzNXcya2libFhWaEtWWGYyQXQtRU80SWRvSUpwMV9oUldxSzVVVzFRejh1bXZ2WXFHd05xN3gxd1NhV0tsNk9TdWJOWFJxYWVPcWl4TER2QTZkd21rd0pIRDFWLXNaMWhCMUdJbXBwcjR3cWlXM2ZBei1B?oc=5",
-      "published": "2026-07-14T18:46:00+00:00",
-      "snippet": "Mobley v. Workday Update: AI Hiring Discrimination Lawsuit Continues to Shape Employment Law bamlawca.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "a82042c12cd95a7b51fccfd301feb9b3",
       "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg - PR Newswire",
       "source": "PR Newswire",
@@ -70,6 +60,16 @@
       "published": "2026-07-14T07:00:00+00:00",
       "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4fd19927b29d6fc773920f5befdbe715",
+      "title": "Mobley v. Workday Update: AI Hiring Discrimination Lawsuit Continues to Shape Employment Law - bamlawca.com",
+      "source": "bamlawca.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd09ELW0xWWxvaXFXTzZhd28xa2t2MG5ZWXVlb3U4QVQ5eTlYS0dNOFpkeVlGN01TR3dIdzI5WUtFVmEya3RObjV2WEx0OVFnenQtQk5uN0ZIVVZvZWdtRUVzNXcya2libFhWaEtWWGYyQXQtRU80SWRvSUpwMV9oUldxSzVVVzFRejh1bXZ2WXFHd05xN3gxd1NhV0tsNk9TdWJOWFJxYWVPcWl4TER2QTZkd21rd0pIRDFWLXNaMWhCMUdJbXBwcjR3cWlXM2ZBei1B?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "snippet": "Mobley v. Workday Update: AI Hiring Discrimination Lawsuit Continues to Shape Employment Law bamlawca.com",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -100,26 +100,6 @@
       "published": "2026-07-13T07:00:00+00:00",
       "snippet": "The risks of the Workday AI lawsuit for banks American Banker",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "9e31e5655e9f9be7982c7d496df96560",
-      "title": "LeagueApps acquires background check provider NCSI from Versant - Sports Business Journal",
-      "source": "Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
-      "published": "2026-07-08T15:19:42+00:00",
-      "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "edbaf4497d40d48f1c1e210d0459005d",
-      "title": "Shore Capital acquires HR tech firm ThrivePass - pehub.com",
-      "source": "pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVDN3ZmNQVkZtd0JYTkhlM2VFNDdGU3RUUTRmUzZzR1ZyLUwwZm9GUGJIczRYN28wNU1uS3VyQ19jZDA2b0RpMGtSaDhUZFowckxkbG9XM3l0YUpUa2pKc1Azc05VUkVJbHdjck5Uc3Rlb2o4SzRNUg?oc=5",
-      "published": "2026-07-08T08:48:49+00:00",
-      "snippet": "Shore Capital acquires HR tech firm ThrivePass pehub.com",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -249,16 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGpCUzZmQkFhaktOZEhMYTN3eUhWU0JCTjdxd2FwaEZ0eEhJc1RqTW5TRm9NekhGUTg1cmtUeFNuZEU5OGFYanJCeGRkOVkxVUJ3TFU3aXg5UVBHR0JtTDFzVmR2UWl2ZWZxQTNwcXhDNkxKeDhENm1hUkJ5WkZEX29GdEg5OXNIZFBib1N3Zzl5d21mbWxIV0NJcE9qekk?oc=5",
       "published": "2026-06-29T13:22:58+00:00",
       "snippet": "Workday Fails to Have Lawsuit Alleging Bias In Its AI Tools Dismissed The HR Digest",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "c8243f8d167f429757f94a237933e9ed",
-      "title": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform - Судово-юридична газета",
-      "source": "Судово-юридична газета",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak10VGpYeDZCclRJWG95SFQ2VzhnUGh4Zm5fWmp2andyTVRram0yMEQ4Y1NBcW1VZkE3YlVIazlTYkxZSXdpVjZJcGp4NTI1YVAyR0ktY2FMZUZHaGZYQ1BqaW1xR3NZUUxPcVBjZ0JMR3RUYmtYeThxSllGS0FrZTd6Yzd3MWhtSDhGTGZRTllfUWxmeHBuYkhyMVowWm5ibHZrZnl6VWY4ZzNJWkpkT0MtdHF6MWFROHJDZnNnT0Y?oc=5",
-      "published": "2026-06-28T07:00:00+00:00",
-      "snippet": "AI May Have Illegally Denied People Jobs: Court to Hear Case Against HR Platform Судово-юридична газета",
       "category": "lawsuits",
       "language": "en"
     }
