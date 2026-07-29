@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-28T08:22:55Z",
-  "total": 23,
+  "last_updated": "2026-07-29T08:28:51Z",
+  "total": 26,
   "articles": [
+    {
+      "id": "983add47ee6a9cf0990a28befbe3ff17",
+      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
+      "published": "2026-07-28T21:19:00+00:00",
+      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "59c98494b168824e33d60aadcdb3332d",
+      "title": "Runlayer Sues Rippling Over Alleged AI Tech Theft - Whalesbook",
+      "source": "Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzNLVUhaVHdtNTlHaTEwVC1Cam1CaVdRQUVXSlE3c3RmLU9iSVZtYndqSzZCMW9wbkhoVjJGNXZOVklISnBsMFlxblhZM0NpMWFYV0xIc2Foa3F3YjB5NlYxcTdUSmh0WEJ1VUZTdV9JcjA5dE0tYzF6QjZZNm9WX1gwLWVkY01HV1ZuLUowdmJZWTBkQjVFMDIxc3JHcVhBV3JUTVdIeTI4bjg2MXJwOVBOZ1liY3cwY2wxaG8zQW9Za2s?oc=5",
+      "published": "2026-07-28T21:17:13+00:00",
+      "snippet": "Runlayer Sues Rippling Over Alleged AI Tech Theft Whalesbook",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "532095400a6a5dc592ddbdc1daf186b6",
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
+      "published": "2026-07-28T19:43:56+00:00",
+      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets Reuters",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
       "title": "Workday’s AI lawsuit keeps spotlight on AI-powered recruiting as case works through courts - HR Brew",
@@ -79,16 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EblA4cng1RU1JZV92cnNtcEFCR3ZmUHBXTEFoZi1EZTVzY1FlTXhZOExXQVJITHNjcDU3d213T0VlSmYxdEtZcUw3aTQ?oc=5",
       "published": "2026-07-13T07:00:00+00:00",
       "snippet": "Workday Lawsuit 2026: Case Update After Opt-In LawFold.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "1e4837f85b2e62b62ffcfc727000d5b2",
-      "title": "Workday, female ex-engineer agree to dismiss retaliation lawsuit - HR Dive",
-      "source": "HR Dive",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2lLeHVhTnA0OVl6WWwtdHVlMmJoMW1pRlg0TzlyenJISTlYQ0tXUGpaMGVJQUpTcXpXVlluc0RwLTJSNFFjcGlqSnc1MnlucmZlVmFiNkJuYkwwSWF4N2tFbXFNRGRScEdjR0d4TVJ2d21URlBQLXpyWEU2RHRBTDhxME9yUHBJajFoUWo3S1VickRnWGhqQkVhVURpbXRk?oc=5",
-      "published": "2026-07-13T07:00:00+00:00",
-      "snippet": "Workday, female ex-engineer agree to dismiss retaliation lawsuit HR Dive",
       "category": "lawsuits",
       "language": "en"
     },
@@ -220,6 +240,16 @@
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Paycom fired worker because of her onion allergy, EEOC claims The Oklahoman",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9ea757efdc568a3b879f1a59fe2d731f",
+      "title": "Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing - HR Executive",
+      "source": "HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2lVOGlOQWNKUmFCNmdPUWJwQ1lZSXgtU2xkb2UxTXlUUkdoQVhzWVNEdTV3MkZSczVya01sTklGVko5NGxibGEyYU5UbzhkUk5ELXE0YkhXRFFjamZVN2dIVFVDdU1XUGtBYzR6bkZuaG5vd3ZNXzlyYUxMXy1wa1d6amJ6Ri13dDQtR0lhRFl1dWZ4?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "snippet": "Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing HR Executive",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
