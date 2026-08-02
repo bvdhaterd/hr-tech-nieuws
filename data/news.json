@@ -1,34 +1,54 @@
 {
-  "last_updated": "2026-08-01T08:09:45Z",
-  "total": 18,
+  "last_updated": "2026-08-02T08:11:27Z",
+  "total": 17,
   "articles": [
     {
+      "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
+      "source": "Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU43dVZITU51WWVVY3NtbG9wX1k2XzlRM0FLeWZmS1FQREdSTkZWQXpObFVHWmV6N3lMWUdZZF9odDJ1RDhfeGNiSjdqTmt4MHN6QWhVcnBLc3d6dG80dllnRURNLWJIbGxJMl96aE9MS3NYRGZyd085alFvZFc5Yg?oc=5",
+      "published": "2026-08-01T23:50:54+00:00",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Baltimore Sun",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9c82f732fb1ab592f7e58c4ccb2e3946",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Capital Gazette",
+      "source": "Capital Gazette",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUhGU3cyQkNJOEEzeVV4UGFqSHJCektmS3BSSENHVjV3WEVEWmpGSmJqeXl0X3RHTzFtSlN0U3gxbm1UMTg5VjlzX1ZIMkxrc2NSTjBsWnhJc2JUZlFVMmtNOXh3WGVnTnROQ3NCN2VHNWJLOGpuaUJuSmM2TU1Pek5Qaw?oc=5",
+      "published": "2026-08-01T09:07:27+00:00",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Capital Gazette",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "983add47ee6a9cf0990a28befbe3ff17",
-      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - The Tech Buzz",
-      "source": "The Tech Buzz",
+      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - techbuzz.ai",
+      "source": "techbuzz.ai",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
       "published": "2026-07-28T21:19:00+00:00",
-      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
+      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech techbuzz.ai",
       "category": "lawsuits",
       "language": "en"
     },
     {
       "id": "532095400a6a5dc592ddbdc1daf186b6",
-      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
-      "source": "Reuters",
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - reuters.com",
+      "source": "reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
       "published": "2026-07-28T19:43:56+00:00",
-      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets Reuters",
+      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets reuters.com",
       "category": "lawsuits",
       "language": "en"
     },
     {
       "id": "2551c7bd64e20ae7e1c6301a3eb4055a",
-      "title": "Need to Know Briefing: July 27: AI hiring tools are now a lawsuit risk. - kellyservices.com",
-      "source": "kellyservices.com",
+      "title": "Need to Know Briefing: July 27: AI hiring tools are now a lawsuit risk. - Kelly Services",
+      "source": "Kelly Services",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yeXZzbmRKbUhRcndCbjFRaUYwZmZXVjN2TVJfUW1YMHlJOEwwLXhUZ2FKbV9oWWZxX0NHZUFZaDhvczZpQlN3NndRTC1SS3pzaVp2eU5TWHpQaTlfRk5ucnpoMHRKZ0JJMlVHWERWeTgyYS1udHBn0gGHAUFVX3lxTE5ieUthQzhUWG5UXzJFOTY2WHhXV29HcXhSc19aTEtXcmtCWXBvTjRGYmdPU25BZkdleS1TUXJNQUdnS1NxY2RLQVlvTjNUSTFwYkxfbkVwY3ZCODM4akJOSGVlX2RvMDJ5SDNPZkFYSzAtVDFCYW5fcEswamVlN2Q5b2xGaGpPaw?oc=5",
       "published": "2026-07-27T17:27:48+00:00",
-      "snippet": "Need to Know Briefing: July 27: AI hiring tools are now a lawsuit risk. kellyservices.com",
+      "snippet": "Need to Know Briefing: July 27: AI hiring tools are now a lawsuit risk. Kelly Services",
       "category": "lawsuits",
       "language": "en"
     },
@@ -59,6 +79,16 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYU9GM1JMcUZNVkNPeWlhVVFjbGJTNFZzd1B4QjlMZGliX1JyV3RUQjIxQ1NuWXNncXZHQUtIMlpZT2F2Ql9oSXJ4UTIySVZqNFBhQmNWOFNHM1lHdE13MUFfSTVuX0JremhhUHVrMkNZM1ZHdURsdVpSSnlob2ppcmdjcVBrNVhfbThwM1V1dWU4aHZDNlpBRHU0X2NxQ1NQWU9lX2hYdVRfdlJTbjVDOHFFTHkxVk9hemlFSXExb1pZNXhHdXp4VEp0LW5WMk8wUm96QzBhWW1BVXZJbjVRQ0Vuem9tRWFkTk9oMTFObw?oc=5",
       "published": "2026-07-16T07:32:37+00:00",
       "snippet": "Germany: Ardian acquires majority stake in German digital healthcare recruitment platform, Pflegia Investors in Healthcare",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "9be531547ecc2f0a897e94e4b549b5c9",
+      "title": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1NDVjFCNEo1cnFtcXpmeFpQUjNQVkFWdkRsNXpPNWEwOWxqSk1zOFFIYjB6SzNzUjZwd1lGRktuOHNic21zZmxnUWdlaU5ERk1tSC1sRFhrYVZNd0phMWdCRXplNXF2aXk5WUM5QUZ4SktpdmpKM0hIMjhKaF9WcjcxajNnMEhSU3NBeVlwMUJuWEpqZnZ6LWYxV1RDQllRTXRGc1Nn0gGrAUFVX3lxTE5VWEpfRkhpMXZPamZvLUt6aGgtRGhTQjR6MnpsTXMxN18tQXhZdVM3Q2NLX1JxUlE4M29UUkRqZnhXd2I4Y0RLRG5XSUZaYzVIejdydjh3MFA1b1VpMVRaem1UcmVGbmx4RjB5RUtidDc2a08xZ2Q2dTktaWFmU0ZDNmhZRVNOSU5TRDRFVTNTbF8wRk43RzNDVkJQSkNPdGNHdXNfcmZMTnRQcw?oc=5",
+      "published": "2026-07-15T07:00:59+00:00",
+      "snippet": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform Pulse 2.0",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -124,61 +154,21 @@
     },
     {
       "id": "334666e85c3f03ddd595c7ecc18af5c2",
-      "title": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says - Reuters",
-      "source": "Reuters",
+      "title": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says - reuters.com",
+      "source": "reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDBDOWZqemhWVHdWenc1SU1hRlAtcklsWFN2WkgwLXliQURwVG94TENNM0syN3Jrd0FzYTRxWU51SkFpaTNGQy1nS0tpOEV3R3pVZHVNZnF2N1NoYUFQa1NlMndmck84NzJiVG9wWFA4TV92T2t2ODdzZXN4MzRpM1o2OEprRFRmSVd0SlZ2THo3MGtDMmxVVUJJN2R4M2x0N3ZCSjA4V2JHcVNqUXlrQlVJSnRfSlRfWktmbDN1ajRCZ0szdlRCMQ?oc=5",
       "published": "2026-07-05T07:00:00+00:00",
-      "snippet": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says Reuters",
+      "snippet": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says reuters.com",
       "category": "investments",
       "language": "en"
     },
     {
       "id": "c9989173496b68ebb86d4c5effa430cf",
-      "title": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says - economictimes.com",
-      "source": "economictimes.com",
+      "title": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says - The Economic Times",
+      "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUWF3bUpJTVFNNk9yOEZybllqcnZyTUVoSGJGZktBcGFqTldiaThYTDNVU0h3MDVmcmljajU5Wk9Pb0dUbnRydWtZOFB6bDBjR2xva1NiSzBqdlcwZl95ckJ3Q0VZZ2tQcnFlMGw5R3NRSmN1MXhseVdSdGI5eHNDWFhWQ0REZXlmdFdFbWZhWVBkcnh1cnFuSzc0WHRRX3A5ZmFGSXdtWnFjeWVfSFA0M1BaYWJYZW1qaEpzM1JGdVpiem04SDYtMmZxYWlmMWcxLVlGX2IzV0dpeU5FUzVkNWcwcUTSAeoBQVVfeXFMTXJYc09kck94RHF4eE93OVRLNjVLYTdtY0pKQXoxOHEzU0JOTnltbzNJMm5qUUZSOF9NTjhxdWRSc29iZlM0akpIMmFtc0NiYjFhQWE1QUJ6VG5lT2hlRU9oY3hNWVllTlREYnNncEJHV3BsOXFwdmMzeHBkRE1RVVZQNm0zbk8tckE1WXdTTV9qOXVyTm5iTF9iQ3BpcVFBN3JmeTZoQUFZNEpwNnQ0REx3WXhwcEFUVUtESjFPZzFGazJSaEVTdHpwNS1rWTgxVnFOUXJvTHFOZXI0Z1JYbHozdjZkc0E2V1dB?oc=5",
       "published": "2026-07-05T07:00:00+00:00",
-      "snippet": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says economictimes.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "f8e421c7797b4e727c752beb3ad67def",
-      "title": "Eightfold Revenue 2024: $96.6M ARR, $2.1B Valuation - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCR0dlSnY0UW5qSGdaXzF6eGR1SFh5Z3dBeXZuWFpPd2pET2Z0Z3IzalRFd05kcXpucFpnY1VjU1ZjQkpqZ3ByamRubXZzUGYxSHc?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "snippet": "Eightfold Revenue 2024: $96.6M ARR, $2.1B Valuation GetLatka",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "55e6873bdab84b820ec9d6a35c6ceff8",
-      "title": "Phenom Revenue 2024: $232.2M Est. ARR, $1.3B Valuation - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZ2ZiVWZPZDdQTlJ4bUx1MHhOTVNxWkNMLTJqdngtUFN5YnVaU1RhUTY2alNFVFNsWjJfRXhGcmdEOU1ZZi1JU3BHbEZ2dw?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "snippet": "Phenom Revenue 2024: $232.2M Est. ARR, $1.3B Valuation GetLatka",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "3e7ea5e91d9541fd64c69044a443c4ae",
-      "title": "Top News Today: Amazon’s AI Chips, BatX Funding, WEF AI Hiring Report and More - Analytics Insight",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnpqcGd5eFRxQlNCbjY5aW9VV2Fya2hidHVmcXVVYks3a0Y0UXdLN2VIRTRtdHVFOGx6VGR2RktLVEktbVp0emRFaGUzczNnSERmeDN0b25QaFRfYTh3cDFJV0ZSLXgteUg4TjkzenVDZl9nbDJHN2ZkWmlac0hvNWNNTU1rN21jR25EanFjOGFKaERVTW1yNUt3cEJoYmJUQXVVbTlFYWFoQ3c4VVIyV2xJVi1wQ2dL0gHGAUFVX3lxTE1taGpNVWV5Y3ZLNmxfTnROaU5EUnhuRE9DRWd3NjFDYTlIbVhmakRxeWRmVmpvUV9UcnItOUpyOTJNV0dvNEtVcWtDT3VyUzY4bGNUMTRURXJMWUhMYmdXZ2VLZ0dDN2I3eUswQzNzRVBja2VKYWFLQkxIakFoVUw3V2FDN0IyZXFET2tTR0JTVXp3aW1IUHl6aTI5d2d1SWpjWE5iSDcwNlVoN3FKd0JtUnNMOVpIT2hFV01nNWw1SUd2Vl95QQ?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "snippet": "Top News Today: Amazon’s AI Chips, BatX Funding, WEF AI Hiring Report and More Analytics Insight",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "22d27d0c52db91606a0a490429152b00",
-      "title": "Factorial Raises $150 Million at $2.5 Billion Valuation, Pivots to AI Workforce Platform With East Africa Growth Push - iAfrica.com",
-      "source": "iAfrica.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX1JDeXI3QVhoNjZvQTdpMzlLQWpoa3VFOFl3WWFGZjFUVlBWeDdXSHZWYWVVN1JQZUZSdnRPNF81dFgza0pyLU1GQ1EwV1lNcmFQZTc0Ym1rOXNHbnNNUG1Ca0laUVNmc3pLMkVlM3QyYWRBNlZUUERQd2lZVkRkcFVtWGdoVFFxMXNUdktZbVgzdWg2MjhBZHZCQnRLMnVGeVFsUXk1VzY2RWxoc2ZyZFUxU2RHVXJ2ZnlsSXdaNlhBdnd2N0xsRG1FY25yankx?oc=5",
-      "published": "2026-07-02T10:49:14+00:00",
-      "snippet": "Factorial Raises $150 Million at $2.5 Billion Valuation, Pivots to AI Workforce Platform With East Africa Growth Push iAfrica.com",
+      "snippet": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says The Economic Times",
       "category": "investments",
       "language": "en"
     }
