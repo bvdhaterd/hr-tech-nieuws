@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-03T09:31:23Z",
-  "total": 14,
+  "last_updated": "2026-08-04T08:26:53Z",
+  "total": 18,
   "articles": [
+    {
+      "id": "2d4607677b446eb120346cd6adf351fa",
+      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
+      "source": "Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZ9IB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
+      "published": "2026-08-04T04:03:23+00:00",
+      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "d25e5a2b77f103e1535129b035bffe6f",
+      "title": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud - israeldefense.co.il",
+      "source": "israeldefense.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tWWNzZFVaSUJ4bEtwX05xMDJ4TzdJTUx5SXYzS0JhWHdwYnZtZTRmZmlMZWtyY2Z6b09QVkpaUEhISkxLS1I2ZzBuNnJLWmFGdkJGZ0hoTWw?oc=5",
+      "published": "2026-08-04T03:09:12+00:00",
+      "snippet": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud israeldefense.co.il",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "1035d0e8446df3595dc5a19958e98941",
+      "title": "Deel acquires Clarity to expand AI-driven identity checks - CFOtech Asia",
+      "source": "CFOtech Asia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHB6Rm1ROWNUVllYclB5YUF4MmpmUldjeGF6Nkl5Q3pRVEk4eXoxN0ZjR2xyZ1lDWVg4S3ZPN09RVU1weWYzeE0tS3lSQUpZaGoxYTJnM0JpbGkzOC1aOWItMmhVak8wdWVkcFp0SDZKalZWMzktUFh3bldGOGRqQnpDVExyYllCa2FFQQ?oc=5",
+      "published": "2026-08-04T01:25:00+00:00",
+      "snippet": "Deel acquires Clarity to expand AI-driven identity checks CFOtech Asia",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
       "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
@@ -34,11 +64,11 @@
     },
     {
       "id": "532095400a6a5dc592ddbdc1daf186b6",
-      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - reuters.com",
-      "source": "reuters.com",
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
       "published": "2026-07-28T19:43:56+00:00",
-      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets reuters.com",
+      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets Reuters",
       "category": "lawsuits",
       "language": "en"
     },
@@ -113,13 +143,23 @@
       "language": "en"
     },
     {
-      "id": "37845ca339a85554754741a9e56df926",
-      "title": "Workday Lawsuit 2026: Case Update After Opt-In - LawFold.com",
-      "source": "LawFold.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EblA4cng1RU1JZV92cnNtcEFCR3ZmUHBXTEFoZi1EZTVzY1FlTXhZOExXQVJITHNjcDU3d213T0VlSmYxdEtZcUw3aTQ?oc=5",
-      "published": "2026-07-13T07:00:00+00:00",
-      "snippet": "Workday Lawsuit 2026: Case Update After Opt-In LawFold.com",
-      "category": "lawsuits",
+      "id": "9e31e5655e9f9be7982c7d496df96560",
+      "title": "LeagueApps acquires background check provider NCSI from Versant - Sports Business Journal",
+      "source": "Sports Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
+      "published": "2026-07-08T15:19:42+00:00",
+      "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "947cc1a033a3ecb814ceb4b8ea89e402",
+      "title": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Uc05DT1RNaDI1R2djNUVqTnRCa21WaUhQN1U5bXBLNzllc25neVhHb2xaSzYyT3k3SEoxRmpaRVIyM3lFWGxZNUZlbWVPbldxMnhLOTVrRGxoQVFXZlZRdTZ2aVZicE5PUGJMLS1GWnEyelh2dGk1R2tWZ0ZmcGc?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "snippet": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund Axios",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -133,13 +173,13 @@
       "language": "en"
     },
     {
-      "id": "c9989173496b68ebb86d4c5effa430cf",
-      "title": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUWF3bUpJTVFNNk9yOEZybllqcnZyTUVoSGJGZktBcGFqTldiaThYTDNVU0h3MDVmcmljajU5Wk9Pb0dUbnRydWtZOFB6bDBjR2xva1NiSzBqdlcwZl95ckJ3Q0VZZ2tQcnFlMGw5R3NRSmN1MXhseVdSdGI5eHNDWFhWQ0REZXlmdFdFbWZhWVBkcnh1cnFuSzc0WHRRX3A5ZmFGSXdtWnFjeWVfSFA0M1BaYWJYZW1qaEpzM1JGdVpiem04SDYtMmZxYWlmMWcxLVlGX2IzV0dpeU5FUzVkNWcwcUTSAeoBQVVfeXFMTXJYc09kck94RHF4eE93OVRLNjVLYTdtY0pKQXoxOHEzU0JOTnltbzNJMm5qUUZSOF9NTjhxdWRSc29iZlM0akpIMmFtc0NiYjFhQWE1QUJ6VG5lT2hlRU9oY3hNWVllTlREYnNncEJHV3BsOXFwdmMzeHBkRE1RVVZQNm0zbk8tckE1WXdTTV9qOXVyTm5iTF9iQ3BpcVFBN3JmeTZoQUFZNEpwNnQ0REx3WXhwcEFUVUtESjFPZzFGazJSaEVTdHpwNS1rWTgxVnFOUXJvTHFOZXI0Z1JYbHozdjZkc0E2V1dB?oc=5",
-      "published": "2026-07-05T07:00:00+00:00",
-      "snippet": "Bridgepoint leads €200 million fundraising in French HR tech firm Skello, source says The Economic Times",
-      "category": "investments",
+      "id": "2514a19fadcde175c973d26b51445ebe",
+      "title": "AscentHR acquires OS HRS to strengthen APAC payroll technology position - TNGlobal",
+      "source": "TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2lvVlh6UldHN2xnSEZHWTB4TkhvTENQMlZ6U0pxLWllc3JYcHp3VERmd2xPaTg2c3IwNU8wYUF3dmFxSkZkd1VCb2cyYTA1WWl1dGVNUlZmNUZVS05uNy05dmNzNVZZeDlNWUxuTWlYZlZTNmNLaVZic29TMjgySmxqdjVObERQUTdtb1FrQV9uUXFWaE1Dckl3SDBHUy1xMzZFbVY0UXZBeXc?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "snippet": "AscentHR acquires OS HRS to strengthen APAC payroll technology position TNGlobal",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
