@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T08:25:48Z",
+  "last_updated": "2026-08-06T08:23:13Z",
   "total": 22,
   "articles": [
     {
@@ -113,6 +113,16 @@
       "language": "en"
     },
     {
+      "id": "4776df6c0d30c12ceaa3bcf8fba7b523",
+      "title": "Workday AI Lawsuit: Settlement Update (July 2026) - LawFold.com",
+      "source": "LawFold.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XN21ndmZmaURpLXR0MmkzZ1dOUjBvbzBINElHbElFNGdZb0E4d3R5WnNZai1yU2hXc3lwSzRZQXJBek8zRlBhRC1MMHhBY29J?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "snippet": "Workday AI Lawsuit: Settlement Update (July 2026) LawFold.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "f54d5ec02123d8f8a287f26f457f12eb",
       "title": "Workday’s AI lawsuit keeps spotlight on AI-powered recruiting as case works through courts - HR Brew",
       "source": "HR Brew",
@@ -153,12 +163,12 @@
       "language": "en"
     },
     {
-      "id": "6987610ef90b01be947510df6430b4da",
-      "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg - BeBeez International",
-      "source": "BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWhIWE9mUFVZTWtVNGhMemk5XzVUQzlwRmpYMm04RUVBdGo3dzV4Mi1qeWFOTVlBaXg2anZSNUpqTHU2U2pJcnA4M0l3NVBkSHZxdW5EblZsNVBXS2J3N3NqckJhUFdIZkRiVDhaNWo2OWZaVFZzOXl0X0lheDlSYU84RjNZODlsWUdXRkE3YXZEODlTNV9rV2pqbUlnMFY1dVRURUNTMElqeXY3bUVfNnQtYmhHM1p4cGRzMXFReHVGU29JekVXcUpDb3JWbms?oc=5",
-      "published": "2026-07-14T08:13:05+00:00",
-      "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg BeBeez International",
+      "id": "a82042c12cd95a7b51fccfd301feb9b3",
+      "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeWEzWlBNQXVvVUhYUjhsckVmWklEczJvRW9BQlh3SVF1endxNGN4amZaM19xTE5BWlM4clNSU3hwbXJvSURVSmV6dU02SEVSOW5lQV9fWDZNemdEZS1FZTF5d3JxQ3VDS0hDNzVVSHdXVXhKREphQnNpaDVxREQyWnlqVXlXQTRmTDlrbGZsUVVidmlFbU9wUGxzSW9mR092SUd3SnRiZGhtaXpZNjZNOUVJVHJKa0gzZjBXYU5xWEJCV2tJZkxCdUYycWJlbndDMTdkUm1oVjVkUmxSX2JJOUxnajZqX2FfbTlaYzVZNVZNQQ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -183,16 +193,6 @@
       "language": "en"
     },
     {
-      "id": "9e31e5655e9f9be7982c7d496df96560",
-      "title": "LeagueApps acquires background check provider NCSI from Versant - Sports Business Journal",
-      "source": "Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
-      "published": "2026-07-08T15:19:42+00:00",
-      "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "947cc1a033a3ecb814ceb4b8ea89e402",
       "title": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund - Axios",
       "source": "Axios",
@@ -213,13 +213,13 @@
       "language": "en"
     },
     {
-      "id": "af3ce3a35a5c561da168e7bdcb4f1b19",
-      "title": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit - Mealey's",
-      "source": "Mealey's",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1E4bGFjMEdHZUpuV2t1ZnZyRWcwQmJaaUswbmNiQUZMUlVEOF9aTlcxWHJ5eENPS0gxYWNvM0dlTWFlS0R6NXc4QWl5Rm9QMzlMOVA2VVBEbmJrYmFVeERLQ0JoQWVUSkhnZ1JVQ19TaHAwc2lfZDFHRWwzTVpTZVVscThZb1ZWMW1NU05wRG5NaW96TkRWZTZGNXFsLUhUcmlRSy1uYmpqNEdyQ084RXF4WnhUUlJvU2Nya2VncndkZVYwbTJWWHdwYVlwb3dlYVHSAWJBVV95cUxQWWtUcGc2S1lzXzVrdFRlcGtycG5fc2U2OHFwZ1VFR1VBVW5wc28tcGhJampPdk5CdkRISWNfX0JvcWRibk1KVm5qczFkVFlOeGRYRkpVM29Od0FJTGMwcTQydw?oc=5",
-      "published": "2026-07-07T07:00:00+00:00",
-      "snippet": "Interlocutory Appeal Denied In AI Hiring Age Bias Collective Lawsuit Mealey's",
-      "category": "lawsuits",
+      "id": "9e31e5655e9f9be7982c7d496df96560",
+      "title": "LeagueApps acquires background check provider NCSI from Versant - Sports Business Journal",
+      "source": "Sports Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
