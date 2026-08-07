@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T08:23:13Z",
-  "total": 22,
+  "last_updated": "2026-08-07T07:04:30Z",
+  "total": 19,
   "articles": [
     {
       "id": "4d7f7451d692cbca9fba146756c3c4ae",
@@ -44,11 +44,11 @@
     },
     {
       "id": "4c1d0c73a7aa1a6ee40e50bf7627da57",
-      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
-      "source": "Storyboard18",
+      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - storyboard18.com",
+      "source": "storyboard18.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNQaXE2cUpHOWdtaTl5RmFiMkttS3NnYkppRGJicG5KMHExTkh6d0hKRW9HaTlKZXhndTg2eUlsTU5mNWptNTRlWm9RWU5sUFE1WDd2MGJtc251Rk12OUZia0lidlBwanNpcFFOYTJnMDBSZk1jZWhIVEhOcmNxR1VWOTI5bEkzeFJCaFBDSXM3cF94al96aFNzQjhKYnRrTktWeVVVR2R0WHo2NXRhMUs1ZmVOSmNKa29WVjh2MGhvMjRFNHFTX2xqb0p6WFUyQWpFedIB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
       "published": "2026-08-04T04:03:23+00:00",
-      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
+      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding storyboard18.com",
       "category": "investments",
       "language": "en"
     },
@@ -63,12 +63,12 @@
       "language": "en"
     },
     {
-      "id": "1035d0e8446df3595dc5a19958e98941",
-      "title": "Deel acquires Clarity to expand AI-driven identity checks - CFOtech Asia",
-      "source": "CFOtech Asia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHB6Rm1ROWNUVllYclB5YUF4MmpmUldjeGF6Nkl5Q3pRVEk4eXoxN0ZjR2xyZ1lDWVg4S3ZPN09RVU1weWYzeE0tS3lSQUpZaGoxYTJnM0JpbGkzOC1aOWItMmhVak8wdWVkcFp0SDZKalZWMzktUFh3bldGOGRqQnpDVExyYllCa2FFQQ?oc=5",
+      "id": "3c3c9aa1ab1f9533f2249d8aa21b3557",
+      "title": "Deel acquires Clarity to expand AI-driven identity checks - IT Brief UK",
+      "source": "IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUV91M2lUU1FscTUzaDFjVXhoYjc0RjFkZlRWVjZhcnJ4SW9BY2hjMTE4RTZMQ21SX2hibXJIdXRvcGdNM0tzNW1mLXpCMFlLVW9PN3k1OGlhLXFLcEM3SDZvYTNJR3BnQmJHS1lqSjBsOHhKb2t5bnk5dFFFVWZNMm0yWWJGOXRJZEJvUG5B?oc=5",
       "published": "2026-08-04T01:25:00+00:00",
-      "snippet": "Deel acquires Clarity to expand AI-driven identity checks CFOtech Asia",
+      "snippet": "Deel acquires Clarity to expand AI-driven identity checks IT Brief UK",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -84,11 +84,11 @@
     },
     {
       "id": "9c82f732fb1ab592f7e58c4ccb2e3946",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Capital Gazette",
-      "source": "Capital Gazette",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - capitalgazette.com",
+      "source": "capitalgazette.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUhGU3cyQkNJOEEzeVV4UGFqSHJCektmS3BSSENHVjV3WEVEWmpGSmJqeXl0X3RHTzFtSlN0U3gxbm1UMTg5VjlzX1ZIMkxrc2NSTjBsWnhJc2JUZlFVMmtNOXh3WGVnTnROQ3NCN2VHNWJLOGpuaUJuSmM2TU1Pek5Qaw?oc=5",
       "published": "2026-08-01T09:07:27+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Capital Gazette",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims capitalgazette.com",
       "category": "lawsuits",
       "language": "en"
     },
@@ -190,36 +190,6 @@
       "published": "2026-07-09T07:00:00+00:00",
       "snippet": "Sherpa, AI Platform For External Workforce Management, Raises $2.2m Pre-seed HRTech Series",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "947cc1a033a3ecb814ceb4b8ea89e402",
-      "title": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Uc05DT1RNaDI1R2djNUVqTnRCa21WaUhQN1U5bXBLNzllc25neVhHb2xaSzYyT3k3SEoxRmpaRVIyM3lFWGxZNUZlbWVPbldxMnhLOTVrRGxoQVFXZlZRdTZ2aVZicE5PUGJMLS1GWnEyelh2dGk1R2tWZ0ZmcGc?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "snippet": "Prime Intellect's $1b valuation, Ardian's HR software stake, and Paradigm's new fund Axios",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "edbaf4497d40d48f1c1e210d0459005d",
-      "title": "Shore Capital acquires HR tech firm ThrivePass - pehub.com",
-      "source": "pehub.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVDN3ZmNQVkZtd0JYTkhlM2VFNDdGU3RUUTRmUzZzR1ZyLUwwZm9GUGJIczRYN28wNU1uS3VyQ19jZDA2b0RpMGtSaDhUZFowckxkbG9XM3l0YUpUa2pKc1Azc05VUkVJbHdjck5Uc3Rlb2o4SzRNUg?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "snippet": "Shore Capital acquires HR tech firm ThrivePass pehub.com",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "9e31e5655e9f9be7982c7d496df96560",
-      "title": "LeagueApps acquires background check provider NCSI from Versant - Sports Business Journal",
-      "source": "Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmM2TVNNN2FzNW5EbXZyaUZ3TEVQTTlqZGtlVDlHd2FzY3dla2ZXWjlpVnhUWktkQlFiemJ6UnlRdFNCOHVSa09Tc0t1UDUzVzVEV2h4SjFnYWRxQzl4WFJ4Nk91S2NGYTNGdGw2aGpqWG9OMjBaYWVDVTc1TW9WSU83Szd5a1dXLTZlRmkwVElSV19DU2JBVEhEMEhoQWtlR29GOEJQRFR0N2xKcDl2U1p5TzFzcWdPMFdCLWoyaw?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "snippet": "LeagueApps acquires background check provider NCSI from Versant Sports Business Journal",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
