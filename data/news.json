@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-08-08T06:40:19Z",
-  "total": 19,
+  "last_updated": "2026-08-09T06:43:14Z",
+  "total": 17,
   "articles": [
-    {
-      "id": "8fb75ee6e0b188edf28643fc170cff79",
-      "title": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? - UC Today",
-      "source": "UC Today",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ2RLbUVBcG02Nl9IY3VYbGZSUVVJNjE0c25iQ0tJSFdoSXpubnJmU3BxeV9xV1pDTFh5QkczYnMyWWtzaVFUOEV1all4MUk5S21TSmNiRDhFR05EcWNEZFFOTjYyZ21NZ3ZpUVA3NDBXTXhDUThrNGVYN21CR2dBZ3lQa3pvUmhZZ3dRNVNib2otcGhaUTJCY2xEcjZsRUV4TXkxTEExazhkZXNKOWR6Zy1MNDBsWmdJeDRRQlI4RkY0NjhVMUZmMzl2aWFFa3hHVnc?oc=5",
-      "published": "2026-08-07T09:12:09+00:00",
-      "snippet": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? UC Today",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
     {
       "id": "4d7f7451d692cbca9fba146756c3c4ae",
       "title": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows - The Next Web",
@@ -84,11 +74,11 @@
     },
     {
       "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - baltimoresun.com",
-      "source": "baltimoresun.com",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
+      "source": "Baltimore Sun",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU43dVZITU51WWVVY3NtbG9wX1k2XzlRM0FLeWZmS1FQREdSTkZWQXpObFVHWmV6N3lMWUdZZF9odDJ1RDhfeGNiSjdqTmt4MHN6QWhVcnBLc3d6dG80dllnRURNLWJIbGxJMl96aE9MS3NYRGZyd085alFvZFc5Yg?oc=5",
       "published": "2026-08-01T23:50:54+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims baltimoresun.com",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Baltimore Sun",
       "category": "lawsuits",
       "language": "en"
     },
@@ -104,31 +94,21 @@
     },
     {
       "id": "532095400a6a5dc592ddbdc1daf186b6",
-      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - reuters.com",
-      "source": "reuters.com",
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
       "published": "2026-07-28T07:00:00+00:00",
-      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets reuters.com",
+      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets Reuters",
       "category": "lawsuits",
       "language": "en"
     },
     {
       "id": "983add47ee6a9cf0990a28befbe3ff17",
-      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - The Tech Buzz",
-      "source": "The Tech Buzz",
+      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - techbuzz.ai",
+      "source": "techbuzz.ai",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
       "published": "2026-07-28T07:00:00+00:00",
-      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "4776df6c0d30c12ceaa3bcf8fba7b523",
-      "title": "Workday AI Lawsuit: Settlement Update (July 2026) - LawFold.com",
-      "source": "LawFold.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XN21ndmZmaURpLXR0MmkzZ1dOUjBvbzBINElHbElFNGdZb0E4d3R5WnNZai1yU2hXc3lwSzRZQXJBek8zRlBhRC1MMHhBY29J?oc=5",
-      "published": "2026-07-24T07:00:00+00:00",
-      "snippet": "Workday AI Lawsuit: Settlement Update (July 2026) LawFold.com",
+      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech techbuzz.ai",
       "category": "lawsuits",
       "language": "en"
     },
@@ -154,11 +134,11 @@
     },
     {
       "id": "9be531547ecc2f0a897e94e4b549b5c9",
-      "title": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform - Pulse 2.0",
-      "source": "Pulse 2.0",
+      "title": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform - pulse2.com",
+      "source": "pulse2.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1NDVjFCNEo1cnFtcXpmeFpQUjNQVkFWdkRsNXpPNWEwOWxqSk1zOFFIYjB6SzNzUjZwd1lGRktuOHNic21zZmxnUWdlaU5ERk1tSC1sRFhrYVZNd0phMWdCRXplNXF2aXk5WUM5QUZ4SktpdmpKM0hIMjhKaF9WcjcxajNnMEhSU3NBeVlwMUJuWEpqZnZ6LWYxV1RDQllRTXRGc1Nn0gGrAUFVX3lxTE5VWEpfRkhpMXZPamZvLUt6aGgtRGhTQjR6MnpsTXMxN18tQXhZdVM3Q2NLX1JxUlE4M29UUkRqZnhXd2I4Y0RLRG5XSUZaYzVIejdydjh3MFA1b1VpMVRaem1UcmVGbmx4RjB5RUtidDc2a08xZ2Q2dTktaWFmU0ZDNmhZRVNOSU5TRDRFVTNTbF8wRk43RzNDVkJQSkNPdGNHdXNfcmZMTnRQcw?oc=5",
       "published": "2026-07-15T07:00:59+00:00",
-      "snippet": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform Pulse 2.0",
+      "snippet": "ORTEC Acquires TOBA HR Solutions To Expand Healthcare Workforce Management Platform pulse2.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -183,13 +163,13 @@
       "language": "en"
     },
     {
-      "id": "ab273c797d98ddea12f492f09d903641",
-      "title": "Sherpa, AI Platform For External Workforce Management, Raises $2.2m Pre-seed - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTlvSFMxUUNwSW9MaTc3cHE2WXNKS0xMc05fVlR1V0lHWHA1aGlZZ2xOVmFlMEg2Vzljc20wX25mQXF4ZmhlMDFweDJaaE9Ldk9RbTRWVHJyQkU4Z3BrNUYwV3k0TVFjMmpYX1p5dlVOTno2UmpmdkZuUy1fZURvZXBOcmViNzdrU0JsWDdmNzV4QWtEaGNMZVJ2LUgtemtGd21rOTZfU3FuUXlfYXlVd3NhVlowMHZ0WkE?oc=5",
-      "published": "2026-07-09T07:00:00+00:00",
-      "snippet": "Sherpa, AI Platform For External Workforce Management, Raises $2.2m Pre-seed HRTech Series",
-      "category": "investments",
+      "id": "37845ca339a85554754741a9e56df926",
+      "title": "Workday Lawsuit 2026: Case Update After Opt-In - LawFold.com",
+      "source": "LawFold.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EblA4cng1RU1JZV92cnNtcEFCR3ZmUHBXTEFoZi1EZTVzY1FlTXhZOExXQVJITHNjcDU3d213T0VlSmYxdEtZcUw3aTQ?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "snippet": "Workday Lawsuit 2026: Case Update After Opt-In LawFold.com",
+      "category": "lawsuits",
       "language": "en"
     }
   ]
