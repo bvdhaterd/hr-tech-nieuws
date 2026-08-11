@@ -1,15 +1,45 @@
 {
-  "last_updated": "2026-08-10T07:18:40Z",
-  "total": 20,
+  "last_updated": "2026-08-11T06:55:15Z",
+  "total": 24,
   "articles": [
     {
-      "id": "69016092a4e222956ccd9b3e44282ee5",
-      "title": "Workday lawsuit alleges AI bias in hiring - PressReader",
-      "source": "PressReader",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRyYjdrenBMSFJXUms0VUgxdUFjeWJ0NGd5TkgySEFidnBEcFlVenBrelYtTHZHWkowenlwUW15QkR1d1VscUEyeFIyb0VoOHQ0RzZOZ1haeVVrVzd6NnFraFh3T2RSUDdTY0N4bmUyQWw2bFd3RUlIdW9vNlk3c1hxTGZKS0NH?oc=5",
-      "published": "2026-08-09T06:26:15+00:00",
-      "snippet": "Workday lawsuit alleges AI bias in hiring PressReader",
+      "id": "dfcd7faaefaad6f5278da73fccaae9e7",
+      "title": "Rippling Countersues Runlayer in Patent Dispute - whalesbook.com",
+      "source": "whalesbook.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
+      "published": "2026-08-10T23:19:48+00:00",
+      "snippet": "Rippling Countersues Runlayer in Patent Dispute whalesbook.com",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "95e7d9eb8c8eeeb90102b781dc82e266",
+      "title": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims - The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG5aU01mdnhDM3BvOTJsRXg5bXpHSVNMVWk5RTlrc20zN0d3NFg1U2UzWTVHWHNWN0prR01LeVA5Nlo1ZDhrNVExT1B4bnVoaVlIX1puV3B4RmFDQ3Bid0tRMzlZNlVhajFJVFBYaEhUaHFKLUZrNGtLY3ZybnRWNjlldzRiaUVuV2R1ZjNDWDRZSmM?oc=5",
+      "published": "2026-08-10T22:50:00+00:00",
+      "snippet": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims The Tech Buzz",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "40f9706280dcb656bcd3deb2a9fed401",
+      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
+      "published": "2026-08-10T21:45:00+00:00",
+      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "060fe8c749f568f7831315e8967fd3a9",
+      "title": "Deel acquires global cyber security company Clarity - hrleader.com.au",
+      "source": "hrleader.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmg0YjJUZUVmMnJVMnFYSlhBZzNrUlNXUHk1RVd5SGlRTExSNmN4SFIweVRiejNZajZsUU9TZWNEQl9ENkoxQ1pCZ3UtRTZWSVBNRnJ1d3M0ckFqRkJ0MkdwTjBoWnQ5SkJMVHIzaElWQlc1WlAxN1puMENPRW9QQkxyOHdGSnZoV0hRWkhkeWFMTWc?oc=5",
+      "published": "2026-08-10T21:04:58+00:00",
+      "snippet": "Deel acquires global cyber security company Clarity hrleader.com.au",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -103,12 +133,12 @@
       "language": "en"
     },
     {
-      "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
-      "source": "Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU43dVZITU51WWVVY3NtbG9wX1k2XzlRM0FLeWZmS1FQREdSTkZWQXpObFVHWmV6N3lMWUdZZF9odDJ1RDhfeGNiSjdqTmt4MHN6QWhVcnBLc3d6dG80dllnRURNLWJIbGxJMl96aE9MS3NYRGZyd085alFvZFc5Yg?oc=5",
-      "published": "2026-08-01T23:50:54+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Baltimore Sun",
+      "id": "0deb47eb2267ad61f897f6abf555744f",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXFfa01kZWFBcmhaOGxuRGhaN25jYk9aNmRGc1BaQkZxdGE2UGNyckRWU3UxdG1WX09aRWZBVjNORFBzaEx5cmdTb0FSQ19URGJYUVU4MHU3VHZOclo5OWlXdmlMSkVtclp6d05SOHNsanNHZHVIZEM0bVV5OG5IbS1EaWlSbDRGbFJFM3V0TlJwZ0J5WndrOXZKVHFidw?oc=5",
+      "published": "2026-08-03T18:33:34+00:00",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims The Spokesman-Review",
       "category": "lawsuits",
       "language": "en"
     },
@@ -119,6 +149,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUhGU3cyQkNJOEEzeVV4UGFqSHJCektmS3BSSENHVjV3WEVEWmpGSmJqeXl0X3RHTzFtSlN0U3gxbm1UMTg5VjlzX1ZIMkxrc2NSTjBsWnhJc2JUZlFVMmtNOXh3WGVnTnROQ3NCN2VHNWJLOGpuaUJuSmM2TU1Pek5Qaw?oc=5",
       "published": "2026-08-01T09:07:27+00:00",
       "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Capital Gazette",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - baltimoresun.com",
+      "source": "baltimoresun.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU43dVZITU51WWVVY3NtbG9wX1k2XzlRM0FLeWZmS1FQREdSTkZWQXpObFVHWmV6N3lMWUdZZF9odDJ1RDhfeGNiSjdqTmt4MHN6QWhVcnBLc3d6dG80dllnRURNLWJIbGxJMl96aE9MS3NYRGZyd085alFvZFc5Yg?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims baltimoresun.com",
       "category": "lawsuits",
       "language": "en"
     },
@@ -143,12 +183,22 @@
       "language": "en"
     },
     {
+      "id": "4776df6c0d30c12ceaa3bcf8fba7b523",
+      "title": "Workday AI Lawsuit: Settlement Update (July 2026) - LawFold.com",
+      "source": "LawFold.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XN21ndmZmaURpLXR0MmkzZ1dOUjBvbzBINElHbElFNGdZb0E4d3R5WnNZai1yU2hXc3lwSzRZQXJBek8zRlBhRC1MMHhBY29J?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "snippet": "Workday AI Lawsuit: Settlement Update (July 2026) LawFold.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "56a95ef5331f7d521f5b07f66ad6103b",
-      "title": "Atlanta HRTech Grayscale’s Road To Paylocity Acquisition - hypepotamus.com",
-      "source": "hypepotamus.com",
+      "title": "Atlanta HRTech Grayscale’s Road To Paylocity Acquisition - Hypepotamus",
+      "source": "Hypepotamus",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV3JsLV9oZTBXVEoyeTdLOHQ4NXZ2VElHOGVmT1dVUnlTRXNWejk1V0ZLZER0YnRjampQNDJ3N3g1TTZXTlhuTEtxVEdyMmRRUUd2ZjRDdGtIVzBrRi1jNWRyTUprLUNFVTk4cEptajFoT2dQUnZFbGpQelpJLXRyYg?oc=5",
       "published": "2026-07-20T07:00:00+00:00",
-      "snippet": "Atlanta HRTech Grayscale’s Road To Paylocity Acquisition hypepotamus.com",
+      "snippet": "Atlanta HRTech Grayscale’s Road To Paylocity Acquisition Hypepotamus",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -160,16 +210,6 @@
       "published": "2026-07-20T07:00:00+00:00",
       "snippet": "Workday’s AI lawsuit keeps spotlight on AI-powered recruiting as case works through courts HR Brew",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "f1f9c63eb7f17f38ff7d7f7712695eda",
-      "title": "Germany: Ardian acquires majority stake in German digital healthcare recruitment platform, Pflegia - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYU9GM1JMcUZNVkNPeWlhVVFjbGJTNFZzd1B4QjlMZGliX1JyV3RUQjIxQ1NuWXNncXZHQUtIMlpZT2F2Ql9oSXJ4UTIySVZqNFBhQmNWOFNHM1lHdE13MUFfSTVuX0JremhhUHVrMkNZM1ZHdURsdVpSSnlob2ppcmdjcVBrNVhfbThwM1V1dWU4aHZDNlpBRHU0X2NxQ1NQWU9lX2hYdVRfdlJTbjVDOHFFTHkxVk9hemlFSXExb1pZNXhHdXp4VEp0LW5WMk8wUm96QzBhWW1BVXZJbjVRQ0Vuem9tRWFkTk9oMTFObw?oc=5",
-      "published": "2026-07-16T07:32:37+00:00",
-      "snippet": "Germany: Ardian acquires majority stake in German digital healthcare recruitment platform, Pflegia Investors in Healthcare",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
