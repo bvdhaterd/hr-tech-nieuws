@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T07:14:37Z",
-  "total": 23,
+  "last_updated": "2026-08-13T07:16:52Z",
+  "total": 21,
   "articles": [
     {
       "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
@@ -63,6 +63,16 @@
       "language": "en"
     },
     {
+      "id": "69016092a4e222956ccd9b3e44282ee5",
+      "title": "Workday lawsuit alleges AI bias in hiring - PressReader",
+      "source": "PressReader",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRyYjdrenBMSFJXUms0VUgxdUFjeWJ0NGd5TkgySEFidnBEcFlVenBrelYtTHZHWkowenlwUW15QkR1d1VscUEyeFIyb0VoOHQ0RzZOZ1haeVVrVzd6NnFraFh3T2RSUDdTY0N4bmUyQWw2bFd3RUlIdW9vNlk3c1hxTGZKS0NH?oc=5",
+      "published": "2026-08-09T06:26:15+00:00",
+      "snippet": "Workday lawsuit alleges AI bias in hiring PressReader",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "7d83dcc417e0638983c5d97af9088a15",
       "title": "Deloitte acquires BDO’s Dayforce practice - Consulting.ca",
       "source": "Consulting.ca",
@@ -79,16 +89,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12U1o4WTNKeVlqdU1MZV9tUktjRkVtTUVpclA5OGFKRlpXbXl2X3BBRUtCcFlSYVotMDFNOGs1SWstSG1UYXByYThLVzdCU3UwcnZJT01kWi11b2dDejg5SUU5MHdGMC01bVhQd2ZsZk9EUW1sS0lB?oc=5",
       "published": "2026-08-04T18:26:02+00:00",
       "snippet": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows The Next Web",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "370a758626ae8c229d67dce6fc6a6019",
-      "title": "Arsenal’s sleeve partner Deel announces 15th acquisition - businesscloud.co.uk",
-      "source": "businesscloud.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeEJTRm1ralgxdXJ3NUw3X2pvV0hjUC1UekVNdGFXYVFkZEJjblM2cVNYdm1LSURKTXUzb2VybkRaVzRfcHhVTnhHempuWnVGMV8wbHJRcFhzUTI3MVFFY3lfTk9UVjAyZmJFMF9Vc2tEYjdZa21ocl9iRFF4ZFV3MHNiTmx0TTJTRWtmSmxsdzdWQ1E?oc=5",
-      "published": "2026-08-04T12:27:42+00:00",
-      "snippet": "Arsenal’s sleeve partner Deel announces 15th acquisition businesscloud.co.uk",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -130,16 +130,6 @@
       "published": "2026-08-04T03:09:12+00:00",
       "snippet": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud israeldefense.co.il",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "0deb47eb2267ad61f897f6abf555744f",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXFfa01kZWFBcmhaOGxuRGhaN25jYk9aNmRGc1BaQkZxdGE2UGNyckRWU3UxdG1WX09aRWZBVjNORFBzaEx5cmdTb0FSQ19URGJYUVU4MHU3VHZOclo5OWlXdmlMSkVtclp6d05SOHNsanNHZHVIZEM0bVV5OG5IbS1EaWlSbDRGbFJFM3V0TlJwZ0J5WndrOXZKVHFidw?oc=5",
-      "published": "2026-08-03T07:00:00+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims The Spokesman-Review",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -219,16 +209,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHZ3WjNMNUxvZVdDdWQzUk5PUlA0R05GMndtZVlPaGw4eXA2OWU3am5WM3ltcTBsUmNXbkU0N0VoTG04VEs0Uk5QZjNfU094VDU2dHAzWDQ1Wk5sYU9JTkFybzg1eWgybjNhaXNBNXRiQ3NRZ0FFV3JOcXE1ckM2SA?oc=5",
       "published": "2026-07-15T07:00:00+00:00",
       "snippet": "Intuit to Acquire HR Platform GoCo Intuit",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "a82042c12cd95a7b51fccfd301feb9b3",
-      "title": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeWEzWlBNQXVvVUhYUjhsckVmWklEczJvRW9BQlh3SVF1endxNGN4amZaM19xTE5BWlM4clNSU3hwbXJvSURVSmV6dU02SEVSOW5lQV9fWDZNemdEZS1FZTF5d3JxQ3VDS0hDNzVVSHdXVXhKREphQnNpaDVxREQyWnlqVXlXQTRmTDlrbGZsUVVidmlFbU9wUGxzSW9mR092SUd3SnRiZGhtaXpZNjZNOUVJVHJKa0gzZjBXYU5xWEJCV2tJZkxCdUYycWJlbndDMTdkUm1oVjVkUmxSX2JJOUxnajZqX2FfbTlaYzVZNVZNQQ?oc=5",
-      "published": "2026-07-14T07:00:00+00:00",
-      "snippet": "ORTEC acquires TOBA HR Solutions to strengthen healthcare workforce management in Belgium and Luxembourg PR Newswire",
       "category": "mergers_acquisitions",
       "language": "en"
     }
