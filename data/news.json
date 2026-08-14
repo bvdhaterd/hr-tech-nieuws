@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T07:16:52Z",
-  "total": 21,
+  "last_updated": "2026-08-14T07:15:07Z",
+  "total": 19,
   "articles": [
     {
       "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
@@ -73,26 +73,6 @@
       "language": "en"
     },
     {
-      "id": "7d83dcc417e0638983c5d97af9088a15",
-      "title": "Deloitte acquires BDO’s Dayforce practice - Consulting.ca",
-      "source": "Consulting.ca",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM09OSUFNdnA2SDFDeVctdGlkeENEa0FjZFNHOWtwamdJSXRIT2ZXVWp2VjU5eWlVU3FFU2dwam15c1hXcF9FWVp3TjlMQmtDNFVMaDJBUnFJMWRRQWF6Mm1jMTlsLTdGNm9LM3pmOE5qZFpkZUpUYk5xbEMxZGJwNlVR0gGHAUFVX3lxTFBZNnZmbEd4amxtNnE3MVFSSHQ1SmEtbko2RENnS2xLcXo4TzkzMVpYd09LZVVUQlR1dlRqc0haSE9ZajdyN25ybG5mejJ1QXdIVVlhcmhoNVFIR3pJTnk4YUJELU45UkwxV2VNTWhBM3pQbTFDeXc2T2ZTLU8wS2dMNktHZ0tEUQ?oc=5",
-      "published": "2026-08-06T14:02:13+00:00",
-      "snippet": "Deloitte acquires BDO’s Dayforce practice Consulting.ca",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "4d7f7451d692cbca9fba146756c3c4ae",
-      "title": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows - The Next Web",
-      "source": "The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12U1o4WTNKeVlqdU1MZV9tUktjRkVtTUVpclA5OGFKRlpXbXl2X3BBRUtCcFlSYVotMDFNOGs1SWstSG1UYXByYThLVzdCU3UwcnZJT01kWi11b2dDejg5SUU5MHdGMC01bVhQd2ZsZk9EUW1sS0lB?oc=5",
-      "published": "2026-08-04T18:26:02+00:00",
-      "snippet": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows The Next Web",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "70ea3ee424c428a2b6c895dd4603a244",
       "title": "Deel Acquires AI Cybersecurity Pioneer Clarity to Build Trusted Identity for the AI Era - Onrec",
       "source": "Onrec",
@@ -109,6 +89,16 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXA3eEtOTzFCdTJNLWxkMUdVS1dtSFQwbGFUNU90Y2FVQUtFbEc5bkp0WC1oaEpLRnFBeWF4RHdzc0VLd3FWNXpCdE1yZV9ibzVBeHJfUHdpakNxZ3ZSN1VKTmlnYVZPNTA2LVZQcWZlY01SRnJ0cFFPMnVyanlxVUVn?oc=5",
       "published": "2026-08-04T09:17:00+00:00",
       "snippet": "Deel Acquires AI Security Firm Clarity finews.asia",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4d7f7451d692cbca9fba146756c3c4ae",
+      "title": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows - The Next Web",
+      "source": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12U1o4WTNKeVlqdU1MZV9tUktjRkVtTUVpclA5OGFKRlpXbXl2X3BBRUtCcFlSYVotMDFNOGs1SWstSG1UYXByYThLVzdCU3UwcnZJT01kWi11b2dDejg5SUU5MHdGMC01bVhQd2ZsZk9EUW1sS0lB?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "snippet": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows The Next Web",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -200,16 +190,6 @@
       "published": "2026-07-20T07:00:00+00:00",
       "snippet": "Workday’s AI lawsuit keeps spotlight on AI-powered recruiting as case works through courts HR Brew",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "ae2dfde2115aef1016c7c87d33e2b17d",
-      "title": "Intuit to Acquire HR Platform GoCo - Intuit",
-      "source": "Intuit",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHZ3WjNMNUxvZVdDdWQzUk5PUlA0R05GMndtZVlPaGw4eXA2OWU3am5WM3ltcTBsUmNXbkU0N0VoTG04VEs0Uk5QZjNfU094VDU2dHAzWDQ1Wk5sYU9JTkFybzg1eWgybjNhaXNBNXRiQ3NRZ0FFV3JOcXE1ckM2SA?oc=5",
-      "published": "2026-07-15T07:00:00+00:00",
-      "snippet": "Intuit to Acquire HR Platform GoCo Intuit",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
