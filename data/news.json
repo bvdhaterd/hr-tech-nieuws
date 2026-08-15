@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-14T07:15:07Z",
-  "total": 19,
+  "last_updated": "2026-08-15T06:26:10Z",
+  "total": 18,
   "articles": [
+    {
+      "id": "b8e883c3aff6bf07c909c278996630fe",
+      "title": "Metaview Acquires Reval to Accelerate the Shift From AI Assistants to AI Coworkers - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFdubGFBM0R0RkpmTXBKUmFZU3NiNVhQd01ZTkpEajlPZWRXdUVBdXdnSm1rTjJZTVFLN1FhTXhPT3lNN0dDTjlFT3BTZjREVkZ1ZDk4a2pSb0Q1UDJaTE11WTlFX1k0NGVZc3ktbG0yNVBqX2VYNEg2U0RpckRBbm9GWVBxZHpvN1NhakEzbkM0OHRMYUxtUk0tMUU1eVlsUE9nMnVwR0ZhRkpBUVBqTHdtVGZkRjhEVVRPbGFiU0RYVkk5YjY4OUxwTjN4UjFV?oc=5",
+      "published": "2026-08-11T14:16:27+00:00",
+      "snippet": "Metaview Acquires Reval to Accelerate the Shift From AI Assistants to AI Coworkers HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
       "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - Inshorts",
@@ -9,16 +19,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAzZ0JGY3lJYjFEZFJkVk1qYTltVGhLUFpwcUxibHNSWVlrSERuS1pVZUg1SlhSSjM1dHg0cFFtazExbHJIOE1LdWhkMHhFdnVFUWdVM1B6cGxFSXRNS1Y3QjBRaFRMcTcxT2R2dGlXRG9aRTJpcTViY00wZkRzeFZibXhNaVFuSk9NdHQxeVlFaVpucTJxUVU0U3MtVFhtZTV0QkNld0tTbFBXX3M3NFRn0gG3AUFVX3lxTE5wX2tEcExFNzdtOF8xSVo3TFVCSDJYTVY0R0hGeGFiOXdMdkd3TWNZYVpKaHRpU1hTQjNyclNDSDIxSWVxMXIwNUZJWE5NYTRkQ2pSam00dnBibzlsemM5NHVmRzJFZTc5a1NweHB1WTluSGFUZkJRS0ZLVUlOMlMtaWJPREQxdTBPeDhLWGJUdk1qYVRtNGZLTXI0dEpWVzJqcTgzWDZaQm5fa2ZxdnBLUTJFUTlIVQ?oc=5",
       "published": "2026-08-11T12:10:50+00:00",
       "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts Inshorts",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "1b234a1d04383438bb859c225d55538c",
-      "title": "Rippling Sues AI Startup Runlayer Over Patents Days After Being Sued First - Startup Fortune",
-      "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmRuZXNjc0lSOVZPTEVXN0w2OHpKWVpKb0xRc3BXb0lzVnNYNDNHWXI3blE5MUJOVXFTY01IMVJWaV9Dd2tUR0hFQ0JjLTV0VzBoMjl3Z002ZU16aFlWaXZ6WGlPSHYxYjdrNVRjZTR4ak5hVUlvUkxRMUFGaldMMDIwbGl1Y21oM0R2c3hjcWhPM2pqWFoweXM3SVJxOEljamR0dw?oc=5",
-      "published": "2026-08-11T02:53:55+00:00",
-      "snippet": "Rippling Sues AI Startup Runlayer Over Patents Days After Being Sued First Startup Fortune",
       "category": "lawsuits",
       "language": "en"
     },
@@ -63,12 +63,12 @@
       "language": "en"
     },
     {
-      "id": "69016092a4e222956ccd9b3e44282ee5",
-      "title": "Workday lawsuit alleges AI bias in hiring - PressReader",
-      "source": "PressReader",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRyYjdrenBMSFJXUms0VUgxdUFjeWJ0NGd5TkgySEFidnBEcFlVenBrelYtTHZHWkowenlwUW15QkR1d1VscUEyeFIyb0VoOHQ0RzZOZ1haeVVrVzd6NnFraFh3T2RSUDdTY0N4bmUyQWw2bFd3RUlIdW9vNlk3c1hxTGZKS0NH?oc=5",
-      "published": "2026-08-09T06:26:15+00:00",
-      "snippet": "Workday lawsuit alleges AI bias in hiring PressReader",
+      "id": "d7783fe25c40bd13e1edebabd1dfd923",
+      "title": "Rippling sues AI startup Runlayer for infringing data patents - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhYaHlWbHk0SEJDU19XbGZ5ajc2RWJZNVFLelQyMVJjaEVjN3hhZG05QkxUX0EtcFRYTEZCQkw4aEthN0ZxQldVOHU4Zk9kdHRrNDhpcHoyX1dwdVBnM29mb0lsdXQ1c3ktSFdNeWZmdEZEVjViUE9GV05KTmh3alcxN2lhRWNxUEtlYTF4bmZwSkVETm04VktTWHhyRkhfSlpPSXVzMy1fUmFBVENz?oc=5",
+      "published": "2026-08-10T20:01:44+00:00",
+      "snippet": "Rippling sues AI startup Runlayer for infringing data patents Reuters",
       "category": "lawsuits",
       "language": "en"
     },
@@ -93,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "4c1d0c73a7aa1a6ee40e50bf7627da57",
+      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
+      "source": "Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNQaXE2cUpHOWdtaTl5RmFiMkttS3NnYkppRGJicG5KMHExTkh6d0hKRW9HaTlKZXhndTg2eUlsTU5mNWptNTRlWm9RWU5sUFE1WDd2MGJtc251Rk12OUZia0lidlBwanNpcFFOYTJnMDBSZk1jZWhIVEhOcmNxR1VWOTI5bEkzeFJCaFBDSXM3cF94al96aFNzQjhKYnRrTktWeVVVR2R0WHo2NXRhMUs1ZmVOSmNKa29WVjh2MGhvMjRFNHFTX2xqb0p6WFUyQWpFedIB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "4d7f7451d692cbca9fba146756c3c4ae",
       "title": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows - The Next Web",
       "source": "The Next Web",
@@ -100,16 +110,6 @@
       "published": "2026-08-04T07:00:00+00:00",
       "snippet": "Deel acquires deepfake-detection startup Clarity as fake hire problem grows The Next Web",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "4c1d0c73a7aa1a6ee40e50bf7627da57",
-      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
-      "source": "Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNQaXE2cUpHOWdtaTl5RmFiMkttS3NnYkppRGJicG5KMHExTkh6d0hKRW9HaTlKZXhndTg2eUlsTU5mNWptNTRlWm9RWU5sUFE1WDd2MGJtc251Rk12OUZia0lidlBwanNpcFFOYTJnMDBSZk1jZWhIVEhOcmNxR1VWOTI5bEkzeFJCaFBDSXM3cF94al96aFNzQjhKYnRrTktWeVVVR2R0WHo2NXRhMUs1ZmVOSmNKa29WVjh2MGhvMjRFNHFTX2xqb0p6WFUyQWpFedIB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
-      "published": "2026-08-04T04:03:23+00:00",
-      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -123,32 +123,12 @@
       "language": "en"
     },
     {
-      "id": "9c82f732fb1ab592f7e58c4ccb2e3946",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Capital Gazette",
-      "source": "Capital Gazette",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUhGU3cyQkNJOEEzeVV4UGFqSHJCektmS3BSSENHVjV3WEVEWmpGSmJqeXl0X3RHTzFtSlN0U3gxbm1UMTg5VjlzX1ZIMkxrc2NSTjBsWnhJc2JUZlFVMmtNOXh3WGVnTnROQ3NCN2VHNWJLOGpuaUJuSmM2TU1Pek5Qaw?oc=5",
-      "published": "2026-08-01T07:00:00+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Capital Gazette",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
       "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
       "source": "Baltimore Sun",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU43dVZITU51WWVVY3NtbG9wX1k2XzlRM0FLeWZmS1FQREdSTkZWQXpObFVHWmV6N3lMWUdZZF9odDJ1RDhfeGNiSjdqTmt4MHN6QWhVcnBLc3d6dG80dllnRURNLWJIbGxJMl96aE9MS3NYRGZyd085alFvZFc5Yg?oc=5",
       "published": "2026-08-01T07:00:00+00:00",
       "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Baltimore Sun",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "a135b2cb3c0e39ab411b99b2621596fb",
-      "title": "Runlayer Files AI Trade Secrets Lawsuit Against Rippling - jdjournal.com",
-      "source": "jdjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNDRmUm5jd0YxaXgzaDNjOUg1X3oteHZ6LU9NUFYwVmYtZ3JURkFjcUsxV29BT09qZ0hiNmZ5QVhmMllCNEtsajVjbW1VS1lDQjg4aUFoQjlXSTR0bHUteFQtRzB4ZDMxYjl1LW5wcUFGQ2dTaTFzd2h5bzd0TmhHN244aTk0cDU0eG5iRDVR?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "snippet": "Runlayer Files AI Trade Secrets Lawsuit Against Rippling jdjournal.com",
       "category": "lawsuits",
       "language": "en"
     },
@@ -169,6 +149,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
       "published": "2026-07-28T07:00:00+00:00",
       "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9a325140a2de9d48627414ad8eba0268",
+      "title": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants - Business and Human Rights Centre",
+      "source": "Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQNXhzV2QtWWVpZnB1bkhsZ1hJRFh1NUROX1lxeFdNVDVvVm5GbGNreDZQeTM1dFhJRXZYX0o4LWVzYjF0UGtYdVVxNGtkb2VsZDN2aDBNTHpwOG0wY3pCNGdjVjRHMDFManNMOUE4V1EzUTR2YzczeWZFWDZGTEhyaERoRTZrMm53LXRsbW5aMTdGQlZ0SXlIOFhRa3FUemlxUmtsWkpWbU9zdnMyWTNKUlRtNlFuT0dxd0ZmVGs1a2dFbUlibU9SOHQtdm1LekdSMUdvTDk3cF9sdURwT2FYZ1RFSExGMDA1ZGQ1WU5UXzhRb3V0SlJWelBibmFLX05FT3U1VXRSRDZPQXE4ZVAxRk9HVGtuZThaX2pjYTNRNTJFLVh5bzdRVjFMZ3ZZMHM3RDhFeTM1cU1PUzdDZFZERUFRcWZ6X2pqQmpFRzc0TQ?oc=5",
+      "published": "2026-07-25T09:41:13+00:00",
+      "snippet": "USA: Judge rules Workday must face lawsuit alleging its AI applicant-screening tools discriminate against women, applicants with disabilities, Black applicants and older applicants Business and Human Rights Centre",
       "category": "lawsuits",
       "language": "en"
     },
