@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T06:26:10Z",
-  "total": 18,
+  "last_updated": "2026-08-16T06:28:17Z",
+  "total": 15,
   "articles": [
     {
       "id": "b8e883c3aff6bf07c909c278996630fe",
@@ -10,26 +10,6 @@
       "published": "2026-08-11T14:16:27+00:00",
       "snippet": "Metaview Acquires Reval to Accelerate the Shift From AI Assistants to AI Coworkers HRTech Series",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
-      "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - Inshorts",
-      "source": "Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAzZ0JGY3lJYjFEZFJkVk1qYTltVGhLUFpwcUxibHNSWVlrSERuS1pVZUg1SlhSSjM1dHg0cFFtazExbHJIOE1LdWhkMHhFdnVFUWdVM1B6cGxFSXRNS1Y3QjBRaFRMcTcxT2R2dGlXRG9aRTJpcTViY00wZkRzeFZibXhNaVFuSk9NdHQxeVlFaVpucTJxUVU0U3MtVFhtZTV0QkNld0tTbFBXX3M3NFRn0gG3AUFVX3lxTE5wX2tEcExFNzdtOF8xSVo3TFVCSDJYTVY0R0hGeGFiOXdMdkd3TWNZYVpKaHRpU1hTQjNyclNDSDIxSWVxMXIwNUZJWE5NYTRkQ2pSam00dnBibzlsemM5NHVmRzJFZTc5a1NweHB1WTluSGFUZkJRS0ZLVUlOMlMtaWJPREQxdTBPeDhLWGJUdk1qYVRtNGZLTXI0dEpWVzJqcTgzWDZaQm5fa2ZxdnBLUTJFUTlIVQ?oc=5",
-      "published": "2026-08-11T12:10:50+00:00",
-      "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts Inshorts",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "dfcd7faaefaad6f5278da73fccaae9e7",
-      "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
-      "source": "Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
-      "published": "2026-08-10T23:19:48+00:00",
-      "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -63,16 +43,6 @@
       "language": "en"
     },
     {
-      "id": "d7783fe25c40bd13e1edebabd1dfd923",
-      "title": "Rippling sues AI startup Runlayer for infringing data patents - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhYaHlWbHk0SEJDU19XbGZ5ajc2RWJZNVFLelQyMVJjaEVjN3hhZG05QkxUX0EtcFRYTEZCQkw4aEthN0ZxQldVOHU4Zk9kdHRrNDhpcHoyX1dwdVBnM29mb0lsdXQ1c3ktSFdNeWZmdEZEVjViUE9GV05KTmh3alcxN2lhRWNxUEtlYTF4bmZwSkVETm04VktTWHhyRkhfSlpPSXVzMy1fUmFBVENz?oc=5",
-      "published": "2026-08-10T20:01:44+00:00",
-      "snippet": "Rippling sues AI startup Runlayer for infringing data patents Reuters",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "70ea3ee424c428a2b6c895dd4603a244",
       "title": "Deel Acquires AI Cybersecurity Pioneer Clarity to Build Trusted Identity for the AI Era - Onrec",
       "source": "Onrec",
@@ -94,11 +64,11 @@
     },
     {
       "id": "4c1d0c73a7aa1a6ee40e50bf7627da57",
-      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
-      "source": "Storyboard18",
+      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - storyboard18.com",
+      "source": "storyboard18.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNQaXE2cUpHOWdtaTl5RmFiMkttS3NnYkppRGJicG5KMHExTkh6d0hKRW9HaTlKZXhndTg2eUlsTU5mNWptNTRlWm9RWU5sUFE1WDd2MGJtc251Rk12OUZia0lidlBwanNpcFFOYTJnMDBSZk1jZWhIVEhOcmNxR1VWOTI5bEkzeFJCaFBDSXM3cF94al96aFNzQjhKYnRrTktWeVVVR2R0WHo2NXRhMUs1ZmVOSmNKa29WVjh2MGhvMjRFNHFTX2xqb0p6WFUyQWpFedIB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
       "published": "2026-08-04T07:00:00+00:00",
-      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
+      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding storyboard18.com",
       "category": "investments",
       "language": "en"
     },
