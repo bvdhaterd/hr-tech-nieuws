@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-18T06:31:41Z",
-  "total": 18,
+  "last_updated": "2026-08-19T06:32:34Z",
+  "total": 22,
   "articles": [
+    {
+      "id": "49f43069a5cfde361c266c078ad0aad9",
+      "title": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa - Tech Build Africa",
+      "source": "Tech Build Africa",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcXVMdlNBbzFjN0hFcWR4bHNfaVpfRnd0YzBOb0JPaVo2dDFEX0NpR1Z5TWRXTEVKZ29yazJSXy1vaWhNNjIwRF9feFFERHZ1R3JGWWJydjhVbGlFV25Qa3hkcWhJb2tkWlBYQi1vaERlWEs3SC1wS3dhVkM?oc=5",
+      "published": "2026-08-18T08:51:21+00:00",
+      "snippet": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa Tech Build Africa",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "1b1a8c49526d091bbc7e961edb1e8adb",
+      "title": "HR Startup Jem Raises $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Launch Base Africa",
+      "source": "Launch Base Africa",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVg2d3NoVTZxbUY3TlpibWE3U3pWUDJUQkMxNUhWNUVtVGRTdGpJRHhUZHZTOUJJR1VhVFUyWXZNckNfX1pnOWJ6X0M1U2tNSll3YzNuckNpcE0tb2lhLU9yeVBVMUR1MzdHMjJEbGVTQWxOdkVNX3dkbjh5ZVZJVFpsaHZaVGMyMlliODREMm1ZWHNSY0hPV1hjTlAxTUdPbW10eFUzYmNBNzVGVGtsVGF6MU5PbFVOeXRBWQ?oc=5",
+      "published": "2026-08-18T05:30:00+00:00",
+      "snippet": "HR Startup Jem Raises $8.4M Series A to Expand WhatsApp-Based Workforce Platform Launch Base Africa",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "6e0a0db94b837c5684e6b5fc825de4c0",
+      "title": "Juicebox Named \"Talent Acquisition Company of the Year\" in 2026 HR Tech Breakthrough Awards Program - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2pxazRubEVSWXpUb3FOZFZ4V2JXZ2pHd041RHpBZy1LQ3hya1NCV2FQbnlab3hNdEFyZmJMZEd4UEF4NUczYUVyMEdQeml4NmMxMmZtQWdsNzhoMUNGUm91SUdqOXFOTGhiOURfQXp1ekRYUWw3Nm5OQTdJNzFCVmstbXRCTUlTQWVfamRQbHl0R3R2?oc=5",
+      "published": "2026-08-17T14:00:00+00:00",
+      "snippet": "Juicebox Named \"Talent Acquisition Company of the Year\" in 2026 HR Tech Breakthrough Awards Program Yahoo Finance Singapore",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8b0d4120b0290cce48b9013dd756d900",
+      "title": "Workday faces lawsuit over alleged bias in automated hiring tools - AFRO News",
+      "source": "AFRO News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
+      "published": "2026-08-14T01:35:25+00:00",
+      "snippet": "Workday faces lawsuit over alleged bias in automated hiring tools AFRO News",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "b8e883c3aff6bf07c909c278996630fe",
       "title": "Metaview Acquires Reval to Accelerate the Shift From AI Assistants to AI Coworkers - HRTech Series",
@@ -14,31 +54,21 @@
     },
     {
       "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
-      "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - inshorts.com",
-      "source": "inshorts.com",
+      "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - Inshorts",
+      "source": "Inshorts",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAzZ0JGY3lJYjFEZFJkVk1qYTltVGhLUFpwcUxibHNSWVlrSERuS1pVZUg1SlhSSjM1dHg0cFFtazExbHJIOE1LdWhkMHhFdnVFUWdVM1B6cGxFSXRNS1Y3QjBRaFRMcTcxT2R2dGlXRG9aRTJpcTViY00wZkRzeFZibXhNaVFuSk9NdHQxeVlFaVpucTJxUVU0U3MtVFhtZTV0QkNld0tTbFBXX3M3NFRn0gG3AUFVX3lxTE5wX2tEcExFNzdtOF8xSVo3TFVCSDJYTVY0R0hGeGFiOXdMdkd3TWNZYVpKaHRpU1hTQjNyclNDSDIxSWVxMXIwNUZJWE5NYTRkQ2pSam00dnBibzlsemM5NHVmRzJFZTc5a1NweHB1WTluSGFUZkJRS0ZLVUlOMlMtaWJPREQxdTBPeDhLWGJUdk1qYVRtNGZLTXI0dEpWVzJqcTgzWDZaQm5fa2ZxdnBLUTJFUTlIVQ?oc=5",
       "published": "2026-08-11T12:13:14+00:00",
-      "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts inshorts.com",
+      "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts Inshorts",
       "category": "lawsuits",
       "language": "en"
     },
     {
       "id": "95e7d9eb8c8eeeb90102b781dc82e266",
-      "title": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims - The Tech Buzz",
-      "source": "The Tech Buzz",
+      "title": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims - techbuzz.ai",
+      "source": "techbuzz.ai",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG5aU01mdnhDM3BvOTJsRXg5bXpHSVNMVWk5RTlrc20zN0d3NFg1U2UzWTVHWHNWN0prR01LeVA5Nlo1ZDhrNVExT1B4bnVoaVlIX1puV3B4RmFDQ3Bid0tRMzlZNlVhajFJVFBYaEhUaHFKLUZrNGtLY3ZybnRWNjlldzRiaUVuV2R1ZjNDWDRZSmM?oc=5",
       "published": "2026-08-10T22:50:00+00:00",
-      "snippet": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims The Tech Buzz",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "40f9706280dcb656bcd3deb2a9fed401",
-      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - nypost.com",
-      "source": "nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
-      "published": "2026-08-10T21:45:00+00:00",
-      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle nypost.com",
+      "snippet": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims techbuzz.ai",
       "category": "lawsuits",
       "language": "en"
     },
@@ -53,22 +83,32 @@
       "language": "en"
     },
     {
+      "id": "40f9706280dcb656bcd3deb2a9fed401",
+      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "8fb75ee6e0b188edf28643fc170cff79",
-      "title": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? - uctoday.com",
-      "source": "uctoday.com",
+      "title": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? - UC Today",
+      "source": "UC Today",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ2RLbUVBcG02Nl9IY3VYbGZSUVVJNjE0c25iQ0tJSFdoSXpubnJmU3BxeV9xV1pDTFh5QkczYnMyWWtzaVFUOEV1all4MUk5S21TSmNiRDhFR05EcWNEZFFOTjYyZ21NZ3ZpUVA3NDBXTXhDUThrNGVYN21CR2dBZ3lQa3pvUmhZZ3dRNVNib2otcGhaUTJCY2xEcjZsRUV4TXkxTEExazhkZXNKOWR6Zy1MNDBsWmdJeDRRQlI4RkY0NjhVMUZmMzl2aWFFa3hHVnc?oc=5",
-      "published": "2026-08-07T09:12:09+00:00",
-      "snippet": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? uctoday.com",
+      "published": "2026-08-07T07:00:00+00:00",
+      "snippet": "Deloitte Acquires One of Canada’s Largest Dayforce Practices: Is Workday Facing a Challenger? UC Today",
       "category": "mergers_acquisitions",
       "language": "en"
     },
     {
       "id": "686155f83fc643a429517848658e1b0c",
-      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
-      "source": "Tracxn",
+      "title": "HRTech - 2026 Market & Investments Trends - tracxn.com",
+      "source": "tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-08-06T07:00:00+00:00",
-      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "snippet": "HRTech - 2026 Market & Investments Trends tracxn.com",
       "category": "investments",
       "language": "en"
     },
@@ -144,11 +184,11 @@
     },
     {
       "id": "983add47ee6a9cf0990a28befbe3ff17",
-      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - The Tech Buzz",
-      "source": "The Tech Buzz",
+      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - techbuzz.ai",
+      "source": "techbuzz.ai",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
       "published": "2026-07-28T07:00:00+00:00",
-      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
+      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech techbuzz.ai",
       "category": "lawsuits",
       "language": "en"
     },
