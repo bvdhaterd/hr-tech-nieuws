@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T06:28:26Z",
-  "total": 21,
+  "last_updated": "2026-08-23T06:29:37Z",
+  "total": 20,
   "articles": [
     {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
@@ -43,16 +43,6 @@
       "language": "en"
     },
     {
-      "id": "49f43069a5cfde361c266c078ad0aad9",
-      "title": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa - Tech Build Africa",
-      "source": "Tech Build Africa",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcXVMdlNBbzFjN0hFcWR4bHNfaVpfRnd0YzBOb0JPaVo2dDFEX0NpR1Z5TWRXTEVKZ29yazJSXy1vaWhNNjIwRF9feFFERHZ1R3JGWWJydjhVbGlFV25Qa3hkcWhJb2tkWlBYQi1vaERlWEs3SC1wS3dhVkM?oc=5",
-      "published": "2026-08-18T08:51:21+00:00",
-      "snippet": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa Tech Build Africa",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "173e33391b03bddfc2c16ace6427377a",
       "title": "South African HR Startup Jem Secures $8.4 Million Series A Funding - streamlinefeed.co.ke",
       "source": "streamlinefeed.co.ke",
@@ -74,11 +64,11 @@
     },
     {
       "id": "8b0d4120b0290cce48b9013dd756d900",
-      "title": "Workday faces lawsuit over alleged bias in automated hiring tools - AFRO News",
+      "title": "Lawsuit alleges bias in a company's automated hiring tools - AFRO News",
       "source": "AFRO News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
-      "published": "2026-08-14T01:35:25+00:00",
-      "snippet": "Workday faces lawsuit over alleged bias in automated hiring tools AFRO News",
+      "published": "2026-08-13T07:00:00+00:00",
+      "snippet": "Lawsuit alleges bias in a company's automated hiring tools AFRO News",
       "category": "lawsuits",
       "language": "en"
     },
@@ -93,6 +83,16 @@
       "language": "en"
     },
     {
+      "id": "060fe8c749f568f7831315e8967fd3a9",
+      "title": "Deel acquires global cyber security company Clarity - hrleader.com.au",
+      "source": "hrleader.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmg0YjJUZUVmMnJVMnFYSlhBZzNrUlNXUHk1RVd5SGlRTExSNmN4SFIweVRiejNZajZsUU9TZWNEQl9ENkoxQ1pCZ3UtRTZWSVBNRnJ1d3M0ckFqRkJ0MkdwTjBoWnQ5SkJMVHIzaElWQlc1WlAxN1puMENPRW9QQkxyOHdGSnZoV0hRWkhkeWFMTWc?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "snippet": "Deel acquires global cyber security company Clarity hrleader.com.au",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "dfcd7faaefaad6f5278da73fccaae9e7",
       "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
       "source": "Whalesbook",
@@ -100,16 +100,6 @@
       "published": "2026-08-10T23:19:48+00:00",
       "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "060fe8c749f568f7831315e8967fd3a9",
-      "title": "Deel acquires global cyber security company Clarity - hrleader.com.au",
-      "source": "hrleader.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmg0YjJUZUVmMnJVMnFYSlhBZzNrUlNXUHk1RVd5SGlRTExSNmN4SFIweVRiejNZajZsUU9TZWNEQl9ENkoxQ1pCZ3UtRTZWSVBNRnJ1d3M0ckFqRkJ0MkdwTjBoWnQ5SkJMVHIzaElWQlc1WlAxN1puMENPRW9QQkxyOHdGSnZoV0hRWkhkeWFMTWc?oc=5",
-      "published": "2026-08-10T21:04:58+00:00",
-      "snippet": "Deel acquires global cyber security company Clarity hrleader.com.au",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
