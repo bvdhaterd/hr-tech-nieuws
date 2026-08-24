@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T06:29:37Z",
-  "total": 20,
+  "last_updated": "2026-08-24T06:42:36Z",
+  "total": 23,
   "articles": [
     {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
@@ -63,22 +63,22 @@
       "language": "en"
     },
     {
+      "id": "cd9e0db84074d71edd0fe1c749b95ca9",
+      "title": "Juicebox Named \"Talent Acquisition Company of the Year\" in 2026 HR Tech Breakthrough Awards Program - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWJQT1doMHc4SEd6a1NkbFNHT0s2MnlDNGFjTGxYYjRQZjNpUXpOZWszOHVWQ2RHNU1ReEtjZ3ltQjgzZUtHSWFvNENUSXFBbnV4VDV2UGlLNTUwVGRYeDdzSWE3SjRScXhIT1F5Q1FkWnI5eFJjUzB3bWlhRWduVEQxbDd0aG1tN1l3clVEMjZ0T2NOM0ltV0hGbDBqM2NsNHBVNEd6RDg?oc=5",
+      "published": "2026-08-17T14:00:00+00:00",
+      "snippet": "Juicebox Named \"Talent Acquisition Company of the Year\" in 2026 HR Tech Breakthrough Awards Program Yahoo Finance",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "8b0d4120b0290cce48b9013dd756d900",
       "title": "Lawsuit alleges bias in a company's automated hiring tools - AFRO News",
       "source": "AFRO News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
       "published": "2026-08-13T07:00:00+00:00",
       "snippet": "Lawsuit alleges bias in a company's automated hiring tools AFRO News",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
-      "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - Inshorts",
-      "source": "Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAzZ0JGY3lJYjFEZFJkVk1qYTltVGhLUFpwcUxibHNSWVlrSERuS1pVZUg1SlhSSjM1dHg0cFFtazExbHJIOE1LdWhkMHhFdnVFUWdVM1B6cGxFSXRNS1Y3QjBRaFRMcTcxT2R2dGlXRG9aRTJpcTViY00wZkRzeFZibXhNaVFuSk9NdHQxeVlFaVpucTJxUVU0U3MtVFhtZTV0QkNld0tTbFBXX3M3NFRn0gG3AUFVX3lxTE5wX2tEcExFNzdtOF8xSVo3TFVCSDJYTVY0R0hGeGFiOXdMdkd3TWNZYVpKaHRpU1hTQjNyclNDSDIxSWVxMXIwNUZJWE5NYTRkQ2pSam00dnBibzlsemM5NHVmRzJFZTc5a1NweHB1WTluSGFUZkJRS0ZLVUlOMlMtaWJPREQxdTBPeDhLWGJUdk1qYVRtNGZLTXI0dEpWVzJqcTgzWDZaQm5fa2ZxdnBLUTJFUTlIVQ?oc=5",
-      "published": "2026-08-11T11:35:26+00:00",
-      "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts Inshorts",
       "category": "lawsuits",
       "language": "en"
     },
@@ -100,6 +100,26 @@
       "published": "2026-08-10T23:19:48+00:00",
       "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "95e7d9eb8c8eeeb90102b781dc82e266",
+      "title": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims - The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG5aU01mdnhDM3BvOTJsRXg5bXpHSVNMVWk5RTlrc20zN0d3NFg1U2UzWTVHWHNWN0prR01LeVA5Nlo1ZDhrNVExT1B4bnVoaVlIX1puV3B4RmFDQ3Bid0tRMzlZNlVhajFJVFBYaEhUaHFKLUZrNGtLY3ZybnRWNjlldzRiaUVuV2R1ZjNDWDRZSmM?oc=5",
+      "published": "2026-08-10T22:50:00+00:00",
+      "snippet": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims The Tech Buzz",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "f8d865c874f7fdadd72d21fdaf1aa60e",
+      "title": "Icims Revenue 2020: $250M ARR, $942.7M Raised - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yMVZCUGwzUDNUYl9tUU1uVUpDd2gtRVQ0QVM0bTJsOXF5cnhuRlBrZk1qVWFtZ1A1c0RmRGFOZTJ4d3Z3d0JOTXk1b0w?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Icims Revenue 2020: $250M ARR, $942.7M Raised GetLatka",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -200,6 +220,16 @@
       "published": "2026-07-28T07:00:00+00:00",
       "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9884f0cd276a8e76016681849779672a",
+      "title": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider - The Motley Fool",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmJjTGVUNk9Za2VWcGw0Tmp5UXZsUUdLdVNlYWQ1RnRkdUQtdXdOaVhHNDlUSTVQY1NPRG9Qd3dzRlFZZXpjdWEtU2lHbUV1ajJyTGljQkF0aVlhamZBVEYyQWRHbVZLRzZHWFpoXzNCOHhyTTIxWVdQbXFqMXJGaFU1RDIzeFBoQWdLQw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "snippet": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider The Motley Fool",
+      "category": "investments",
       "language": "en"
     }
   ]
