@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-25T06:34:47Z",
-  "total": 20,
+  "last_updated": "2026-08-26T06:37:09Z",
+  "total": 21,
   "articles": [
+    {
+      "id": "267d3638ade3ce31fc2b113fe742e4ff",
+      "title": "All in on continual feedback, Lattice acquires Pando - HR Brew",
+      "source": "HR Brew",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUpyNHJJUHNvbXZOTnNod29MdzVNdkhGZ21GMHF0cmdjUGRSSDFrLW9DVUFvdlE1OTU0Qk5ubUpMYVYzWTR6RzBtODhTdS14N1JKRHlqaGJKa25mZFhVd2sxTVZtOVFPYUZ4OC1zTkNuVERCQ1d5SFpheVBvQUduMVpxd0h3dThnbVJr?oc=5",
+      "published": "2026-08-25T13:27:19+00:00",
+      "snippet": "All in on continual feedback, Lattice acquires Pando HR Brew",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
       "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
@@ -43,6 +53,16 @@
       "language": "en"
     },
     {
+      "id": "49f43069a5cfde361c266c078ad0aad9",
+      "title": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa - Tech Build Africa",
+      "source": "Tech Build Africa",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcXVMdlNBbzFjN0hFcWR4bHNfaVpfRnd0YzBOb0JPaVo2dDFEX0NpR1Z5TWRXTEVKZ29yazJSXy1vaWhNNjIwRF9feFFERHZ1R3JGWWJydjhVbGlFV25Qa3hkcWhJb2tkWlBYQi1vaERlWEs3SC1wS3dhVkM?oc=5",
+      "published": "2026-08-18T08:55:12+00:00",
+      "snippet": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa Tech Build Africa",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "173e33391b03bddfc2c16ace6427377a",
       "title": "South African HR Startup Jem Secures $8.4 Million Series A Funding - streamlinefeed.co.ke",
       "source": "streamlinefeed.co.ke",
@@ -50,16 +70,6 @@
       "published": "2026-08-18T07:00:00+00:00",
       "snippet": "South African HR Startup Jem Secures $8.4 Million Series A Funding streamlinefeed.co.ke",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2fe00babca24f291e0b16333711a4746",
-      "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElLOU1DM2REWXRYUnlmc045R2RWT0wxVlhrWlFUelBjRmhTdHFHWUR4Q0dwRW5wU0ZiSXFjSkhQRGRTaW1IRTJaZW5QZlBQaTRUb3VrY0MtZ3pySEJRSmJrZlVyR3JjV25BMFpqSjN2Vi1PQ0o2ZGV6aGJFem5fX1FSTlF6cG1jcDg1V2k3T0FCMzNMN3hrNlJ2b3VJMUVrS3B2UnJUdHVKc1VCbzdiVWp3YmxsWnBsb0lFU3lDVVhBakZLNHlKSkNXcnh0c09qY25qU2xPcTlDd1E0TExpTHlLVjh4d0pLNVE?oc=5",
-      "published": "2026-08-17T14:00:00+00:00",
-      "snippet": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program Business Wire",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -77,7 +87,7 @@
       "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
       "source": "Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
-      "published": "2026-08-10T23:19:48+00:00",
+      "published": "2026-08-11T07:00:00+00:00",
       "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
       "category": "lawsuits",
       "language": "en"
@@ -163,16 +173,6 @@
       "language": "en"
     },
     {
-      "id": "0deb47eb2267ad61f897f6abf555744f",
-      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXFfa01kZWFBcmhaOGxuRGhaN25jYk9aNmRGc1BaQkZxdGE2UGNyckRWU3UxdG1WX09aRWZBVjNORFBzaEx5cmdTb0FSQ19URGJYUVU4MHU3VHZOclo5OWlXdmlMSkVtclp6d05SOHNsanNHZHVIZEM0bVV5OG5IbS1EaWlSbDRGbFJFM3V0TlJwZ0J5WndrOXZKVHFidw?oc=5",
-      "published": "2026-08-03T07:00:00+00:00",
-      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims The Spokesman-Review",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
       "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
       "source": "Baltimore Sun",
@@ -200,6 +200,16 @@
       "published": "2026-07-28T07:00:00+00:00",
       "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9884f0cd276a8e76016681849779672a",
+      "title": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider - The Motley Fool",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmJjTGVUNk9Za2VWcGw0Tmp5UXZsUUdLdVNlYWQ1RnRkdUQtdXdOaVhHNDlUSTVQY1NPRG9Qd3dzRlFZZXpjdWEtU2lHbUV1ajJyTGljQkF0aVlhamZBVEYyQWRHbVZLRzZHWFpoXzNCOHhyTTIxWVdQbXFqMXJGaFU1RDIzeFBoQWdLQw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "snippet": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider The Motley Fool",
+      "category": "investments",
       "language": "en"
     }
   ]
