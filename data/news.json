@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-26T06:37:09Z",
-  "total": 21,
+  "last_updated": "2026-08-27T17:12:46Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
+      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGVNTlFHT3VqdzFlT0pZXzIxUHJSVEtpbTFVUTVDc0huSmtmT3NJZ2ViRFZJV2Q5NjRJSTJwMG9GTDVGRFRmWkdNWVRpRFpVMUVVY1RHVlVHdjFZQ2RDenNRX3dkTTVUUmZvQWRUZ2JGLWhDbThXTHBLeEgyYl85eFZpMGdxUFlWWWRTdzFCWldITmZUQmx1VDF3?oc=5",
+      "published": "2026-08-27T02:45:39+00:00",
+      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek Dealroom",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e1a72f4742a5e9e0cbfffe9d462bedfa",
+      "title": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 - Onrec",
+      "source": "Onrec",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGoxaWkzZWZJei15cHVYbHIxNDhfZ2hhRnZfY0YwLWlsc2pxYVFlVjRtY2V2UkMycllMeVM2TkhidUZNdUp1X041amdnYWl5ZzdVUnZUUkdVdFhadHpJRVFHVUttaWR4TlFEYVpKU182S2Jrckc0WEd5cUlFQTd3RHhIZHg5b3VHazdNQndrRTlPaGtvc2tDRXFmMWdGM3dfLTZxTUNlRUttdw?oc=5",
+      "published": "2026-08-26T13:05:43+00:00",
+      "snippet": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 Onrec",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "267d3638ade3ce31fc2b113fe742e4ff",
       "title": "All in on continual feedback, Lattice acquires Pando - HR Brew",
@@ -73,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "2fe00babca24f291e0b16333711a4746",
+      "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElLOU1DM2REWXRYUnlmc045R2RWT0wxVlhrWlFUelBjRmhTdHFHWUR4Q0dwRW5wU0ZiSXFjSkhQRGRTaW1IRTJaZW5QZlBQaTRUb3VrY0MtZ3pySEJRSmJrZlVyR3JjV25BMFpqSjN2Vi1PQ0o2ZGV6aGJFem5fX1FSTlF6cG1jcDg1V2k3T0FCMzNMN3hrNlJ2b3VJMUVrS3B2UnJUdHVKc1VCbzdiVWp3YmxsWnBsb0lFU3lDVVhBakZLNHlKSkNXcnh0c09qY25qU2xPcTlDd1E0TExpTHlLVjh4d0pLNVE?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "snippet": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program Business Wire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "060fe8c749f568f7831315e8967fd3a9",
       "title": "Deel acquires global cyber security company Clarity - hrleader.com.au",
       "source": "hrleader.com.au",
@@ -80,16 +110,6 @@
       "published": "2026-08-11T07:00:00+00:00",
       "snippet": "Deel acquires global cyber security company Clarity hrleader.com.au",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "dfcd7faaefaad6f5278da73fccaae9e7",
-      "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
-      "source": "Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
-      "published": "2026-08-11T07:00:00+00:00",
-      "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -110,16 +130,6 @@
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "Icims Revenue 2020: $250M ARR, $942.7M Raised GetLatka",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "40f9706280dcb656bcd3deb2a9fed401",
-      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
-      "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -173,6 +183,16 @@
       "language": "en"
     },
     {
+      "id": "0deb47eb2267ad61f897f6abf555744f",
+      "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXFfa01kZWFBcmhaOGxuRGhaN25jYk9aNmRGc1BaQkZxdGE2UGNyckRWU3UxdG1WX09aRWZBVjNORFBzaEx5cmdTb0FSQ19URGJYUVU4MHU3VHZOclo5OWlXdmlMSkVtclp6d05SOHNsanNHZHVIZEM0bVV5OG5IbS1EaWlSbDRGbFJFM3V0TlJwZ0J5WndrOXZKVHFidw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims The Spokesman-Review",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "1cae029a2f9f6e864f57e7c8a54d77d3",
       "title": "AI weeds out older and minority job applicants, lawsuit against Workday claims - Baltimore Sun",
       "source": "Baltimore Sun",
@@ -180,36 +200,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "snippet": "AI weeds out older and minority job applicants, lawsuit against Workday claims Baltimore Sun",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "532095400a6a5dc592ddbdc1daf186b6",
-      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "snippet": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets Reuters",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "983add47ee6a9cf0990a28befbe3ff17",
-      "title": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech - The Tech Buzz",
-      "source": "The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazQ0N2hsWG9jbU5Sd0wxVExKMGlrQjBIeHd6djZ0cEdxSGYzTk9sblFMa09QMWEzUDRnaGxaR21ENzBPbWFwNkNnS1RCT2lhSWIwTGRQV25iTkVuQy02RzItNklEU2F5bVhJSHVpNWF3S3d3eTJCNVUxaUM5d0Y5bGdVWmJBM205NkZ4V294UEdkRndfUDJ2NXpDdw?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "snippet": "Runlayer Sues Rippling for Allegedly Stealing MCP Gateway Tech The Tech Buzz",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "9884f0cd276a8e76016681849779672a",
-      "title": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider - The Motley Fool",
-      "source": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmJjTGVUNk9Za2VWcGw0Tmp5UXZsUUdLdVNlYWQ1RnRkdUQtdXdOaVhHNDlUSTVQY1NPRG9Qd3dzRlFZZXpjdWEtU2lHbUV1ajJyTGljQkF0aVlhamZBVEYyQWRHbVZLRzZHWFpoXzNCOHhyTTIxWVdQbXFqMXJGaFU1RDIzeFBoQWdLQw?oc=5",
-      "published": "2026-07-27T07:00:00+00:00",
-      "snippet": "Can You Invest in Rippling Pre-IPO? Details & Alternatives to Consider The Motley Fool",
-      "category": "investments",
       "language": "en"
     }
   ]
