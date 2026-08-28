@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-27T17:12:46Z",
+  "last_updated": "2026-08-28T18:00:14Z",
   "total": 20,
   "articles": [
+    {
+      "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
+      "source": "Outsource Accelerator",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
+      "published": "2026-08-28T10:00:00+00:00",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "4fedbf74d94e4faee0a2df91b44eb413",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - JD Supra",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjFiYzFWUW5tc2w4Q0pNMVlEc0pKVFVPdER4YTdseUNMWFRtYW94VTB4d3k1SWF6b1pNUjh4ZTQ4ejlwU0VIUnl4bXd2ZkNtTm4xaWd0eHFMVi1STXhuVE5OdmplNVZiWUI0ZU9QNldVajNEVHlZN1pYOVYtb1V0UlFZbXhSZw?oc=5",
+      "published": "2026-08-28T05:01:19+00:00",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers JD Supra",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
       "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
@@ -43,23 +63,13 @@
       "language": "en"
     },
     {
-      "id": "88616078b18f04f087c1233e00032e7d",
-      "title": "AI Hiring Tools Face Legal Scrutiny as Job Seeker Sues Eightfold AI Over Automated Screening - Earnings Momentum Score - vinanet.vn",
-      "source": "vinanet.vn",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0hqc2lkZHRmNGtsbkdfUFpfcldiUElRZG54NktBd2pYU3cySDRXNE5FVVJSbzdEUDVNWjg5OG1tU0N6Vm1mdXVoeXd4UXZRSldHdm1KNXFmYV9SQUVNa0lBR2pXSHVERUlja1lmLW4wTzlmMElxMi1EWmZkbDV1Rm9xQkpGSzRVZXFJU25Cem5xWnphMUZfTDJyNGp0NWhKU28wNWotdmdRRjlrejFEdG5BTmhIY1RVbmtSQ2N4a2RjUDZkY0tRTHl1Rk1XRU0?oc=5",
-      "published": "2026-08-19T23:14:18+00:00",
-      "snippet": "AI Hiring Tools Face Legal Scrutiny as Job Seeker Sues Eightfold AI Over Automated Screening - Earnings Momentum Score vinanet.vn",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "04a656c3a5ffafede3c2db9ce297d4c9",
-      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEp5dXlsN1RjTGpNNXo4QUZJUlFTMjFTVjRpV21BcURFeFNobWx0ZTRFNGNJMjZXaWZ6bFZON0V5OE5IMzc5MzhZNlJxLUxWUVB4elFuQVFfT0MzYmcyYnZjRXhFQmZNV0dsUU0xVFlqUHJsSGxqU2xuTFJlRTlyUnBLWEY5M1JL?oc=5",
-      "published": "2026-08-19T13:09:00+00:00",
-      "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
-      "category": "lawsuits",
+      "id": "38d30529dcc057e4b008441c918f73f4",
+      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
+      "source": "Tech In Africa",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
+      "published": "2026-08-20T15:59:16+00:00",
+      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -73,22 +83,22 @@
       "language": "en"
     },
     {
+      "id": "04a656c3a5ffafede3c2db9ce297d4c9",
+      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEp5dXlsN1RjTGpNNXo4QUZJUlFTMjFTVjRpV21BcURFeFNobWx0ZTRFNGNJMjZXaWZ6bFZON0V5OE5IMzc5MzhZNlJxLUxWUVB4elFuQVFfT0MzYmcyYnZjRXhFQmZNV0dsUU0xVFlqUHJsSGxqU2xuTFJlRTlyUnBLWEY5M1JL?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "49f43069a5cfde361c266c078ad0aad9",
       "title": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa - Tech Build Africa",
       "source": "Tech Build Africa",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcXVMdlNBbzFjN0hFcWR4bHNfaVpfRnd0YzBOb0JPaVo2dDFEX0NpR1Z5TWRXTEVKZ29yazJSXy1vaWhNNjIwRF9feFFERHZ1R3JGWWJydjhVbGlFV25Qa3hkcWhJb2tkWlBYQi1vaERlWEs3SC1wS3dhVkM?oc=5",
       "published": "2026-08-18T08:55:12+00:00",
       "snippet": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa Tech Build Africa",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "173e33391b03bddfc2c16ace6427377a",
-      "title": "South African HR Startup Jem Secures $8.4 Million Series A Funding - streamlinefeed.co.ke",
-      "source": "streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDZBSHFNZUlQV2E3YW5xZm9ISG1RVWN6M3NDR0czWlN1Unl4QmRkc21Ub2JKUlBydU1JRWJxeG1aXzRmOGZ5ZTFuM2VLOF9XSDkwR0hGWG5XZ1VvSW04N29FOUdnRHpaQlE3cS12Nlc0cnJZZUU3bkNDQ2JBazAxM1BDcExpOXJjQ0ZEekh6MFZiM0FYaDU5RWxIa1VEU3NO?oc=5",
-      "published": "2026-08-18T07:00:00+00:00",
-      "snippet": "South African HR Startup Jem Secures $8.4 Million Series A Funding streamlinefeed.co.ke",
       "category": "investments",
       "language": "en"
     },
@@ -103,16 +113,6 @@
       "language": "en"
     },
     {
-      "id": "060fe8c749f568f7831315e8967fd3a9",
-      "title": "Deel acquires global cyber security company Clarity - hrleader.com.au",
-      "source": "hrleader.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmg0YjJUZUVmMnJVMnFYSlhBZzNrUlNXUHk1RVd5SGlRTExSNmN4SFIweVRiejNZajZsUU9TZWNEQl9ENkoxQ1pCZ3UtRTZWSVBNRnJ1d3M0ckFqRkJ0MkdwTjBoWnQ5SkJMVHIzaElWQlc1WlAxN1puMENPRW9QQkxyOHdGSnZoV0hRWkhkeWFMTWc?oc=5",
-      "published": "2026-08-11T07:00:00+00:00",
-      "snippet": "Deel acquires global cyber security company Clarity hrleader.com.au",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "95e7d9eb8c8eeeb90102b781dc82e266",
       "title": "Rippling Fires Back: Counter-Sues Runlayer Over IP Claims - The Tech Buzz",
       "source": "The Tech Buzz",
@@ -123,13 +123,13 @@
       "language": "en"
     },
     {
-      "id": "f8d865c874f7fdadd72d21fdaf1aa60e",
-      "title": "Icims Revenue 2020: $250M ARR, $942.7M Raised - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yMVZCUGwzUDNUYl9tUU1uVUpDd2gtRVQ0QVM0bTJsOXF5cnhuRlBrZk1qVWFtZ1A1c0RmRGFOZTJ4d3Z3d0JOTXk1b0w?oc=5",
+      "id": "40f9706280dcb656bcd3deb2a9fed401",
+      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
       "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "Icims Revenue 2020: $250M ARR, $942.7M Raised GetLatka",
-      "category": "investments",
+      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
+      "category": "lawsuits",
       "language": "en"
     },
     {
