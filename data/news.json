@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T18:00:14Z",
-  "total": 20,
+  "last_updated": "2026-08-29T12:06:26Z",
+  "total": 21,
   "articles": [
     {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
@@ -13,12 +13,12 @@
       "language": "en"
     },
     {
-      "id": "4fedbf74d94e4faee0a2df91b44eb413",
-      "title": "AI Hiring Litigation: Key Lessons for Employers - JD Supra",
-      "source": "JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjFiYzFWUW5tc2w4Q0pNMVlEc0pKVFVPdER4YTdseUNMWFRtYW94VTB4d3k1SWF6b1pNUjh4ZTQ4ejlwU0VIUnl4bXd2ZkNtTm4xaWd0eHFMVi1STXhuVE5OdmplNVZiWUI0ZU9QNldVajNEVHlZN1pYOVYtb1V0UlFZbXhSZw?oc=5",
-      "published": "2026-08-28T05:01:19+00:00",
-      "snippet": "AI Hiring Litigation: Key Lessons for Employers JD Supra",
+      "id": "9031c29c55194289d734b50ae50d6eba",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
+      "source": "CDF Labor Law LLP",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
+      "published": "2026-08-27T18:14:14+00:00",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
       "category": "lawsuits",
       "language": "en"
     },
@@ -180,6 +180,16 @@
       "published": "2026-08-04T07:00:00+00:00",
       "snippet": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud israeldefense.co.il",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "504e8dc072af30e9ff9286094456a52f",
+      "title": "Deel crosses $1.5 billion ARR, strengthening IPO credentials - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52a2s3ZDZVMlpfZXVpS3AwZy04RXpNcGJDbVlhbVRicGNVTFM4Mi1IV2RWU1NYem1QNm9sekpMTF94MENRaVU0T0VCVS1Hb3g1X2dFWGtyTk4xR1lCLXJKVnNsMkdJYVV2?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "snippet": "Deel crosses $1.5 billion ARR, strengthening IPO credentials calcalistech.com",
+      "category": "investments",
       "language": "en"
     },
     {
