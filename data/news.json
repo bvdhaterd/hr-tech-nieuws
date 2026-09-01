@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-31T12:24:30Z",
+  "last_updated": "2026-09-01T10:55:59Z",
   "total": 21,
   "articles": [
+    {
+      "id": "2afe25a8282e12c576c34b9c3735f6a0",
+      "title": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYldEN01TODdTMEh4Y2NyOTczd1AySzZ6bXlmYTl2eWhQTlBpWkpDeGxhcGdLZ2s2X05HZDZ6cXVaUE5MeFBDR0hPZHRKMjBiOWdVRGRYeWJGU3hYNTZHcGVNY1I5WlE3OFM4ZnRFcGx1a1NzSWhRVU5xRTJlZW5qMU1QQWpibkRpOGNuV0lfYWstQ3cwbldMQ0c1T2djS3FBY2tLMi12T3F2b0N0akVWVWRHTWpNYThVV1hwUWF0UUUyLW94NWlldGRWb2h1S3kxRHNXR1BMZkVodw?oc=5",
+      "published": "2026-08-31T11:14:32+00:00",
+      "snippet": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes HRTech Series",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
       "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
@@ -43,16 +53,6 @@
       "language": "en"
     },
     {
-      "id": "267d3638ade3ce31fc2b113fe742e4ff",
-      "title": "All in on continual feedback, Lattice acquires Pando - HR Brew",
-      "source": "HR Brew",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUpyNHJJUHNvbXZOTnNod29MdzVNdkhGZ21GMHF0cmdjUGRSSDFrLW9DVUFvdlE1OTU0Qk5ubUpMYVYzWTR6RzBtODhTdS14N1JKRHlqaGJKa25mZFhVd2sxTVZtOVFPYUZ4OC1zTkNuVERCQ1d5SFpheVBvQUduMVpxd0h3dThnbVJr?oc=5",
-      "published": "2026-08-25T13:27:19+00:00",
-      "snippet": "All in on continual feedback, Lattice acquires Pando HR Brew",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
       "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
       "source": "citybiz",
@@ -77,7 +77,7 @@
       "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - WebWire",
       "source": "WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zcWE2Tjd4cVlOQnA2YTFPazhHMFVjVjhVdnFWaXg2ajJ0dFF4aVdSd2N2eldwSzZaWjd0eXBHaGxmM3pqWU5YOVkzclY4MkJHTVNyRjRxTmh3UUFPV1BzNw?oc=5",
-      "published": "2026-08-19T09:37:38+00:00",
+      "published": "2026-08-19T07:00:00+00:00",
       "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform WebWire",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -183,16 +183,6 @@
       "language": "en"
     },
     {
-      "id": "8c7568f2aab6c76b650e0df3e15e07f7",
-      "title": "Deel Acquires AI Security Firm Clarity - finews.asia",
-      "source": "finews.asia",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXA3eEtOTzFCdTJNLWxkMUdVS1dtSFQwbGFUNU90Y2FVQUtFbEc5bkp0WC1oaEpLRnFBeWF4RHdzc0VLd3FWNXpCdE1yZV9ibzVBeHJfUHdpakNxZ3ZSN1VKTmlnYVZPNTA2LVZQcWZlY01SRnJ0cFFPMnVyanlxVUVn?oc=5",
-      "published": "2026-08-04T07:00:00+00:00",
-      "snippet": "Deel Acquires AI Security Firm Clarity finews.asia",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "d25e5a2b77f103e1535129b035bffe6f",
       "title": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud - israeldefense.co.il",
       "source": "israeldefense.co.il",
@@ -200,6 +190,16 @@
       "published": "2026-08-04T07:00:00+00:00",
       "snippet": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud israeldefense.co.il",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "504e8dc072af30e9ff9286094456a52f",
+      "title": "Deel crosses $1.5 billion ARR, strengthening IPO credentials - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52a2s3ZDZVMlpfZXVpS3AwZy04RXpNcGJDbVlhbVRicGNVTFM4Mi1IV2RWU1NYem1QNm9sekpMTF94MENRaVU0T0VCVS1Hb3g1X2dFWGtyTk4xR1lCLXJKVnNsMkdJYVV2?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "snippet": "Deel crosses $1.5 billion ARR, strengthening IPO credentials calcalistech.com",
+      "category": "investments",
       "language": "en"
     },
     {
