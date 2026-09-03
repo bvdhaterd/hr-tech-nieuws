@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T10:23:10Z",
-  "total": 15,
+  "last_updated": "2026-09-03T10:31:33Z",
+  "total": 9,
   "articles": [
     {
       "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
@@ -13,73 +13,33 @@
       "language": "en"
     },
     {
-      "id": "95bea04fdd9951e9fde05b69d6d1ba46",
+      "id": "ac946ff3e879d8bb129f3f9ccba19229",
       "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - peoplematters.in",
       "source": "peoplematters.in",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzl5b1lCblFCX1hoQm5TZmEydGU3Q24zalE0WDFVWFgzc2Zzc3FWLXhNWGtIelNsTFlmUUdvZzB6VHhCLWhvanN5M3p4dkYzTGpiSjlKSngwcHk5aEViSFJ1VHR4Vmo0Q2pSSlBYZU1MQXRqOTR6ZndPbmhlZTFsNUprLXFKUXVVS25LdnZXSDlFRXJ3alZyMVV6OGF2MUxRUFE5YTRnTW1KNlo1OXhzN19mRzI3VHpXTXNCLXdnS3BrV211SnN0ZEFZZFMwNXdzM2g1a1dxRWp0djNhNDRzNG13?oc=5",
       "published": "2026-09-01T14:42:20+00:00",
       "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI peoplematters.in",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "48156710a3bc4228b4d3e995c9b680bb",
-      "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
-      "source": "calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54RFNJenFWT2JUczlZY21hekVuWlpESVNhRWtGN3hpY2FUOVNSS0FNcmQ2Z1huMURhZmx5TF9sbC02aFpEaXJlLWlBTU1DMkpSNHZnbUh2dkNiX1lLeHJldXItLXU3cnVJ?oc=5",
-      "published": "2026-09-01T10:44:00+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
+      "id": "4fedbf74d94e4faee0a2df91b44eb413",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - jdsupra.com",
+      "source": "jdsupra.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjFiYzFWUW5tc2w4Q0pNMVlEc0pKVFVPdER4YTdseUNMWFRtYW94VTB4d3k1SWF6b1pNUjh4ZTQ4ejlwU0VIUnl4bXd2ZkNtTm4xaWd0eHFMVi1STXhuVE5OdmplNVZiWUI0ZU9QNldVajNEVHlZN1pYOVYtb1V0UlFZbXhSZw?oc=5",
+      "published": "2026-08-28T05:01:19+00:00",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers jdsupra.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "38d30529dcc057e4b008441c918f73f4",
+      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
+      "source": "Tech In Africa",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
+      "published": "2026-08-20T15:59:16+00:00",
+      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2afe25a8282e12c576c34b9c3735f6a0",
-      "title": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYldEN01TODdTMEh4Y2NyOTczd1AySzZ6bXlmYTl2eWhQTlBpWkpDeGxhcGdLZ2s2X05HZDZ6cXVaUE5MeFBDR0hPZHRKMjBiOWdVRGRYeWJGU3hYNTZHcGVNY1I5WlE3OFM4ZnRFcGx1a1NzSWhRVU5xRTJlZW5qMU1QQWpibkRpOGNuV0lfYWstQ3cwbldMQ0c1T2djS3FBY2tLMi12T3F2b0N0akVWVWRHTWpNYThVV1hwUWF0UUUyLW94NWlldGRWb2h1S3kxRHNXR1BMZkVodw?oc=5",
-      "published": "2026-08-31T11:14:32+00:00",
-      "snippet": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes HRTech Series",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
-      "source": "Outsource Accelerator",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
-      "published": "2026-08-28T10:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "9031c29c55194289d734b50ae50d6eba",
-      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
-      "source": "CDF Labor Law LLP",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
-      "published": "2026-08-27T18:14:14+00:00",
-      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "a7042291a6aa04e3a0e0ef228f1d4341",
-      "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW5GNmsxbFFpaVFWczdxYWJXWW5LSWFlNk1iQ0tqZVRmQzNEWXowY3FKOTAzRnlNVmdwa1hsOVpmbVE4Zk1WWjJLWXZWTDZmWTJNZzRYcF83VnAySDN2TTBWZTJGNVlJUHQ3czU3X3ZaQ3dlR0M2Ty1vNUxsaGtyeUxpSVg5NEZoNjJrWVVKazRtamVSdTJpalI1NGJJVV9ER1ZIbDB1MmZWcjdrRk9KRUw2TGYzU2RudXhVVW90S28zSk9hQ2c?oc=5",
-      "published": "2026-08-21T13:31:20+00:00",
-      "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "04a656c3a5ffafede3c2db9ce297d4c9",
-      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEp5dXlsN1RjTGpNNXo4QUZJUlFTMjFTVjRpV21BcURFeFNobWx0ZTRFNGNJMjZXaWZ6bFZON0V5OE5IMzc5MzhZNlJxLUxWUVB4elFuQVFfT0MzYmcyYnZjRXhFQmZNV0dsUU0xVFlqUHJsSGxqU2xuTFJlRTlyUnBLWEY5M1JL?oc=5",
-      "published": "2026-08-19T07:00:00+00:00",
-      "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -103,22 +63,22 @@
       "language": "en"
     },
     {
-      "id": "8b0d4120b0290cce48b9013dd756d900",
-      "title": "Lawsuit alleges bias in a company's automated hiring tools - AFRO News",
-      "source": "AFRO News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
-      "published": "2026-08-13T07:00:00+00:00",
-      "snippet": "Lawsuit alleges bias in a company's automated hiring tools AFRO News",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "dfcd7faaefaad6f5278da73fccaae9e7",
       "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
       "source": "Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
       "published": "2026-08-11T07:00:00+00:00",
       "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "40f9706280dcb656bcd3deb2a9fed401",
+      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
       "category": "lawsuits",
       "language": "en"
     },
@@ -130,26 +90,6 @@
       "published": "2026-08-06T07:00:00+00:00",
       "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "4c1d0c73a7aa1a6ee40e50bf7627da57",
-      "title": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding - Storyboard18",
-      "source": "Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNQaXE2cUpHOWdtaTl5RmFiMkttS3NnYkppRGJicG5KMHExTkh6d0hKRW9HaTlKZXhndTg2eUlsTU5mNWptNTRlWm9RWU5sUFE1WDd2MGJtc251Rk12OUZia0lidlBwanNpcFFOYTJnMDBSZk1jZWhIVEhOcmNxR1VWOTI5bEkzeFJCaFBDSXM3cF94al96aFNzQjhKYnRrTktWeVVVR2R0WHo2NXRhMUs1ZmVOSmNKa29WVjh2MGhvMjRFNHFTX2xqb0p6WFUyQWpFedIB2gFBVV95cUxOZk1JWHYyaXpRYk5QR0s1TENsYmdnOWRTR0ZOQXI2MXRNZk9ER0pnbE5vajB6S2Q4c21NR1B1RVdKRlRPa3ZIMDBqV0J1MjlhcG5nVjJHNTZ6MXpjY1hXZkdPWlVyMUZnNk9yeFhYeks4QTBKR3lnNzd4SG5xeUFzUjdjWHpWZlNQaEc4c1dKd0FvZkRzdzNfdHRTS3ZUcWxLN3VtWFZ2QVRxdk1KbmhlUk1yVFJkNFJqTDlIdDBSUGRENUo2RXpEb2g2YUdya0ZzSmNrOXpxTjlxZw?oc=5",
-      "published": "2026-08-04T07:00:00+00:00",
-      "snippet": "Ex-Swiggy, Zomato leaders launch AI hiring platform Profound, raise $1.5 million seed funding Storyboard18",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "d25e5a2b77f103e1535129b035bffe6f",
-      "title": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud - israeldefense.co.il",
-      "source": "israeldefense.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tWWNzZFVaSUJ4bEtwX05xMDJ4TzdJTUx5SXYzS0JhWHdwYnZtZTRmZmlMZWtyY2Z6b09QVkpaUEhISkxLS1I2ZzBuNnJLWmFGdkJGZ0hoTWw?oc=5",
-      "published": "2026-08-04T07:00:00+00:00",
-      "snippet": "Deel Acquires Israeli AI Cybersecurity Company Clarity to Tackle Deepfake-Driven Identity Fraud israeldefense.co.il",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
