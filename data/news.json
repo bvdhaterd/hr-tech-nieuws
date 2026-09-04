@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-03T10:31:33Z",
-  "total": 9,
+  "last_updated": "2026-09-04T10:21:02Z",
+  "total": 22,
   "articles": [
+    {
+      "id": "a3ec7079dccb61f9f4b899724e5c9838",
+      "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - CairoScene",
+      "source": "CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUk3aUpQWGU1cWlBYTVnYl94Z24tR18wdUxNNzlQMWNpc1I0cjVNTE5sZ1lIMFR3SHRaamFJZEMwOTZfZ2ItUERrNUdiWWlRNEJKYnE0eWlxZWx2aVRTNk5zTFBtVHNRNGhqWi1iUWgtTzBpNUo0aW9UN1F2blJOVC1md1dBYl9JVFZOWmwzS0c?oc=5",
+      "published": "2026-09-04T03:30:46+00:00",
+      "snippet": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform CairoScene",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "709ddbeffedff9ba4b8a72265cadf9e7",
+      "title": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR - entARABI",
+      "source": "entARABI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aSm1NajlKdENCWWw2aUd2WnFkRUJvYzhCcjJXd3Vjai1ITDFsVFU1azEwYkd6cEN4NjRUMGdmaVNQUnkxTmV4NDVET3UtRXMzUW9oTkduZUMxUFZFaDZETHctT2NwSHNkNUlRa2p0b3o3Zw?oc=5",
+      "published": "2026-09-03T09:25:09+00:00",
+      "snippet": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR entARABI",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
       "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - Unite.AI",
@@ -14,32 +34,102 @@
     },
     {
       "id": "ac946ff3e879d8bb129f3f9ccba19229",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - peoplematters.in",
-      "source": "peoplematters.in",
+      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
+      "source": "People Matters - HR News",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzl5b1lCblFCX1hoQm5TZmEydGU3Q24zalE0WDFVWFgzc2Zzc3FWLXhNWGtIelNsTFlmUUdvZzB6VHhCLWhvanN5M3p4dkYzTGpiSjlKSngwcHk5aEViSFJ1VHR4Vmo0Q2pSSlBYZU1MQXRqOTR6ZndPbmhlZTFsNUprLXFKUXVVS25LdnZXSDlFRXJ3alZyMVV6OGF2MUxRUFE5YTRnTW1KNlo1OXhzN19mRzI3VHpXTXNCLXdnS3BrV211SnN0ZEFZZFMwNXdzM2g1a1dxRWp0djNhNDRzNG13?oc=5",
       "published": "2026-09-01T14:42:20+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI peoplematters.in",
+      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "4fedbf74d94e4faee0a2df91b44eb413",
-      "title": "AI Hiring Litigation: Key Lessons for Employers - jdsupra.com",
-      "source": "jdsupra.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjFiYzFWUW5tc2w4Q0pNMVlEc0pKVFVPdER4YTdseUNMWFRtYW94VTB4d3k1SWF6b1pNUjh4ZTQ4ejlwU0VIUnl4bXd2ZkNtTm4xaWd0eHFMVi1STXhuVE5OdmplNVZiWUI0ZU9QNldVajNEVHlZN1pYOVYtb1V0UlFZbXhSZw?oc=5",
-      "published": "2026-08-28T05:01:19+00:00",
-      "snippet": "AI Hiring Litigation: Key Lessons for Employers jdsupra.com",
+      "id": "3826d80cb965b7b6e026f2c9410509a8",
+      "title": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOHZhTXpCWERNQnRZek85bGNwZ1VsLTAwREpCUlpBdzJXbmktYm9TRlBPRXhPN0pZQ1FNbC1OdTlubklZdUF4czFHSTViQ0ZHYUVlR212MFM3a01fTDFVVFFNMUdiM0E?oc=5",
+      "published": "2026-09-01T12:11:00+00:00",
+      "snippet": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round calcalistech.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "48156710a3bc4228b4d3e995c9b680bb",
+      "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54RFNJenFWT2JUczlZY21hekVuWlpESVNhRWtGN3hpY2FUOVNSS0FNcmQ2Z1huMURhZmx5TF9sbC02aFpEaXJlLWlBTU1DMkpSNHZnbUh2dkNiX1lLeHJldXItLXU3cnVJ?oc=5",
+      "published": "2026-09-01T10:44:00+00:00",
+      "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "3d7726377da9906dc9119f857c6fecfc",
+      "title": "Stepping Cloud Consulting acquires iXerv to expand SAP SuccessFactors capabilities across key markets - People Matters - HR News",
+      "source": "People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0MtdTBfX0ZKQzI4bTQ2ak9xbEh3V1RmWG5kMDk4YmU2NVprYXZFYVRac1FybFJlOFAxWWdSVVpGWjVrTWdidFJpVlJBQTF1ZHRTcW1XRU5OSEUzVzRFMldVeDdSUUlicXF3N2xHdnJkQks4cGNMY3R4bUR1emNhTVpXa0xnV1hVMk4yWGxCS29vTzNmZEdnXy1wcEREV1VjV3JJTEwwNGlBVVdCR3hqYnJlcmozbzEtNFBDT3M5dUVaZy1vRS1vWU5qN0R5Vm5IaVNvd2EyZlZ2ZFhIODloZVp6T0N5emk0cHNwck84enAwVmJX?oc=5",
+      "published": "2026-09-01T09:56:34+00:00",
+      "snippet": "Stepping Cloud Consulting acquires iXerv to expand SAP SuccessFactors capabilities across key markets People Matters - HR News",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
+      "source": "Outsource Accelerator",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
+      "published": "2026-08-28T10:00:00+00:00",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "9031c29c55194289d734b50ae50d6eba",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
+      "source": "CDF Labor Law LLP",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
+      "published": "2026-08-27T18:14:14+00:00",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
       "category": "lawsuits",
       "language": "en"
     },
     {
-      "id": "38d30529dcc057e4b008441c918f73f4",
-      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
-      "published": "2026-08-20T15:59:16+00:00",
-      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
+      "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
+      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGVNTlFHT3VqdzFlT0pZXzIxUHJSVEtpbTFVUTVDc0huSmtmT3NJZ2ViRFZJV2Q5NjRJSTJwMG9GTDVGRFRmWkdNWVRpRFpVMUVVY1RHVlVHdjFZQ2RDenNRX3dkTTVUUmZvQWRUZ2JGLWhDbThXTHBLeEgyYl85eFZpMGdxUFlWWWRTdzFCWldITmZUQmx1VDF3?oc=5",
+      "published": "2026-08-27T02:45:39+00:00",
+      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek Dealroom",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e1a72f4742a5e9e0cbfffe9d462bedfa",
+      "title": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 - Onrec",
+      "source": "Onrec",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGoxaWkzZWZJei15cHVYbHIxNDhfZ2hhRnZfY0YwLWlsc2pxYVFlVjRtY2V2UkMycllMeVM2TkhidUZNdUp1X041amdnYWl5ZzdVUnZUUkdVdFhadHpJRVFHVUttaWR4TlFEYVpKU182S2Jrckc0WEd5cUlFQTd3RHhIZHg5b3VHazdNQndrRTlPaGtvc2tDRXFmMWdGM3dfLTZxTUNlRUttdw?oc=5",
+      "published": "2026-08-26T13:05:43+00:00",
+      "snippet": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 Onrec",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "a7042291a6aa04e3a0e0ef228f1d4341",
+      "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW5GNmsxbFFpaVFWczdxYWJXWW5LSWFlNk1iQ0tqZVRmQzNEWXowY3FKOTAzRnlNVmdwa1hsOVpmbVE4Zk1WWjJLWXZWTDZmWTJNZzRYcF83VnAySDN2TTBWZTJGNVlJUHQ3czU3X3ZaQ3dlR0M2Ty1vNUxsaGtyeUxpSVg5NEZoNjJrWVVKazRtamVSdTJpalI1NGJJVV9ER1ZIbDB1MmZWcjdrRk9KRUw2TGYzU2RudXhVVW90S28zSk9hQ2c?oc=5",
+      "published": "2026-08-21T13:31:20+00:00",
+      "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "04a656c3a5ffafede3c2db9ce297d4c9",
+      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEp5dXlsN1RjTGpNNXo4QUZJUlFTMjFTVjRpV21BcURFeFNobWx0ZTRFNGNJMjZXaWZ6bFZON0V5OE5IMzc5MzhZNlJxLUxWUVB4elFuQVFfT0MzYmcyYnZjRXhFQmZNV0dsUU0xVFlqUHJsSGxqU2xuTFJlRTlyUnBLWEY5M1JL?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -53,6 +143,16 @@
       "language": "en"
     },
     {
+      "id": "4b760c14485ccd90e9b06053cedc6ebc",
+      "title": "Workday in talks to be acquired by Silver Lake, report says - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWJLbWZIT1lIZDhaTEFSOTdhT3dzcE1OQkMyWXJ0R1h4SGZiNHhuVHNzLXMzMndULWZ4aVUxdi12N1o3NDBxbVBMaThZRnA0WC1ENkZhRWVfOHNweF9KbkhuV2k3eVpRcnZPcGVndkZiNUpyRHVYSE1icm9fbE01dWNiZDNKMWVLdlFkRUE1bmNQQzczVnZYbXl1STVsM2pDRWljc2MzYzNlRWhhNGJtUUNDVDg?oc=5",
+      "published": "2026-08-17T16:43:19+00:00",
+      "snippet": "Workday in talks to be acquired by Silver Lake, report says Staffing Industry Analysts",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "2fe00babca24f291e0b16333711a4746",
       "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
       "source": "Business Wire",
@@ -60,6 +160,26 @@
       "published": "2026-08-17T07:00:00+00:00",
       "snippet": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program Business Wire",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8b0d4120b0290cce48b9013dd756d900",
+      "title": "Lawsuit alleges bias in a company's automated hiring tools - AFRO News",
+      "source": "AFRO News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "snippet": "Lawsuit alleges bias in a company's automated hiring tools AFRO News",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "7f6f2e4c6812b38ca51d5985f8fa52d7",
+      "title": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAzZ0JGY3lJYjFEZFJkVk1qYTltVGhLUFpwcUxibHNSWVlrSERuS1pVZUg1SlhSSjM1dHg0cFFtazExbHJIOE1LdWhkMHhFdnVFUWdVM1B6cGxFSXRNS1Y3QjBRaFRMcTcxT2R2dGlXRG9aRTJpcTViY00wZkRzeFZibXhNaVFuSk9NdHQxeVlFaVpucTJxUVU0U3MtVFhtZTV0QkNld0tTbFBXX3M3NFRn0gG3AUFVX3lxTE5wX2tEcExFNzdtOF8xSVo3TFVCSDJYTVY0R0hGeGFiOXdMdkd3TWNZYVpKaHRpU1hTQjNyclNDSDIxSWVxMXIwNUZJWE5NYTRkQ2pSam00dnBibzlsemM5NHVmRzJFZTc5a1NweHB1WTluSGFUZkJRS0ZLVUlOMlMtaWJPREQxdTBPeDhLWGJUdk1qYVRtNGZLTXI0dEpWVzJqcTgzWDZaQm5fa2ZxdnBLUTJFUTlIVQ?oc=5",
+      "published": "2026-08-11T11:35:26+00:00",
+      "snippet": "Rippling counter-sues AI startup Runlayer for infringing data patents | Runlayer had suspended its services to ‌Rippling | Inshorts Inshorts",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -73,6 +193,16 @@
       "language": "en"
     },
     {
+      "id": "7f34a6e7074da36499d2cb6a85fbdd11",
+      "title": "HireEZ Revenue 2024: $42.6M Est. ARR, $45.5M Raised - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sM2tRZFJTQVlyLWRXQ1R1ekpQYjlyOGQyYzR0Q2VnQU1LamlCSk9Edm9MWXNKbXljU0NPbjhJeFJodGhIX1FVZU5iWHV0Zw?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "HireEZ Revenue 2024: $42.6M Est. ARR, $45.5M Raised GetLatka",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "40f9706280dcb656bcd3deb2a9fed401",
       "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
       "source": "New York Post",
@@ -83,13 +213,13 @@
       "language": "en"
     },
     {
-      "id": "686155f83fc643a429517848658e1b0c",
-      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
-      "source": "Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
+      "id": "7d83dcc417e0638983c5d97af9088a15",
+      "title": "Deloitte acquires BDO’s Dayforce practice - Consulting.ca",
+      "source": "Consulting.ca",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM09OSUFNdnA2SDFDeVctdGlkeENEa0FjZFNHOWtwamdJSXRIT2ZXVWp2VjU5eWlVU3FFU2dwam15c1hXcF9FWVp3TjlMQmtDNFVMaDJBUnFJMWRRQWF6Mm1jMTlsLTdGNm9LM3pmOE5qZFpkZUpUYk5xbEMxZGJwNlVR0gGHAUFVX3lxTFBZNnZmbEd4amxtNnE3MVFSSHQ1SmEtbko2RENnS2xLcXo4TzkzMVpYd09LZVVUQlR1dlRqc0haSE9ZajdyN25ybG5mejJ1QXdIVVlhcmhoNVFIR3pJTnk4YUJELU45UkwxV2VNTWhBM3pQbTFDeXc2T2ZTLU8wS2dMNktHZ0tEUQ?oc=5",
       "published": "2026-08-06T07:00:00+00:00",
-      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
-      "category": "investments",
+      "snippet": "Deloitte acquires BDO’s Dayforce practice Consulting.ca",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
