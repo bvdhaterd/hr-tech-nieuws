@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T09:48:34Z",
+  "last_updated": "2026-09-06T10:04:39Z",
   "total": 21,
   "articles": [
     {
@@ -24,11 +24,11 @@
     },
     {
       "id": "709ddbeffedff9ba4b8a72265cadf9e7",
-      "title": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR - entARABI",
-      "source": "entARABI",
+      "title": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR - entarabi.com",
+      "source": "entarabi.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aSm1NajlKdENCWWw2aUd2WnFkRUJvYzhCcjJXd3Vjai1ITDFsVFU1azEwYkd6cEN4NjRUMGdmaVNQUnkxTmV4NDVET3UtRXMzUW9oTkduZUMxUFZFaDZETHctT2NwSHNkNUlRa2p0b3o3Zw?oc=5",
       "published": "2026-09-03T09:25:09+00:00",
-      "snippet": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR entARABI",
+      "snippet": "Impact46 Leads $6 Million Bridge Round for Saudi HR Tech Company ZenHR entarabi.com",
       "category": "investments",
       "language": "en"
     },
@@ -53,6 +53,16 @@
       "language": "en"
     },
     {
+      "id": "d530c50ac2029b97fc7c896034ba4306",
+      "title": "Salesforce (CRM.US) led the latest funding round for HiBob, an \"AI+HR\" unicorn, injecting substantial capital to refute the \"SaaS doom\" narrative. - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkxEejlueW93MVJmTkxFbWVTV3ZJVzI1OG0zN0xVLW1Ub0FaUk53SkVqSWVFOWpRd2lQSk8zczJVVGpidEZmeHZUczIwN1RSTjltNmU4V0pPa3VUZy1GQlpNQlloRi1Nc1MzQy1JLTBjc2JiMGNJMWJLOGZBYmNnZDU3NkZmWDRRWnpDV3NlNllONzZKMXlRUVNUTk5wRVJnOXc?oc=5",
+      "published": "2026-09-01T13:11:43+00:00",
+      "snippet": "Salesforce (CRM.US) led the latest funding round for HiBob, an \"AI+HR\" unicorn, injecting substantial capital to refute the \"SaaS doom\" narrative. Moomoo",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "48156710a3bc4228b4d3e995c9b680bb",
       "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
       "source": "calcalistech.com",
@@ -60,16 +70,6 @@
       "published": "2026-09-01T10:44:00+00:00",
       "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "3d7726377da9906dc9119f857c6fecfc",
-      "title": "Stepping Cloud Consulting acquires iXerv to expand SAP SuccessFactors capabilities across key markets - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0MtdTBfX0ZKQzI4bTQ2ak9xbEh3V1RmWG5kMDk4YmU2NVprYXZFYVRac1FybFJlOFAxWWdSVVpGWjVrTWdidFJpVlJBQTF1ZHRTcW1XRU5OSEUzVzRFMldVeDdSUUlicXF3N2xHdnJkQks4cGNMY3R4bUR1emNhTVpXa0xnV1hVMk4yWGxCS29vTzNmZEdnXy1wcEREV1VjV3JJTEwwNGlBVVdCR3hqYnJlcmozbzEtNFBDT3M5dUVaZy1vRS1vWU5qN0R5Vm5IaVNvd2EyZlZ2ZFhIODloZVp6T0N5emk0cHNwck84enAwVmJX?oc=5",
-      "published": "2026-09-01T09:56:34+00:00",
-      "snippet": "Stepping Cloud Consulting acquires iXerv to expand SAP SuccessFactors capabilities across key markets People Matters - HR News",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -94,11 +94,11 @@
     },
     {
       "id": "9031c29c55194289d734b50ae50d6eba",
-      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
-      "source": "CDF Labor Law LLP",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - cdflaborlaw.com",
+      "source": "cdflaborlaw.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
       "published": "2026-08-27T18:14:14+00:00",
-      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers cdflaborlaw.com",
       "category": "lawsuits",
       "language": "en"
     },
@@ -123,12 +123,22 @@
       "language": "en"
     },
     {
+      "id": "267d3638ade3ce31fc2b113fe742e4ff",
+      "title": "All in on continual feedback, Lattice acquires Pando - HR Brew",
+      "source": "HR Brew",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUpyNHJJUHNvbXZOTnNod29MdzVNdkhGZ21GMHF0cmdjUGRSSDFrLW9DVUFvdlE1OTU0Qk5ubUpMYVYzWTR6RzBtODhTdS14N1JKRHlqaGJKa25mZFhVd2sxTVZtOVFPYUZ4OC1zTkNuVERCQ1d5SFpheVBvQUduMVpxd0h3dThnbVJr?oc=5",
+      "published": "2026-08-25T13:27:19+00:00",
+      "snippet": "All in on continual feedback, Lattice acquires Pando HR Brew",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
-      "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz.co",
-      "source": "citybiz.co",
+      "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
+      "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW5GNmsxbFFpaVFWczdxYWJXWW5LSWFlNk1iQ0tqZVRmQzNEWXowY3FKOTAzRnlNVmdwa1hsOVpmbVE4Zk1WWjJLWXZWTDZmWTJNZzRYcF83VnAySDN2TTBWZTJGNVlJUHQ3czU3X3ZaQ3dlR0M2Ty1vNUxsaGtyeUxpSVg5NEZoNjJrWVVKazRtamVSdTJpalI1NGJJVV9ER1ZIbDB1MmZWcjdrRk9KRUw2TGYzU2RudXhVVW90S28zSk9hQ2c?oc=5",
       "published": "2026-08-21T13:31:20+00:00",
-      "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz.co",
+      "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -160,16 +170,6 @@
       "published": "2026-08-18T08:55:12+00:00",
       "snippet": "Jem HR Closes $8.4M Series A To Scale Deskless Workforce Platform Across Africa Tech Build Africa",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2fe00babca24f291e0b16333711a4746",
-      "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElLOU1DM2REWXRYUnlmc045R2RWT0wxVlhrWlFUelBjRmhTdHFHWUR4Q0dwRW5wU0ZiSXFjSkhQRGRTaW1IRTJaZW5QZlBQaTRUb3VrY0MtZ3pySEJRSmJrZlVyR3JjV25BMFpqSjN2Vi1PQ0o2ZGV6aGJFem5fX1FSTlF6cG1jcDg1V2k3T0FCMzNMN3hrNlJ2b3VJMUVrS3B2UnJUdHVKc1VCbzdiVWp3YmxsWnBsb0lFU3lDVVhBakZLNHlKSkNXcnh0c09qY25qU2xPcTlDd1E0TExpTHlLVjh4d0pLNVE?oc=5",
-      "published": "2026-08-17T07:00:00+00:00",
-      "snippet": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program Business Wire",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
