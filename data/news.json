@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T11:18:16Z",
-  "total": 19,
+  "last_updated": "2026-09-08T10:25:13Z",
+  "total": 20,
   "articles": [
     {
       "id": "e52db76cbb003149bd8522763f450a09",
@@ -14,11 +14,11 @@
     },
     {
       "id": "a3ec7079dccb61f9f4b899724e5c9838",
-      "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - cairoscene.com",
-      "source": "cairoscene.com",
+      "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - CairoScene",
+      "source": "CairoScene",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUk3aUpQWGU1cWlBYTVnYl94Z24tR18wdUxNNzlQMWNpc1I0cjVNTE5sZ1lIMFR3SHRaamFJZEMwOTZfZ2ItUERrNUdiWWlRNEJKYnE0eWlxZWx2aVRTNk5zTFBtVHNRNGhqWi1iUWgtTzBpNUo0aW9UN1F2blJOVC1md1dBYl9JVFZOWmwzS0c?oc=5",
       "published": "2026-09-04T03:30:46+00:00",
-      "snippet": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform cairoscene.com",
+      "snippet": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform CairoScene",
       "category": "investments",
       "language": "en"
     },
@@ -94,11 +94,11 @@
     },
     {
       "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
-      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - app.dealroom.co",
-      "source": "app.dealroom.co",
+      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
+      "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGVNTlFHT3VqdzFlT0pZXzIxUHJSVEtpbTFVUTVDc0huSmtmT3NJZ2ViRFZJV2Q5NjRJSTJwMG9GTDVGRFRmWkdNWVRpRFpVMUVVY1RHVlVHdjFZQ2RDenNRX3dkTTVUUmZvQWRUZ2JGLWhDbThXTHBLeEgyYl85eFZpMGdxUFlWWWRTdzFCWldITmZUQmx1VDF3?oc=5",
-      "published": "2026-08-27T02:45:39+00:00",
-      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek app.dealroom.co",
+      "published": "2026-08-27T07:17:50+00:00",
+      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek Dealroom",
       "category": "investments",
       "language": "en"
     },
@@ -140,6 +140,16 @@
       "published": "2026-08-20T15:59:16+00:00",
       "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "eb943175c1c9306e25177a88f3e569f3",
+      "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - WebWire",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zcWE2Tjd4cVlOQnA2YTFPazhHMFVjVjhVdnFWaXg2ajJ0dFF4aVdSd2N2eldwSzZaWjd0eXBHaGxmM3pqWU5YOVkzclY4MkJHTVNyRjRxTmh3UUFPV1BzNw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform WebWire",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
