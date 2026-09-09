@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T10:25:13Z",
-  "total": 20,
+  "last_updated": "2026-09-09T10:35:26Z",
+  "total": 19,
   "articles": [
     {
       "id": "e52db76cbb003149bd8522763f450a09",
@@ -34,11 +34,11 @@
     },
     {
       "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
-      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - Unite.AI",
-      "source": "Unite.AI",
+      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - unite.ai",
+      "source": "unite.ai",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
       "published": "2026-09-01T17:18:49+00:00",
-      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
+      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands unite.ai",
       "category": "investments",
       "language": "en"
     },
@@ -74,11 +74,11 @@
     },
     {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
-      "source": "Outsource Accelerator",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - news.outsourceaccelerator.com",
+      "source": "news.outsourceaccelerator.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
       "published": "2026-08-28T10:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner news.outsourceaccelerator.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -113,16 +113,6 @@
       "language": "en"
     },
     {
-      "id": "267d3638ade3ce31fc2b113fe742e4ff",
-      "title": "All in on continual feedback, Lattice acquires Pando - HR Brew",
-      "source": "HR Brew",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUpyNHJJUHNvbXZOTnNod29MdzVNdkhGZ21GMHF0cmdjUGRSSDFrLW9DVUFvdlE1OTU0Qk5ubUpMYVYzWTR6RzBtODhTdS14N1JKRHlqaGJKa25mZFhVd2sxTVZtOVFPYUZ4OC1zTkNuVERCQ1d5SFpheVBvQUduMVpxd0h3dThnbVJr?oc=5",
-      "published": "2026-08-25T13:27:19+00:00",
-      "snippet": "All in on continual feedback, Lattice acquires Pando HR Brew",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "a7042291a6aa04e3a0e0ef228f1d4341",
       "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
       "source": "citybiz",
@@ -130,16 +120,6 @@
       "published": "2026-08-21T13:31:20+00:00",
       "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "38d30529dcc057e4b008441c918f73f4",
-      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
-      "published": "2026-08-20T15:59:16+00:00",
-      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -173,6 +153,16 @@
       "language": "en"
     },
     {
+      "id": "4b760c14485ccd90e9b06053cedc6ebc",
+      "title": "Workday in talks to be acquired by Silver Lake, report says - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWJLbWZIT1lIZDhaTEFSOTdhT3dzcE1OQkMyWXJ0R1h4SGZiNHhuVHNzLXMzMndULWZ4aVUxdi12N1o3NDBxbVBMaThZRnA0WC1ENkZhRWVfOHNweF9KbkhuV2k3eVpRcnZPcGVndkZiNUpyRHVYSE1icm9fbE01dWNiZDNKMWVLdlFkRUE1bmNQQzczVnZYbXl1STVsM2pDRWljc2MzYzNlRWhhNGJtUUNDVDg?oc=5",
+      "published": "2026-08-17T16:43:19+00:00",
+      "snippet": "Workday in talks to be acquired by Silver Lake, report says Staffing Industry Analysts",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "2fe00babca24f291e0b16333711a4746",
       "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
       "source": "Business Wire",
@@ -183,22 +173,22 @@
       "language": "en"
     },
     {
+      "id": "0693188f3d9b32406fcffe91ca65bb9c",
+      "title": "Silver Lake in talks to acquire HR platform Workday - The American Bazaar",
+      "source": "The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3FHRGo1UkhKNzRRbmJrdzBCMVlUOFU5c0owWEtoY29pSmF5M1VWT1g2Y205d1poLXd1bEpWYmtvQ2xXekRuclhPQlhFclFBY3Q2cHdnTDRRakRHVXJwSms4aVRkbGczQjRTeGpDMmtoc0FSU25JdW5hc2FRWTJHd3FJRzJOQ0RnS1FNbEhqdFNVdEd0SU5TMHFRLXJFa0N1eE9CTEtn?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "snippet": "Silver Lake in talks to acquire HR platform Workday The American Bazaar",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "dfcd7faaefaad6f5278da73fccaae9e7",
       "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
       "source": "Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
       "published": "2026-08-11T07:00:00+00:00",
       "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "40f9706280dcb656bcd3deb2a9fed401",
-      "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
-      "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle New York Post",
       "category": "lawsuits",
       "language": "en"
     }
