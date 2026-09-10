@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-09-09T10:35:26Z",
-  "total": 19,
+  "last_updated": "2026-09-10T10:23:31Z",
+  "total": 18,
   "articles": [
-    {
-      "id": "e52db76cbb003149bd8522763f450a09",
-      "title": "Paylocity fired engineer over diabetes, disability lawsuit alleges - hcamag.com",
-      "source": "hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2I2UllOTmsyTGI5MnRuc2djblpKYUFnbm5hNjNlZUxHbVF0XzNrQU41QVRYVUVDWk5HV3NzR2dZTmZQTUs0ZEViZEZZcXRrUGhKZlR6YnZFbEszOXZGMWN3c3p1bm5Nc2xrek1LaHZPeGpMQk01NlhXMVBZTDZmdU0wUmZaS3MtRFJ0NmY1V1M1MGxBWkdtVVFmWUc4dU5iZHVmaENBaEc0QTY5MEZUX3JQWUpVMFloWVZJcExvZ2t6X0l6SG44?oc=5",
-      "published": "2026-09-04T18:09:16+00:00",
-      "snippet": "Paylocity fired engineer over diabetes, disability lawsuit alleges hcamag.com",
-      "category": "lawsuits",
-      "language": "en"
-    },
     {
       "id": "a3ec7079dccb61f9f4b899724e5c9838",
       "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - CairoScene",
@@ -33,12 +23,22 @@
       "language": "en"
     },
     {
-      "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
-      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - unite.ai",
-      "source": "unite.ai",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
-      "published": "2026-09-01T17:18:49+00:00",
-      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands unite.ai",
+      "id": "686155f83fc643a429517848658e1b0c",
+      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
+      "source": "Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
+      "published": "2026-09-02T19:32:07+00:00",
+      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "7a7ce1854936b9159bf38da193078913",
+      "title": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQXlyNF9mQjhzemhZWndVeHZqM0pqWUxZcEhsbTRNR1NIbTNuZ183NF9nQk5GeFRTX3dVNFJXS1R2MkdxbFNudExnakc1by1aVG9TNA?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "snippet": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised GetLatka",
       "category": "investments",
       "language": "en"
     },
@@ -57,28 +57,28 @@
       "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
       "source": "calcalistech.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54RFNJenFWT2JUczlZY21hekVuWlpESVNhRWtGN3hpY2FUOVNSS0FNcmQ2Z1huMURhZmx5TF9sbC02aFpEaXJlLWlBTU1DMkpSNHZnbUh2dkNiX1lLeHJldXItLXU3cnVJ?oc=5",
-      "published": "2026-09-01T10:44:00+00:00",
+      "published": "2026-09-01T07:00:00+00:00",
       "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "2afe25a8282e12c576c34b9c3735f6a0",
-      "title": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYldEN01TODdTMEh4Y2NyOTczd1AySzZ6bXlmYTl2eWhQTlBpWkpDeGxhcGdLZ2s2X05HZDZ6cXVaUE5MeFBDR0hPZHRKMjBiOWdVRGRYeWJGU3hYNTZHcGVNY1I5WlE3OFM4ZnRFcGx1a1NzSWhRVU5xRTJlZW5qMU1QQWpibkRpOGNuV0lfYWstQ3cwbldMQ0c1T2djS3FBY2tLMi12T3F2b0N0akVWVWRHTWpNYThVV1hwUWF0UUUyLW94NWlldGRWb2h1S3kxRHNXR1BMZkVodw?oc=5",
-      "published": "2026-08-31T11:14:32+00:00",
-      "snippet": "Recruiter.com Acquires Feenyx to Help Employers Evaluate Candidates on Skills, Not Resumes HRTech Series",
-      "category": "mergers_acquisitions",
+      "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
+      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
+      "category": "investments",
       "language": "en"
     },
     {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - news.outsourceaccelerator.com",
-      "source": "news.outsourceaccelerator.com",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
+      "source": "Outsource Accelerator",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
       "published": "2026-08-28T10:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner news.outsourceaccelerator.com",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -123,12 +123,22 @@
       "language": "en"
     },
     {
+      "id": "38d30529dcc057e4b008441c918f73f4",
+      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
+      "source": "Tech In Africa",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
+      "published": "2026-08-20T15:59:16+00:00",
+      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "eb943175c1c9306e25177a88f3e569f3",
-      "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - WebWire",
-      "source": "WebWire",
+      "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - webwire.com",
+      "source": "webwire.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zcWE2Tjd4cVlOQnA2YTFPazhHMFVjVjhVdnFWaXg2ajJ0dFF4aVdSd2N2eldwSzZaWjd0eXBHaGxmM3pqWU5YOVkzclY4MkJHTVNyRjRxTmh3UUFPV1BzNw?oc=5",
       "published": "2026-08-19T07:00:00+00:00",
-      "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform WebWire",
+      "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform webwire.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -153,16 +163,6 @@
       "language": "en"
     },
     {
-      "id": "4b760c14485ccd90e9b06053cedc6ebc",
-      "title": "Workday in talks to be acquired by Silver Lake, report says - Staffing Industry Analysts",
-      "source": "Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWJLbWZIT1lIZDhaTEFSOTdhT3dzcE1OQkMyWXJ0R1h4SGZiNHhuVHNzLXMzMndULWZ4aVUxdi12N1o3NDBxbVBMaThZRnA0WC1ENkZhRWVfOHNweF9KbkhuV2k3eVpRcnZPcGVndkZiNUpyRHVYSE1icm9fbE01dWNiZDNKMWVLdlFkRUE1bmNQQzczVnZYbXl1STVsM2pDRWljc2MzYzNlRWhhNGJtUUNDVDg?oc=5",
-      "published": "2026-08-17T16:43:19+00:00",
-      "snippet": "Workday in talks to be acquired by Silver Lake, report says Staffing Industry Analysts",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "2fe00babca24f291e0b16333711a4746",
       "title": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program - Business Wire",
       "source": "Business Wire",
@@ -180,16 +180,6 @@
       "published": "2026-08-14T07:00:00+00:00",
       "snippet": "Silver Lake in talks to acquire HR platform Workday The American Bazaar",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "dfcd7faaefaad6f5278da73fccaae9e7",
-      "title": "Rippling Countersues Runlayer in Patent Dispute - Whalesbook",
-      "source": "Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHR0NWJvSzU0WFFnVlpPcE85ZFh5ZmRVUDJadE5zNk9UckF6MkNyYWx0a0xHZUxodFNVU2hKRkxfTkNZbktqdWh5c0kyQi1KSGJBaHJtcUZMaHc2czVTQ0RVOVFIMlpvakxJSUE3Qk04WDRfSTh2S1hNSFZUdUhsNlU3WUtlRzhGN1Qwb0Z3amZ2cF9QN3FoSkxEM3UxV3ZGYnRmMERPUDNpa04tNmhFelpnME9vUmNCbVhIY1JyVFE?oc=5",
-      "published": "2026-08-11T07:00:00+00:00",
-      "snippet": "Rippling Countersues Runlayer in Patent Dispute Whalesbook",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
