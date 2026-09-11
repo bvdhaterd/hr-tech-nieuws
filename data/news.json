@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-10T10:23:31Z",
-  "total": 18,
+  "last_updated": "2026-09-11T10:24:52Z",
+  "total": 21,
   "articles": [
+    {
+      "id": "6ff7604482c25681c595e445e08d2019",
+      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - recruitmenttech.nl",
+      "source": "recruitmenttech.nl",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjhudmIzQzJqMDdFcXVFQnRRMGxXeFhZWEZNbHI3U1d6VVIxMm45NU10RFlVZTRzbGhYV2Y1YjEyMHJLQ2ZyVDl2OTBKVUROOWNXbU8tbmY0ZFU2bS1tWFJXeno4S05FUFQ4M3ZrdjJQZ2pzQjEzNDZUWng5YmZwbl9iSkZTLWZIc245X1JhM2NfZ1dHZGxKejQ1RWFhZ1gzSWlCb3B3?oc=5",
+      "published": "2026-09-11T07:58:00+00:00",
+      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob recruitmenttech.nl",
+      "category": "investments",
+      "language": "nl"
+    },
+    {
+      "id": "2b0e3423c76fb8c60f142fac889fa807",
+      "title": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform - WebWire",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZFUtUW9tUFJaekdkZWRQbVlHdzhxNVBxMWlKX3kwMHhXZ3VBRU1lWlpuaklIV0p0UTVTNDlMdk8wa2ZkUUZsNmlJM1pNaUlVdzdaNjNwTlJ5TzVJdFlSQ3U1S08zMTM4?oc=5",
+      "published": "2026-09-10T13:05:31+00:00",
+      "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "d319057bd4441a165e8576341dcccf44",
+      "title": "Jack & Jill Raises £30M Series A For AI Hiring Agents - konsulteer.com",
+      "source": "konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0xId0pmNElocUplXy1STGs3QnROZTFLaVpUcnVRRDNWVjQtdTlUUmQ0MUZOY1p3SHVVUlBqbllYUXFXZl8yY1NMQ25ZV2RDdEk1ODZYSnVsaG5meXBaY2E5T3ppUFFmakFtMFJEWkRjUlBQQTRlLUFIUDBNbmwzTllTeUx6WnFVT2M1ekNlbk1Xa2ZQbzhF?oc=5",
+      "published": "2026-09-07T21:29:08+00:00",
+      "snippet": "Jack & Jill Raises £30M Series A For AI Hiring Agents konsulteer.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "c951e74a104154da3725d271554dc9fc",
+      "title": "Deel Rippling Lawsuit (Updated September 2026) - LawFold.com",
+      "source": "LawFold.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZDF2djdJTlAzMTNDanFERThJdG11TkdEZl9wUWJuZjl3TUQ4a3pQaXBvWmxWUWY2RHIxd2xiTmJmVVRUMUdXcW8zNEFLRU9JOEt3Mw?oc=5",
+      "published": "2026-09-05T07:00:00+00:00",
+      "snippet": "Deel Rippling Lawsuit (Updated September 2026) LawFold.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "a3ec7079dccb61f9f4b899724e5c9838",
       "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - CairoScene",
@@ -44,11 +84,11 @@
     },
     {
       "id": "95bea04fdd9951e9fde05b69d6d1ba46",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
-      "source": "People Matters - HR News",
+      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - peoplematters.in",
+      "source": "peoplematters.in",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
       "published": "2026-09-01T14:42:20+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
+      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI peoplematters.in",
       "category": "investments",
       "language": "en"
     },
@@ -83,33 +123,23 @@
       "language": "en"
     },
     {
-      "id": "9031c29c55194289d734b50ae50d6eba",
-      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
-      "source": "CDF Labor Law LLP",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
-      "published": "2026-08-27T18:14:14+00:00",
-      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
-      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
-      "source": "Dealroom",
+      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - app.dealroom.co",
+      "source": "app.dealroom.co",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGVNTlFHT3VqdzFlT0pZXzIxUHJSVEtpbTFVUTVDc0huSmtmT3NJZ2ViRFZJV2Q5NjRJSTJwMG9GTDVGRFRmWkdNWVRpRFpVMUVVY1RHVlVHdjFZQ2RDenNRX3dkTTVUUmZvQWRUZ2JGLWhDbThXTHBLeEgyYl85eFZpMGdxUFlWWWRTdzFCWldITmZUQmx1VDF3?oc=5",
       "published": "2026-08-27T07:17:50+00:00",
-      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek Dealroom",
+      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek app.dealroom.co",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "e1a72f4742a5e9e0cbfffe9d462bedfa",
-      "title": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 - Onrec",
-      "source": "Onrec",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGoxaWkzZWZJei15cHVYbHIxNDhfZ2hhRnZfY0YwLWlsc2pxYVFlVjRtY2V2UkMycllMeVM2TkhidUZNdUp1X041amdnYWl5ZzdVUnZUUkdVdFhadHpJRVFHVUttaWR4TlFEYVpKU182S2Jrckc0WEd5cUlFQTd3RHhIZHg5b3VHazdNQndrRTlPaGtvc2tDRXFmMWdGM3dfLTZxTUNlRUttdw?oc=5",
-      "published": "2026-08-26T13:05:43+00:00",
-      "snippet": "AI-Powered Recruitment Platforms: How They're Changing Talent Acquisition in 2026 Onrec",
-      "category": "mergers_acquisitions",
+      "id": "9031c29c55194289d734b50ae50d6eba",
+      "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
+      "source": "CDF Labor Law LLP",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFNndkFQVE4yc0owMU5xUE5QWGdsV2MzSnprazFPaWU3Rk1GQ3BNR2hTY25DT3lZQ1pOQjllNEJSZUFubXREcDJlckxYWUcxR2FmcXNRUGlVbU9HZks5SkU2QkZVdTdPOTF3RE9IM1JHaXRtTFdCbHA3SC1nay0xV3RlMmxDUQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "snippet": "AI Hiring Litigation: Key Lessons for Employers CDF Labor Law LLP",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -123,22 +153,12 @@
       "language": "en"
     },
     {
-      "id": "38d30529dcc057e4b008441c918f73f4",
-      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
-      "published": "2026-08-20T15:59:16+00:00",
-      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "eb943175c1c9306e25177a88f3e569f3",
-      "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - webwire.com",
-      "source": "webwire.com",
+      "title": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform - WebWire",
+      "source": "WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zcWE2Tjd4cVlOQnA2YTFPazhHMFVjVjhVdnFWaXg2ajJ0dFF4aVdSd2N2eldwSzZaWjd0eXBHaGxmM3pqWU5YOVkzclY4MkJHTVNyRjRxTmh3UUFPV1BzNw?oc=5",
       "published": "2026-08-19T07:00:00+00:00",
-      "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform webwire.com",
+      "snippet": "Ardian acquires a majority stake in Pflegia, Germany’s leading digital healthcare recruitment platform WebWire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -180,6 +200,16 @@
       "published": "2026-08-14T07:00:00+00:00",
       "snippet": "Silver Lake in talks to acquire HR platform Workday The American Bazaar",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8b0d4120b0290cce48b9013dd756d900",
+      "title": "Lawsuit alleges bias in a company's automated hiring tools - AFRO News",
+      "source": "AFRO News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY08zS0VuSjBlQVNCZE9ieFBESWhQdjlEWmM4WGFsaVM5X0VhaDd4M2FkMmpCbi1nQkk0RGtxMVR6TF9fYmZoZmVseTA5NktYMFZnVEFnNGpHcG1QOGF2NThNTEZFckc2bWNDTm1LMkIzV1NEX0RyUHR1TWdwSTljVzFCZGduV3VqV0syNjNEQlprUkpPTzUtMzBrZ1JRTnVSdFJwd3FLMA?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "snippet": "Lawsuit alleges bias in a company's automated hiring tools AFRO News",
+      "category": "lawsuits",
       "language": "en"
     }
   ]
