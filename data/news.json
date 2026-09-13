@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-12T09:55:05Z",
-  "total": 18,
+  "last_updated": "2026-09-13T10:55:17Z",
+  "total": 17,
   "articles": [
     {
       "id": "6ff7604482c25681c595e445e08d2019",
-      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - recruitmenttech.nl",
-      "source": "recruitmenttech.nl",
+      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - Recruitmenttech.nl",
+      "source": "Recruitmenttech.nl",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjhudmIzQzJqMDdFcXVFQnRRMGxXeFhZWEZNbHI3U1d6VVIxMm45NU10RFlVZTRzbGhYV2Y1YjEyMHJLQ2ZyVDl2OTBKVUROOWNXbU8tbmY0ZFU2bS1tWFJXeno4S05FUFQ4M3ZrdjJQZ2pzQjEzNDZUWng5YmZwbl9iSkZTLWZIc245X1JhM2NfZ1dHZGxKejQ1RWFhZ1gzSWlCb3B3?oc=5",
       "published": "2026-09-11T07:58:00+00:00",
-      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob recruitmenttech.nl",
+      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob Recruitmenttech.nl",
       "category": "investments",
       "language": "nl"
     },
@@ -19,6 +19,16 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZFUtUW9tUFJaekdkZWRQbVlHdzhxNVBxMWlKX3kwMHhXZ3VBRU1lWlpuaklIV0p0UTVTNDlMdk8wa2ZkUUZsNmlJM1pNaUlVdzdaNjNwTlJ5TzVJdFlSQ3U1S08zMTM4?oc=5",
       "published": "2026-09-10T13:05:31+00:00",
       "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "9469637bdc9af859d532b08cc69d57eb",
+      "title": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zckxicS1tOWdLNkVMWllreWdOcGFmd3Z1ZUFVbHF6TkhhdUNnSHFxU3VHWjZ0dWVtNVZ2X3dHaXUwTGlndlVqbUpWek52R0U?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "snippet": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) GetLatka",
       "category": "investments",
       "language": "en"
     },
@@ -103,16 +113,6 @@
       "language": "en"
     },
     {
-      "id": "cf4550bf90a150ef72d1c0fcdf3346ae",
-      "title": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek - Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGVNTlFHT3VqdzFlT0pZXzIxUHJSVEtpbTFVUTVDc0huSmtmT3NJZ2ViRFZJV2Q5NjRJSTJwMG9GTDVGRFRmWkdNWVRpRFpVMUVVY1RHVlVHdjFZQ2RDenNRX3dkTTVUUmZvQWRUZ2JGLWhDbThXTHBLeEgyYl85eFZpMGdxUFlWWWRTdzFCWldITmZUQmx1VDF3?oc=5",
-      "published": "2026-08-27T07:17:50+00:00",
-      "snippet": "PKSHA fund backs CAPER, maker of AI recruiting agent OpenSeek Dealroom",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "9031c29c55194289d734b50ae50d6eba",
       "title": "AI Hiring Litigation: Key Lessons for Employers - CDF Labor Law LLP",
       "source": "CDF Labor Law LLP",
@@ -127,7 +127,7 @@
       "title": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform - citybiz",
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW5GNmsxbFFpaVFWczdxYWJXWW5LSWFlNk1iQ0tqZVRmQzNEWXowY3FKOTAzRnlNVmdwa1hsOVpmbVE4Zk1WWjJLWXZWTDZmWTJNZzRYcF83VnAySDN2TTBWZTJGNVlJUHQ3czU3X3ZaQ3dlR0M2Ty1vNUxsaGtyeUxpSVg5NEZoNjJrWVVKazRtamVSdTJpalI1NGJJVV9ER1ZIbDB1MmZWcjdrRk9KRUw2TGYzU2RudXhVVW90S28zSk9hQ2c?oc=5",
-      "published": "2026-08-21T13:31:20+00:00",
+      "published": "2026-08-21T07:00:00+00:00",
       "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -169,16 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOElLOU1DM2REWXRYUnlmc045R2RWT0wxVlhrWlFUelBjRmhTdHFHWUR4Q0dwRW5wU0ZiSXFjSkhQRGRTaW1IRTJaZW5QZlBQaTRUb3VrY0MtZ3pySEJRSmJrZlVyR3JjV25BMFpqSjN2Vi1PQ0o2ZGV6aGJFem5fX1FSTlF6cG1jcDg1V2k3T0FCMzNMN3hrNlJ2b3VJMUVrS3B2UnJUdHVKc1VCbzdiVWp3YmxsWnBsb0lFU3lDVVhBakZLNHlKSkNXcnh0c09qY25qU2xPcTlDd1E0TExpTHlLVjh4d0pLNVE?oc=5",
       "published": "2026-08-17T07:00:00+00:00",
       "snippet": "Juicebox Named “Talent Acquisition Company of the Year” in 2026 HR Tech Breakthrough Awards Program Business Wire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "0693188f3d9b32406fcffe91ca65bb9c",
-      "title": "Silver Lake in talks to acquire HR platform Workday - The American Bazaar",
-      "source": "The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3FHRGo1UkhKNzRRbmJrdzBCMVlUOFU5c0owWEtoY29pSmF5M1VWT1g2Y205d1poLXd1bEpWYmtvQ2xXekRuclhPQlhFclFBY3Q2cHdnTDRRakRHVXJwSms4aVRkbGczQjRTeGpDMmtoc0FSU25JdW5hc2FRWTJHd3FJRzJOQ0RnS1FNbEhqdFNVdEd0SU5TMHFRLXJFa0N1eE9CTEtn?oc=5",
-      "published": "2026-08-14T07:00:00+00:00",
-      "snippet": "Silver Lake in talks to acquire HR platform Workday The American Bazaar",
       "category": "mergers_acquisitions",
       "language": "en"
     }
