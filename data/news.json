@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:28:19Z",
+  "last_updated": "2026-09-15T10:50:24Z",
   "total": 17,
   "articles": [
     {
@@ -13,22 +13,32 @@
       "language": "nl"
     },
     {
-      "id": "aea98e5dceda7e7d2364b070c13fc5f0",
-      "title": "Gem Revenue 2024: $31M Est. ARR, $1.2B Valuation (2021) - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WWF9jNmx4THNEc3EwdTg2YmZBYkR1T1dnaWNBWDFaT3ptMkExQ2l5VEU0c1doUWtqNGViMlo2RkFMSUJsOG9RX3JB?oc=5",
+      "id": "966e99db092716a4cff92aa27cfe3cf5",
+      "title": "Rippling Revenue 2026: $1B ARR, $16.8B Valuation (2025) - getlatka.com",
+      "source": "getlatka.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLaVVvZ2hMc0pBc2YtbmNPWUdVYXFHWTJTeWEzamJDWkxnRXcwXzdYV2ZhNkJEV1JfbDRfRmxiWHNxLXA1Q0Z0TkJyUFY4Ql9k?oc=5",
       "published": "2026-09-10T07:00:00+00:00",
-      "snippet": "Gem Revenue 2024: $31M Est. ARR, $1.2B Valuation (2021) GetLatka",
+      "snippet": "Rippling Revenue 2026: $1B ARR, $16.8B Valuation (2025) getlatka.com",
       "category": "investments",
       "language": "en"
     },
     {
       "id": "9469637bdc9af859d532b08cc69d57eb",
-      "title": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) - GetLatka",
-      "source": "GetLatka",
+      "title": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) - getlatka.com",
+      "source": "getlatka.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zckxicS1tOWdLNkVMWllreWdOcGFmd3Z1ZUFVbHF6TkhhdUNnSHFxU3VHWjZ0dWVtNVZ2X3dHaXUwTGlndlVqbUpWek52R0U?oc=5",
       "published": "2026-09-10T07:00:00+00:00",
-      "snippet": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) GetLatka",
+      "snippet": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) getlatka.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "140804a007b6a88d2c43de9d043dd405",
+      "title": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer - konsulteer.com",
+      "source": "konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHBGNE5yYnFXX0ZkUThoWlNNdTRYSndCS1ZfbFFmOVhSMnJid1Y2WnNvUm15MllqaDhLbks3ZzY3Ml9KRFhGeThFOXU0YTFHOFZZbGhDQzUwRTl4bkE2bDloTE8xWkNtcTJhbGExMFYxdXVYZm5IT1hpbFBsTEJtaVZZRzJRNnN4YW40NDNuOU9pRE9KSldyQWhBc1V4MVB4c0V2Y21DUU9pMEc3NzV0VFVWRGtlVDRHMEE?oc=5",
+      "published": "2026-09-05T17:57:40+00:00",
+      "snippet": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer konsulteer.com",
       "category": "investments",
       "language": "en"
     },
@@ -53,16 +63,6 @@
       "language": "en"
     },
     {
-      "id": "a3ec7079dccb61f9f4b899724e5c9838",
-      "title": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform - CairoScene",
-      "source": "CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUk3aUpQWGU1cWlBYTVnYl94Z24tR18wdUxNNzlQMWNpc1I0cjVNTE5sZ1lIMFR3SHRaamFJZEMwOTZfZ2ItUERrNUdiWWlRNEJKYnE0eWlxZWx2aVRTNk5zTFBtVHNRNGhqWi1iUWgtTzBpNUo0aW9UN1F2blJOVC1md1dBYl9JVFZOWmwzS0c?oc=5",
-      "published": "2026-09-04T03:30:46+00:00",
-      "snippet": "ZenHR Raises $6 Million to Expand AI-Powered HR Platform CairoScene",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
       "source": "Tracxn",
@@ -74,11 +74,11 @@
     },
     {
       "id": "7a7ce1854936b9159bf38da193078913",
-      "title": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised - GetLatka",
-      "source": "GetLatka",
+      "title": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised - getlatka.com",
+      "source": "getlatka.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQXlyNF9mQjhzemhZWndVeHZqM0pqWUxZcEhsbTRNR1NIbTNuZ183NF9nQk5GeFRTX3dVNFJXS1R2MkdxbFNudExnakc1by1aVG9TNA?oc=5",
       "published": "2026-09-02T07:00:00+00:00",
-      "snippet": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised GetLatka",
+      "snippet": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised getlatka.com",
       "category": "investments",
       "language": "en"
     },
@@ -94,11 +94,11 @@
     },
     {
       "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
-      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - Unite.AI",
-      "source": "Unite.AI",
+      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - unite.ai",
+      "source": "unite.ai",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
       "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
+      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands unite.ai",
       "category": "investments",
       "language": "en"
     },
