@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-16T10:39:30Z",
-  "total": 14,
+  "last_updated": "2026-09-17T10:48:04Z",
+  "total": 12,
   "articles": [
+    {
+      "id": "7999409b410f39d7de9eefe51caebb4e",
+      "title": "Jack & Jill Secures €34.68 Million to Scale AI Hiring - N24 Haber",
+      "source": "N24 Haber",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3NKWU1pQ2xhQWNiSkpJcWIyZGRmenp3ekgzeFIydjlTVzFheDVWamF1cjUtQTFNdmJMQXBuWkNRdnZsY3RKT2cwRy01emJhcEc2dGZrSzE4QlI5cHZBYzVublVkZjlYU1ZMQU0wcGo3S1l0dWpuSWJqUEFaSWhZUzN1Ui1SSEZiRndvVWx3?oc=5",
+      "published": "2026-09-15T17:30:26+00:00",
+      "snippet": "Jack & Jill Secures €34.68 Million to Scale AI Hiring N24 Haber",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "6ff7604482c25681c595e445e08d2019",
       "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - Recruitmenttech.nl",
@@ -63,22 +73,12 @@
       "language": "en"
     },
     {
-      "id": "7a7ce1854936b9159bf38da193078913",
-      "title": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQXlyNF9mQjhzemhZWndVeHZqM0pqWUxZcEhsbTRNR1NIbTNuZ183NF9nQk5GeFRTX3dVNFJXS1R2MkdxbFNudExnakc1by1aVG9TNA?oc=5",
-      "published": "2026-09-02T07:00:00+00:00",
-      "snippet": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised GetLatka",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "95bea04fdd9951e9fde05b69d6d1ba46",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - peoplematters.in",
-      "source": "peoplematters.in",
+      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
+      "source": "People Matters - HR News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
-      "published": "2026-09-01T14:42:20+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI peoplematters.in",
+      "published": "2026-09-01T07:00:00+00:00",
+      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
       "category": "investments",
       "language": "en"
     },
@@ -90,16 +90,6 @@
       "published": "2026-09-01T07:00:00+00:00",
       "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
-      "source": "Outsource Accelerator",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
-      "published": "2026-08-28T10:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -130,16 +120,6 @@
       "published": "2026-08-19T07:00:00+00:00",
       "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "4b760c14485ccd90e9b06053cedc6ebc",
-      "title": "Workday in talks to be acquired by Silver Lake, report says - Staffing Industry Analysts",
-      "source": "Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWJLbWZIT1lIZDhaTEFSOTdhT3dzcE1OQkMyWXJ0R1h4SGZiNHhuVHNzLXMzMndULWZ4aVUxdi12N1o3NDBxbVBMaThZRnA0WC1ENkZhRWVfOHNweF9KbkhuV2k3eVpRcnZPcGVndkZiNUpyRHVYSE1icm9fbE01dWNiZDNKMWVLdlFkRUE1bmNQQzczVnZYbXl1STVsM2pDRWljc2MzYzNlRWhhNGJtUUNDVDg?oc=5",
-      "published": "2026-08-17T16:43:19+00:00",
-      "snippet": "Workday in talks to be acquired by Silver Lake, report says Staffing Industry Analysts",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
