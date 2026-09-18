@@ -1,24 +1,74 @@
 {
-  "last_updated": "2026-09-17T10:48:04Z",
-  "total": 12,
+  "last_updated": "2026-09-18T10:23:28Z",
+  "total": 17,
   "articles": [
     {
+      "id": "6210f995a867a2a2288b5d4b2ec3e9d5",
+      "title": "Factrika raises Rs 80.9 million to scale industrial workforce platform - Construction World",
+      "source": "Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeUJWS0JUVHpMTC1HTmZ6LTRhYzlKMk1ZeEplVXFLMjhWaHhTTnFoR0xUb2IwNlZvN0dKQWE1dzlwUnhhajl1cE4xaWNaQU95MXczd2RHZ09PaHFmUnJ6Y1BSYWEzR3F4NVNzSkRma3AyY2liSkJIZTBPZzlCWFNheTFFOGNpMlpsMjE2ZWxjVmVEQlZaaVRlejdxbkFrYU00cjZhT1dSdXdGTThBSzFfcXNyWS1OSXIzLVZzYnBQaVBnV29KWjBhczlxMkVKbl9kZXlJZUotOGtRUQ?oc=5",
+      "published": "2026-09-18T05:44:53+00:00",
+      "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "6f4eed688f82b046641fbc582811d960",
+      "title": "Harver Acquires Symphony Talent to Build Global Talent Intelligence Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3VIS2NBTTBrQjVxRXlFNktMSHVCSmIwbXdSS2hDZlJfMVVJRG5TbWtJLU9mOHdfNGdtNGMzbDBCSGV6R1lUVmJiT1NRdlktLUR5WXFsZEEwV0RUU3JOVXZDUXJIUGI2cV9xV1JEbkRGdmRpeUJkNEtFa2FWY0VTZ1RRWExlWFF2RjIxaExheE5lWm1MMy04NWZKRV92TWtXWTFvcW80eTFlalE4aDBiUEplNVF1Zw?oc=5",
+      "published": "2026-09-17T19:38:18+00:00",
+      "snippet": "Harver Acquires Symphony Talent to Build Global Talent Intelligence Platform citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "61fa070671f74ec0b3eaa573f8f16507",
+      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - indiagazette.com",
+      "source": "indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWlHUkdzZnBXOW5Ua1JBdzNEdndfNEpLZjFIcXhEX096aDg4eU5tS3lSUmp6TF91UUI2VHEtLUE4Ymk0RTZHWWlDMXFMQ05PVHBJd2dtVFpIUnpnd1Nqbkl4aGNzd2VhT1M3cHpqVnBCelhZZ0FSNVo5ZEs2VkFkTGo0Z2k4VkFFOUt0SXQ1MTVCdmdlMWV5Y3AwVm5YWjlkYTdhcThRNXZ2aGphLWppVmFoa2J4b1Nhb2dmSUxyNy13aGVKMXA5Z1lsalItZTA?oc=5",
+      "published": "2026-09-17T14:07:00+00:00",
+      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform indiagazette.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "83d5dee76fb26548b2d3da4d62e1220e",
+      "title": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era - businesswire.com",
+      "source": "businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlBIc1BkOGpWWnJhb2g1OWZTczdGYnNSREZnSndEdW1DcDBpTUdPV0pfSTJEbmhjTEVHamJhcmZBX2M5VDZ1cXgzaHZUM3R6MjRVVlBubnozWlVGYldzdS1aakh3aFV3R1p3WGZDQ1poZ0UwWFdfUDBrTUM2RGhneHN3UjJWQUd3X0hyWEF6YjVpYWU2Wjd3LTBFZEpRa3hJRDctVWVST2cxazFPR0lZMVZoWUxzRkp5eU1CdlpNekZEQ2VENzVndlNxaTczc3VvWTNtdnh5Vm1jY3lzNkloU3cwcEs?oc=5",
+      "published": "2026-09-17T14:00:00+00:00",
+      "snippet": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era businesswire.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "ef74fa9f08dcbc5dbd87b132363646fd",
+      "title": "Unstop Acquires PerspectAI to Add AI-Powered Talent Intelligence to Hiring Platform - Entrepreneur India",
+      "source": "Entrepreneur India",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc051Y09aUGpweU5kc1ZvMk1MdmlnenBiVWtVOGhSaXlMU0F0bVFuNWRacU8yNFFQTkFudEV3X2RFQlV1endoX0FaSkZqVTFGSVhKMlAzS0JfUk1kVVducURXVngzUjdpS1BObkxLRmROWVRyazFmSFpxYWwySUhudi1rS01ZcmdNN0VMUDVYVUw1WWg0bFlQWXI3VlFkN21yd051MlU0aVFyT0xUM3VkdGEyZWNRVHBPeUE5TmdHREtvcHJWbjZxWmpZZUQ1TThuWkE?oc=5",
+      "published": "2026-09-17T07:59:50+00:00",
+      "snippet": "Unstop Acquires PerspectAI to Add AI-Powered Talent Intelligence to Hiring Platform Entrepreneur India",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "7999409b410f39d7de9eefe51caebb4e",
-      "title": "Jack & Jill Secures €34.68 Million to Scale AI Hiring - N24 Haber",
-      "source": "N24 Haber",
+      "title": "Jack & Jill Secures €34.68 Million to Scale AI Hiring - n24.com.tr",
+      "source": "n24.com.tr",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3NKWU1pQ2xhQWNiSkpJcWIyZGRmenp3ekgzeFIydjlTVzFheDVWamF1cjUtQTFNdmJMQXBuWkNRdnZsY3RKT2cwRy01emJhcEc2dGZrSzE4QlI5cHZBYzVublVkZjlYU1ZMQU0wcGo3S1l0dWpuSWJqUEFaSWhZUzN1Ui1SSEZiRndvVWx3?oc=5",
       "published": "2026-09-15T17:30:26+00:00",
-      "snippet": "Jack & Jill Secures €34.68 Million to Scale AI Hiring N24 Haber",
+      "snippet": "Jack & Jill Secures €34.68 Million to Scale AI Hiring n24.com.tr",
       "category": "investments",
       "language": "en"
     },
     {
       "id": "6ff7604482c25681c595e445e08d2019",
-      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - Recruitmenttech.nl",
-      "source": "Recruitmenttech.nl",
+      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - recruitmenttech.nl",
+      "source": "recruitmenttech.nl",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjhudmIzQzJqMDdFcXVFQnRRMGxXeFhZWEZNbHI3U1d6VVIxMm45NU10RFlVZTRzbGhYV2Y1YjEyMHJLQ2ZyVDl2OTBKVUROOWNXbU8tbmY0ZFU2bS1tWFJXeno4S05FUFQ4M3ZrdjJQZ2pzQjEzNDZUWng5YmZwbl9iSkZTLWZIc245X1JhM2NfZ1dHZGxKejQ1RWFhZ1gzSWlCb3B3?oc=5",
       "published": "2026-09-11T07:58:00+00:00",
-      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob Recruitmenttech.nl",
+      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob recruitmenttech.nl",
       "category": "investments",
       "language": "nl"
     },
@@ -39,6 +89,16 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zckxicS1tOWdLNkVMWllreWdOcGFmd3Z1ZUFVbHF6TkhhdUNnSHFxU3VHWjZ0dWVtNVZ2X3dHaXUwTGlndlVqbUpWek52R0U?oc=5",
       "published": "2026-09-10T07:00:00+00:00",
       "snippet": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) GetLatka",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "0c1b49fd20254f8c384ab559674c511d",
+      "title": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xT0pBbXdiNDY1RGdiMXdXaEhMWVJZYThwUGJkb3VMNmZDNmFMUU1hajU2TENYM2dJbmIwb0ViaW03b3hybExWRnA0Z0s2Zw?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "snippet": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) GetLatka",
       "category": "investments",
       "language": "en"
     },
@@ -73,12 +133,12 @@
       "language": "en"
     },
     {
-      "id": "95bea04fdd9951e9fde05b69d6d1ba46",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
-      "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
+      "id": "686155f83fc643a429517848658e1b0c",
+      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
+      "source": "Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
+      "published": "2026-09-02T19:32:07+00:00",
+      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
       "category": "investments",
       "language": "en"
     },
@@ -110,16 +170,6 @@
       "published": "2026-08-21T07:00:00+00:00",
       "snippet": "Concord Holdings Acquires Paramount Placement to Expand Skilled-Trades Staffing Platform citybiz",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "04a656c3a5ffafede3c2db9ce297d4c9",
-      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEp5dXlsN1RjTGpNNXo4QUZJUlFTMjFTVjRpV21BcURFeFNobWx0ZTRFNGNJMjZXaWZ6bFZON0V5OE5IMzc5MzhZNlJxLUxWUVB4elFuQVFfT0MzYmcyYnZjRXhFQmZNV0dsUU0xVFlqUHJsSGxqU2xuTFJlRTlyUnBLWEY5M1JL?oc=5",
-      "published": "2026-08-19T07:00:00+00:00",
-      "snippet": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits The Guardian",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
