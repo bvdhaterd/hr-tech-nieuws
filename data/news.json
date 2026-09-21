@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T10:25:43Z",
-  "total": 21,
+  "last_updated": "2026-09-21T11:42:27Z",
+  "total": 25,
   "articles": [
     {
       "id": "013db1162aa9546232ac17cc16141c51",
@@ -20,6 +20,16 @@
       "published": "2026-09-19T03:21:23+00:00",
       "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform SuaraGarut.ID",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d2eb48f1cbafab942d5a4573ef2c18cf",
+      "title": "EEOC in settlement agrees to limit its own enforcement of gender-identity discrimination for the Christian Employers Association - HR Brew",
+      "source": "HR Brew",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRmdQYS1FcUZYNFBRTnUtWm9tYXh4MnBwU3hKc2NTaGtQUDdvQUZqVU8xSXJsd2R1WmJiaVJhMlM2dG5DaTZWdml0NmIyMFIwZnhVNWRSb1B3VzFndTN5Ni1YTjZDenNuTUxpc3ZpRDBoSkhySnJ5R2d1SnpFOG9zWVZLU3g5bTB3Y1g2Um9DYlB2eXZkcXVKR3gyOTB2dWZtb0pyUGVlUmFpd19ZZmwtaUdqYmV3aFhnanV6SXd5clVBZ2c0SVN4cXRJcGFSYjEwSG5rVmdqUmRRdVZFanpSeFJINl9HMUlvYUp5ZnlzOFFzdw?oc=5",
+      "published": "2026-09-18T16:03:58+00:00",
+      "snippet": "EEOC in settlement agrees to limit its own enforcement of gender-identity discrimination for the Christian Employers Association HR Brew",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -103,6 +113,16 @@
       "language": "nl"
     },
     {
+      "id": "41d912fe87d187973a29e8b50c868dbc",
+      "title": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform - WebWire",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hY284RzhkLXlfbWZzdHk1MXdUR2h5ZURJenptT0plcTRqd2FELVhUVWtOcVl2anBPTUsyamdHSkZmNzBBVlNoSFlQTUw1QS1kYWVzM0VPQmJwT2xYUXB0Sg?oc=5",
+      "published": "2026-09-10T13:19:28+00:00",
+      "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "966e99db092716a4cff92aa27cfe3cf5",
       "title": "Rippling Revenue 2026: $1B ARR, $16.8B Valuation (2025) - GetLatka",
       "source": "GetLatka",
@@ -123,11 +143,21 @@
       "language": "en"
     },
     {
+      "id": "0c1b49fd20254f8c384ab559674c511d",
+      "title": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xT0pBbXdiNDY1RGdiMXdXaEhMWVJZYThwUGJkb3VMNmZDNmFMUU1hajU2TENYM2dJbmIwb0ViaW03b3hybExWRnA0Z0s2Zw?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "snippet": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) GetLatka",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "231d94ae4d90446263aaf47f6ce679e8",
       "title": "Jack & Jill raises £30M Series A for AI hiring agents - Dealroom",
       "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdng4UVUzam9zUmhRS05qNzNXVmZTS2djX3hPV1lvUUtabHphaktHNHV2Z1pVdVFGV09UenlUTkZKSGxYRi1Ec0pqWVFQcUVDb21lS3J6UVBuS1V0aGx0M2RFckZ5YlZLRnZPLWdGQ2xqZWd2OEQ4TVU0akhJVWhXZi1leGNEZG5EcU9nVg?oc=5",
-      "published": "2026-09-08T10:42:56+00:00",
+      "published": "2026-09-07T11:54:36+00:00",
       "snippet": "Jack & Jill raises £30M Series A for AI hiring agents Dealroom",
       "category": "investments",
       "language": "en"
@@ -144,11 +174,11 @@
     },
     {
       "id": "c951e74a104154da3725d271554dc9fc",
-      "title": "Deel Rippling Lawsuit (Updated September 2026) - LawFold.com",
-      "source": "LawFold.com",
+      "title": "Deel Rippling Lawsuit (Updated September 2026) - lawfold.com",
+      "source": "lawfold.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZDF2djdJTlAzMTNDanFERThJdG11TkdEZl9wUWJuZjl3TUQ4a3pQaXBvWmxWUWY2RHIxd2xiTmJmVVRUMUdXcW8zNEFLRU9JOEt3Mw?oc=5",
       "published": "2026-09-05T07:00:00+00:00",
-      "snippet": "Deel Rippling Lawsuit (Updated September 2026) LawFold.com",
+      "snippet": "Deel Rippling Lawsuit (Updated September 2026) lawfold.com",
       "category": "lawsuits",
       "language": "en"
     },
@@ -164,21 +194,31 @@
     },
     {
       "id": "686155f83fc643a429517848658e1b0c",
-      "title": "HRTech - 2026 Market & Investments Trends - tracxn.com",
-      "source": "tracxn.com",
+      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
+      "source": "Tracxn",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-09-02T19:32:07+00:00",
-      "snippet": "HRTech - 2026 Market & Investments Trends tracxn.com",
+      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
       "category": "investments",
       "language": "en"
     },
     {
-      "id": "95bea04fdd9951e9fde05b69d6d1ba46",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
+      "id": "7a7ce1854936b9159bf38da193078913",
+      "title": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQXlyNF9mQjhzemhZWndVeHZqM0pqWUxZcEhsbTRNR1NIbTNuZ183NF9nQk5GeFRTX3dVNFJXS1R2MkdxbFNudExnakc1by1aVG9TNA?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "snippet": "Betterworks Revenue 2024: $41.7M Est. ARR, $51M Raised GetLatka",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "48156710a3bc4228b4d3e995c9b680bb",
+      "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54RFNJenFWT2JUczlZY21hekVuWlpESVNhRWtGN3hpY2FUOVNSS0FNcmQ2Z1huMURhZmx5TF9sbC02aFpEaXJlLWlBTU1DMkpSNHZnbUh2dkNiX1lLeHJldXItLXU3cnVJ?oc=5",
       "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
+      "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
       "category": "investments",
       "language": "en"
     },
