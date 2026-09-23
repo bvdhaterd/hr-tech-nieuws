@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-22T10:45:57Z",
-  "total": 26,
+  "last_updated": "2026-09-23T10:36:18Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "557d397bbe1538561ec8831766f3dafe",
+      "title": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? - The Legal Examiner",
+      "source": "The Legal Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlpHU0tDOVVkeGtUaEdzT21ZbjN2ZWN6MGFyQzVKMmw5TDFmX01Ga0tKM0wwMFJfZEZWZ2k5VFk0X2NHODNDUW1kdnhzRG51ZjlDSWI0MjBjdmQ5NU5rMzdkRnRBa09WZ1ZIX1RQUnZqQ1VBdXlmTUV2UjFQYXNiT3RiSmJaX0ZqMlFMVUptRWU1bjBqRnhqTW1yNFN5REpwYkp4MjRjSFhmNTZ4bm5HWFJCcDVWUVNtZVFjaC1fVkdMZms?oc=5",
+      "published": "2026-09-22T17:37:37+00:00",
+      "snippet": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? The Legal Examiner",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "2a93a279f6a0163315033c1f668d5731",
+      "title": "Spott Raises $21M for AI-Native Recruiting Platform - konsulteer.com",
+      "source": "konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0dBdXRxSm5LMXZjWDdKcTlKa0VEWXo2Nk10eGJqYnNYQ0EwR2pCVldCeW9zclNsVEtYOHo1OW1JeE5Qa3MzaVZCSWgybEstWXRZOG4wQ2RaLXFjOHYzb1N2Tl9lR01icG53VmI0T1ZMb190MGVULUJ6M2JxYzVxWndtWkpHOGlwMEVoT0gyMXBMd2FuUTJ4RHBReF95LWxO?oc=5",
+      "published": "2026-09-22T08:10:31+00:00",
+      "snippet": "Spott Raises $21M for AI-Native Recruiting Platform konsulteer.com",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "4b3050ded75c3677e14e21c23e8ec791",
       "title": "Tesla faces major trial for alleged bias against Black workers, law school AI policies and our column on AI hiring discrimination lawsuit ➡️ - LinkedIn",
@@ -54,11 +74,11 @@
     },
     {
       "id": "6210f995a867a2a2288b5d4b2ec3e9d5",
-      "title": "Factrika raises Rs 80.9 million to scale industrial workforce platform - Construction World",
-      "source": "Construction World",
+      "title": "Factrika raises Rs 80.9 million to scale industrial workforce platform - Construction World India",
+      "source": "Construction World India",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeUJWS0JUVHpMTC1HTmZ6LTRhYzlKMk1ZeEplVXFLMjhWaHhTTnFoR0xUb2IwNlZvN0dKQWE1dzlwUnhhajl1cE4xaWNaQU95MXczd2RHZ09PaHFmUnJ6Y1BSYWEzR3F4NVNzSkRma3AyY2liSkJIZTBPZzlCWFNheTFFOGNpMlpsMjE2ZWxjVmVEQlZaaVRlejdxbkFrYU00cjZhT1dSdXdGTThBSzFfcXNyWS1OSXIzLVZzYnBQaVBnV29KWjBhczlxMkVKbl9kZXlJZUotOGtRUQ?oc=5",
       "published": "2026-09-18T11:41:09+00:00",
-      "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
+      "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World India",
       "category": "investments",
       "language": "en"
     },
@@ -104,11 +124,11 @@
     },
     {
       "id": "6ff7604482c25681c595e445e08d2019",
-      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - recruitmenttech.nl",
-      "source": "recruitmenttech.nl",
+      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - Recruitmenttech.nl",
+      "source": "Recruitmenttech.nl",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjhudmIzQzJqMDdFcXVFQnRRMGxXeFhZWEZNbHI3U1d6VVIxMm45NU10RFlVZTRzbGhYV2Y1YjEyMHJLQ2ZyVDl2OTBKVUROOWNXbU8tbmY0ZFU2bS1tWFJXeno4S05FUFQ4M3ZrdjJQZ2pzQjEzNDZUWng5YmZwbl9iSkZTLWZIc245X1JhM2NfZ1dHZGxKejQ1RWFhZ1gzSWlCb3B3?oc=5",
       "published": "2026-09-11T07:58:00+00:00",
-      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob recruitmenttech.nl",
+      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob Recruitmenttech.nl",
       "category": "investments",
       "language": "nl"
     },
@@ -153,12 +173,22 @@
       "language": "en"
     },
     {
+      "id": "5f4d2299dc940e691a4c3b784b5e5fc0",
+      "title": "Saudi HR tech startup Scalers raises SR2m in seed round - Arab News",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzhsVTZBaThtOUQ4NXpGeXhqcGNDMkd4WTV2N1o3M1BVWXUwbDU2MUhFMHZ5NTlEQTFlWjZ2T0kzbnBxZFFhaE4yOU9yMUlzY2NtMkdwRTR0dmlhb295NzZhRXhWQzZ5QTBPb0JvQUJkMW1kMG9MNzlFaEZyX0dsVG01VXhZMzVjbUx6YVhNanUxZWRHVVM0OF9DY2xIRVRXOGFncHh0ZWlEVE5XN1dfSzBCa184bTJ3R2VzQg?oc=5",
+      "published": "2026-09-07T16:36:28+00:00",
+      "snippet": "Saudi HR tech startup Scalers raises SR2m in seed round Arab News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "231d94ae4d90446263aaf47f6ce679e8",
-      "title": "Jack & Jill raises £30M Series A for AI hiring agents - Dealroom",
-      "source": "Dealroom",
+      "title": "Jack & Jill raises £30M Series A for AI hiring agents - app.dealroom.co",
+      "source": "app.dealroom.co",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdng4UVUzam9zUmhRS05qNzNXVmZTS2djX3hPV1lvUUtabHphaktHNHV2Z1pVdVFGV09UenlUTkZKSGxYRi1Ec0pqWVFQcUVDb21lS3J6UVBuS1V0aGx0M2RFckZ5YlZLRnZPLWdGQ2xqZWd2OEQ4TVU0akhJVWhXZi1leGNEZG5EcU9nVg?oc=5",
       "published": "2026-09-07T11:54:36+00:00",
-      "snippet": "Jack & Jill raises £30M Series A for AI hiring agents Dealroom",
+      "snippet": "Jack & Jill raises £30M Series A for AI hiring agents app.dealroom.co",
       "category": "investments",
       "language": "en"
     },
@@ -243,12 +273,22 @@
       "language": "en"
     },
     {
+      "id": "3826d80cb965b7b6e026f2c9410509a8",
+      "title": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round - calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOHZhTXpCWERNQnRZek85bGNwZ1VsLTAwREpCUlpBdzJXbmktYm9TRlBPRXhPN0pZQ1FNbC1OdTlubklZdUF4czFHSTViQ0ZHYUVlR212MFM3a01fTDFVVFFNMUdiM0E?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "snippet": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round calcalistech.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
-      "source": "Outsource Accelerator",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - news.outsourceaccelerator.com",
+      "source": "news.outsourceaccelerator.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
       "published": "2026-08-28T07:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner news.outsourceaccelerator.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
