@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-23T10:36:18Z",
-  "total": 30,
+  "last_updated": "2026-09-24T10:55:51Z",
+  "total": 28,
   "articles": [
+    {
+      "id": "31fdf25633259b0a96dd361af560b636",
+      "title": "AI hiring and layoff lawsuits put employers on notice - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzZFQ3NMb0NTRzNwa1lCOWowTzZ5TkpIa05hMW9NWUF1WmdldXg3N3p4WjhYN1J3ZWo3bVo2cWhOczFwS3RwUGFzQk1fSGN1WjA4eFZnY0hOZnZNNVE3akxCdFByUWpYZmY5RkpjRXNuZHlIZmhXaVJZTzEtWUZybmpxRjU0aTlPLTYxUnkzc0VwNDlrX2lEcEhGVl80Tk1BWUV5eUdmZHFzakEtSHY3S2p1S3hmN2JHSUhoTmdLYzR0TEtJczVEQUl3U0ZkbkF6?oc=5",
+      "published": "2026-09-23T16:21:00+00:00",
+      "snippet": "AI hiring and layoff lawsuits put employers on notice Staffing Industry Analysts",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "557d397bbe1538561ec8831766f3dafe",
       "title": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? - The Legal Examiner",
@@ -74,11 +84,11 @@
     },
     {
       "id": "6210f995a867a2a2288b5d4b2ec3e9d5",
-      "title": "Factrika raises Rs 80.9 million to scale industrial workforce platform - Construction World India",
-      "source": "Construction World India",
+      "title": "Factrika raises Rs 80.9 million to scale industrial workforce platform - Construction World",
+      "source": "Construction World",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeUJWS0JUVHpMTC1HTmZ6LTRhYzlKMk1ZeEplVXFLMjhWaHhTTnFoR0xUb2IwNlZvN0dKQWE1dzlwUnhhajl1cE4xaWNaQU95MXczd2RHZ09PaHFmUnJ6Y1BSYWEzR3F4NVNzSkRma3AyY2liSkJIZTBPZzlCWFNheTFFOGNpMlpsMjE2ZWxjVmVEQlZaaVRlejdxbkFrYU00cjZhT1dSdXdGTThBSzFfcXNyWS1OSXIzLVZzYnBQaVBnV29KWjBhczlxMkVKbl9kZXlJZUotOGtRUQ?oc=5",
       "published": "2026-09-18T11:41:09+00:00",
-      "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World India",
+      "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
       "category": "investments",
       "language": "en"
     },
@@ -163,42 +173,12 @@
       "language": "en"
     },
     {
-      "id": "0c1b49fd20254f8c384ab559674c511d",
-      "title": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xT0pBbXdiNDY1RGdiMXdXaEhMWVJZYThwUGJkb3VMNmZDNmFMUU1hajU2TENYM2dJbmIwb0ViaW03b3hybExWRnA0Z0s2Zw?oc=5",
-      "published": "2026-09-10T07:00:00+00:00",
-      "snippet": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) GetLatka",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "5f4d2299dc940e691a4c3b784b5e5fc0",
       "title": "Saudi HR tech startup Scalers raises SR2m in seed round - Arab News",
       "source": "Arab News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzhsVTZBaThtOUQ4NXpGeXhqcGNDMkd4WTV2N1o3M1BVWXUwbDU2MUhFMHZ5NTlEQTFlWjZ2T0kzbnBxZFFhaE4yOU9yMUlzY2NtMkdwRTR0dmlhb295NzZhRXhWQzZ5QTBPb0JvQUJkMW1kMG9MNzlFaEZyX0dsVG01VXhZMzVjbUx6YVhNanUxZWRHVVM0OF9DY2xIRVRXOGFncHh0ZWlEVE5XN1dfSzBCa184bTJ3R2VzQg?oc=5",
       "published": "2026-09-07T16:36:28+00:00",
       "snippet": "Saudi HR tech startup Scalers raises SR2m in seed round Arab News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "231d94ae4d90446263aaf47f6ce679e8",
-      "title": "Jack & Jill raises £30M Series A for AI hiring agents - app.dealroom.co",
-      "source": "app.dealroom.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdng4UVUzam9zUmhRS05qNzNXVmZTS2djX3hPV1lvUUtabHphaktHNHV2Z1pVdVFGV09UenlUTkZKSGxYRi1Ec0pqWVFQcUVDb21lS3J6UVBuS1V0aGx0M2RFckZ5YlZLRnZPLWdGQ2xqZWd2OEQ4TVU0akhJVWhXZi1leGNEZG5EcU9nVg?oc=5",
-      "published": "2026-09-07T11:54:36+00:00",
-      "snippet": "Jack & Jill raises £30M Series A for AI hiring agents app.dealroom.co",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "140804a007b6a88d2c43de9d043dd405",
-      "title": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer - konsulteer.com",
-      "source": "konsulteer.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHBGNE5yYnFXX0ZkUThoWlNNdTRYSndCS1ZfbFFmOVhSMnJid1Y2WnNvUm15MllqaDhLbks3ZzY3Ml9KRFhGeThFOXU0YTFHOFZZbGhDQzUwRTl4bkE2bDloTE8xWkNtcTJhbGExMFYxdXVYZm5IT1hpbFBsTEJtaVZZRzJRNnN4YW40NDNuOU9pRE9KSldyQWhBc1V4MVB4c0V2Y21DUU9pMEc3NzV0VFVWRGtlVDRHMEE?oc=5",
-      "published": "2026-09-05T17:57:40+00:00",
-      "snippet": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer konsulteer.com",
       "category": "investments",
       "language": "en"
     },
@@ -284,11 +264,11 @@
     },
     {
       "id": "7efe1c6c777bfdf1ca71bda00e2d5874",
-      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - news.outsourceaccelerator.com",
-      "source": "news.outsourceaccelerator.com",
+      "title": "Steel Knight Capital acquires AI recruiting firm TradeRunner - Outsource Accelerator",
+      "source": "Outsource Accelerator",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZGU2VW40Q05lR3ppQ1ZRR1NkS2lTMGlGcUdPMHBBOVJUeENoSlFPd196OW1PN0p1R3IzWDg4ZkR0SEIzeEcyc3ptZU9IUGR3a0h1ZUwtVHV1bENMano3TDdxbWc2cVNKeGxHaXBpdS0?oc=5",
       "published": "2026-08-28T07:00:00+00:00",
-      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner news.outsourceaccelerator.com",
+      "snippet": "Steel Knight Capital acquires AI recruiting firm TradeRunner Outsource Accelerator",
       "category": "mergers_acquisitions",
       "language": "en"
     },
