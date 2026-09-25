@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-24T10:55:51Z",
+  "last_updated": "2026-09-25T10:57:19Z",
   "total": 28,
   "articles": [
+    {
+      "id": "5b3fe6b4aabd591e07fdb211afa54584",
+      "title": "Black Job Seekers Seek Class Action Against Workday - BIN: Black Information Network",
+      "source": "BIN: Black Information Network",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtza3hVMld2eS1TSzA0U2w0OEZSRmZQQUxCNDlNbE5WQjlZdEQ2UkRfNjZiRkVTc3EycVRId1d4OWVIUEZ4WlB4U2o2MnFneU9MZnFvTnBJVmtmdU81SXFOVkt1NUxEQXpMa2t5Tnhld09oa0txWlg2YU02OEpDeHFoWVBlRWRZd2wtVENjekp3UkZLaGhFYWVTVXVNM2tiQV9TendCM1psTW1RdDd6NngzUzVsOWFOb3NqaUtnSEtSQdIBygFBVV95cUxOVjFvWm9hZVNkQjR0NDlhTWFyMVJDZU5tMEtGaHZNQ0E4NTd1WVp1aHYzbkx1LUcxbF9nNGt3blQ2RFJuWEdQMk9lcG80cjlVUV9yQ3U5VVdBWUNoMlBLT0dVYzgyNldtZ0U3RDFFWFJ0R1Z0QjNLWC1MTUJtNlVVRlFSY21FUkJGaEd0LVY5M2J5MHFGZmR1UG5MbG5GdkNUSml4empPZnJWWEZrUWYzbWVSa2E4c1NwcnpHUGJnWWwwWGxtd29qOXVn?oc=5",
+      "published": "2026-09-24T17:04:00+00:00",
+      "snippet": "Black Job Seekers Seek Class Action Against Workday BIN: Black Information Network",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "fea98e17345410421ab65fae6019e022",
+      "title": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law - TheGrio",
+      "source": "TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW1FaEJWc0lZYUhIWWJKY282QTRHeHJNV0NadmxTcXJxWEhiTDFNWUZjR25LOWZSYTU3dXJrbU9zd2FzR3k1dktuOUhsT2tBNXBjejUwb28wbTdyMVJJay1pd0JLdTlvTlJhZnpuR1RzS1FUZ3NJOEdSYTY?oc=5",
+      "published": "2026-09-24T14:30:55+00:00",
+      "snippet": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law TheGrio",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "31fdf25633259b0a96dd361af560b636",
       "title": "AI hiring and layoff lawsuits put employers on notice - Staffing Industry Analysts",
@@ -54,11 +74,11 @@
     },
     {
       "id": "3423ba6c44272ff194f059c24bf90628",
-      "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - SuaraGarut.ID",
-      "source": "SuaraGarut.ID",
+      "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - suaragarut.id",
+      "source": "suaragarut.id",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1McWF0d3hMd2pWZEh4Qy15OGJOTnZUWkpqeml5WS16REFYZEZlbVZkWkg1eGQtUTFtTS1fR3dXMVotWWVwYm10OW9sZktJSjNjN01LeGJULU0tVVByX0NYQl9nR1hzaEVybnBQc01paFJjN1U?oc=5",
       "published": "2026-09-19T03:21:23+00:00",
-      "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform SuaraGarut.ID",
+      "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform suaragarut.id",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -113,16 +133,6 @@
       "language": "en"
     },
     {
-      "id": "ef74fa9f08dcbc5dbd87b132363646fd",
-      "title": "Unstop Acquires PerspectAI to Add AI-Powered Talent Intelligence to Hiring Platform - Entrepreneur India",
-      "source": "Entrepreneur India",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc051Y09aUGpweU5kc1ZvMk1MdmlnenBiVWtVOGhSaXlMU0F0bVFuNWRacU8yNFFQTkFudEV3X2RFQlV1endoX0FaSkZqVTFGSVhKMlAzS0JfUk1kVVducURXVngzUjdpS1BObkxLRmROWVRyazFmSFpxYWwySUhudi1rS01ZcmdNN0VMUDVYVUw1WWg0bFlQWXI3VlFkN21yd051MlU0aVFyT0xUM3VkdGEyZWNRVHBPeUE5TmdHREtvcHJWbjZxWmpZZUQ1TThuWkE?oc=5",
-      "published": "2026-09-17T07:59:50+00:00",
-      "snippet": "Unstop Acquires PerspectAI to Add AI-Powered Talent Intelligence to Hiring Platform Entrepreneur India",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "7999409b410f39d7de9eefe51caebb4e",
       "title": "Jack & Jill Secures €34.68 Million to Scale AI Hiring - n24.com.tr",
       "source": "n24.com.tr",
@@ -141,16 +151,6 @@
       "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob Recruitmenttech.nl",
       "category": "investments",
       "language": "nl"
-    },
-    {
-      "id": "41d912fe87d187973a29e8b50c868dbc",
-      "title": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform - WebWire",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hY284RzhkLXlfbWZzdHk1MXdUR2h5ZURJenptT0plcTRqd2FELVhUVWtOcVl2anBPTUsyamdHSkZmNzBBVlNoSFlQTUw1QS1kYWVzM0VPQmJwT2xYUXB0Sg?oc=5",
-      "published": "2026-09-10T13:19:28+00:00",
-      "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
-      "category": "investments",
-      "language": "en"
     },
     {
       "id": "966e99db092716a4cff92aa27cfe3cf5",
@@ -183,6 +183,16 @@
       "language": "en"
     },
     {
+      "id": "140804a007b6a88d2c43de9d043dd405",
+      "title": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer - konsulteer.com",
+      "source": "konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHBGNE5yYnFXX0ZkUThoWlNNdTRYSndCS1ZfbFFmOVhSMnJid1Y2WnNvUm15MllqaDhLbks3ZzY3Ml9KRFhGeThFOXU0YTFHOFZZbGhDQzUwRTl4bkE2bDloTE8xWkNtcTJhbGExMFYxdXVYZm5IT1hpbFBsTEJtaVZZRzJRNnN4YW40NDNuOU9pRE9KSldyQWhBc1V4MVB4c0V2Y21DUU9pMEc3NzV0VFVWRGtlVDRHMEE?oc=5",
+      "published": "2026-09-05T17:57:40+00:00",
+      "snippet": "HiBob Raises $166 Million From Salesforce to Build Organizational Intelligence Layer konsulteer.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "c951e74a104154da3725d271554dc9fc",
       "title": "Deel Rippling Lawsuit (Updated September 2026) - LawFold.com",
       "source": "LawFold.com",
@@ -204,11 +214,11 @@
     },
     {
       "id": "686155f83fc643a429517848658e1b0c",
-      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
-      "source": "Tracxn",
+      "title": "HRTech - 2026 Market & Investments Trends - tracxn.com",
+      "source": "tracxn.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
       "published": "2026-09-02T19:32:07+00:00",
-      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
+      "snippet": "HRTech - 2026 Market & Investments Trends tracxn.com",
       "category": "investments",
       "language": "en"
     },
@@ -249,16 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
       "published": "2026-09-01T07:00:00+00:00",
       "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "3826d80cb965b7b6e026f2c9410509a8",
-      "title": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round - calcalistech.com",
-      "source": "calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOHZhTXpCWERNQnRZek85bGNwZ1VsLTAwREpCUlpBdzJXbmktYm9TRlBPRXhPN0pZQ1FNbC1OdTlubklZdUF4czFHSTViQ0ZHYUVlR212MFM3a01fTDFVVFFNMUdiM0E?oc=5",
-      "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "HiBob CEO dismisses IPO as \"unrealistic\" after Salesforce leads $166 million round calcalistech.com",
       "category": "investments",
       "language": "en"
     },
