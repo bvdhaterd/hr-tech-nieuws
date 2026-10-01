@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-30T11:44:47Z",
-  "total": 25,
+  "last_updated": "2026-10-01T12:14:01Z",
+  "total": 28,
   "articles": [
+    {
+      "id": "2e101a84f75032089faeac150b9582bc",
+      "title": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform - EU-Startups",
+      "source": "EU-Startups",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5",
+      "published": "2026-10-01T11:17:35+00:00",
+      "snippet": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform EU-Startups",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "181d58d2e0397f0f8e871b5f729428c9",
+      "title": "Metaview Raises $60 Million Series C For Agentic Recruiting Platform - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFYzaWQ3VjNwRWhfMkNzLW9ncDdibndaTzNCRDZvSVFONHd1c0hxeHJDQm1wajk4WTJEWkIyb194c0QybkxoeV9RMFZ3QTM1MVIyNnMwMGRsazZHY0V1bldabXprSG5xeDJCRXJfcFFGdER1TVdCRWo5cHlVak9LWGVQLVNpb3Ffdm5PcnJaUlTSAZYBQVVfeXFMTzctdXFOUkM5WTF1RVBHd1I4cDIzejBNZlF0VmNSRmxxc21aV25WOXpyY1dTVE1iaFo3eFFhcy1wV2xlRjNLX3hPN3FJS3JaQUwwZ2R4Nm52VlpKQ3A2cldmY3o5VTFNUklpQlQzUU1fdDItdlFkbHBoWlIyLWpncEtrZ3ZrRXpuSFFPMmVVYnNUSWd5Q0NR?oc=5",
+      "published": "2026-09-30T20:54:08+00:00",
+      "snippet": "Metaview Raises $60 Million Series C For Agentic Recruiting Platform Pulse 2.0",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "2828a83d8463407e4e0712024b35e4ce",
+      "title": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmpOVjNnQ0JGdGUwR2tpQndpcG1SWDIyTDU0VElXZ09XT1U2ZDgtM3IyMDFQU3JDMWg3Y1E2cjlHVFd1TnpmZkQ0T3RuYU41VE1pYlhuU3RuSnQxU0NVV0hob3dxVnhmcEt4dFhselNzeVN0bndPQ0hNMnZpLV83X2F1Skw3dmlOUE9rTGpyOUVYQ25TM0FWZ2NMUEZSa1drMnZDS0EwREpHVDQ0VGwzMDNSUWlVa21nQzRCa2hyUTgwZGVTZXZTOHBEQ3E?oc=5",
+      "published": "2026-09-30T16:40:00+00:00",
+      "snippet": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures Quiver Quantitative",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "d24763d9e323f1d9ae52d31ca58c53e8",
+      "title": "Metaview Raises $60M Series C to Expand AI Recruiting Platform - Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3lpeTh0SDZXV29iTUhJaXZjZlJOWkwxcnhORVZYSHFBbUxWZVBsV0k0X1FWSXlKbzhKN2QydkV3aTFBeUptMWZsbmlTVWJGZnJJc1dtMzdQQ2U2MGR2YTFYd2lKclRKOFdfR1ZaSWN6eXVpREhsQ1cxekd5Y3JobU0zanBGLVYzYkhZ?oc=5",
+      "published": "2026-09-30T16:03:01+00:00",
+      "snippet": "Metaview Raises $60M Series C to Expand AI Recruiting Platform Unite.AI",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "36e0f724c3fb81753a043ca3ada67881",
+      "title": "Metaview Raises $60 Million Series C to Expand AI Recruiting Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeS15aXM4dTBSaVI2ZmJvaHh3N2hDand5NnY3N3J3cmVaMWdfUU9LMFF2a3Z0VWluM2Flbm5kaWN4NGVDNFVManBIdmQ2eE84VWR4T0h6ZDgxcXh0dWlxeVJWcC0xUUEwS3Q0TGJYaEJOTVlpWmNHdkticV9DS3FYNlVpblRBbmlGNmo4U2dxeWkwbkp3ak5hNFkyVkZEOWNaMG4yY2xiX0l3TWc?oc=5",
+      "published": "2026-09-30T14:24:13+00:00",
+      "snippet": "Metaview Raises $60 Million Series C to Expand AI Recruiting Platform citybiz",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "5b3fe6b4aabd591e07fdb211afa54584",
       "title": "Black Job Seekers Seek Class Action Against Workday - BIN: Black Information Network",
@@ -33,12 +83,12 @@
       "language": "en"
     },
     {
-      "id": "557d397bbe1538561ec8831766f3dafe",
-      "title": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? - The Legal Examiner",
-      "source": "The Legal Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlpHU0tDOVVkeGtUaEdzT21ZbjN2ZWN6MGFyQzVKMmw5TDFmX01Ga0tKM0wwMFJfZEZWZ2k5VFk0X2NHODNDUW1kdnhzRG51ZjlDSWI0MjBjdmQ5NU5rMzdkRnRBa09WZ1ZIX1RQUnZqQ1VBdXlmTUV2UjFQYXNiT3RiSmJaX0ZqMlFMVUptRWU1bjBqRnhqTW1yNFN5REpwYkp4MjRjSFhmNTZ4bm5HWFJCcDVWUVNtZVFjaC1fVkdMZms?oc=5",
-      "published": "2026-09-22T17:37:37+00:00",
-      "snippet": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? The Legal Examiner",
+      "id": "31fdf25633259b0a96dd361af560b636",
+      "title": "AI hiring and layoff lawsuits put employers on notice - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzZFQ3NMb0NTRzNwa1lCOWowTzZ5TkpIa05hMW9NWUF1WmdldXg3N3p4WjhYN1J3ZWo3bVo2cWhOczFwS3RwUGFzQk1fSGN1WjA4eFZnY0hOZnZNNVE3akxCdFByUWpYZmY5RkpjRXNuZHlIZmhXaVJZTzEtWUZybmpxRjU0aTlPLTYxUnkzc0VwNDlrX2lEcEhGVl80Tk1BWUV5eUdmZHFzakEtSHY3S2p1S3hmN2JHSUhoTmdLYzR0TEtJczVEQUl3U0ZkbkF6?oc=5",
+      "published": "2026-09-23T07:00:00+00:00",
+      "snippet": "AI hiring and layoff lawsuits put employers on notice Staffing Industry Analysts",
       "category": "lawsuits",
       "language": "en"
     },
@@ -50,6 +100,16 @@
       "published": "2026-09-22T08:10:31+00:00",
       "snippet": "Spott Raises $21M for AI-Native Recruiting Platform konsulteer.com",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "557d397bbe1538561ec8831766f3dafe",
+      "title": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? - The Legal Examiner",
+      "source": "The Legal Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlpHU0tDOVVkeGtUaEdzT21ZbjN2ZWN6MGFyQzVKMmw5TDFmX01Ga0tKM0wwMFJfZEZWZ2k5VFk0X2NHODNDUW1kdnhzRG51ZjlDSWI0MjBjdmQ5NU5rMzdkRnRBa09WZ1ZIX1RQUnZqQ1VBdXlmTUV2UjFQYXNiT3RiSmJaX0ZqMlFMVUptRWU1bjBqRnhqTW1yNFN5REpwYkp4MjRjSFhmNTZ4bm5HWFJCcDVWUVNtZVFjaC1fVkdMZms?oc=5",
+      "published": "2026-09-22T07:00:00+00:00",
+      "snippet": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? The Legal Examiner",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -77,18 +137,8 @@
       "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - SuaraGarut.ID",
       "source": "SuaraGarut.ID",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1McWF0d3hMd2pWZEh4Qy15OGJOTnZUWkpqeml5WS16REFYZEZlbVZkWkg1eGQtUTFtTS1fR3dXMVotWWVwYm10OW9sZktJSjNjN01LeGJULU0tVVByX0NYQl9nR1hzaEVybnBQc01paFJjN1U?oc=5",
-      "published": "2026-09-19T03:21:23+00:00",
+      "published": "2026-09-19T07:00:00+00:00",
       "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform SuaraGarut.ID",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "2d361c109cf118d3d83a4aa97cb8e15b",
-      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - CXO Digitalpulse",
-      "source": "CXO Digitalpulse",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGQxVWdQMW9sODJaanZOYnp3S2Z0aW1kLXBHVTZ4dzJEWG5hWlU4NXBTaEdQeUtEOVlaa0tsYlpKenJ0b2dJLWdiVzNZb2FYVFBxX3gwaFYwM19ZYjBYNFl6R0w2cE51Yld2YmM2djJhZVgycjNfYWNUdmZnV2JJRWxnLWxMa2JncDRleHNHRWwydF9wX29TTnJVUDc4UVl6N2JCM0hUUDFmUXFjQXM5Vm1EMjc5YUkzVk1mZG9rR1I?oc=5",
-      "published": "2026-09-18T12:24:39+00:00",
-      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform CXO Digitalpulse",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -100,6 +150,16 @@
       "published": "2026-09-18T07:00:00+00:00",
       "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "2d361c109cf118d3d83a4aa97cb8e15b",
+      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - CXO Digitalpulse",
+      "source": "CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGQxVWdQMW9sODJaanZOYnp3S2Z0aW1kLXBHVTZ4dzJEWG5hWlU4NXBTaEdQeUtEOVlaa0tsYlpKenJ0b2dJLWdiVzNZb2FYVFBxX3gwaFYwM19ZYjBYNFl6R0w2cE51Yld2YmM2djJhZVgycjNfYWNUdmZnV2JJRWxnLWxMa2JncDRleHNHRWwydF9wX29TTnJVUDc4UVl6N2JCM0hUUDFmUXFjQXM5Vm1EMjc5YUkzVk1mZG9rR1I?oc=5",
+      "published": "2026-09-18T07:00:00+00:00",
+      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform CXO Digitalpulse",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -133,12 +193,12 @@
       "language": "en"
     },
     {
-      "id": "7999409b410f39d7de9eefe51caebb4e",
-      "title": "Jack & Jill Secures €34.68 Million to Scale AI Hiring - n24.com.tr",
-      "source": "n24.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3NKWU1pQ2xhQWNiSkpJcWIyZGRmenp3ekgzeFIydjlTVzFheDVWamF1cjUtQTFNdmJMQXBuWkNRdnZsY3RKT2cwRy01emJhcEc2dGZrSzE4QlI5cHZBYzVublVkZjlYU1ZMQU0wcGo3S1l0dWpuSWJqUEFaSWhZUzN1Ui1SSEZiRndvVWx3?oc=5",
-      "published": "2026-09-15T17:30:26+00:00",
-      "snippet": "Jack & Jill Secures €34.68 Million to Scale AI Hiring n24.com.tr",
+      "id": "dea804ec3d289bfd910ade5acc772e01",
+      "title": "Ono AI Based Recruitment Platform Funding 2026: $275K Raised - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tQmR4bmxLdkE2VHdWc21fT1RDSjlsMlozS01VRUJjbjRLeTkySTEwbE5yLVBTUVA1a0pRYlctQW0waHF5SHJFUHNZNHQ5QmhPRjBHRGRfWQ?oc=5",
+      "published": "2026-09-15T07:00:00+00:00",
+      "snippet": "Ono AI Based Recruitment Platform Funding 2026: $275K Raised GetLatka",
       "category": "investments",
       "language": "en"
     },
@@ -194,11 +254,11 @@
     },
     {
       "id": "5f4d2299dc940e691a4c3b784b5e5fc0",
-      "title": "Saudi HR tech startup Scalers raises SR2m in seed round - Arab News",
-      "source": "Arab News",
+      "title": "Saudi HR tech startup Scalers raises SR2m in seed round - arabnews.com",
+      "source": "arabnews.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzhsVTZBaThtOUQ4NXpGeXhqcGNDMkd4WTV2N1o3M1BVWXUwbDU2MUhFMHZ5NTlEQTFlWjZ2T0kzbnBxZFFhaE4yOU9yMUlzY2NtMkdwRTR0dmlhb295NzZhRXhWQzZ5QTBPb0JvQUJkMW1kMG9MNzlFaEZyX0dsVG01VXhZMzVjbUx6YVhNanUxZWRHVVM0OF9DY2xIRVRXOGFncHh0ZWlEVE5XN1dfSzBCa184bTJ3R2VzQg?oc=5",
       "published": "2026-09-07T16:36:28+00:00",
-      "snippet": "Saudi HR tech startup Scalers raises SR2m in seed round Arab News",
+      "snippet": "Saudi HR tech startup Scalers raises SR2m in seed round arabnews.com",
       "category": "investments",
       "language": "en"
     },
@@ -220,36 +280,6 @@
       "published": "2026-09-04T07:00:00+00:00",
       "snippet": "Paylocity fired engineer over diabetes, disability lawsuit alleges hcamag.com",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "48156710a3bc4228b4d3e995c9b680bb",
-      "title": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion - calcalistech.com",
-      "source": "calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54RFNJenFWT2JUczlZY21hekVuWlpESVNhRWtGN3hpY2FUOVNSS0FNcmQ2Z1huMURhZmx5TF9sbC02aFpEaXJlLWlBTU1DMkpSNHZnbUh2dkNiX1lLeHJldXItLXU3cnVJ?oc=5",
-      "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob, valuing Israeli HR tech company at $3.2 billion calcalistech.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "95bea04fdd9951e9fde05b69d6d1ba46",
-      "title": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlTNl91X2NldFBYVHRBSllKMGpSOXVnWHo4NUp4RGVzcWViM29QR01wU0s4YndLT2dHWWVRWHpaZHZVNlBsR05YcVJ1bnk5VXFEZDRpdVpldHdrLWM3ZEV1YjRNRENzbmhiQWJ3eXU3a0NKNzJucl90R1BjLVQxM1RfUUxrTFJLZzBCcnhXSmlJbzRwdDRERUx4RDNOVHNMekswdzByZWlqZEQ0M1JaMDJwSElmR1NCdXVPRk5CdUJGdjFsOGtHXzZvUDVBNjEzT0ZaSkxSUHNhdVJG?oc=5",
-      "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce leads $166 million investment in HiBob as HR tech bets grow on AI People Matters - HR News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "dddfe34ae2f114e22fa9aed2e52c3ca9",
-      "title": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands - Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDhReVJPNmV0MTJZNHEtOGlKZ2REUHBVUk9GUmJNR1pla1pIamlfUV9LUHlnakJFeFZFNFFyUjFpY1A5QmJyY1lkNWJtSkVIWmxXcVZNcjl3eXhRWXBQajIxQkxhY05iY1prR29BdjJZWFpzZU5WVF9hYU5fY0NjdG9EWVphZWJKNEVTcnVNRmt1QkxodVVWTFJaR3RYWGxnU3RtUC01bw?oc=5",
-      "published": "2026-09-01T07:00:00+00:00",
-      "snippet": "Salesforce Leads $166M HiBob Funding Round at $3.2B Valuation as AI Strategy Expands Unite.AI",
-      "category": "investments",
       "language": "en"
     }
   ]
