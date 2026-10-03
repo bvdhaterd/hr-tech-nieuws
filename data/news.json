@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T11:43:31Z",
-  "total": 28,
+  "last_updated": "2026-10-03T10:56:37Z",
+  "total": 29,
   "articles": [
     {
       "id": "375f590f8ae55dd2e65fb4eeab80f010",
@@ -73,22 +73,42 @@
       "language": "en"
     },
     {
-      "id": "5b3fe6b4aabd591e07fdb211afa54584",
+      "id": "0d26cd15bd47c85ebf72493c321077d7",
+      "title": "Metaview Raises $60M Series C to Lead the Shift to Agentic Recruiting - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcFR1V2JTRkM4NWxJYjV6R2M0YUxqWnJxUmItdkpsbUpCVHJZWDN5TlhBWktNVlc2bkZGUmEtSkZNSFhRSnBCdXB6QUEwblgxNmlnb2RBdmc5MGg2ZnZ5LW9QSmZkU1dxbVFUSjNtT3IzWmFaSHBTa09lRWxMYXdTRnNTOFF5di02T0gtS3hIZk9LSmNhRzJyMnNSTXlUeWVPUTRnTlpqQkpGOUV2b1dmVzNmb0tEbjQ1NFp5Zmdn?oc=5",
+      "published": "2026-09-30T14:19:46+00:00",
+      "snippet": "Metaview Raises $60M Series C to Lead the Shift to Agentic Recruiting HRTech Series",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "a8a6b841e88619574a5f2b8869e70246",
       "title": "Black Job Seekers Seek Class Action Against Workday - BIN: Black Information Network",
       "source": "BIN: Black Information Network",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtza3hVMld2eS1TSzA0U2w0OEZSRmZQQUxCNDlNbE5WQjlZdEQ2UkRfNjZiRkVTc3EycVRId1d4OWVIUEZ4WlB4U2o2MnFneU9MZnFvTnBJVmtmdU81SXFOVkt1NUxEQXpMa2t5Tnhld09oa0txWlg2YU02OEpDeHFoWVBlRWRZd2wtVENjekp3UkZLaGhFYWVTVXVNM2tiQV9TendCM1psTW1RdDd6NngzUzVsOWFOb3NqaUtnSEtSQdIBygFBVV95cUxOVjFvWm9hZVNkQjR0NDlhTWFyMVJDZU5tMEtGaHZNQ0E4NTd1WVp1aHYzbkx1LUcxbF9nNGt3blQ2RFJuWEdQMk9lcG80cjlVUV9yQ3U5VVdBWUNoMlBLT0dVYzgyNldtZ0U3RDFFWFJ0R1Z0QjNLWC1MTUJtNlVVRlFSY21FUkJGaEd0LVY5M2J5MHFGZmR1UG5MbG5GdkNUSml4empPZnJWWEZrUWYzbWVSa2E4c1NwcnpHUGJnWWwwWGxtd29qOXVn?oc=5",
-      "published": "2026-09-24T17:04:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVjFvWm9hZVNkQjR0NDlhTWFyMVJDZU5tMEtGaHZNQ0E4NTd1WVp1aHYzbkx1LUcxbF9nNGt3blQ2RFJuWEdQMk9lcG80cjlVUV9yQ3U5VVdBWUNoMlBLT0dVYzgyNldtZ0U3RDFFWFJ0R1Z0QjNLWC1MTUJtNlVVRlFSY21FUkJGaEd0LVY5M2J5MHFGZmR1UG5MbG5GdkNUSml4empPZnJWWEZrUWYzbWVSa2E4c1NwcnpHUGJnWWwwWGxtd29qOXVn0gHKAUFVX3lxTE5WMW9ab2FlU2RCNHQ0OWFNYXIxUkNlTm0wS0Zodk1DQTg1N3VZWnVodjNuTHUtRzFsX2c0a3duVDZEUm5YR1AyT2VwbzRyOVVRX3JDdTlVV0FZQ2gyUEtPR1VjODI2V21nRTdEMUVYUnRHVnRCM0tYLUxNQm02VVVGUVJjbUVSQkZoR3QtVjkzYnkwcUZmZHVQbkxsbkZ2Q1RKaXh6ak9mclZYRmtRZjNtZVJrYThzU3ByekdQYmdZbDBYbG13b2o5dWc?oc=5",
+      "published": "2026-09-24T17:24:38+00:00",
       "snippet": "Black Job Seekers Seek Class Action Against Workday BIN: Black Information Network",
       "category": "lawsuits",
       "language": "en"
     },
     {
+      "id": "20e4de026177c798805f9a0c608f3950",
+      "title": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law - AOL.ca",
+      "source": "AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGtwOWJ2eHBqMnFjZ1VGZzA0X2tCSVFDb1A4cnJuT0h1NEVoTk1hZlY3aV9sOEVpOUkydjVYT0g5cUNNOFJBcHVrUWdmdkpZMjhqZDRGZ0xGS3dzZlNObHk3Q3hzRndWQzFlQnlmRm9ka0hBNGp3ZWYwV01VZUpEak1B?oc=5",
+      "published": "2026-09-24T14:29:56+00:00",
+      "snippet": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law AOL.ca",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "fea98e17345410421ab65fae6019e022",
-      "title": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law - thegrio.com",
-      "source": "thegrio.com",
+      "title": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law - TheGrio",
+      "source": "TheGrio",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW1FaEJWc0lZYUhIWWJKY282QTRHeHJNV0NadmxTcXJxWEhiTDFNWUZjR25LOWZSYTU3dXJrbU9zd2FzR3k1dktuOUhsT2tBNXBjejUwb28wbTdyMVJJay1pd0JLdTlvTlJhZnpuR1RzS1FUZ3NJOEdSYTY?oc=5",
-      "published": "2026-09-24T14:30:55+00:00",
-      "snippet": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law thegrio.com",
+      "published": "2026-09-24T07:00:00+00:00",
+      "snippet": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law TheGrio",
       "category": "lawsuits",
       "language": "en"
     },
@@ -134,21 +154,21 @@
     },
     {
       "id": "3423ba6c44272ff194f059c24bf90628",
-      "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - SuaraGarut.ID",
-      "source": "SuaraGarut.ID",
+      "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - suaragarut.id",
+      "source": "suaragarut.id",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1McWF0d3hMd2pWZEh4Qy15OGJOTnZUWkpqeml5WS16REFYZEZlbVZkWkg1eGQtUTFtTS1fR3dXMVotWWVwYm10OW9sZktJSjNjN01LeGJULU0tVVByX0NYQl9nR1hzaEVybnBQc01paFJjN1U?oc=5",
       "published": "2026-09-19T07:00:00+00:00",
-      "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform SuaraGarut.ID",
+      "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform suaragarut.id",
       "category": "mergers_acquisitions",
       "language": "en"
     },
     {
       "id": "013db1162aa9546232ac17cc16141c51",
-      "title": "Hiring platform Unstop to acquire PerspectAI in all-equity deal to boost talent assessment - Indian Startup News",
-      "source": "Indian Startup News",
+      "title": "Hiring platform Unstop to acquire PerspectAI in all-equity deal to boost talent assessment - indianstartupnews.com",
+      "source": "indianstartupnews.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUG00dFFnSUtjNXFVTHgxaHJud25zOXltc19xMUZVMndTUmJuNHBlWnhyX3JfS09NS2JPQ0dEOExZRXBiNlducVBQeWZOdWx0NnFGcFhIZ3hjamNXN3Z5bFcwaVZLNXNDdUpwNnZyelBJSktGeHZWR3ZHdGU1WGdhWGZTWnhYUDZMSThIdWlrMkNtLS1LSTlzVnpuQzZBQWZnaW1FcDlfLTB6cHJ2NlBvYm0ydUNIZXVSdnJlLWhJNVQtd3AxRF9yaEd5RkxOSGvSAc8BQVVfeXFMTlBtNHRRZ0lLYzVxVUx4MWhybnduczl5bXNfcTFGVTJ3U1JibjRwZVp4cl9yX0tPTUtiT0NHRDhMWUVwYjZXbnFQUHlmTnVsdDZxRnBYSGd4Y2pjVzd2eWxXMGlWSzVzQ3VKcDZ2cnpQSUpLRnh2Vkd2R3RlNVhnYVhmU1p4WFA2TEk4SHVpazJDbS0tS0k5c1Z6bkM2QUFmZ2ltRXA5Xy0wenBydjZQb2JtMnVDSGV1UnZyZS1oSTVULXdwMURfcmhHeUZMTkhr?oc=5",
       "published": "2026-09-19T07:00:00+00:00",
-      "snippet": "Hiring platform Unstop to acquire PerspectAI in all-equity deal to boost talent assessment Indian Startup News",
+      "snippet": "Hiring platform Unstop to acquire PerspectAI in all-equity deal to boost talent assessment indianstartupnews.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -160,16 +180,6 @@
       "published": "2026-09-18T07:00:00+00:00",
       "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2d361c109cf118d3d83a4aa97cb8e15b",
-      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - CXO Digitalpulse",
-      "source": "CXO Digitalpulse",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGQxVWdQMW9sODJaanZOYnp3S2Z0aW1kLXBHVTZ4dzJEWG5hWlU4NXBTaEdQeUtEOVlaa0tsYlpKenJ0b2dJLWdiVzNZb2FYVFBxX3gwaFYwM19ZYjBYNFl6R0w2cE51Yld2YmM2djJhZVgycjNfYWNUdmZnV2JJRWxnLWxMa2JncDRleHNHRWwydF9wX29TTnJVUDc4UVl6N2JCM0hUUDFmUXFjQXM5Vm1EMjc5YUkzVk1mZG9rR1I?oc=5",
-      "published": "2026-09-18T07:00:00+00:00",
-      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform CXO Digitalpulse",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -189,6 +199,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3VIS2NBTTBrQjVxRXlFNktMSHVCSmIwbXdSS2hDZlJfMVVJRG5TbWtJLU9mOHdfNGdtNGMzbDBCSGV6R1lUVmJiT1NRdlktLUR5WXFsZEEwV0RUU3JOVXZDUXJIUGI2cV9xV1JEbkRGdmRpeUJkNEtFa2FWY0VTZ1RRWExlWFF2RjIxaExheE5lWm1MMy04NWZKRV92TWtXWTFvcW80eTFlalE4aDBiUEplNVF1Zw?oc=5",
       "published": "2026-09-17T19:38:18+00:00",
       "snippet": "Harver Acquires Symphony Talent to Build Global Talent Intelligence Platform citybiz",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "61fa070671f74ec0b3eaa573f8f16507",
+      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - indiagazette.com",
+      "source": "indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWlHUkdzZnBXOW5Ua1JBdzNEdndfNEpLZjFIcXhEX096aDg4eU5tS3lSUmp6TF91UUI2VHEtLUE4Ymk0RTZHWWlDMXFMQ05PVHBJd2dtVFpIUnpnd1Nqbkl4aGNzd2VhT1M3cHpqVnBCelhZZ0FSNVo5ZEs2VkFkTGo0Z2k4VkFFOUt0SXQ1MTVCdmdlMWV5Y3AwVm5YWjlkYTdhcThRNXZ2aGphLWppVmFoa2J4b1Nhb2dmSUxyNy13aGVKMXA5Z1lsalItZTA?oc=5",
+      "published": "2026-09-17T14:07:00+00:00",
+      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform indiagazette.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -223,16 +243,6 @@
       "language": "nl"
     },
     {
-      "id": "41d912fe87d187973a29e8b50c868dbc",
-      "title": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform - WebWire",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hY284RzhkLXlfbWZzdHk1MXdUR2h5ZURJenptT0plcTRqd2FELVhUVWtOcVl2anBPTUsyamdHSkZmNzBBVlNoSFlQTUw1QS1kYWVzM0VPQmJwT2xYUXB0Sg?oc=5",
-      "published": "2026-09-10T13:19:28+00:00",
-      "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "9469637bdc9af859d532b08cc69d57eb",
       "title": "Lattice Revenue 2024: $127.1M ARR, $3B Valuation (2022) - GetLatka",
       "source": "GetLatka",
@@ -263,13 +273,13 @@
       "language": "en"
     },
     {
-      "id": "c951e74a104154da3725d271554dc9fc",
-      "title": "Deel Rippling Lawsuit (Updated September 2026) - LawFold.com",
-      "source": "LawFold.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZDF2djdJTlAzMTNDanFERThJdG11TkdEZl9wUWJuZjl3TUQ4a3pQaXBvWmxWUWY2RHIxd2xiTmJmVVRUMUdXcW8zNEFLRU9JOEt3Mw?oc=5",
-      "published": "2026-09-05T07:00:00+00:00",
-      "snippet": "Deel Rippling Lawsuit (Updated September 2026) LawFold.com",
-      "category": "lawsuits",
+      "id": "231d94ae4d90446263aaf47f6ce679e8",
+      "title": "Jack & Jill raises £30M Series A for AI hiring agents - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdng4UVUzam9zUmhRS05qNzNXVmZTS2djX3hPV1lvUUtabHphaktHNHV2Z1pVdVFGV09UenlUTkZKSGxYRi1Ec0pqWVFQcUVDb21lS3J6UVBuS1V0aGx0M2RFckZ5YlZLRnZPLWdGQ2xqZWd2OEQ4TVU0akhJVWhXZi1leGNEZG5EcU9nVg?oc=5",
+      "published": "2026-09-08T11:28:34+00:00",
+      "snippet": "Jack & Jill raises £30M Series A for AI hiring agents Dealroom",
+      "category": "investments",
       "language": "en"
     },
     {
