@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-07T12:28:07Z",
-  "total": 25,
+  "last_updated": "2026-10-08T12:37:46Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "e70babc2dc978985ffa07ffe6d71007c",
+      "title": "Personio neemt Circula over: grootste deal ooit - Emerce",
+      "source": "Emerce",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tOXpXMXBaMWxxcUdnSXNsQ0dlM0RoLXMzdFJ0UGQ3UGZGeDVaQzFuRlZEZmxNLTQwNEJKT2UtZEZabzRiUWdFQkRkVV9ZMzRyYkVEVERhdTJRdU8tT1FxU0N2WFJGeW94NENNVmJPd2YtekhCQmVz?oc=5",
+      "published": "2026-10-08T07:34:00+00:00",
+      "snippet": "Personio neemt Circula over: grootste deal ooit Emerce",
+      "category": "mergers_acquisitions",
+      "language": "nl"
+    },
+    {
+      "id": "a883a67ad5768740f01c22bc1412fe49",
+      "title": "Personio acquires spend management platform Circula - FinTech Futures",
+      "source": "FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11RmVhdTNwYmU1SERBSE9kQnR4MmcycEM3bG1MLV9GbzZtejlzdXZtUmFiVDVYMGNyTUI3SUx0czZNa3l0Q1RCZnA4WWZfamdRQXM0enlWTktpUDU2Rm50cmctV0NhbGlkdmxMdg?oc=5",
+      "published": "2026-10-08T05:00:21+00:00",
+      "snippet": "Personio acquires spend management platform Circula FinTech Futures",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "57a0ac9c059f0221aba929f2aa1bd0e5",
+      "title": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit - Law.com",
+      "source": "Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSENyM1BqbFpPSjFIalhSNU84cExDaGRZTHhIUkticERMVm05ZEs3WnRxS2trRGhsUTBaaV96d1JRa0FGLVdFY3d5X0JQNVRfVzQ0NnJRa1ZjTkdJbE5peGlmMXdjQUxtNmNwZWl2TnZ0MWEyQURxcEl1N2RaM1kteXRNTXA3T21LaExvY2xkd1lSc2RHZEJUQmc4MkdBanlNM2ZpMGR6UHpxZw?oc=5",
+      "published": "2026-10-07T19:29:31+00:00",
+      "snippet": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit Law.com",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "9f63c26edab1958c65adca16970543c9",
+      "title": "Dillistone pivots to serial acquisition strategy beyond recruitment software - TipRanks",
+      "source": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTA5bVpEcVpyc3FMbS1aZ2FuUU1SS0V3bkUxZVdYMXdEdFViT0pGUmpQYmhtb0pCYk5JdmJyTjlCUlk2WWlIcEdCS1Y2Rlo1RVBVMnY4YTJ2V1JPcEl5b0dUTTg5Vmg1TG1xd3hkLUhFQ1pZa2V5MGlGY0c2NGtEU1AteWo0ZFNTSXVLb08xWW9sQWgzSDk3ZUpRdXEzUEl0QTFMSDVyZjBLWDRQbkx3MG5mZzdoalh2a1JETHJoVFJWRjVTTmdn?oc=5",
+      "published": "2026-10-07T13:11:33+00:00",
+      "snippet": "Dillistone pivots to serial acquisition strategy beyond recruitment software TipRanks",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "783b602e42e903a336c24b434e7763d4",
+      "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - BigGo Finance",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5",
+      "published": "2026-10-07T12:55:00+00:00",
+      "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors BigGo Finance",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "0c5faae3ec38153375f3f513761a4824",
+      "title": "Gusto Revenue 2026: $1B ARR, $9.3B Valuation (2025) - GetLatka",
+      "source": "GetLatka",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51RU5NNWJnWHQ2VVlneWlvaEVxU2Vva2xCMWszZVVMNUYwWVk2WGE5TUVPU1hSSUFzSjhuaFpydGIwTTFqNFBTR3M5TnI?oc=5",
+      "published": "2026-10-05T07:00:00+00:00",
+      "snippet": "Gusto Revenue 2026: $1B ARR, $9.3B Valuation (2025) GetLatka",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
@@ -239,16 +299,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
       "published": "2026-09-09T07:00:00+00:00",
       "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "231d94ae4d90446263aaf47f6ce679e8",
-      "title": "Jack & Jill raises £30M Series A for AI hiring agents - Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdng4UVUzam9zUmhRS05qNzNXVmZTS2djX3hPV1lvUUtabHphaktHNHV2Z1pVdVFGV09UenlUTkZKSGxYRi1Ec0pqWVFQcUVDb21lS3J6UVBuS1V0aGx0M2RFckZ5YlZLRnZPLWdGQ2xqZWd2OEQ4TVU0akhJVWhXZi1leGNEZG5EcU9nVg?oc=5",
-      "published": "2026-09-07T14:19:56+00:00",
-      "snippet": "Jack & Jill raises £30M Series A for AI hiring agents Dealroom",
       "category": "investments",
       "language": "en"
     }
