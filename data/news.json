@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T12:37:46Z",
-  "total": 30,
+  "last_updated": "2026-10-09T12:25:08Z",
+  "total": 29,
   "articles": [
     {
       "id": "e70babc2dc978985ffa07ffe6d71007c",
@@ -123,22 +123,22 @@
       "language": "en"
     },
     {
-      "id": "d24763d9e323f1d9ae52d31ca58c53e8",
-      "title": "Metaview Raises $60M Series C to Expand AI Recruiting Platform - Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3lpeTh0SDZXV29iTUhJaXZjZlJOWkwxcnhORVZYSHFBbUxWZVBsV0k0X1FWSXlKbzhKN2QydkV3aTFBeUptMWZsbmlTVWJGZnJJc1dtMzdQQ2U2MGR2YTFYd2lKclRKOFdfR1ZaSWN6eXVpREhsQ1cxekd5Y3JobU0zanBGLVYzYkhZ?oc=5",
-      "published": "2026-09-30T16:03:01+00:00",
-      "snippet": "Metaview Raises $60M Series C to Expand AI Recruiting Platform Unite.AI",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "36e0f724c3fb81753a043ca3ada67881",
       "title": "Metaview Raises $60 Million Series C to Expand AI Recruiting Platform - citybiz",
       "source": "citybiz",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeS15aXM4dTBSaVI2ZmJvaHh3N2hDand5NnY3N3J3cmVaMWdfUU9LMFF2a3Z0VWluM2Flbm5kaWN4NGVDNFVManBIdmQ2eE84VWR4T0h6ZDgxcXh0dWlxeVJWcC0xUUEwS3Q0TGJYaEJOTVlpWmNHdkticV9DS3FYNlVpblRBbmlGNmo4U2dxeWkwbkp3ak5hNFkyVkZEOWNaMG4yY2xiX0l3TWc?oc=5",
       "published": "2026-09-30T14:24:13+00:00",
       "snippet": "Metaview Raises $60 Million Series C to Expand AI Recruiting Platform citybiz",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "d24763d9e323f1d9ae52d31ca58c53e8",
+      "title": "Metaview Raises $60M Series C to Expand AI Recruiting Platform - Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3lpeTh0SDZXV29iTUhJaXZjZlJOWkwxcnhORVZYSHFBbUxWZVBsV0k0X1FWSXlKbzhKN2QydkV3aTFBeUptMWZsbmlTVWJGZnJJc1dtMzdQQ2U2MGR2YTFYd2lKclRKOFdfR1ZaSWN6eXVpREhsQ1cxekd5Y3JobU0zanBGLVYzYkhZ?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "snippet": "Metaview Raises $60M Series C to Expand AI Recruiting Platform Unite.AI",
       "category": "investments",
       "language": "en"
     },
@@ -173,16 +173,6 @@
       "language": "en"
     },
     {
-      "id": "557d397bbe1538561ec8831766f3dafe",
-      "title": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? - The Legal Examiner",
-      "source": "The Legal Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlpHU0tDOVVkeGtUaEdzT21ZbjN2ZWN6MGFyQzVKMmw5TDFmX01Ga0tKM0wwMFJfZEZWZ2k5VFk0X2NHODNDUW1kdnhzRG51ZjlDSWI0MjBjdmQ5NU5rMzdkRnRBa09WZ1ZIX1RQUnZqQ1VBdXlmTUV2UjFQYXNiT3RiSmJaX0ZqMlFMVUptRWU1bjBqRnhqTW1yNFN5REpwYkp4MjRjSFhmNTZ4bm5HWFJCcDVWUVNtZVFjaC1fVkdMZms?oc=5",
-      "published": "2026-09-22T07:00:00+00:00",
-      "snippet": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? The Legal Examiner",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "4b3050ded75c3677e14e21c23e8ec791",
       "title": "Tesla faces major trial for alleged bias against Black workers, law school AI policies and our column on AI hiring discrimination lawsuit ➡️ - LinkedIn",
       "source": "LinkedIn",
@@ -210,6 +200,16 @@
       "published": "2026-09-18T07:00:00+00:00",
       "snippet": "Factrika raises Rs 80.9 million to scale industrial workforce platform Construction World",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "0cec527cf4c305cf540f367f9d12c60d",
+      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - Big News Network.com",
+      "source": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkhKckN5MjZnTnpBZFBsRmppVGV6UDlhN3hRbW9RbmRITzFTREV6QWZjcFYxd2NVaElhQlhFQTl3TWFwX3BUd3JzX2o0b1hVejN6dnRfbWF0SEk5M201NkE0Q0EzbGhUNWV3cWtfMUd3bHJJaFMtdlZOQXR4TGNxbmJQSTR2LVc3OUtaV3c1Uy1qbThERUx4ckw5dk9vM25NMjd6TEFBeVFzUEpqelQ5TGRkY1R2dkNMSk8xX1FOVm9kcUhTZWpiSFRxQk1kVUxxamc?oc=5",
+      "published": "2026-09-18T07:00:00+00:00",
+      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform Big News Network.com",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -289,16 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xT0pBbXdiNDY1RGdiMXdXaEhMWVJZYThwUGJkb3VMNmZDNmFMUU1hajU2TENYM2dJbmIwb0ViaW03b3hybExWRnA0Z0s2Zw?oc=5",
       "published": "2026-09-10T07:00:00+00:00",
       "snippet": "Fuel50 Revenue 2024: $21M Est. ARR, $4.8M Valuation (2015) GetLatka",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "38d30529dcc057e4b008441c918f73f4",
-      "title": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform - Tech In Africa",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXMtR1dDY18ydVR4UWpqdVN6UHlJbHZjWkNOREN4Tk9ZMW8yTDVNU0h0ZGNNN2xFbU5LTUdnbS1sUmFWaXhBZUU2UFA3N0p5U3djLU44aEtRYnRaNUo1WkpIRGdTRnc0eDNkZGlHUkJPVktfaE5UMm96bjNaUXljN1g0RHU4M1JxaVZnejk2RUhLSXJlNGpJTVRaMkhTNDV0Umt1UjhfU2FvNExmMXkyX1VOdw?oc=5",
-      "published": "2026-09-09T07:00:00+00:00",
-      "snippet": "South Africa’s Jem Secures $8.4M Series A to Expand WhatsApp-Based Workforce Platform Tech In Africa",
       "category": "investments",
       "language": "en"
     }
