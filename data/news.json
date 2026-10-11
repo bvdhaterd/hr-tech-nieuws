@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T11:43:56Z",
-  "total": 23,
+  "last_updated": "2026-10-11T11:56:44Z",
+  "total": 21,
   "articles": [
     {
       "id": "e70babc2dc978985ffa07ffe6d71007c",
@@ -173,6 +173,16 @@
       "language": "en"
     },
     {
+      "id": "2d361c109cf118d3d83a4aa97cb8e15b",
+      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - CXO Digitalpulse",
+      "source": "CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGQxVWdQMW9sODJaanZOYnp3S2Z0aW1kLXBHVTZ4dzJEWG5hWlU4NXBTaEdQeUtEOVlaa0tsYlpKenJ0b2dJLWdiVzNZb2FYVFBxX3gwaFYwM19ZYjBYNFl6R0w2cE51Yld2YmM2djJhZVgycjNfYWNUdmZnV2JJRWxnLWxMa2JncDRleHNHRWwydF9wX29TTnJVUDc4UVl6N2JCM0hUUDFmUXFjQXM5Vm1EMjc5YUkzVk1mZG9rR1I?oc=5",
+      "published": "2026-09-18T07:00:00+00:00",
+      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform CXO Digitalpulse",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "d2eb48f1cbafab942d5a4573ef2c18cf",
       "title": "EEOC in settlement agrees to limit its own enforcement of gender-identity discrimination for the Christian Employers Association - HR Brew",
       "source": "HR Brew",
@@ -193,16 +203,6 @@
       "language": "en"
     },
     {
-      "id": "61fa070671f74ec0b3eaa573f8f16507",
-      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - indiagazette.com",
-      "source": "indiagazette.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWlHUkdzZnBXOW5Ua1JBdzNEdndfNEpLZjFIcXhEX096aDg4eU5tS3lSUmp6TF91UUI2VHEtLUE4Ymk0RTZHWWlDMXFMQ05PVHBJd2dtVFpIUnpnd1Nqbkl4aGNzd2VhT1M3cHpqVnBCelhZZ0FSNVo5ZEs2VkFkTGo0Z2k4VkFFOUt0SXQ1MTVCdmdlMWV5Y3AwVm5YWjlkYTdhcThRNXZ2aGphLWppVmFoa2J4b1Nhb2dmSUxyNy13aGVKMXA5Z1lsalItZTA?oc=5",
-      "published": "2026-09-17T14:07:00+00:00",
-      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform indiagazette.com",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "83d5dee76fb26548b2d3da4d62e1220e",
       "title": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era - Business Wire",
       "source": "Business Wire",
@@ -210,26 +210,6 @@
       "published": "2026-09-17T07:00:00+00:00",
       "snippet": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era Business Wire",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "6ff7604482c25681c595e445e08d2019",
-      "title": "Salesforce leidt investering van 166 miljoen dollar in HiBob - Recruitmenttech.nl",
-      "source": "Recruitmenttech.nl",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjhudmIzQzJqMDdFcXVFQnRRMGxXeFhZWEZNbHI3U1d6VVIxMm45NU10RFlVZTRzbGhYV2Y1YjEyMHJLQ2ZyVDl2OTBKVUROOWNXbU8tbmY0ZFU2bS1tWFJXeno4S05FUFQ4M3ZrdjJQZ2pzQjEzNDZUWng5YmZwbl9iSkZTLWZIc245X1JhM2NfZ1dHZGxKejQ1RWFhZ1gzSWlCb3B3?oc=5",
-      "published": "2026-09-11T07:00:00+00:00",
-      "snippet": "Salesforce leidt investering van 166 miljoen dollar in HiBob Recruitmenttech.nl",
-      "category": "investments",
-      "language": "nl"
-    },
-    {
-      "id": "41d912fe87d187973a29e8b50c868dbc",
-      "title": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform - WebWire",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hY284RzhkLXlfbWZzdHk1MXdUR2h5ZURJenptT0plcTRqd2FELVhUVWtOcVl2anBPTUsyamdHSkZmNzBBVlNoSFlQTUw1QS1kYWVzM0VPQmJwT2xYUXB0Sg?oc=5",
-      "published": "2026-09-10T13:19:28+00:00",
-      "snippet": "Intermezzo Raises $10M to Build the World’s First AI-Native Global Payroll Platform WebWire",
-      "category": "investments",
       "language": "en"
     }
   ]
