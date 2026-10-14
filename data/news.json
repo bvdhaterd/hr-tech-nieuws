@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T13:20:18Z",
-  "total": 22,
+  "last_updated": "2026-10-14T10:59:35Z",
+  "total": 23,
   "articles": [
     {
       "id": "e70babc2dc978985ffa07ffe6d71007c",
@@ -50,6 +50,16 @@
       "published": "2026-10-07T12:55:00+00:00",
       "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors BigGo Finance",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "2aa069030727e9c7fca74852104d461f",
+      "title": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hUZkNsQjVscGg3UVZWUktiVkxBZ2V0R0N1YzZSOVRSUjBlVmNvNTEwOUF1bUk0SFBQUWhHODlMOENlOWQtemJrWmV5b05KalY4Q0MxVEd2eWNyU29IenFRNmZPOVpFdTJ1VjlmdmlRcXhSZG1va1BQbzJfdnNtMnN2dnpRRlE2UmZMVWVhYktqVmRQNEtNRDc5R3lWQjdKazBkYVVqOHkydFR4TTA0TkV2TG9wV05jbGJIcENIX2dlNDQwSVJ30gHUAUFVX3lxTFBMRlpiQVcybmhtZ3FPMUxXUGJpOGp1UjktUUdsUHFRaWkwb3NtOTV5NDRMdEJ5aFd1T3VTeE5sTGJleWZodlVCSmxXcDFvTURFVGJ0cldtNFhXTDRrd2lCbHdjemx0STgzV29pM2FXME5ZQVZuS3c0V05TV0JCQkVtaVFkT0ZfVWNSbDdWeC1Qc2ViNGZsTkNvX3pSTHY0RlBlOGFTR3dxNzE2V2czUmI1SnZsazd4U1ZmZWszQWN4dDJEbG9KbTV0T2g0XzI4TldWZEpD?oc=5",
+      "published": "2026-10-06T07:04:35+00:00",
+      "snippet": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI Analytics Insight",
+      "category": "investments",
       "language": "en"
     },
     {
