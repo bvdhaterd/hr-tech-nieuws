@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T10:28:50Z",
-  "total": 28,
+  "last_updated": "2026-10-17T09:59:34Z",
+  "total": 26,
   "articles": [
     {
       "id": "d719ab46a460bc4072dcbd41fad46724",
@@ -51,16 +51,6 @@
       "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
       "category": "mergers_acquisitions",
       "language": "en"
-    },
-    {
-      "id": "e70babc2dc978985ffa07ffe6d71007c",
-      "title": "Personio neemt Circula over: grootste deal ooit - Emerce",
-      "source": "Emerce",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tOXpXMXBaMWxxcUdnSXNsQ0dlM0RoLXMzdFJ0UGQ3UGZGeDVaQzFuRlZEZmxNLTQwNEJKT2UtZEZabzRiUWdFQkRkVV9ZMzRyYkVEVERhdTJRdU8tT1FxU0N2WFJGeW94NENNVmJPd2YtekhCQmVz?oc=5",
-      "published": "2026-10-08T07:34:00+00:00",
-      "snippet": "Personio neemt Circula over: grootste deal ooit Emerce",
-      "category": "mergers_acquisitions",
-      "language": "nl"
     },
     {
       "id": "d09eb160ede059eb663adadc51b8ba9e",
@@ -193,6 +183,16 @@
       "language": "en"
     },
     {
+      "id": "5b3fe6b4aabd591e07fdb211afa54584",
+      "title": "Black Job Seekers Seek Class Action Against Workday - BIN: Black Information Network",
+      "source": "BIN: Black Information Network",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtza3hVMld2eS1TSzA0U2w0OEZSRmZQQUxCNDlNbE5WQjlZdEQ2UkRfNjZiRkVTc3EycVRId1d4OWVIUEZ4WlB4U2o2MnFneU9MZnFvTnBJVmtmdU81SXFOVkt1NUxEQXpMa2t5Tnhld09oa0txWlg2YU02OEpDeHFoWVBlRWRZd2wtVENjekp3UkZLaGhFYWVTVXVNM2tiQV9TendCM1psTW1RdDd6NngzUzVsOWFOb3NqaUtnSEtSQdIBygFBVV95cUxOVjFvWm9hZVNkQjR0NDlhTWFyMVJDZU5tMEtGaHZNQ0E4NTd1WVp1aHYzbkx1LUcxbF9nNGt3blQ2RFJuWEdQMk9lcG80cjlVUV9yQ3U5VVdBWUNoMlBLT0dVYzgyNldtZ0U3RDFFWFJ0R1Z0QjNLWC1MTUJtNlVVRlFSY21FUkJGaEd0LVY5M2J5MHFGZmR1UG5MbG5GdkNUSml4empPZnJWWEZrUWYzbWVSa2E4c1NwcnpHUGJnWWwwWGxtd29qOXVn?oc=5",
+      "published": "2026-09-24T07:00:00+00:00",
+      "snippet": "Black Job Seekers Seek Class Action Against Workday BIN: Black Information Network",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "2a93a279f6a0163315033c1f668d5731",
       "title": "Spott Raises $21M for AI-Native Recruiting Platform - Konsulteer",
       "source": "Konsulteer",
@@ -243,16 +243,6 @@
       "language": "en"
     },
     {
-      "id": "0cec527cf4c305cf540f367f9d12c60d",
-      "title": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform - Big News Network.com",
-      "source": "Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkhKckN5MjZnTnpBZFBsRmppVGV6UDlhN3hRbW9RbmRITzFTREV6QWZjcFYxd2NVaElhQlhFQTl3TWFwX3BUd3JzX2o0b1hVejN6dnRfbWF0SEk5M201NkE0Q0EzbGhUNWV3cWtfMUd3bHJJaFMtdlZOQXR4TGNxbmJQSTR2LVc3OUtaV3c1Uy1qbThERUx4ckw5dk9vM25NMjd6TEFBeVFzUEpqelQ5TGRkY1R2dkNMSk8xX1FOVm9kcUhTZWpiSFRxQk1kVUxxamc?oc=5",
-      "published": "2026-09-18T07:00:00+00:00",
-      "snippet": "Unstop Acquires PerspectAI, Adding AI-native Game and People Science to its Hiring Platform Big News Network.com",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "d2eb48f1cbafab942d5a4573ef2c18cf",
       "title": "EEOC in settlement agrees to limit its own enforcement of gender-identity discrimination for the Christian Employers Association - HR Brew",
       "source": "HR Brew",
@@ -269,16 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3VIS2NBTTBrQjVxRXlFNktMSHVCSmIwbXdSS2hDZlJfMVVJRG5TbWtJLU9mOHdfNGdtNGMzbDBCSGV6R1lUVmJiT1NRdlktLUR5WXFsZEEwV0RUU3JOVXZDUXJIUGI2cV9xV1JEbkRGdmRpeUJkNEtFa2FWY0VTZ1RRWExlWFF2RjIxaExheE5lWm1MMy04NWZKRV92TWtXWTFvcW80eTFlalE4aDBiUEplNVF1Zw?oc=5",
       "published": "2026-09-17T19:38:18+00:00",
       "snippet": "Harver Acquires Symphony Talent to Build Global Talent Intelligence Platform citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "83d5dee76fb26548b2d3da4d62e1220e",
-      "title": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era - Business Wire",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlBIc1BkOGpWWnJhb2g1OWZTczdGYnNSREZnSndEdW1DcDBpTUdPV0pfSTJEbmhjTEVHamJhcmZBX2M5VDZ1cXgzaHZUM3R6MjRVVlBubnozWlVGYldzdS1aakh3aFV3R1p3WGZDQ1poZ0UwWFdfUDBrTUM2RGhneHN3UjJWQUd3X0hyWEF6YjVpYWU2Wjd3LTBFZEpRa3hJRDctVWVST2cxazFPR0lZMVZoWUxzRkp5eU1CdlpNekZEQ2VENzVndlNxaTczc3VvWTNtdnh5Vm1jY3lzNkloU3cwcEs?oc=5",
-      "published": "2026-09-17T07:00:00+00:00",
-      "snippet": "Harver Acquires Symphony Talent, Creating a Global Talent Intelligence Solution for the AI Era Business Wire",
       "category": "mergers_acquisitions",
       "language": "en"
     }
