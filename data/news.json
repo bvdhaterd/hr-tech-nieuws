@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T10:12:29Z",
+  "last_updated": "2026-10-19T11:48:49Z",
   "total": 26,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight - Yahoo Finance",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEtxX01KU1d3a0MzNlQta0lMS19Qb1VMYUpwRk1PUjAyejF4YlMtZlVNVXNvSmZmNjF3aUc2R1pORXQ2dWIxZDJCM0x2QlBZNnd5bExaTEh0cUZqZEpNVk14V0JSeS1IX3RTQU8zaVFHNGdqNXpkR3htTXoxaENUTFVUdER3empoQzhKaEJjZDBOWm1jTkE?oc=5",
-      "published": "2026-10-16T06:16:00+00:00",
+      "published": "2026-10-16T06:16:41+00:00",
       "snippet": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight Yahoo Finance",
       "category": "lawsuits",
       "language": "en"
@@ -97,7 +97,7 @@
       "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - BigGo Finance",
       "source": "BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5",
-      "published": "2026-10-07T12:55:00+00:00",
+      "published": "2026-10-07T07:00:00+00:00",
       "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors BigGo Finance",
       "category": "mergers_acquisitions",
       "language": "en"
@@ -133,22 +133,32 @@
       "language": "en"
     },
     {
-      "id": "375f590f8ae55dd2e65fb4eeab80f010",
-      "title": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents - The Next Web",
-      "source": "The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVkyZDN0VG5PWkh2YXVxZDRJZWZ6ZXhtZWs5Qng0RlVEcUVxMGpyVTBRYzJEa29YcElQRmhQTUJ4TU5KUUpFcDh1SjhwTnBwUmVvM1VVei1oU0NDdWNxSXprT0x2MjdHcFZPSTk0eC1HWjZlbmQzVHVfdExMcFVEMVN0SEQ4YWM?oc=5",
-      "published": "2026-10-01T14:56:18+00:00",
-      "snippet": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents The Next Web",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "8686d502e02e27a759ebc27170342b40",
       "title": "Metaview Raises €53.1M for Agentic Recruiting Platform - Konsulteer",
       "source": "Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXJNOGFSMFdaWmJfbXdnY3d0M2ZCdm96NTA0UGZYOGR6SVZBeEtDck5zRF9DMExKUEV4MGZ3NUNBV2JHWHc0dGJtbmlEekdXRklhNjkyaHRVOGQ2UUtheDNRYU5WWDJvZDNNbHBEOVptZ0xpRFhUUFJ5QTNQX0dCRzE5OG1PNnZGZXhkZXo3OTA4TmZMQ0tKY19RMlRPX2RHNFpvQl9pUlhxWXY5TmNTRUZJTzNGWkNoc3IzX2p3VQ?oc=5",
       "published": "2026-10-01T12:51:57+00:00",
       "snippet": "Metaview Raises €53.1M for Agentic Recruiting Platform Konsulteer",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "2e101a84f75032089faeac150b9582bc",
+      "title": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform - EU-Startups",
+      "source": "EU-Startups",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5",
+      "published": "2026-10-01T11:17:35+00:00",
+      "snippet": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform EU-Startups",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "375f590f8ae55dd2e65fb4eeab80f010",
+      "title": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents - The Next Web",
+      "source": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVkyZDN0VG5PWkh2YXVxZDRJZWZ6ZXhtZWs5Qng0RlVEcUVxMGpyVTBRYzJEa29YcElQRmhQTUJ4TU5KUUpFcDh1SjhwTnBwUmVvM1VVei1oU0NDdWNxSXprT0x2MjdHcFZPSTk0eC1HWjZlbmQzVHVfdExMcFVEMVN0SEQ4YWM?oc=5",
+      "published": "2026-10-01T07:00:00+00:00",
+      "snippet": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents The Next Web",
       "category": "investments",
       "language": "en"
     },
@@ -227,7 +237,7 @@
       "title": "Spott Raises $21M for AI-Native Recruiting Platform - Konsulteer",
       "source": "Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0dBdXRxSm5LMXZjWDdKcTlKa0VEWXo2Nk10eGJqYnNYQ0EwR2pCVldCeW9zclNsVEtYOHo1OW1JeE5Qa3MzaVZCSWgybEstWXRZOG4wQ2RaLXFjOHYzb1N2Tl9lR01icG53VmI0T1ZMb190MGVULUJ6M2JxYzVxWndtWkpHOGlwMEVoT0gyMXBMd2FuUTJ4RHBReF95LWxO?oc=5",
-      "published": "2026-09-22T08:10:31+00:00",
+      "published": "2026-09-22T07:00:00+00:00",
       "snippet": "Spott Raises $21M for AI-Native Recruiting Platform Konsulteer",
       "category": "investments",
       "language": "en"
@@ -250,16 +260,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "snippet": "Tesla faces major trial for alleged bias against Black workers, law school AI policies and our column on AI hiring discrimination lawsuit ➡️ LinkedIn",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "3423ba6c44272ff194f059c24bf90628",
-      "title": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform - SuaraGarut.ID",
-      "source": "SuaraGarut.ID",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1McWF0d3hMd2pWZEh4Qy15OGJOTnZUWkpqeml5WS16REFYZEZlbVZkWkg1eGQtUTFtTS1fR3dXMVotWWVwYm10OW9sZktJSjNjN01LeGJULU0tVVByX0NYQl9nR1hzaEVybnBQc01paFJjN1U?oc=5",
-      "published": "2026-09-19T07:00:00+00:00",
-      "snippet": "Harver Acquires Symphony Talent to Expand Recruiting Tech Platform SuaraGarut.ID",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
