@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-20T10:47:25Z",
-  "total": 28,
+  "last_updated": "2026-10-21T10:59:21Z",
+  "total": 32,
   "articles": [
+    {
+      "id": "ccda92a1d417596581e961e8b43837a5",
+      "title": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures - Indian Startup News",
+      "source": "Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUMxdEZOam5nOFJ2YkI4R2MxYVJNNWxTb0c3VHpFb0dIcFN0SmUxeGNpWFp4S292NmNEUGFJMzFZZ3c1TVhWektYZ005WnRETWNSc1YxSUhkUERZYzJIQ1VYMGY2OHRTcFllcjM5MGRvNjdhX256dlI2eTlHOXJqOU1SbGtjVXl0ZklVakVNWmYxYkYwWEJqMFZIeXpwc3F0NzljalVEaldjMWE0cXZ1NXMzX01ISk1KaVBwY1JzMzVvbVXSAcMBQVVfeXFMUGFDMXRGTmpuZzhSdmJCOEdjMWFSTTVsU29HN1R6RW9HSHBTdEplMXhjaVhaeEtvdjZjRFBhSTMxWWd3NU1YVnpLWGdNOVp0RE1jUnNWMUlIZFBEWWMySENVWDBmNjh0U3BZZXIzOTBkbzY3YV9uenZSNnk5RzlyajlNUmxrY1V5dGZJVWpFTVpmMWJGMFhCajBWSHl6cHNxdDc5Y2pVRGpXYzFhNHF2dTVzM19NSEpNSmlQcGNSczM1b21V?oc=5",
+      "published": "2026-10-21T09:57:33+00:00",
+      "snippet": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures Indian Startup News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "de5c095b237948949a4f78fb1bedd358",
+      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
+      "published": "2026-10-21T04:18:12+00:00",
+      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "e816459ce6ec1e8c26e0542398a8ec75",
+      "title": "Humanly Acquires CareerArc To Build Always-On Candidate Pipeline For High-Volume Hiring - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWpGWFlVelRod3JPVWxNS0w2ZUhCWkMyT0hERklIVWJrV1duSlNoenZXOWN6d3hqNnBLQ2s3d1U5Q3dXcGxiRDVGeWlidjRpMXpRem5sb1RSUlRVaDhVQVN0dGhmSFZqNVlVUVczZkhJRDlIYno3Rk1keERfcnJwQ0xBT08wSEtTS2VzNUFLMXRyN18wR0QyVkpSeU12NWU4UmNhSHNCWWNhdmc?oc=5",
+      "published": "2026-10-20T16:17:19+00:00",
+      "snippet": "Humanly Acquires CareerArc To Build Always-On Candidate Pipeline For High-Volume Hiring Pulse 2.0",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "0b6b24063a3436957d5a2241190a6a23",
+      "title": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures - Tech Funding News",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTktWTTNLczJUclVKSzlHYklSdWpkcDY3U2xwckdRT3E5YTJXZV9fU2o3SDd5RGk4SWFwb1ZKS3FZM1hPbG41MGN5OWFEeDhvWk5XSWJOLVM4N1F0dWwycVRuVi1sRUx4N3pIZS1lcE9HdmthS2s2MzNnWGIyY1ZIOXJ3T3lFS2FqNVh5TjlKVkt2VGVhVDR0cEJ4RXhwcmZKdnUwVWVNQzVCR3paNEVyVk5ZZ1lkMEE4eVFESHNMZkc3LUFjX0M4QzV1U0NQMkxWOU0wOUJR?oc=5",
+      "published": "2026-10-20T13:40:18+00:00",
+      "snippet": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures Tech Funding News",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "eaeed5c7c82ca4c91f6f6c53da4f8c63",
       "title": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management - ETHRWorld.com",
@@ -43,22 +83,22 @@
       "language": "en"
     },
     {
+      "id": "b334947952f63d3173ff2472517461be",
+      "title": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemlZUHhXN3phY0hmNXA3UWx2OHB3NklDX0Z0N0w0bDFJMlVpTVE1dS1hTmlQMEF6UFdzekJpR0Y4eThRYVBSd1VqazN6aG53cHlnZUlBVGg3U1E3bHpnRlp4RExuUDJYWFJ5cS16elpfakRSa05BM2l3Vm1mbG5QVzJDTlE3N1pETXp1OVk2Zi1NcnV1YXBJRDdvVTg4MGVBU0x5MVF6MFVudw?oc=5",
+      "published": "2026-10-14T14:12:15+00:00",
+      "snippet": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push Dealroom",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "84b0b0d371816dcdcf672d7642b2b87c",
       "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
       "source": "People Matters Global",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
       "published": "2026-10-14T12:41:29+00:00",
       "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "65ad3d630d384ef1c3d569ad9ac0c2de",
-      "title": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzdicURzcWlVOTRqNm1mNjRMNkRpSzVGSjBKNC1uXzhGUHJPRVR6ck1fMUdGbkZfZ2pyUFVCeVJpdllvdU8tM09DeVdJeFVJMTlXQ0xoTGktZHRnb0lkdkdJaVloenRVbm5BQmpfM3hiekVRdVdUMWVMSmF4emtOZElhNVRkd09hdHJRQlZlS3czcF9Fd1lyOUQxNUhCei1RUjllakRUbTdnZDlKWFBOc1JFOEFpWkdPWVBwbk9qOGVYLVVuOEV6RE5iWElTZnhUSFRmd20yQzdmcUpYczZj?oc=5",
-      "published": "2026-10-14T12:38:00+00:00",
-      "snippet": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring PR Newswire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -70,6 +110,16 @@
       "published": "2026-10-14T12:00:00+00:00",
       "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "ac54a4b08b1592760af4d9e41ee19a6a",
+      "title": "Vitalize Raises $31M to Expand AI-Powered Hospital Staffing Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3JySDdXUjVUY19aWC1TbWlBQVBpQ3BHSkZ6YlAwdzg4S3VUd1NSTDR4aHctOVNNd2xyN0ZOZ2pCWnpiSmY4M0h0dmhNRUpMeTR6SzI4T2FCYkduekRraUc2LVhrZkRnRlowWGRGakVWa2t5blQ0N2loMTFKbFRWTHhqbkhOVENodVZPamlnTkJvN080UGlyYlJvbk43OUNHNHZCMEFNV1h5QQ?oc=5",
+      "published": "2026-10-14T10:10:00+00:00",
+      "snippet": "Vitalize Raises $31M to Expand AI-Powered Hospital Staffing Platform citybiz",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -104,11 +154,11 @@
     },
     {
       "id": "783b602e42e903a336c24b434e7763d4",
-      "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - BigGo Finance",
-      "source": "BigGo Finance",
+      "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - finance.biggo.com",
+      "source": "finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5",
       "published": "2026-10-07T07:00:00+00:00",
-      "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors BigGo Finance",
+      "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors finance.biggo.com",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -269,16 +319,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlpHU0tDOVVkeGtUaEdzT21ZbjN2ZWN6MGFyQzVKMmw5TDFmX01Ga0tKM0wwMFJfZEZWZ2k5VFk0X2NHODNDUW1kdnhzRG51ZjlDSWI0MjBjdmQ5NU5rMzdkRnRBa09WZ1ZIX1RQUnZqQ1VBdXlmTUV2UjFQYXNiT3RiSmJaX0ZqMlFMVUptRWU1bjBqRnhqTW1yNFN5REpwYkp4MjRjSFhmNTZ4bm5HWFJCcDVWUVNtZVFjaC1fVkdMZms?oc=5",
       "published": "2026-09-22T07:00:00+00:00",
       "snippet": "Workday Discrimination Lawsuit: Who's Liable for AI Bias? The Legal Examiner",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "4b3050ded75c3677e14e21c23e8ec791",
-      "title": "Tesla faces major trial for alleged bias against Black workers, law school AI policies and our column on AI hiring discrimination lawsuit ➡️ - LinkedIn",
-      "source": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSV8zcXMxWnhtMGxSS2Z5U3RwWkZDSlYyb09idm45MFNVNTU0eV9GUEFYaDZzeXRmLURDOUMwaVJ2ck9sZEJ3Vm52cnhfZGlvOTBfUjJuWXUyLXMtRkNWZWJYLVdOcmMtNXhCQjBxTUc1dG53TjdQbHhva3pNZlRKeXdMYWhWRGJaUFktQ0ZKY0FQTE9mVjByZVZPdw?oc=5",
-      "published": "2026-09-21T07:00:00+00:00",
-      "snippet": "Tesla faces major trial for alleged bias against Black workers, law school AI policies and our column on AI hiring discrimination lawsuit ➡️ LinkedIn",
       "category": "lawsuits",
       "language": "en"
     }
