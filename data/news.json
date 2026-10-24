@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T10:51:28Z",
-  "total": 29,
+  "last_updated": "2026-10-24T10:05:58Z",
+  "total": 30,
   "articles": [
     {
       "id": "70b569cc0ac22513e8d61b3fcfdd6b12",
@@ -77,7 +77,7 @@
       "title": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight - Yahoo Finance",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEtxX01KU1d3a0MzNlQta0lMS19Qb1VMYUpwRk1PUjAyejF4YlMtZlVNVXNvSmZmNjF3aUc2R1pORXQ2dWIxZDJCM0x2QlBZNnd5bExaTEh0cUZqZEpNVk14V0JSeS1IX3RTQU8zaVFHNGdqNXpkR3htTXoxaENUTFVUdER3empoQzhKaEJjZDBOWm1jTkE?oc=5",
-      "published": "2026-10-16T06:16:00+00:00",
+      "published": "2026-10-16T06:16:41+00:00",
       "snippet": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight Yahoo Finance",
       "category": "lawsuits",
       "language": "en"
@@ -93,22 +93,22 @@
       "language": "en"
     },
     {
+      "id": "b334947952f63d3173ff2472517461be",
+      "title": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemlZUHhXN3phY0hmNXA3UWx2OHB3NklDX0Z0N0w0bDFJMlVpTVE1dS1hTmlQMEF6UFdzekJpR0Y4eThRYVBSd1VqazN6aG53cHlnZUlBVGg3U1E3bHpnRlp4RExuUDJYWFJ5cS16elpfakRSa05BM2l3Vm1mbG5QVzJDTlE3N1pETXp1OVk2Zi1NcnV1YXBJRDdvVTg4MGVBU0x5MVF6MFVudw?oc=5",
+      "published": "2026-10-14T14:12:15+00:00",
+      "snippet": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push Dealroom",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "84b0b0d371816dcdcf672d7642b2b87c",
       "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
       "source": "People Matters Global",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
       "published": "2026-10-14T12:41:29+00:00",
       "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "65ad3d630d384ef1c3d569ad9ac0c2de",
-      "title": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzdicURzcWlVOTRqNm1mNjRMNkRpSzVGSjBKNC1uXzhGUHJPRVR6ck1fMUdGbkZfZ2pyUFVCeVJpdllvdU8tM09DeVdJeFVJMTlXQ0xoTGktZHRnb0lkdkdJaVloenRVbm5BQmpfM3hiekVRdVdUMWVMSmF4emtOZElhNVRkd09hdHJRQlZlS3czcF9Fd1lyOUQxNUhCei1RUjllakRUbTdnZDlKWFBOc1JFOEFpWkdPWVBwbk9qOGVYLVVuOEV6RE5iWElTZnhUSFRmd20yQzdmcUpYczZj?oc=5",
-      "published": "2026-10-14T12:38:00+00:00",
-      "snippet": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring PR Newswire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -140,6 +140,16 @@
       "published": "2026-10-08T05:21:33+00:00",
       "snippet": "Sirius XM Wins Dismissal of AI Hiring Discrimination Suit in Michigan Court Lawxy AI",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "a883a67ad5768740f01c22bc1412fe49",
+      "title": "Personio acquires spend management platform Circula - FinTech Futures",
+      "source": "FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11RmVhdTNwYmU1SERBSE9kQnR4MmcycEM3bG1MLV9GbzZtejlzdXZtUmFiVDVYMGNyTUI3SUx0czZNa3l0Q1RCZnA4WWZfamdRQXM0enlWTktpUDU2Rm50cmctV0NhbGlkdmxMdg?oc=5",
+      "published": "2026-10-08T05:00:21+00:00",
+      "snippet": "Personio acquires spend management platform Circula FinTech Futures",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -180,6 +190,16 @@
       "published": "2026-10-06T07:04:35+00:00",
       "snippet": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI Analytics Insight",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "0c68b667e55819019b62730642ccf97b",
+      "title": "Juicebox Announces Agreement to Acquire Fetcher Assets - Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFcycF9kaUdDVWpqamtwS2c4d3JzaDg5TU1hNHQ3bUVGZE9MdlZYT2s1T19nWGJOeGNqbU1uaGFraW1oWV9CRmwzcWNXSy16LVp5VlVkNnA2Z0hYbk9KdTJVYTBQbWRnZW5SeFBGYU1naHlVTnEzRThxMkplT2Fya2tVNjJEMFBHbGhLa3RIMWlvUHpaYWpnMGI5U19XTjZCQ0lWNVM5el9aemMwbTRJYQ?oc=5",
+      "published": "2026-10-06T07:00:00+00:00",
+      "snippet": "Juicebox Announces Agreement to Acquire Fetcher Assets Business Wire",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -263,6 +283,16 @@
       "language": "en"
     },
     {
+      "id": "2828a83d8463407e4e0712024b35e4ce",
+      "title": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmpOVjNnQ0JGdGUwR2tpQndpcG1SWDIyTDU0VElXZ09XT1U2ZDgtM3IyMDFQU3JDMWg3Y1E2cjlHVFd1TnpmZkQ0T3RuYU41VE1pYlhuU3RuSnQxU0NVV0hob3dxVnhmcEt4dFhselNzeVN0bndPQ0hNMnZpLV83X2F1Skw3dmlOUE9rTGpyOUVYQ25TM0FWZ2NMUEZSa1drMnZDS0EwREpHVDQ0VGwzMDNSUWlVa21nQzRCa2hyUTgwZGVTZXZTOHBEQ3E?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "snippet": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures Quiver Quantitative",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "6525c48f73a41dc090d66f41fcd36d25",
       "title": "Code & Co. provides AI & Tech Due Diligence to Main Capital Partners ahead of its acquisition of Orgvue, a London-headquartered provider of Strategic Workforce Management software for large global enterprises - MAJUNKE.com",
       "source": "MAJUNKE.com",
@@ -270,26 +300,6 @@
       "published": "2026-09-24T11:28:20+00:00",
       "snippet": "Code & Co. provides AI & Tech Due Diligence to Main Capital Partners ahead of its acquisition of Orgvue, a London-headquartered provider of Strategic Workforce Management software for large global enterprises MAJUNKE.com",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fea98e17345410421ab65fae6019e022",
-      "title": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law - TheGrio",
-      "source": "TheGrio",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW1FaEJWc0lZYUhIWWJKY282QTRHeHJNV0NadmxTcXJxWEhiTDFNWUZjR25LOWZSYTU3dXJrbU9zd2FzR3k1dktuOUhsT2tBNXBjejUwb28wbTdyMVJJay1pd0JLdTlvTlJhZnpuR1RzS1FUZ3NJOEdSYTY?oc=5",
-      "published": "2026-09-24T07:00:00+00:00",
-      "snippet": "Black workers challenge AI hiring platform in case that could reshape workplace discrimination law TheGrio",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "5b3fe6b4aabd591e07fdb211afa54584",
-      "title": "Black Job Seekers Seek Class Action Against Workday - Black Information Network",
-      "source": "Black Information Network",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtza3hVMld2eS1TSzA0U2w0OEZSRmZQQUxCNDlNbE5WQjlZdEQ2UkRfNjZiRkVTc3EycVRId1d4OWVIUEZ4WlB4U2o2MnFneU9MZnFvTnBJVmtmdU81SXFOVkt1NUxEQXpMa2t5Tnhld09oa0txWlg2YU02OEpDeHFoWVBlRWRZd2wtVENjekp3UkZLaGhFYWVTVXVNM2tiQV9TendCM1psTW1RdDd6NngzUzVsOWFOb3NqaUtnSEtSQdIBygFBVV95cUxOVjFvWm9hZVNkQjR0NDlhTWFyMVJDZU5tMEtGaHZNQ0E4NTd1WVp1aHYzbkx1LUcxbF9nNGt3blQ2RFJuWEdQMk9lcG80cjlVUV9yQ3U5VVdBWUNoMlBLT0dVYzgyNldtZ0U3RDFFWFJ0R1Z0QjNLWC1MTUJtNlVVRlFSY21FUkJGaEd0LVY5M2J5MHFGZmR1UG5MbG5GdkNUSml4empPZnJWWEZrUWYzbWVSa2E4c1NwcnpHUGJnWWwwWGxtd29qOXVn?oc=5",
-      "published": "2026-09-24T07:00:00+00:00",
-      "snippet": "Black Job Seekers Seek Class Action Against Workday Black Information Network",
-      "category": "lawsuits",
       "language": "en"
     }
   ]
