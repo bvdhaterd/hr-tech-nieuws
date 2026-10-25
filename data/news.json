@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-24T10:05:58Z",
-  "total": 30,
+  "last_updated": "2026-10-25T10:31:24Z",
+  "total": 29,
   "articles": [
+    {
+      "id": "9302141bab44b674469e8d38f30019fa",
+      "title": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0R0Zmx1MUUtMVFkRWQ3QjA1S2NTejZyZWdidEJCZnRmd2xqMHI5UjY2NkYtNVhhc0pzTU03eDBrVXJWRFpWR3UxRUp4QkR5VkRxY1JuWUVCT004bE93WnQyNjhoN1RLazNsTDl0YmZMb0hYaURPck9ubjRwRzBuZjNheVBTel9lZi1ET2ZUa1BpeGZWXzRjV3VIWGtZSmdVb1p4LVhMbWNLWE94d2s5Tl9vWDNPVmRjOTlSS3AyUVF3MHFvNmwyWGZUdFJzWjlNcEI1dzU3NGw2YmV3M2VJTzJkS0tKRFY2RDNTTzlucXZxOHlfcG1YZ3dEY2VaZEdCaFVsZXB1WTl0VFhCLV9hWDJB?oc=5",
+      "published": "2026-10-25T05:03:26+00:00",
+      "snippet": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions PEI Private Equity",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "70b569cc0ac22513e8d61b3fcfdd6b12",
       "title": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI - Analytics Insight",
@@ -10,6 +20,16 @@
       "published": "2026-10-23T07:46:59+00:00",
       "snippet": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI Analytics Insight",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "3a64e0fb7de3052e1d162da328d4416b",
+      "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPanlJU3NwdHRPWWZ5ZG54OWtfTjY1c1dpdGh0MGFGcWgwZmVRd3pTV1VrNnZZWGlpLXdvcGhtdVFpQ1RydW5DOU1LNFhiQXRMWHhCNkhFdE1pQjliRV8xYUluWWVQZHFsbGxaRjV5VmhwUVpPalB2bnA2S2F1OGZPYXp0RmhhUVdfbUVBSmFGeWlYQVVnQmw3VFpjTFN5aHV4U216QVhDNVdtOGJaSTJRZEtwRGxiRy1yZ3hFTTJNcEtsT2ptTFRfY0tWLWZBYVFsdklfWHdpZmJWRV9OWGpkZmxrd1BoaHVwNHQ0N05iQjlBN2MxRzliMlh4YlozaUNDSlliSENB?oc=5",
+      "published": "2026-10-22T18:05:28+00:00",
+      "snippet": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle PEI Private Equity",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -103,12 +123,12 @@
       "language": "en"
     },
     {
-      "id": "84b0b0d371816dcdcf672d7642b2b87c",
-      "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
-      "source": "People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
-      "published": "2026-10-14T12:41:29+00:00",
-      "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
+      "id": "65ad3d630d384ef1c3d569ad9ac0c2de",
+      "title": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzdicURzcWlVOTRqNm1mNjRMNkRpSzVGSjBKNC1uXzhGUHJPRVR6ck1fMUdGbkZfZ2pyUFVCeVJpdllvdU8tM09DeVdJeFVJMTlXQ0xoTGktZHRnb0lkdkdJaVloenRVbm5BQmpfM3hiekVRdVdUMWVMSmF4emtOZElhNVRkd09hdHJRQlZlS3czcF9Fd1lyOUQxNUhCei1RUjllakRUbTdnZDlKWFBOc1JFOEFpWkdPWVBwbk9qOGVYLVVuOEV6RE5iWElTZnhUSFRmd20yQzdmcUpYczZj?oc=5",
+      "published": "2026-10-14T12:38:00+00:00",
+      "snippet": "Humanly Acquires CareerArc to Build an Always-on Candidate Pipeline for High Volume Hiring PR Newswire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -180,16 +200,6 @@
       "published": "2026-10-07T07:00:00+00:00",
       "snippet": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit Law.com",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "2aa069030727e9c7fca74852104d461f",
-      "title": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI - Analytics Insight",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hUZkNsQjVscGg3UVZWUktiVkxBZ2V0R0N1YzZSOVRSUjBlVmNvNTEwOUF1bUk0SFBQUWhHODlMOENlOWQtemJrWmV5b05KalY4Q0MxVEd2eWNyU29IenFRNmZPOVpFdTJ1VjlmdmlRcXhSZG1va1BQbzJfdnNtMnN2dnpRRlE2UmZMVWVhYktqVmRQNEtNRDc5R3lWQjdKazBkYVVqOHkydFR4TTA0TkV2TG9wV05jbGJIcENIX2dlNDQwSVJ30gHUAUFVX3lxTFBMRlpiQVcybmhtZ3FPMUxXUGJpOGp1UjktUUdsUHFRaWkwb3NtOTV5NDRMdEJ5aFd1T3VTeE5sTGJleWZodlVCSmxXcDFvTURFVGJ0cldtNFhXTDRrd2lCbHdjemx0STgzV29pM2FXME5ZQVZuS3c0V05TV0JCQkVtaVFkT0ZfVWNSbDdWeC1Qc2ViNGZsTkNvX3pSTHY0RlBlOGFTR3dxNzE2V2czUmI1SnZsazd4U1ZmZWszQWN4dDJEbG9KbTV0T2g0XzI4TldWZEpD?oc=5",
-      "published": "2026-10-06T07:04:35+00:00",
-      "snippet": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI Analytics Insight",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -273,32 +283,12 @@
       "language": "en"
     },
     {
-      "id": "e76a653793ca502f0e1cf5cc6c43529c",
-      "title": "Sequoia-Backed Juicebox Brings Its AI Recruiting Platform to London, Building on Strong Early UK Momentum - Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWFLSUQ5VTFfaDFXd2l0UVVSYmhRaVpSSlVWTEUwV2JNa3VIaTZqSG5CWTRybnlMR3NYWmZLeTh1X3BYY2dVT29KVktYOWZKWGdEMUJ0dFpCV01mUjNGaFNBVVM3R3A2c3pibEc0NXYyY1ZiRE5HZ2hOcFJuTUxjemdTVW1XUDNSTFBEUFZhTDVGOVpSbUpnbnNpZTRrMTRtcDBlNTIyU2RhRkhEZ2lPSjVsU01BS25Xazc3TlJUeVczekxEdEFXSlFhN2ZSRDJOQ1BhcE13?oc=5",
-      "published": "2026-09-30T07:00:00+00:00",
-      "snippet": "Sequoia-Backed Juicebox Brings Its AI Recruiting Platform to London, Building on Strong Early UK Momentum Konsulteer",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "2828a83d8463407e4e0712024b35e4ce",
       "title": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmpOVjNnQ0JGdGUwR2tpQndpcG1SWDIyTDU0VElXZ09XT1U2ZDgtM3IyMDFQU3JDMWg3Y1E2cjlHVFd1TnpmZkQ0T3RuYU41VE1pYlhuU3RuSnQxU0NVV0hob3dxVnhmcEt4dFhselNzeVN0bndPQ0hNMnZpLV83X2F1Skw3dmlOUE9rTGpyOUVYQ25TM0FWZ2NMUEZSa1drMnZDS0EwREpHVDQ0VGwzMDNSUWlVa21nQzRCa2hyUTgwZGVTZXZTOHBEQ3E?oc=5",
       "published": "2026-09-30T07:00:00+00:00",
       "snippet": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures Quiver Quantitative",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "6525c48f73a41dc090d66f41fcd36d25",
-      "title": "Code & Co. provides AI & Tech Due Diligence to Main Capital Partners ahead of its acquisition of Orgvue, a London-headquartered provider of Strategic Workforce Management software for large global enterprises - MAJUNKE.com",
-      "source": "MAJUNKE.com",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVnRQbjBMTEZ5ZDVXZmk2NGlKUkduQktnNjBYM19wcVdiWXhabkVDUXVmMEZVT2JCOGo5aHpWNWpHR1lFTGo0T2ZkVnMyZkNnc1JKOU5XeklUMTNkRUctalUxZzE5Y0RMTWdJNGt5a1VSeXpCcHJxUmRUMmZ0SEoyYlF2aFBzQlFWMmlXcHlEbHhzQnZQajNuZlFXb3RDY2MyLUlpMmlMaFU0UkMyNmZkcmxvQzVSYy1OY0dZa0dZWUYxWWl2RU42WnJQTzF1TXBRcVp6SUR0Zk4xODZlV1V2S1kzWC1RdlpWY01adHNRQzlpUG1YTXl3THlDc2NXZm9ldzQtYlRGSklpeURSVk1sWnJySlNjbGtyNzdHcm9NMV94YW13WmZuMEpZd0JnSHc1MjhwYlk0RUtLQQ?oc=5",
-      "published": "2026-09-24T11:28:20+00:00",
-      "snippet": "Code & Co. provides AI & Tech Due Diligence to Main Capital Partners ahead of its acquisition of Orgvue, a London-headquartered provider of Strategic Workforce Management software for large global enterprises MAJUNKE.com",
       "category": "mergers_acquisitions",
       "language": "en"
     }
