@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T10:31:24Z",
-  "total": 29,
+  "last_updated": "2026-10-26T12:04:18Z",
+  "total": 25,
   "articles": [
     {
       "id": "9302141bab44b674469e8d38f30019fa",
@@ -13,16 +13,6 @@
       "language": "en"
     },
     {
-      "id": "70b569cc0ac22513e8d61b3fcfdd6b12",
-      "title": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI - Analytics Insight",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVR0bFZMVDVtc1hCakJsakl2dUhsNnJPOEZETUNHN0h6Q3BOOS1EXzU3X2RnSlhFQm9rR0Mtb3V0UkdaRktsN2hvOXVRejRrMUJHMWRKMWZFVVg2dTBWSC04UU1FNHN2dC1tV09pcUxrR3FDNlVQdXgzaW91MENVY3lIOTFHaWxBNTZCai15V0JmRjNESGU4TTJYMlNNNVU3b2dGWnZkZ0NPUElLTWRHOGxWSTQzQThjc3hIYmJvZHpuZHhTR1ZYRkdGanNVWmJaMUpkV1hwcVQwa0tCN1RVblFwMDhSa25NNHRqVTBoNNIB7wFBVV95cUxNdVR0bFZMVDVtc1hCakJsakl2dUhsNnJPOEZETUNHN0h6Q3BOOS1EXzU3X2RnSlhFQm9rR0Mtb3V0UkdaRktsN2hvOXVRejRrMUJHMWRKMWZFVVg2dTBWSC04UU1FNHN2dC1tV09pcUxrR3FDNlVQdXgzaW91MENVY3lIOTFHaWxBNTZCai15V0JmRjNESGU4TTJYMlNNNVU3b2dGWnZkZ0NPUElLTWRHOGxWSTQzQThjc3hIYmJvZHpuZHhTR1ZYRkdGanNVWmJaMUpkV1hwcVQwa0tCN1RVblFwMDhSa25NNHRqVTBoNA?oc=5",
-      "published": "2026-10-23T07:46:59+00:00",
-      "snippet": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI Analytics Insight",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "3a64e0fb7de3052e1d162da328d4416b",
       "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
       "source": "PEI Private Equity",
@@ -30,16 +20,6 @@
       "published": "2026-10-22T18:05:28+00:00",
       "snippet": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle PEI Private Equity",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "8c456f004c86511a778c92ec396c79d1",
-      "title": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures - Bharat Fast",
-      "source": "Bharat Fast",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlNsZENXaWhyNU12QjVTbE0tOGVIa1EtTGphUjVXZnRmblAwUm5LOHF2dHpoOGk1VzZFdjhBRzN4V2lFT001QWdfdHB0YWtzSjgwanlsbXRGTzB6Tlk1d1J3d05QV0xpeVE3Z2VNQjM0OS1kalBSWjktNnNRcmh2bWp6aU1wWmxjcTZSazJKZVp4UQ?oc=5",
-      "published": "2026-10-21T18:32:09+00:00",
-      "snippet": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures Bharat Fast",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -73,31 +53,11 @@
       "language": "en"
     },
     {
-      "id": "eaeed5c7c82ca4c91f6f6c53da4f8c63",
-      "title": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management - ETHRWorld.com",
-      "source": "ETHRWorld.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0xnR3ZUejUwaEYyVUhqejlxcmEwaXRBX3hDNDY0cUZJQVFwd2k5eXUwbWVHa3YxQWpEcFlvRXZTbnZfNzBRYjNQNlVCUE92U0R0R1FNWmg1X0tNbVZrcjBLTktzOGpEYWZRTnN6cG4wN1N2MXN4a09HQ1VWdmd0U3A0WE1WUll5S2pBR0N4NTdpLVJzRmpEaUhYdnhmaVZOeXlMdjBvcU53UjFQTTQzYnNXbElJcC1GUWdxTnZ4T3l4VURUU3NMNEZvQ18wLTNzaDhnNm51Q0dIVjRC0gHiAUFVX3lxTE55cHhFRzB1eWJrZTNjOWZDcnN2VmpyTXJDdkxjRnBJSWxhYk1qVFhvUWpFVDNXc2tWZkM4azFlRF9ycGRwSVNfREk3SGU4UkVOQ20zQ0U2NFhvajN0eTdpZXlfc2VKZjVjdHZ3QUhxd1RoRkVmYmdxT3JfRE1YTE9MRmRTbjM1YVJEakhYSVhHNURRU01TdzdfTXlUdmpnQUFRSU5iYVVsbGNfTHNGcFBOUUtKYTFndWNiUTd6blVEWVBzaUdZTV8tR2QxY0MzQjFUWHV4SnNJZkNMdldqT2w5ZHc?oc=5",
-      "published": "2026-10-20T02:06:39+00:00",
-      "snippet": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management ETHRWorld.com",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "45aaa20a9ae7182b251d453034ec319f",
-      "title": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFR2OUgyQzFPcEtScnBlU2ZmUVlqZUxwRlZ6VWc3UTRYZGp0UTItaHYyVlNoU2trYkRTdFZJcnl4MFJMTkp1bTBoVTMxUmRSR2wydlVfVkNuc1pPQllKVDBvcFV2OTlQMktFWks4X0lVbm5LRms0YWVqSWFHRXRBOFoyNVVGR0tIN1RMdXRZNHdpZFlVUVFfd0F6R3pUWTJ3S1ZlcUcyN2lsTXIwUTZIMGFKd2pJbUt1ejF0eHUxaUJJckxabmpSOE1IOGxPTjF1RVRtMG1yYXnSAd4BQVVfeXFMT0draktzRno1S2JaSTlnVUpJTjBXRld5emFaVDdONEE4QnJ4aUNGM0VZeVJ1ZnpLQWFROWtQSkZRa05HUUFiOVVXRG5TT3hHQ3pWRnNYZ3N4U1BURHBscGpvQTY0emZHeTNLVzA2NlFqOVIycjl5dTE0clp1ekRCZGlJUm51WldielhyenQ1dF9iVFJqclJFWnF1ejhBWjd2VmpYeWpmc2stbFRFcHNfZVZMdWVYdEs2eGZuUDY2M2NDOFBXU1RWN2dDaHRjekRkQnZDVFo2Y1NSVkNUbGVR?oc=5",
-      "published": "2026-10-19T13:15:58+00:00",
-      "snippet": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others The Economic Times",
-      "category": "investments",
-      "language": "en"
-    },
-    {
       "id": "d719ab46a460bc4072dcbd41fad46724",
       "title": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight - Yahoo Finance",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEtxX01KU1d3a0MzNlQta0lMS19Qb1VMYUpwRk1PUjAyejF4YlMtZlVNVXNvSmZmNjF3aUc2R1pORXQ2dWIxZDJCM0x2QlBZNnd5bExaTEh0cUZqZEpNVk14V0JSeS1IX3RTQU8zaVFHNGdqNXpkR3htTXoxaENUTFVUdER3empoQzhKaEJjZDBOWm1jTkE?oc=5",
-      "published": "2026-10-16T06:16:41+00:00",
+      "published": "2026-10-16T07:00:00+00:00",
       "snippet": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight Yahoo Finance",
       "category": "lawsuits",
       "language": "en"
@@ -109,16 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORFhQM3Vla3lqeFFuNF9aRElDbFZvX1V0R3RMVkZTTnVTb3ByMFdTOFlQNmp6OFVkeUpMa2tzMEluOF84MFFIaU5ub0pveERBR1NMVkE2Qk9rQ1F5OFhpVnlqU25pY2J5SDRhdTJPRWF3WGc2cHJpMlM4ZVJhN0g4Nmd5eXJldjRKRzNEbjdBSTlPN1VRVWR1SXlkMmg1dHh1MGRFYjJXNlV1T0psZWx5YmxlTHFzNUZ2S0tIZkxmY1Bodm1TRFlCeA?oc=5",
       "published": "2026-10-14T15:43:03+00:00",
       "snippet": "Humanly Acquires CareerArc to Expand AI-Powered Recruiting and High-Volume Hiring Platform citybiz",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "b334947952f63d3173ff2472517461be",
-      "title": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push - Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemlZUHhXN3phY0hmNXA3UWx2OHB3NklDX0Z0N0w0bDFJMlVpTVE1dS1hTmlQMEF6UFdzekJpR0Y4eThRYVBSd1VqazN6aG53cHlnZUlBVGg3U1E3bHpnRlp4RExuUDJYWFJ5cS16elpfakRSa05BM2l3Vm1mbG5QVzJDTlE3N1pETXp1OVk2Zi1NcnV1YXBJRDdvVTg4MGVBU0x5MVF6MFVudw?oc=5",
-      "published": "2026-10-14T14:12:15+00:00",
-      "snippet": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push Dealroom",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -139,6 +89,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
       "published": "2026-10-14T12:00:00+00:00",
       "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "84b0b0d371816dcdcf672d7642b2b87c",
+      "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
+      "source": "People Matters Global",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
+      "published": "2026-10-14T07:00:00+00:00",
+      "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
       "category": "mergers_acquisitions",
       "language": "en"
     },
