@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-26T12:04:18Z",
+  "last_updated": "2026-10-27T11:24:23Z",
   "total": 25,
   "articles": [
+    {
+      "id": "31ba0bc2b924268e57bb0d0181356c5c",
+      "title": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit - HRMorning",
+      "source": "HRMorning",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQWh0eVY2cWpvTmNoNDliLUF5cko4RmNaLTFROHhOUno3YXlwOGJqejA4VHI1eWNIYUhLbkNuXzRmckNsM250aHRscGhlZ2hNUV9zZ190NUFGTEJSR3hjWXUxdkp2MVZpT1NTeTlfYVA?oc=5",
+      "published": "2026-10-27T08:11:00+00:00",
+      "snippet": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit HRMorning",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "9302141bab44b674469e8d38f30019fa",
       "title": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions - PEI Private Equity",
@@ -13,6 +23,16 @@
       "language": "en"
     },
     {
+      "id": "1888254c446c22a5643f890f93e795f3",
+      "title": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX0JmbHRFSTQ4OFd0UTA5MlFJUEtXNXhjU1RsWFpqMk9BbWVUSU1OSmVwSVhIMTdtNnF0Ykw5amJNWllSSHpOOHlNb1lnOEVPX251bElzLTQ3TW8xMm8xbldkMHFqWTRQeWFzWm1YLWdGOXJiVnh2Zml5aEdPMlpIUzdRZDVVelcyb1J5NjFaSGFXZUYtSExVTTdEUkJSVU5UTGhVQ1JTMWhhN2EyZFhmQ3NqRm1OamVRWnRYd3oyLUo4UVAyOGNuRDBEaEgzSHNYLVdHa2dBZ3ZLampsWWVMNUtR0gHvAUFVX3lxTE11VHRsVkxUNW1zWEJqQmxqSXZ1SGw2ck84RkRNQ0c3SHpDcE45LURfNTdfZGdKWEVCb2tHQy1vdXRSR1pGS2w3aG85dVF6NGsxQkcxZEoxZkVVWDZ1MFZILThRTUU0c3Z0LW1XT2lxTGtHcUM2VVB1eDNpb3UwQ1VjeUg5MUdpbEE1NkJqLXlXQmZGM0RIZThNMlgyU001VTdvZ0ZadmRnQ09QSUtNZEc4bFZJNDNBOGNzeEhiYm9kem5keFNHVlhGR0Zqc1VaYloxSmRXWHBxVDBrS0I3VFVuUXAwOFJrbk00dGpVMGg0?oc=5",
+      "published": "2026-10-23T07:24:05+00:00",
+      "snippet": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI Analytics Insight",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "3a64e0fb7de3052e1d162da328d4416b",
       "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
       "source": "PEI Private Equity",
@@ -20,6 +40,16 @@
       "published": "2026-10-22T18:05:28+00:00",
       "snippet": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle PEI Private Equity",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8c456f004c86511a778c92ec396c79d1",
+      "title": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures - Bharat Fast",
+      "source": "Bharat Fast",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlNsZENXaWhyNU12QjVTbE0tOGVIa1EtTGphUjVXZnRmblAwUm5LOHF2dHpoOGk1VzZFdjhBRzN4V2lFT001QWdfdHB0YWtzSjgwanlsbXRGTzB6Tlk1d1J3d05QV0xpeVE3Z2VNQjM0OS1kalBSWjktNnNRcmh2bWp6aU1wWmxjcTZSazJKZVp4UQ?oc=5",
+      "published": "2026-10-21T18:32:09+00:00",
+      "snippet": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures Bharat Fast",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -53,13 +83,23 @@
       "language": "en"
     },
     {
-      "id": "d719ab46a460bc4072dcbd41fad46724",
-      "title": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEtxX01KU1d3a0MzNlQta0lMS19Qb1VMYUpwRk1PUjAyejF4YlMtZlVNVXNvSmZmNjF3aUc2R1pORXQ2dWIxZDJCM0x2QlBZNnd5bExaTEh0cUZqZEpNVk14V0JSeS1IX3RTQU8zaVFHNGdqNXpkR3htTXoxaENUTFVUdER3empoQzhKaEJjZDBOWm1jTkE?oc=5",
-      "published": "2026-10-16T07:00:00+00:00",
-      "snippet": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight Yahoo Finance",
-      "category": "lawsuits",
+      "id": "eaeed5c7c82ca4c91f6f6c53da4f8c63",
+      "title": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management - ETHRWorld.com",
+      "source": "ETHRWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0xnR3ZUejUwaEYyVUhqejlxcmEwaXRBX3hDNDY0cUZJQVFwd2k5eXUwbWVHa3YxQWpEcFlvRXZTbnZfNzBRYjNQNlVCUE92U0R0R1FNWmg1X0tNbVZrcjBLTktzOGpEYWZRTnN6cG4wN1N2MXN4a09HQ1VWdmd0U3A0WE1WUll5S2pBR0N4NTdpLVJzRmpEaUhYdnhmaVZOeXlMdjBvcU53UjFQTTQzYnNXbElJcC1GUWdxTnZ4T3l4VURUU3NMNEZvQ18wLTNzaDhnNm51Q0dIVjRC0gHiAUFVX3lxTE55cHhFRzB1eWJrZTNjOWZDcnN2VmpyTXJDdkxjRnBJSWxhYk1qVFhvUWpFVDNXc2tWZkM4azFlRF9ycGRwSVNfREk3SGU4UkVOQ20zQ0U2NFhvajN0eTdpZXlfc2VKZjVjdHZ3QUhxd1RoRkVmYmdxT3JfRE1YTE9MRmRTbjM1YVJEakhYSVhHNURRU01TdzdfTXlUdmpnQUFRSU5iYVVsbGNfTHNGcFBOUUtKYTFndWNiUTd6blVEWVBzaUdZTV8tR2QxY0MzQjFUWHV4SnNJZkNMdldqT2w5ZHc?oc=5",
+      "published": "2026-10-20T02:06:39+00:00",
+      "snippet": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management ETHRWorld.com",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "45aaa20a9ae7182b251d453034ec319f",
+      "title": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFR2OUgyQzFPcEtScnBlU2ZmUVlqZUxwRlZ6VWc3UTRYZGp0UTItaHYyVlNoU2trYkRTdFZJcnl4MFJMTkp1bTBoVTMxUmRSR2wydlVfVkNuc1pPQllKVDBvcFV2OTlQMktFWks4X0lVbm5LRms0YWVqSWFHRXRBOFoyNVVGR0tIN1RMdXRZNHdpZFlVUVFfd0F6R3pUWTJ3S1ZlcUcyN2lsTXIwUTZIMGFKd2pJbUt1ejF0eHUxaUJJckxabmpSOE1IOGxPTjF1RVRtMG1yYXnSAd4BQVVfeXFMT0draktzRno1S2JaSTlnVUpJTjBXRld5emFaVDdONEE4QnJ4aUNGM0VZeVJ1ZnpLQWFROWtQSkZRa05HUUFiOVVXRG5TT3hHQ3pWRnNYZ3N4U1BURHBscGpvQTY0emZHeTNLVzA2NlFqOVIycjl5dTE0clp1ekRCZGlJUm51WldielhyenQ1dF9iVFJqclJFWnF1ejhBWjd2VmpYeWpmc2stbFRFcHNfZVZMdWVYdEs2eGZuUDY2M2NDOFBXU1RWN2dDaHRjekRkQnZDVFo2Y1NSVkNUbGVR?oc=5",
+      "published": "2026-10-19T13:15:58+00:00",
+      "snippet": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others The Economic Times",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -83,22 +123,22 @@
       "language": "en"
     },
     {
-      "id": "55f3c6e2ace6313dd95f8b428549d7b9",
-      "title": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring - GeekWire",
-      "source": "GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
-      "published": "2026-10-14T12:00:00+00:00",
-      "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "84b0b0d371816dcdcf672d7642b2b87c",
       "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
       "source": "People Matters Global",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
       "published": "2026-10-14T07:00:00+00:00",
       "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "55f3c6e2ace6313dd95f8b428549d7b9",
+      "title": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring - GeekWire",
+      "source": "GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
+      "published": "2026-10-14T07:00:00+00:00",
+      "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -111,26 +151,6 @@
       "snippet": "Personio neemt Circula over: grootste deal ooit Emerce",
       "category": "mergers_acquisitions",
       "language": "nl"
-    },
-    {
-      "id": "d09eb160ede059eb663adadc51b8ba9e",
-      "title": "Sirius XM Wins Dismissal of AI Hiring Discrimination Suit in Michigan Court - Lawxy AI",
-      "source": "Lawxy AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeklnclRtRlFuOXdKNi1SUmRGaWJaNU9SRjZvSlB2M21XM3IzcFdMUDBkM0U3R3dKRHBJU1BYdlpkbUw3UkZFcGhxOU05V1haMFpfRjlvaXdJdGMxbWlNMU9NOGN4bXdiRVp2dzQ0RGtGc1FGakhGbDZkaHpWM052bkFOV2hlVElrMHNraVdhWkJWR0ZWWWcybU9LZEVmQnBsQUtsVGdVQQ?oc=5",
-      "published": "2026-10-08T05:21:33+00:00",
-      "snippet": "Sirius XM Wins Dismissal of AI Hiring Discrimination Suit in Michigan Court Lawxy AI",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "a883a67ad5768740f01c22bc1412fe49",
-      "title": "Personio acquires spend management platform Circula - FinTech Futures",
-      "source": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11RmVhdTNwYmU1SERBSE9kQnR4MmcycEM3bG1MLV9GbzZtejlzdXZtUmFiVDVYMGNyTUI3SUx0czZNa3l0Q1RCZnA4WWZfamdRQXM0enlWTktpUDU2Rm50cmctV0NhbGlkdmxMdg?oc=5",
-      "published": "2026-10-08T05:00:21+00:00",
-      "snippet": "Personio acquires spend management platform Circula FinTech Futures",
-      "category": "mergers_acquisitions",
-      "language": "en"
     },
     {
       "id": "686155f83fc643a429517848658e1b0c",
@@ -170,16 +190,6 @@
       "published": "2026-10-06T07:00:00+00:00",
       "snippet": "Juicebox Announces Agreement to Acquire Fetcher Assets Business Wire",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "fa3fa140677d9749606928b960920a59",
-      "title": "Cohere vs Icims: Revenue, Funding & Team Size Compared - GetLatka",
-      "source": "GetLatka",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Sd0txUFBMRVNRWlJNT1J4c29maGxvRnJJX0ZjcVZ5T09FOEU1dU9xSE55R0ZmdHVXQ0UxdmhqM2QzV2N0MHUzenJ5Q0xtNU92Q1FJdUVaTC1xLXBzemtJ?oc=5",
-      "published": "2026-10-02T15:04:35+00:00",
-      "snippet": "Cohere vs Icims: Revenue, Funding & Team Size Compared GetLatka",
-      "category": "investments",
       "language": "en"
     },
     {
@@ -240,16 +250,6 @@
       "published": "2026-09-30T07:00:00+00:00",
       "snippet": "Metaview Raises $60M Series C to Expand AI Recruiting Platform Unite.AI",
       "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "2828a83d8463407e4e0712024b35e4ce",
-      "title": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmpOVjNnQ0JGdGUwR2tpQndpcG1SWDIyTDU0VElXZ09XT1U2ZDgtM3IyMDFQU3JDMWg3Y1E2cjlHVFd1TnpmZkQ0T3RuYU41VE1pYlhuU3RuSnQxU0NVV0hob3dxVnhmcEt4dFhselNzeVN0bndPQ0hNMnZpLV83X2F1Skw3dmlOUE9rTGpyOUVYQ25TM0FWZ2NMUEZSa1drMnZDS0EwREpHVDQ0VGwzMDNSUWlVa21nQzRCa2hyUTgwZGVTZXZTOHBEQ3E?oc=5",
-      "published": "2026-09-30T07:00:00+00:00",
-      "snippet": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures Quiver Quantitative",
-      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
