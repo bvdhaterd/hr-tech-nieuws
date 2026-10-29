@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-28T11:57:12Z",
-  "total": 24,
+  "last_updated": "2026-10-29T12:05:43Z",
+  "total": 28,
   "articles": [
+    {
+      "id": "31948496fb40960ebd0b101cf0dc628d",
+      "title": "Hungary's Intellihr raises $303K to scale AI recruiting platform - Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcE5CZkt0Nmk3MDc5X0FxQmJwVkpGTEhOX0Ita3FjeEZNejJ6R242M0JzcmJETU1mR1g1WXpMX3FtMm5OaE9XaFJzZ0xNSHVUT25Cc1RPOVpMcGdVU3FlMHRYU3Z3VVc1clBZRlhUUGwyMlhfZ05FSjZvYUtXTy1oX0dnelNOOTBBX3oxZDhhZU13TkJkZ2VpNVAzODQ4QQ?oc=5",
+      "published": "2026-10-29T06:33:56+00:00",
+      "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "fdecf28aacbfe62c31421b2765ccf824",
       "title": "Avante Raises $30M to Expand Its AI Platform for Global Benefits Teams - HRTech Series",
@@ -53,6 +63,16 @@
       "language": "en"
     },
     {
+      "id": "1888254c446c22a5643f890f93e795f3",
+      "title": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX0JmbHRFSTQ4OFd0UTA5MlFJUEtXNXhjU1RsWFpqMk9BbWVUSU1OSmVwSVhIMTdtNnF0Ykw5amJNWllSSHpOOHlNb1lnOEVPX251bElzLTQ3TW8xMm8xbldkMHFqWTRQeWFzWm1YLWdGOXJiVnh2Zml5aEdPMlpIUzdRZDVVelcyb1J5NjFaSGFXZUYtSExVTTdEUkJSVU5UTGhVQ1JTMWhhN2EyZFhmQ3NqRm1OamVRWnRYd3oyLUo4UVAyOGNuRDBEaEgzSHNYLVdHa2dBZ3ZLampsWWVMNUtR0gHvAUFVX3lxTE11VHRsVkxUNW1zWEJqQmxqSXZ1SGw2ck84RkRNQ0c3SHpDcE45LURfNTdfZGdKWEVCb2tHQy1vdXRSR1pGS2w3aG85dVF6NGsxQkcxZEoxZkVVWDZ1MFZILThRTUU0c3Z0LW1XT2lxTGtHcUM2VVB1eDNpb3UwQ1VjeUg5MUdpbEE1NkJqLXlXQmZGM0RIZThNMlgyU001VTdvZ0ZadmRnQ09QSUtNZEc4bFZJNDNBOGNzeEhiYm9kem5keFNHVlhGR0Zqc1VaYloxSmRXWHBxVDBrS0I3VFVuUXAwOFJrbk00dGpVMGg0?oc=5",
+      "published": "2026-10-23T07:24:05+00:00",
+      "snippet": "Top Tech News Today: US Semiconductor Funding, ASI’s $3B Valuation, AI Hiring, XRP Ledger & Microsoft’s Medical AI Analytics Insight",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "3a64e0fb7de3052e1d162da328d4416b",
       "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
       "source": "PEI Private Equity",
@@ -60,6 +80,16 @@
       "published": "2026-10-22T18:05:28+00:00",
       "snippet": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle PEI Private Equity",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "8c456f004c86511a778c92ec396c79d1",
+      "title": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures - Bharat Fast",
+      "source": "Bharat Fast",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlNsZENXaWhyNU12QjVTbE0tOGVIa1EtTGphUjVXZnRmblAwUm5LOHF2dHpoOGk1VzZFdjhBRzN4V2lFT001QWdfdHB0YWtzSjgwanlsbXRGTzB6Tlk1d1J3d05QV0xpeVE3Z2VNQjM0OS1kalBSWjktNnNRcmh2bWp6aU1wWmxjcTZSazJKZVp4UQ?oc=5",
+      "published": "2026-10-21T18:32:09+00:00",
+      "snippet": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures Bharat Fast",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -93,6 +123,16 @@
       "language": "en"
     },
     {
+      "id": "45aaa20a9ae7182b251d453034ec319f",
+      "title": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFR2OUgyQzFPcEtScnBlU2ZmUVlqZUxwRlZ6VWc3UTRYZGp0UTItaHYyVlNoU2trYkRTdFZJcnl4MFJMTkp1bTBoVTMxUmRSR2wydlVfVkNuc1pPQllKVDBvcFV2OTlQMktFWks4X0lVbm5LRms0YWVqSWFHRXRBOFoyNVVGR0tIN1RMdXRZNHdpZFlVUVFfd0F6R3pUWTJ3S1ZlcUcyN2lsTXIwUTZIMGFKd2pJbUt1ejF0eHUxaUJJckxabmpSOE1IOGxPTjF1RVRtMG1yYXnSAd4BQVVfeXFMT0draktzRno1S2JaSTlnVUpJTjBXRld5emFaVDdONEE4QnJ4aUNGM0VZeVJ1ZnpLQWFROWtQSkZRa05HUUFiOVVXRG5TT3hHQ3pWRnNYZ3N4U1BURHBscGpvQTY0emZHeTNLVzA2NlFqOVIycjl5dTE0clp1ekRCZGlJUm51WldielhyenQ1dF9iVFJqclJFWnF1ejhBWjd2VmpYeWpmc2stbFRFcHNfZVZMdWVYdEs2eGZuUDY2M2NDOFBXU1RWN2dDaHRjekRkQnZDVFo2Y1NSVkNUbGVR?oc=5",
+      "published": "2026-10-19T07:00:00+00:00",
+      "snippet": "AI hiring startup Hunar.AI raises Rs 40 crore from Blume Ventures, others The Economic Times",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "d719ab46a460bc4072dcbd41fad46724",
       "title": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -100,16 +140,6 @@
       "published": "2026-10-16T07:00:00+00:00",
       "snippet": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight Yahoo Finance",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "b334947952f63d3173ff2472517461be",
-      "title": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push - Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemlZUHhXN3phY0hmNXA3UWx2OHB3NklDX0Z0N0w0bDFJMlVpTVE1dS1hTmlQMEF6UFdzekJpR0Y4eThRYVBSd1VqazN6aG53cHlnZUlBVGg3U1E3bHpnRlp4RExuUDJYWFJ5cS16elpfakRSa05BM2l3Vm1mbG5QVzJDTlE3N1pETXp1OVk2Zi1NcnV1YXBJRDdvVTg4MGVBU0x5MVF6MFVudw?oc=5",
-      "published": "2026-10-14T14:12:15+00:00",
-      "snippet": "Humanly buys CareerArc in fifth deal since 2025, extending AI hiring push Dealroom",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -153,16 +183,6 @@
       "language": "nl"
     },
     {
-      "id": "a883a67ad5768740f01c22bc1412fe49",
-      "title": "Personio acquires spend management platform Circula - FinTech Futures",
-      "source": "FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11RmVhdTNwYmU1SERBSE9kQnR4MmcycEM3bG1MLV9GbzZtejlzdXZtUmFiVDVYMGNyTUI3SUx0czZNa3l0Q1RCZnA4WWZfamdRQXM0enlWTktpUDU2Rm50cmctV0NhbGlkdmxMdg?oc=5",
-      "published": "2026-10-08T05:00:21+00:00",
-      "snippet": "Personio acquires spend management platform Circula FinTech Futures",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "686155f83fc643a429517848658e1b0c",
       "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
       "source": "Tracxn",
@@ -170,6 +190,16 @@
       "published": "2026-10-07T07:00:00+00:00",
       "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "783b602e42e903a336c24b434e7763d4",
+      "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5",
+      "published": "2026-10-07T07:00:00+00:00",
+      "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors finance.biggo.com",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -240,6 +270,16 @@
       "published": "2026-09-30T07:00:00+00:00",
       "snippet": "Metaview Raises $60M Series C to Expand AI Recruiting Platform Unite.AI",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "2828a83d8463407e4e0712024b35e4ce",
+      "title": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmpOVjNnQ0JGdGUwR2tpQndpcG1SWDIyTDU0VElXZ09XT1U2ZDgtM3IyMDFQU3JDMWg3Y1E2cjlHVFd1TnpmZkQ0T3RuYU41VE1pYlhuU3RuSnQxU0NVV0hob3dxVnhmcEt4dFhselNzeVN0bndPQ0hNMnZpLV83X2F1Skw3dmlOUE9rTGpyOUVYQ25TM0FWZ2NMUEZSa1drMnZDS0EwREpHVDQ0VGwzMDNSUWlVa21nQzRCa2hyUTgwZGVTZXZTOHBEQ3E?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "snippet": "WTW Enters Agreement with Sapien Software to Support Global HR Solutions for M&A and Divestitures Quiver Quantitative",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
