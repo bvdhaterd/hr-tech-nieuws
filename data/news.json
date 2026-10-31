@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T11:58:16Z",
-  "total": 26,
+  "last_updated": "2026-10-31T11:31:36Z",
+  "total": 25,
   "articles": [
     {
       "id": "77416b87171c04d86429bef4c447ddfb",
@@ -53,13 +53,13 @@
       "language": "en"
     },
     {
-      "id": "9302141bab44b674469e8d38f30019fa",
-      "title": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions - PEI Private Equity",
-      "source": "PEI Private Equity",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0R0Zmx1MUUtMVFkRWQ3QjA1S2NTejZyZWdidEJCZnRmd2xqMHI5UjY2NkYtNVhhc0pzTU03eDBrVXJWRFpWR3UxRUp4QkR5VkRxY1JuWUVCT004bE93WnQyNjhoN1RLazNsTDl0YmZMb0hYaURPck9ubjRwRzBuZjNheVBTel9lZi1ET2ZUa1BpeGZWXzRjV3VIWGtZSmdVb1p4LVhMbWNLWE94d2s5Tl9vWDNPVmRjOTlSS3AyUVF3MHFvNmwyWGZUdFJzWjlNcEI1dzU3NGw2YmV3M2VJTzJkS0tKRFY2RDNTTzlucXZxOHlfcG1YZ3dEY2VaZEdCaFVsZXB1WTl0VFhCLV9hWDJB?oc=5",
-      "published": "2026-10-25T05:03:26+00:00",
-      "snippet": "Inflexion signs deal for single-use medical consumables biz Primed Group from Paragon Partners; Battery Ventures’ ORTEC adds TOBA HR Solutions PEI Private Equity",
-      "category": "mergers_acquisitions",
+      "id": "3cfe1c4c68d6a842014024e169ec1659",
+      "title": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform - Payload Space",
+      "source": "Payload Space",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNenhubWdpckV4aG9ETXpSMUVISlJpLTV5Um5IU0lMQUR6Yi1ScXlNM21zQTQwUFVLUHl3WDZhOVN0U3Mzd0tacU1YT0VxRDJxN1MtSEl2dzNuRDlvYlFrU2J2SHlmNGhsY094eU9Ha2tDWEsxcm50VWlDYkJ5aDJoN0FlNUl1NEpsMVdKMVVLOGphMXc0WGc?oc=5",
+      "published": "2026-10-26T12:24:15+00:00",
+      "snippet": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform Payload Space",
+      "category": "investments",
       "language": "en"
     },
     {
@@ -163,6 +163,16 @@
       "language": "en"
     },
     {
+      "id": "ac54a4b08b1592760af4d9e41ee19a6a",
+      "title": "Vitalize Raises $31M to Expand AI-Powered Hospital Staffing Platform - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3JySDdXUjVUY19aWC1TbWlBQVBpQ3BHSkZ6YlAwdzg4S3VUd1NSTDR4aHctOVNNd2xyN0ZOZ2pCWnpiSmY4M0h0dmhNRUpMeTR6SzI4T2FCYkduekRraUc2LVhrZkRnRlowWGRGakVWa2t5blQ0N2loMTFKbFRWTHhqbkhOVENodVZPamlnTkJvN080UGlyYlJvbk43OUNHNHZCMEFNV1h5QQ?oc=5",
+      "published": "2026-10-14T07:00:00+00:00",
+      "snippet": "Vitalize Raises $31M to Expand AI-Powered Hospital Staffing Platform citybiz",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "84b0b0d371816dcdcf672d7642b2b87c",
       "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
       "source": "People Matters Global",
@@ -213,6 +223,16 @@
       "language": "en"
     },
     {
+      "id": "783b602e42e903a336c24b434e7763d4",
+      "title": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5",
+      "published": "2026-10-07T07:00:00+00:00",
+      "snippet": "SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors finance.biggo.com",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
       "id": "57a0ac9c059f0221aba929f2aa1bd0e5",
       "title": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit - Law.com",
       "source": "Law.com",
@@ -230,36 +250,6 @@
       "published": "2026-10-06T07:00:00+00:00",
       "snippet": "Juicebox Announces Agreement to Acquire Fetcher Assets Business Wire",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "2e101a84f75032089faeac150b9582bc",
-      "title": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform - EU-Startups",
-      "source": "EU-Startups",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5",
-      "published": "2026-10-01T07:00:00+00:00",
-      "snippet": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform EU-Startups",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "8686d502e02e27a759ebc27170342b40",
-      "title": "Metaview Raises €53.1M for Agentic Recruiting Platform - Konsulteer",
-      "source": "Konsulteer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXJNOGFSMFdaWmJfbXdnY3d0M2ZCdm96NTA0UGZYOGR6SVZBeEtDck5zRF9DMExKUEV4MGZ3NUNBV2JHWHc0dGJtbmlEekdXRklhNjkyaHRVOGQ2UUtheDNRYU5WWDJvZDNNbHBEOVptZ0xpRFhUUFJ5QTNQX0dCRzE5OG1PNnZGZXhkZXo3OTA4TmZMQ0tKY19RMlRPX2RHNFpvQl9pUlhxWXY5TmNTRUZJTzNGWkNoc3IzX2p3VQ?oc=5",
-      "published": "2026-10-01T07:00:00+00:00",
-      "snippet": "Metaview Raises €53.1M for Agentic Recruiting Platform Konsulteer",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "375f590f8ae55dd2e65fb4eeab80f010",
-      "title": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents - The Next Web",
-      "source": "The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVkyZDN0VG5PWkh2YXVxZDRJZWZ6ZXhtZWs5Qng0RlVEcUVxMGpyVTBRYzJEa29YcElQRmhQTUJ4TU5KUUpFcDh1SjhwTnBwUmVvM1VVei1oU0NDdWNxSXprT0x2MjdHcFZPSTk0eC1HWjZlbmQzVHVfdExMcFVEMVN0SEQ4YWM?oc=5",
-      "published": "2026-10-01T07:00:00+00:00",
-      "snippet": "‘Recruiting is next’: Metaview raises $60m for AI hiring agents The Next Web",
-      "category": "investments",
       "language": "en"
     }
   ]
