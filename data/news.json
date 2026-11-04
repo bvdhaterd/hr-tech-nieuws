@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T13:26:25Z",
-  "total": 18,
+  "last_updated": "2026-11-04T13:37:54Z",
+  "total": 17,
   "articles": [
     {
       "id": "f425531240cef2c884bda31001c572aa",
@@ -10,16 +10,6 @@
       "published": "2026-11-03T13:15:13+00:00",
       "snippet": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software www.techtimes.co.uk",
       "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "1ca97d845cb422610a70f019a948b69f",
-      "title": "Ask The Analyst: When your HR technology vendor is acquired, what questions should you be asking? - www.unleash.ai",
-      "source": "www.unleash.ai",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWwwYWNiTUFIZ2N4bkdWbHdud1AtWlBEUkZ6NUY1THpXMDV3UFVmQ0kzckNtZTZPQjZJS0d6VVFYVDJYeGpnT1Z4YVZZTjFTekN5cGhWai1wVGhNVWJlZFZoUnloS1g1VVIyLTBKRlFabGU1NXExVmtVOGN3VWpVZWcwY2lKYWxqR1VlM2FsQ0FYWWRmMGpOeEl1MUNvV0F0TG4zNHpIdVBXMzhDSHNpeUFobnBhbDNNLTdLeGZvaUtVeXZwdVBEOUkwX2dMcUpIMUlad0FYQQ?oc=5",
-      "published": "2026-11-03T10:07:17+00:00",
-      "snippet": "Ask The Analyst: When your HR technology vendor is acquired, what questions should you be asking? www.unleash.ai",
-      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -67,7 +57,7 @@
       "title": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures - Bharat Fast",
       "source": "Bharat Fast",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlNsZENXaWhyNU12QjVTbE0tOGVIa1EtTGphUjVXZnRmblAwUm5LOHF2dHpoOGk1VzZFdjhBRzN4V2lFT001QWdfdHB0YWtzSjgwanlsbXRGTzB6Tlk1d1J3d05QV0xpeVE3Z2VNQjM0OS1kalBSWjktNnNRcmh2bWp6aU1wWmxjcTZSazJKZVp4UQ?oc=5",
-      "published": "2026-10-21T18:32:09+00:00",
+      "published": "2026-10-22T07:00:00+00:00",
       "snippet": "AI Hiring Startup Hunar.AI Raises Rs 39.3 Cr Led By Blume Ventures Bharat Fast",
       "category": "investments",
       "language": "en"
@@ -123,16 +113,6 @@
       "language": "en"
     },
     {
-      "id": "84b0b0d371816dcdcf672d7642b2b87c",
-      "title": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities - People Matters Global",
-      "source": "People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmdkNWZidUN2bzhSdWlKaUJEZTVDQmpEMDd6VjduaDZXUHpNY2w5NWtHd2EzUURHYTJLMzd5MUdIMFFRcGtBWkR0WHFJZjBoYW5HdjFJZi1Kd0l5dG5qU2V6V05zdkprUFBtMlhuZGdoTGt6SWFxX1lQbk9rQlBVM2FqTGdyQ0RaTHdfbGdpSmhXOVVNOWtNUjlnSTdwU1FVc0QxNHg4aUluTExuWHl5aDhKWUZOT0RoM0ZjV2ktTWlZdm1ZZHdqc1A4Q3h4eTFZbkdjaV9adWhhekx3NUl3WFI0YnFhSWc?oc=5",
-      "published": "2026-10-14T07:00:00+00:00",
-      "snippet": "HR Path acquires SnapAI to expand AI-driven HR solutions and compliance capabilities People Matters Global",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "292f6e1d8b2b65cdc661c79f68eb530f",
       "title": "Humanly Acquires CareerArc to Expand AI-Powered Recruiting and High-Volume Hiring Platform - citybiz",
       "source": "citybiz",
@@ -180,6 +160,16 @@
       "published": "2026-10-07T07:00:00+00:00",
       "snippet": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit Law.com",
       "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "2aa069030727e9c7fca74852104d461f",
+      "title": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hUZkNsQjVscGg3UVZWUktiVkxBZ2V0R0N1YzZSOVRSUjBlVmNvNTEwOUF1bUk0SFBQUWhHODlMOENlOWQtemJrWmV5b05KalY4Q0MxVEd2eWNyU29IenFRNmZPOVpFdTJ1VjlmdmlRcXhSZG1va1BQbzJfdnNtMnN2dnpRRlE2UmZMVWVhYktqVmRQNEtNRDc5R3lWQjdKazBkYVVqOHkydFR4TTA0TkV2TG9wV05jbGJIcENIX2dlNDQwSVJ30gHUAUFVX3lxTFBMRlpiQVcybmhtZ3FPMUxXUGJpOGp1UjktUUdsUHFRaWkwb3NtOTV5NDRMdEJ5aFd1T3VTeE5sTGJleWZodlVCSmxXcDFvTURFVGJ0cldtNFhXTDRrd2lCbHdjemx0STgzV29pM2FXME5ZQVZuS3c0V05TV0JCQkVtaVFkT0ZfVWNSbDdWeC1Qc2ViNGZsTkNvX3pSTHY0RlBlOGFTR3dxNzE2V2czUmI1SnZsazd4U1ZmZWszQWN4dDJEbG9KbTV0T2g0XzI4TldWZEpD?oc=5",
+      "published": "2026-10-06T07:00:00+00:00",
+      "snippet": "Top Tech News Today: Canon India, Southeast Asia Funding, AI Hiring, Cardano & Reasoning AI Analytics Insight",
+      "category": "investments",
       "language": "en"
     }
   ]
