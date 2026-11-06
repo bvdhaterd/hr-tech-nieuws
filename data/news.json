@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-05T13:50:22Z",
-  "total": 9,
+  "last_updated": "2026-11-06T13:35:27Z",
+  "total": 11,
   "articles": [
+    {
+      "id": "3a64e0fb7de3052e1d162da328d4416b",
+      "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPanlJU3NwdHRPWWZ5ZG54OWtfTjY1c1dpdGh0MGFGcWgwZmVRd3pTV1VrNnZZWGlpLXdvcGhtdVFpQ1RydW5DOU1LNFhiQXRMWHhCNkhFdE1pQjliRV8xYUluWWVQZHFsbGxaRjV5VmhwUVpPalB2bnA2S2F1OGZPYXp0RmhhUVdfbUVBSmFGeWlYQVVnQmw3VFpjTFN5aHV4U216QVhDNVdtOGJaSTJRZEtwRGxiRy1yZ3hFTTJNcEtsT2ptTFRfY0tWLWZBYVFsdklfWHdpZmJWRV9OWGpkZmxrd1BoaHVwNHQ0N05iQjlBN2MxRzliMlh4YlozaUNDSlliSENB?oc=5",
+      "published": "2026-11-05T17:06:03+00:00",
+      "snippet": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle PEI Private Equity",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "34c24d47e6521d8b6d2f1ac1e056300a",
+      "title": "Main Capital-backed BCS HR Software acquires Timegrip - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUtDeTFWNUdOTEMwZzRCbXc1Z1ljUVZodVJtZUwybjVXQzJSanM2dUdaSUM3VFNSQjJ1enRDRWRVTy1KX2QtMTJZQkZsOXJ0b2IyVm9oS0VQWk51cmxlTVdpTU14bWh5bi1sR2VNTmttWk9GeXlLMDZzTXRCT3JtUk5WQ0VTWmI3LWhLNURXZWpSREdic3J2UW5Cb3M2UQ?oc=5",
+      "published": "2026-11-04T23:18:20+00:00",
+      "snippet": "Main Capital-backed BCS HR Software acquires Timegrip PEI Private Equity",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "f425531240cef2c884bda31001c572aa",
+      "title": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software - www.techtimes.co.uk",
+      "source": "www.techtimes.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1huQkRkRzNFVHB4V0p2VE1FX3pQV2ktaUdXOFF5VUprdFRmZGtyWmozeWVLQWVoamFpVkdKNVg0eWxiVmhiLWhBYW9rVWQ5TGlGX1V5V2sxem9CRzJSRzZZelZ0NFJXVFdVdkRCMmNXMUUzZXJsUnJaQkwyWmZWWlRZbG1GTUw1N2c?oc=5",
+      "published": "2026-11-03T13:15:13+00:00",
+      "snippet": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software www.techtimes.co.uk",
+      "category": "lawsuits",
+      "language": "en"
+    },
     {
       "id": "31948496fb40960ebd0b101cf0dc628d",
       "title": "Hungary's Intellihr raises $303K to scale AI recruiting platform - Dealroom",
@@ -80,16 +110,6 @@
       "published": "2026-10-14T07:00:00+00:00",
       "snippet": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "686155f83fc643a429517848658e1b0c",
-      "title": "HRTech - 2026 Market & Investments Trends - Tracxn",
-      "source": "Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXNMcDF1MFBpSDlIYzNSVDlzU2FpSWtHaTUybGNUZTR4MkI5Mk14MjllejAwV2pIY2xaWllxS2o1RkRycTlEVnk5QlR1S2RLcEs0VDFXZkVueTNZRldIbklwOWxjMnh6elJ5d3hRVXN4ZVhaWGFFd25XeTVDa1p0d3VJTHZEMm1V?oc=5",
-      "published": "2026-10-07T07:00:00+00:00",
-      "snippet": "HRTech - 2026 Market & Investments Trends Tracxn",
-      "category": "investments",
       "language": "en"
     }
   ]
