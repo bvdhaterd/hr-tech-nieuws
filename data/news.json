@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-06T13:35:27Z",
-  "total": 11,
+  "last_updated": "2026-11-07T12:16:01Z",
+  "total": 13,
   "articles": [
+    {
+      "id": "3dccac5618881b96dd691be4544ed6e2",
+      "title": "WorkForce Software buys venture-backed Foko Retail - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaklTdjFoYWpJb3pFYi1qWkIwN3dVbndHdkVZVEM3SDFrOWdKenRMYzNKMGkxZ1VOZ1kxbGxJTzVJV3ZzMVo1aUxPLTZ4bVNNcEJpNFI1ZHBWdE1Nb3h4am1TQkRfd0FuYVVKLWNmdmRpM0xVb1VXY0ZrdDNrZFhvQmgyTzZVbWhaZl9UZUIwVndUVkJvdkdvbTZR?oc=5",
+      "published": "2026-11-06T20:22:32+00:00",
+      "snippet": "WorkForce Software buys venture-backed Foko Retail PEI Private Equity",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "3a64e0fb7de3052e1d162da328d4416b",
       "title": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle - PEI Private Equity",
@@ -40,6 +50,16 @@
       "published": "2026-10-29T06:33:56+00:00",
       "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "f1698ae70f7fdbc0af924ab2335701dc",
+      "title": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1lmU2tiV3IwbjZfN1pKZ1VYUTBZbHhKTDZUT2pMd3NQTXg1UlVjY1NKRWlQdG1LaUNYTHVNaXE3VWdTTnQ1eXFnNlFVV2x5Y2RBeTVGUEJ1MVF6eVhXN0NudXRpSUp3elRtOUIxTHJXdk9TOEVSMU45aDV1Y2lTUkZlQTdEWVN1M0w3YmVRMWJLUzdOQUo2RHJmSk5YR05rQ2UwQVdUdTFHd3hJRTVKUW4yTHJvUlo3N25UXzBqbFVwdEpzSEU5YWhrWG1BaUxFRzh3?oc=5",
+      "published": "2026-10-27T11:39:24+00:00",
+      "snippet": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution HRTech Series",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
