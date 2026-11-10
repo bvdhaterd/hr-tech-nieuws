@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-09T14:54:07Z",
-  "total": 11,
+  "last_updated": "2026-11-10T14:06:37Z",
+  "total": 14,
   "articles": [
+    {
+      "id": "6a58f81e0b115c669e51cc6e297dff6d",
+      "title": "First Advantage acquires data and background check firm Data Driver Technologies - Staffing Industry Analysts",
+      "source": "Staffing Industry Analysts",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlBOOWJQN0hMNEpnWE52ekExM21LcXFGN19leGp1ZzZ0Si1JYW9aMzYzN1ZPYXRFTWpMUEhaOFVZRUdxblk0ckxud2dLN2dhR1dtN1pWSjBBZl9XaVlyVEdsSlV0LWRobC1hdDNGa0lTTEh1c3UyTFZTZG1raTJyd2JwS1hIMFJ5MU96UHVXM3NKWDFLWFJWd0cyY2xhM3Vvcmt0bXFjRXc0QXp6R1V4amJrUWh4MldXT1lqX0lad0FZTno0Tmd6RWEtUjk1UnJtclE?oc=5",
+      "published": "2026-11-09T16:25:47+00:00",
+      "snippet": "First Advantage acquires data and background check firm Data Driver Technologies Staffing Industry Analysts",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "3dccac5618881b96dd691be4544ed6e2",
+      "title": "WorkForce Software buys venture-backed Foko Retail - PEI Private Equity",
+      "source": "PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaklTdjFoYWpJb3pFYi1qWkIwN3dVbndHdkVZVEM3SDFrOWdKenRMYzNKMGkxZ1VOZ1kxbGxJTzVJV3ZzMVo1aUxPLTZ4bVNNcEJpNFI1ZHBWdE1Nb3h4am1TQkRfd0FuYVVKLWNmdmRpM0xVb1VXY0ZrdDNrZFhvQmgyTzZVbWhaZl9UZUIwVndUVkJvdkdvbTZR?oc=5",
+      "published": "2026-11-06T20:22:32+00:00",
+      "snippet": "WorkForce Software buys venture-backed Foko Retail PEI Private Equity",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "34c24d47e6521d8b6d2f1ac1e056300a",
       "title": "Main Capital-backed BCS HR Software acquires Timegrip - PEI Private Equity",
@@ -57,8 +77,18 @@
       "title": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures - Indian Startup News",
       "source": "Indian Startup News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUMxdEZOam5nOFJ2YkI4R2MxYVJNNWxTb0c3VHpFb0dIcFN0SmUxeGNpWFp4S292NmNEUGFJMzFZZ3c1TVhWektYZ005WnRETWNSc1YxSUhkUERZYzJIQ1VYMGY2OHRTcFllcjM5MGRvNjdhX256dlI2eTlHOXJqOU1SbGtjVXl0ZklVakVNWmYxYkYwWEJqMFZIeXpwc3F0NzljalVEaldjMWE0cXZ1NXMzX01ISk1KaVBwY1JzMzVvbVXSAcMBQVVfeXFMUGFDMXRGTmpuZzhSdmJCOEdjMWFSTTVsU29HN1R6RW9HSHBTdEplMXhjaVhaeEtvdjZjRFBhSTMxWWd3NU1YVnpLWGdNOVp0RE1jUnNWMUlIZFBEWWMySENVWDBmNjh0U3BZZXIzOTBkbzY3YV9uenZSNnk5RzlyajlNUmxrY1V5dGZJVWpFTVpmMWJGMFhCajBWSHl6cHNxdDc5Y2pVRGpXYzFhNHF2dTVzM19NSEpNSmlQcGNSczM1b21V?oc=5",
-      "published": "2026-10-21T09:57:33+00:00",
+      "published": "2026-10-21T07:00:00+00:00",
       "snippet": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures Indian Startup News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "de5c095b237948949a4f78fb1bedd358",
+      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
+      "published": "2026-10-20T07:00:00+00:00",
+      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
       "category": "investments",
       "language": "en"
     },
