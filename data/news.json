@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-10T14:06:37Z",
-  "total": 14,
+  "last_updated": "2026-11-11T13:23:19Z",
+  "total": 13,
   "articles": [
+    {
+      "id": "cec0d2fd2f6d01f736979a384b6187ab",
+      "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb3BSSlp3YWJsMDJsOUh1Z0FPTHJIRktaeWszTm9hSnVOU0JkbVFUQWNHT0tNZUM5SmZDSl9fZ1pvOEdmLWRGOENyT01jSTRvT3UxVzF6b1pKOHlEZnZOcWtNYjZMYTh6TjIta3BWOERyU3VWcU10UXJCRXV0Vk4yZkQtSHh5TFpSNmRTb3ZGMGFVUkdKdjdBb28zWDN0ZkpETVludjdkNkpxQjhpVzJqMnQzWUVQSjFRUlo5T2hiMTdfN1JIVHZwMTVPdWx4aV83cmpTaEYzN2wtOWNTU2pKTDg2b0pIcEh3YktJYnBWVEpOWklpYlE?oc=5",
+      "published": "2026-11-10T15:00:00+00:00",
+      "snippet": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities PR Newswire",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
     {
       "id": "6a58f81e0b115c669e51cc6e297dff6d",
       "title": "First Advantage acquires data and background check firm Data Driver Technologies - Staffing Industry Analysts",
@@ -33,12 +43,12 @@
       "language": "en"
     },
     {
-      "id": "f425531240cef2c884bda31001c572aa",
-      "title": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software - www.techtimes.co.uk",
-      "source": "www.techtimes.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1huQkRkRzNFVHB4V0p2VE1FX3pQV2ktaUdXOFF5VUprdFRmZGtyWmozeWVLQWVoamFpVkdKNVg0eWxiVmhiLWhBYW9rVWQ5TGlGX1V5V2sxem9CRzJSRzZZelZ0NFJXVFdVdkRCMmNXMUUzZXJsUnJaQkwyWmZWWlRZbG1GTUw1N2c?oc=5",
-      "published": "2026-11-03T13:15:13+00:00",
-      "snippet": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software www.techtimes.co.uk",
+      "id": "31ba0bc2b924268e57bb0d0181356c5c",
+      "title": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit - HRMorning",
+      "source": "HRMorning",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQWh0eVY2cWpvTmNoNDliLUF5cko4RmNaLTFROHhOUno3YXlwOGJqejA4VHI1eWNIYUhLbkNuXzRmckNsM250aHRscGhlZ2hNUV9zZ190NUFGTEJSR3hjWXUxdkp2MVZpT1NTeTlfYVA?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "snippet": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit HRMorning",
       "category": "lawsuits",
       "language": "en"
     },
@@ -63,32 +73,12 @@
       "language": "en"
     },
     {
-      "id": "31ba0bc2b924268e57bb0d0181356c5c",
-      "title": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit - HRMorning",
-      "source": "HRMorning",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQWh0eVY2cWpvTmNoNDliLUF5cko4RmNaLTFROHhOUno3YXlwOGJqejA4VHI1eWNIYUhLbkNuXzRmckNsM250aHRscGhlZ2hNUV9zZ190NUFGTEJSR3hjWXUxdkp2MVZpT1NTeTlfYVA?oc=5",
-      "published": "2026-10-27T07:00:00+00:00",
-      "snippet": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit HRMorning",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "ccda92a1d417596581e961e8b43837a5",
       "title": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures - Indian Startup News",
       "source": "Indian Startup News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUMxdEZOam5nOFJ2YkI4R2MxYVJNNWxTb0c3VHpFb0dIcFN0SmUxeGNpWFp4S292NmNEUGFJMzFZZ3c1TVhWektYZ005WnRETWNSc1YxSUhkUERZYzJIQ1VYMGY2OHRTcFllcjM5MGRvNjdhX256dlI2eTlHOXJqOU1SbGtjVXl0ZklVakVNWmYxYkYwWEJqMFZIeXpwc3F0NzljalVEaldjMWE0cXZ1NXMzX01ISk1KaVBwY1JzMzVvbVXSAcMBQVVfeXFMUGFDMXRGTmpuZzhSdmJCOEdjMWFSTTVsU29HN1R6RW9HSHBTdEplMXhjaVhaeEtvdjZjRFBhSTMxWWd3NU1YVnpLWGdNOVp0RE1jUnNWMUlIZFBEWWMySENVWDBmNjh0U3BZZXIzOTBkbzY3YV9uenZSNnk5RzlyajlNUmxrY1V5dGZJVWpFTVpmMWJGMFhCajBWSHl6cHNxdDc5Y2pVRGpXYzFhNHF2dTVzM19NSEpNSmlQcGNSczM1b21V?oc=5",
       "published": "2026-10-21T07:00:00+00:00",
       "snippet": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures Indian Startup News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "de5c095b237948949a4f78fb1bedd358",
-      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
-      "source": "Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
-      "published": "2026-10-20T07:00:00+00:00",
-      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
       "category": "investments",
       "language": "en"
     },
