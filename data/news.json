@@ -1,14 +1,64 @@
 {
-  "last_updated": "2026-11-11T13:23:19Z",
-  "total": 13,
+  "last_updated": "2026-11-12T14:27:55Z",
+  "total": 19,
   "articles": [
     {
-      "id": "cec0d2fd2f6d01f736979a384b6187ab",
-      "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities - PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb3BSSlp3YWJsMDJsOUh1Z0FPTHJIRktaeWszTm9hSnVOU0JkbVFUQWNHT0tNZUM5SmZDSl9fZ1pvOEdmLWRGOENyT01jSTRvT3UxVzF6b1pKOHlEZnZOcWtNYjZMYTh6TjIta3BWOERyU3VWcU10UXJCRXV0Vk4yZkQtSHh5TFpSNmRTb3ZGMGFVUkdKdjdBb28zWDN0ZkpETVludjdkNkpxQjhpVzJqMnQzWUVQSjFRUlo5T2hiMTdfN1JIVHZwMTVPdWx4aV83cmpTaEYzN2wtOWNTU2pKTDg2b0pIcEh3YktJYnBWVEpOWklpYlE?oc=5",
+      "id": "14257f1f222bfa5b7d84b2bc359699b7",
+      "title": "Workday asks judge to block class action over AI hiring screening - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6bnVKMzFpSFBUVXRCWTU5OC0yLU1yY2tSdGljMWNGalljNDYwcF9JRzNPTERyN0VkZVJCUm40RHQ2WjhZaGkzUGJJd3d4bDVjLWtvLWVsYThiMndfZWZyZ09oaUp5SHo2NFMySFRKMXdHWHNnVUE?oc=5",
+      "published": "2026-11-11T21:57:34+00:00",
+      "snippet": "Workday asks judge to block class action over AI hiring screening Crypto Briefing",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "97b79458ca934795b01ee84c662624df",
+      "title": "Workday Seeks Dismissal of Age Discrimination Suit Amid AI Hirin - GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXRCRHFqNk16SWJhaVBGbExudkY0cS10TDJJQkhEZGd2amx3MWJoNGZ2aFFPTzgtbzZjU00zTlVtQW96R0JEbktPZzB5VEhfX3U3a24zNkdmSlFBcVdyZGxrcXFONlR1MU4zZWtkdjlUMmtFcUYzODhxN1k4eVJORmhyWTN3czd2amNueV9COHZTeS03alQwTWtRSW1tbXhodXE4WURVSzZqQ05xTFJsRHJwTUFfeE1HMGNSVWM0NFpxRlJ2QWc?oc=5",
+      "published": "2026-11-11T21:05:05+00:00",
+      "snippet": "Workday Seeks Dismissal of Age Discrimination Suit Amid AI Hirin GuruFocus",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "db6be0c1dec65cc93608d0957ecba6fb",
+      "title": "Workday moves to limit AI hiring discrimination lawsuit - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEJKd3ZOTUpoMUFhYnJ3TWhELTh0TXRLUjJYQk5RNWYzeFJyOGNsV0lFS2I1M25mTW11OUhWSnN6Xy10WGV2Qm1HUy1mZmw4ek03N0tSb0dDaERiY2xuM29oSHJPMzNGaFBRRFhxM3piVnhzb284YThkTFppQjQtOFIzRDFjZnpaN3Yxd29rbnhZbm9iQUFzWkNFT0VucGxjSzlTTG5CMF9PNVh3MDAzaFBiUVdpeENlZ3c?oc=5",
+      "published": "2026-11-11T20:16:46+00:00",
+      "snippet": "Workday moves to limit AI hiring discrimination lawsuit TradingView",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "f50f2637cd16582ff53c4b8ade4c6fda",
+      "title": "Workday moves to limit AI hiring discrimination lawsuit (WDAY:NASDAQ) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWZqb3g0dWZQRU5hM1VPMTBvdUw2T2hVdDkyVFpsc3lDY3ZzUEZNVXI3ZVppaUNEWjBfVUJHTjA1aDRRajZIOHJFb3Iwd0gyQk95dGhfUldsV3otVWM5SGNCZlNIclFoeWVCWUpBT0lSNzVra29pMXRuQmFOV09RQndzRkhNZUcwQUk2ZG1KS1ZSZE4wSDRFaA?oc=5",
+      "published": "2026-11-11T20:16:46+00:00",
+      "snippet": "Workday moves to limit AI hiring discrimination lawsuit (WDAY:NASDAQ) Seeking Alpha",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
+      "id": "2fec58b7e61081f0e1b4fb0ae5eb1376",
+      "title": "BPM Acquires HR Technology Assets of EL‑ITE Consulting - CPA Practice Advisor",
+      "source": "CPA Practice Advisor",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRV9uc2hRd2JfWnJmdGZ3RllVMG5RZHVmbFQ5RXZnQ2IySlI5NTJRT2FZZGdCUkVVVGhYVmRXbElrd21pRWZNNEZ6d2JTd1I4ZUxEajM3a1VBTlA3aTdCdFd4Z3hnZ2NOUlJuTjdMeEEwRVdwM0hrZ0JuWVk5X2hsMVZOY3FWYlFSa2hTV01NRFNHTy1jUkppUkl0UUZhTnVPQ2xCS1dZVkFlY3JF?oc=5",
+      "published": "2026-11-11T13:38:38+00:00",
+      "snippet": "BPM Acquires HR Technology Assets of EL‑ITE Consulting CPA Practice Advisor",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "0a9689996f97da1021f9d0552d8585c8",
+      "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkVfcG9XNldSdl9BUlpocTBhblVRbEg3WUpKMnJyT3FjTmliRzQwcS1ib0I4c0dWY25uNTBpeFY4eHBvMGdNbU5fYU5YWHFzYkdkUU9fcTdaQ1B6akEwYVlfT2lUWU96Y0NyWUExX3JOeDU3RXZJOVBOdXVDcnpzaFhWVmU4U2U4N2h3dVdDdENacDVy?oc=5",
       "published": "2026-11-10T15:00:00+00:00",
-      "snippet": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities PR Newswire",
+      "snippet": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities Yahoo Finance",
       "category": "mergers_acquisitions",
       "language": "en"
     },
@@ -20,6 +70,16 @@
       "published": "2026-11-09T16:25:47+00:00",
       "snippet": "First Advantage acquires data and background check firm Data Driver Technologies Staffing Industry Analysts",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "3f5a990920ee5c3927a317a6f99c9873",
+      "title": "Employers Must Submit EEO-1 Pay Data to EEOC By September 30, 2019 - ADP",
+      "source": "ADP",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjVJUGJna3VJSHRKWkdDRDNQaUZyREFLcXptVnJ6VklKRVRhZ3ZWdlEyVHhjeG5NSHA0bXFjaHJVZlltLVZuOEQ2WGJxbEhBanZSaXUzQ1Z5VUxTemNYaFBTdHQyZDJBcnVLU0dCNUxNSllIWkotQXlJRjROT3JtNzR5QnZiSUtjeUNTMmp5eXJ5V3JrOUlSQmhFcTNqX19ERWhfYWs3WUlQYWM?oc=5",
+      "published": "2026-11-08T05:18:46+00:00",
+      "snippet": "Employers Must Submit EEO-1 Pay Data to EEOC By September 30, 2019 ADP",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -57,7 +117,7 @@
       "title": "Hungary's Intellihr raises $303K to scale AI recruiting platform - Dealroom",
       "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcE5CZkt0Nmk3MDc5X0FxQmJwVkpGTEhOX0Ita3FjeEZNejJ6R242M0JzcmJETU1mR1g1WXpMX3FtMm5OaE9XaFJzZ0xNSHVUT25Cc1RPOVpMcGdVU3FlMHRYU3Z3VVc1clBZRlhUUGwyMlhfZ05FSjZvYUtXTy1oX0dnelNOOTBBX3oxZDhhZU13TkJkZ2VpNVAzODQ4QQ?oc=5",
-      "published": "2026-10-29T06:33:56+00:00",
+      "published": "2026-10-29T12:46:43+00:00",
       "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
       "category": "investments",
       "language": "en"
@@ -83,22 +143,22 @@
       "language": "en"
     },
     {
+      "id": "de5c095b237948949a4f78fb1bedd358",
+      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
+      "published": "2026-10-20T07:00:00+00:00",
+      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
       "id": "0b6b24063a3436957d5a2241190a6a23",
       "title": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures - Tech Funding News",
       "source": "Tech Funding News",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTktWTTNLczJUclVKSzlHYklSdWpkcDY3U2xwckdRT3E5YTJXZV9fU2o3SDd5RGk4SWFwb1ZKS3FZM1hPbG41MGN5OWFEeDhvWk5XSWJOLVM4N1F0dWwycVRuVi1sRUx4N3pIZS1lcE9HdmthS2s2MzNnWGIyY1ZIOXJ3T3lFS2FqNVh5TjlKVkt2VGVhVDR0cEJ4RXhwcmZKdnUwVWVNQzVCR3paNEVyVk5ZZ1lkMEE4eVFESHNMZkc3LUFjX0M4QzV1U0NQMkxWOU0wOUJR?oc=5",
       "published": "2026-10-20T07:00:00+00:00",
       "snippet": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures Tech Funding News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "eaeed5c7c82ca4c91f6f6c53da4f8c63",
-      "title": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management - ETHRWorld.com",
-      "source": "ETHRWorld.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0xnR3ZUejUwaEYyVUhqejlxcmEwaXRBX3hDNDY0cUZJQVFwd2k5eXUwbWVHa3YxQWpEcFlvRXZTbnZfNzBRYjNQNlVCUE92U0R0R1FNWmg1X0tNbVZrcjBLTktzOGpEYWZRTnN6cG4wN1N2MXN4a09HQ1VWdmd0U3A0WE1WUll5S2pBR0N4NTdpLVJzRmpEaUhYdnhmaVZOeXlMdjBvcU53UjFQTTQzYnNXbElJcC1GUWdxTnZ4T3l4VURUU3NMNEZvQ18wLTNzaDhnNm51Q0dIVjRC0gHiAUFVX3lxTE55cHhFRzB1eWJrZTNjOWZDcnN2VmpyTXJDdkxjRnBJSWxhYk1qVFhvUWpFVDNXc2tWZkM4azFlRF9ycGRwSVNfREk3SGU4UkVOQ20zQ0U2NFhvajN0eTdpZXlfc2VKZjVjdHZ3QUhxd1RoRkVmYmdxT3JfRE1YTE9MRmRTbjM1YVJEakhYSVhHNURRU01TdzdfTXlUdmpnQUFRSU5iYVVsbGNfTHNGcFBOUUtKYTFndWNiUTd6blVEWVBzaUdZTV8tR2QxY0MzQjFUWHV4SnNJZkNMdldqT2w5ZHc?oc=5",
-      "published": "2026-10-20T07:00:00+00:00",
-      "snippet": "Hunar.AI raises Rs 40 crore to expand AI-powered hiring and workforce management ETHRWorld.com",
       "category": "investments",
       "language": "en"
     },
