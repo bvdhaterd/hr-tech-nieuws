@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T13:45:46Z",
-  "total": 13,
+  "last_updated": "2026-11-14T12:50:09Z",
+  "total": 14,
   "articles": [
     {
       "id": "db6be0c1dec65cc93608d0957ecba6fb",
@@ -13,16 +13,6 @@
       "language": "en"
     },
     {
-      "id": "f50f2637cd16582ff53c4b8ade4c6fda",
-      "title": "Workday moves to limit AI hiring discrimination lawsuit (WDAY:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWZqb3g0dWZQRU5hM1VPMTBvdUw2T2hVdDkyVFpsc3lDY3ZzUEZNVXI3ZVppaUNEWjBfVUJHTjA1aDRRajZIOHJFb3Iwd0gyQk95dGhfUldsV3otVWM5SGNCZlNIclFoeWVCWUpBT0lSNzVra29pMXRuQmFOV09RQndzRkhNZUcwQUk2ZG1KS1ZSZE4wSDRFaA?oc=5",
-      "published": "2026-11-11T20:16:46+00:00",
-      "snippet": "Workday moves to limit AI hiring discrimination lawsuit (WDAY:NASDAQ) Seeking Alpha",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
       "id": "2fec58b7e61081f0e1b4fb0ae5eb1376",
       "title": "BPM Acquires HR Technology Assets of EL‑ITE Consulting - CPA Practice Advisor",
       "source": "CPA Practice Advisor",
@@ -30,6 +20,26 @@
       "published": "2026-11-11T13:38:38+00:00",
       "snippet": "BPM Acquires HR Technology Assets of EL‑ITE Consulting CPA Practice Advisor",
       "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "25004a275e0ea8a1628498ceefa6c947",
+      "title": "BPM: EL-ITE Consulting Asset Acquisition Expands HR Technology And UKG Implementation Capabilities - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDczWUpiSE1kMFdNWE5FQlFTNUc4R1RMMkpNRXI0QUpXN3VFN0FmYXN2YUJ4YTFQUV9lbUJoR2k4NkhTeWtDdUVjVWRaYkllNFRMcWRfVU1aa3FwUExIdWJTcGZ2clVTN2pyZmFfNkRJNlM4UmxzZWp5MHgxMGE0UE5rc2JCdUhqellwam9xVzVEZkRtNlg4cVdPVDlaakZyY3VrVVlDSldqTUh2Qks3OUdaQjNSWjg2?oc=5",
+      "published": "2026-11-11T13:13:35+00:00",
+      "snippet": "BPM: EL-ITE Consulting Asset Acquisition Expands HR Technology And UKG Implementation Capabilities Pulse 2.0",
+      "category": "mergers_acquisitions",
+      "language": "en"
+    },
+    {
+      "id": "cb9c4d4da047b15313ea8cde42e0e73f",
+      "title": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case - Forbes",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE1Mekx6VW9xamNpT1lKRUR0UWR3M0xzc05GaTFpQjRMb25hcEM0Z1NHSy12SXJIRHJyTEE3U2Z4ZVBWSjRmVW9FQjRLcEl6ZVJfVGZyZjF4dkVUY0tRUlhpQzhTLUFUeWRpTXd3NS1HLTlfN2EwdkxlbkZiWWRtVS1jRFNYdERiZ3IzdjAzM3MyUHJFZlhCeTNIRjJQc25HLTBTMGdUVDd2WF9ILTk5empCdjN4cDZiWUZIeDR1RjRLclE?oc=5",
+      "published": "2026-11-11T11:47:37+00:00",
+      "snippet": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case Forbes",
+      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -50,16 +60,6 @@
       "published": "2026-11-09T16:25:47+00:00",
       "snippet": "First Advantage acquires data and background check firm Data Driver Technologies Staffing Industry Analysts",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "3f5a990920ee5c3927a317a6f99c9873",
-      "title": "Employers Must Submit EEO-1 Pay Data to EEOC By September 30, 2019 - ADP",
-      "source": "ADP",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjVJUGJna3VJSHRKWkdDRDNQaUZyREFLcXptVnJ6VklKRVRhZ3ZWdlEyVHhjeG5NSHA0bXFjaHJVZlltLVZuOEQ2WGJxbEhBanZSaXUzQ1Z5VUxTemNYaFBTdHQyZDJBcnVLU0dCNUxNSllIWkotQXlJRjROT3JtNzR5QnZiSUtjeUNTMmp5eXJ5V3JrOUlSQmhFcTNqX19ERWhfYWs3WUlQYWM?oc=5",
-      "published": "2026-11-08T05:18:46+00:00",
-      "snippet": "Employers Must Submit EEO-1 Pay Data to EEOC By September 30, 2019 ADP",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -93,6 +93,16 @@
       "language": "en"
     },
     {
+      "id": "f425531240cef2c884bda31001c572aa",
+      "title": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software - www.techtimes.co.uk",
+      "source": "www.techtimes.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1huQkRkRzNFVHB4V0p2VE1FX3pQV2ktaUdXOFF5VUprdFRmZGtyWmozeWVLQWVoamFpVkdKNVg0eWxiVmhiLWhBYW9rVWQ5TGlGX1V5V2sxem9CRzJSRzZZelZ0NFJXVFdVdkRCMmNXMUUzZXJsUnJaQkwyWmZWWlRZbG1GTUw1N2c?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "snippet": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software www.techtimes.co.uk",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "31948496fb40960ebd0b101cf0dc628d",
       "title": "Hungary's Intellihr raises $303K to scale AI recruiting platform - Dealroom",
       "source": "Dealroom",
@@ -103,22 +113,22 @@
       "language": "en"
     },
     {
-      "id": "f1698ae70f7fdbc0af924ab2335701dc",
-      "title": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1lmU2tiV3IwbjZfN1pKZ1VYUTBZbHhKTDZUT2pMd3NQTXg1UlVjY1NKRWlQdG1LaUNYTHVNaXE3VWdTTnQ1eXFnNlFVV2x5Y2RBeTVGUEJ1MVF6eVhXN0NudXRpSUp3elRtOUIxTHJXdk9TOEVSMU45aDV1Y2lTUkZlQTdEWVN1M0w3YmVRMWJLUzdOQUo2RHJmSk5YR05rQ2UwQVdUdTFHd3hJRTVKUW4yTHJvUlo3N25UXzBqbFVwdEpzSEU5YWhrWG1BaUxFRzh3?oc=5",
-      "published": "2026-10-27T11:39:24+00:00",
-      "snippet": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution HRTech Series",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "ccda92a1d417596581e961e8b43837a5",
       "title": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures - Indian Startup News",
       "source": "Indian Startup News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUMxdEZOam5nOFJ2YkI4R2MxYVJNNWxTb0c3VHpFb0dIcFN0SmUxeGNpWFp4S292NmNEUGFJMzFZZ3c1TVhWektYZ005WnRETWNSc1YxSUhkUERZYzJIQ1VYMGY2OHRTcFllcjM5MGRvNjdhX256dlI2eTlHOXJqOU1SbGtjVXl0ZklVakVNWmYxYkYwWEJqMFZIeXpwc3F0NzljalVEaldjMWE0cXZ1NXMzX01ISk1KaVBwY1JzMzVvbVXSAcMBQVVfeXFMUGFDMXRGTmpuZzhSdmJCOEdjMWFSTTVsU29HN1R6RW9HSHBTdEplMXhjaVhaeEtvdjZjRFBhSTMxWWd3NU1YVnpLWGdNOVp0RE1jUnNWMUlIZFBEWWMySENVWDBmNjh0U3BZZXIzOTBkbzY3YV9uenZSNnk5RzlyajlNUmxrY1V5dGZJVWpFTVpmMWJGMFhCajBWSHl6cHNxdDc5Y2pVRGpXYzFhNHF2dTVzM19NSEpNSmlQcGNSczM1b21V?oc=5",
       "published": "2026-10-21T07:00:00+00:00",
       "snippet": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures Indian Startup News",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "de5c095b237948949a4f78fb1bedd358",
+      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
+      "published": "2026-10-20T07:00:00+00:00",
+      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
       "category": "investments",
       "language": "en"
     },
