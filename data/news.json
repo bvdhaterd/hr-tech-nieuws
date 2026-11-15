@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T12:50:09Z",
-  "total": 14,
+  "last_updated": "2026-11-15T13:16:51Z",
+  "total": 12,
   "articles": [
     {
       "id": "db6be0c1dec65cc93608d0957ecba6fb",
@@ -9,36 +9,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEJKd3ZOTUpoMUFhYnJ3TWhELTh0TXRLUjJYQk5RNWYzeFJyOGNsV0lFS2I1M25mTW11OUhWSnN6Xy10WGV2Qm1HUy1mZmw4ek03N0tSb0dDaERiY2xuM29oSHJPMzNGaFBRRFhxM3piVnhzb284YThkTFppQjQtOFIzRDFjZnpaN3Yxd29rbnhZbm9iQUFzWkNFT0VucGxjSzlTTG5CMF9PNVh3MDAzaFBiUVdpeENlZ3c?oc=5",
       "published": "2026-11-11T20:16:46+00:00",
       "snippet": "Workday moves to limit AI hiring discrimination lawsuit TradingView",
-      "category": "lawsuits",
-      "language": "en"
-    },
-    {
-      "id": "2fec58b7e61081f0e1b4fb0ae5eb1376",
-      "title": "BPM Acquires HR Technology Assets of EL‑ITE Consulting - CPA Practice Advisor",
-      "source": "CPA Practice Advisor",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRV9uc2hRd2JfWnJmdGZ3RllVMG5RZHVmbFQ5RXZnQ2IySlI5NTJRT2FZZGdCUkVVVGhYVmRXbElrd21pRWZNNEZ6d2JTd1I4ZUxEajM3a1VBTlA3aTdCdFd4Z3hnZ2NOUlJuTjdMeEEwRVdwM0hrZ0JuWVk5X2hsMVZOY3FWYlFSa2hTV01NRFNHTy1jUkppUkl0UUZhTnVPQ2xCS1dZVkFlY3JF?oc=5",
-      "published": "2026-11-11T13:38:38+00:00",
-      "snippet": "BPM Acquires HR Technology Assets of EL‑ITE Consulting CPA Practice Advisor",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "25004a275e0ea8a1628498ceefa6c947",
-      "title": "BPM: EL-ITE Consulting Asset Acquisition Expands HR Technology And UKG Implementation Capabilities - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDczWUpiSE1kMFdNWE5FQlFTNUc4R1RMMkpNRXI0QUpXN3VFN0FmYXN2YUJ4YTFQUV9lbUJoR2k4NkhTeWtDdUVjVWRaYkllNFRMcWRfVU1aa3FwUExIdWJTcGZ2clVTN2pyZmFfNkRJNlM4UmxzZWp5MHgxMGE0UE5rc2JCdUhqellwam9xVzVEZkRtNlg4cVdPVDlaakZyY3VrVVlDSldqTUh2Qks3OUdaQjNSWjg2?oc=5",
-      "published": "2026-11-11T13:13:35+00:00",
-      "snippet": "BPM: EL-ITE Consulting Asset Acquisition Expands HR Technology And UKG Implementation Capabilities Pulse 2.0",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "cb9c4d4da047b15313ea8cde42e0e73f",
-      "title": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE1Mekx6VW9xamNpT1lKRUR0UWR3M0xzc05GaTFpQjRMb25hcEM0Z1NHSy12SXJIRHJyTEE3U2Z4ZVBWSjRmVW9FQjRLcEl6ZVJfVGZyZjF4dkVUY0tRUlhpQzhTLUFUeWRpTXd3NS1HLTlfN2EwdkxlbkZiWWRtVS1jRFNYdERiZ3IzdjAzM3MyUHJFZlhCeTNIRjJQc25HLTBTMGdUVDd2WF9ILTk5empCdjN4cDZiWUZIeDR1RjRLclE?oc=5",
-      "published": "2026-11-11T11:47:37+00:00",
-      "snippet": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case Forbes",
       "category": "lawsuits",
       "language": "en"
     },
@@ -110,6 +80,16 @@
       "published": "2026-10-29T12:46:43+00:00",
       "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
       "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "f1698ae70f7fdbc0af924ab2335701dc",
+      "title": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1lmU2tiV3IwbjZfN1pKZ1VYUTBZbHhKTDZUT2pMd3NQTXg1UlVjY1NKRWlQdG1LaUNYTHVNaXE3VWdTTnQ1eXFnNlFVV2x5Y2RBeTVGUEJ1MVF6eVhXN0NudXRpSUp3elRtOUIxTHJXdk9TOEVSMU45aDV1Y2lTUkZlQTdEWVN1M0w3YmVRMWJLUzdOQUo2RHJmSk5YR05rQ2UwQVdUdTFHd3hJRTVKUW4yTHJvUlo3N25UXzBqbFVwdEpzSEU5YWhrWG1BaUxFRzh3?oc=5",
+      "published": "2026-10-27T11:39:24+00:00",
+      "snippet": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution HRTech Series",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
