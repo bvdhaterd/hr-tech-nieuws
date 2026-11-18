@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-17T15:20:47Z",
-  "total": 13,
+  "last_updated": "2026-11-18T14:56:13Z",
+  "total": 11,
   "articles": [
+    {
+      "id": "9b3d84815253f4f019aea92919e28872",
+      "title": "Top News Today: Hexin Raises USD 14.4M, AI Hiring Demand Grows, Bitcoin Faces AI IPO Competition - Analytics Insight",
+      "source": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREttdTdpYXl5NERueHRMWlpvemtZaWN3VlRxbE8tVEVia0pVUjRUTXJmWVduaDkwWERVSjdiYU44ZkhxNnFLclBxMk11TXZ5X2h4azFrczNuNWhpbGdYNTRBZTZWaGZ2cVktV3B1WXpVUFBlTEptalA0SFFKZF84cC1MQ1RsYVhhTjJVLU5VNlRTQ0xWdjhkbWE0RGpjMjlkRk9ycDgtVkJzNkJOLVNsMHBKaF94RTRpbDYwMkRWSmN2XzFEUmpaMFlaSnlob1Y30gHeAUFVX3lxTE1qOVlWU3M5U25Ba1pwSmxRQThVbW1WZFUyVWU2MWhPX3pJeTVUSXdHQVVnRDlOSUt1Q2RGZ2M0emZweWRHdjg3cU01ckJzNWVNdzJkQnJRYzJHOTBmLTdpeVM2dk83SGZVQWE3dU1WNFZaYmh1VHNWU0l5ckpxUktCVGp2Mk9uTWo3LWgtREhoWVJUTVloLU1aU2g3aWg1U1FhNElYWnpISS1RVkxYelZpZ1NjdVdRUVRaM1ZZVW9rWmZYQkNFVEFzME55R2pDT0ZUUldCMFZrSnFnZGh0QQ?oc=5",
+      "published": "2026-11-18T08:50:16+00:00",
+      "snippet": "Top News Today: Hexin Raises USD 14.4M, AI Hiring Demand Grows, Bitcoin Faces AI IPO Competition Analytics Insight",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "db6be0c1dec65cc93608d0957ecba6fb",
       "title": "Workday moves to limit AI hiring discrimination lawsuit - TradingView",
@@ -43,16 +53,6 @@
       "language": "en"
     },
     {
-      "id": "3dccac5618881b96dd691be4544ed6e2",
-      "title": "WorkForce Software buys venture-backed Foko Retail - PEI Private Equity",
-      "source": "PEI Private Equity",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaklTdjFoYWpJb3pFYi1qWkIwN3dVbndHdkVZVEM3SDFrOWdKenRMYzNKMGkxZ1VOZ1kxbGxJTzVJV3ZzMVo1aUxPLTZ4bVNNcEJpNFI1ZHBWdE1Nb3h4am1TQkRfd0FuYVVKLWNmdmRpM0xVb1VXY0ZrdDNrZFhvQmgyTzZVbWhaZl9UZUIwVndUVkJvdkdvbTZR?oc=5",
-      "published": "2026-11-06T20:22:32+00:00",
-      "snippet": "WorkForce Software buys venture-backed Foko Retail PEI Private Equity",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "34c24d47e6521d8b6d2f1ac1e056300a",
       "title": "Main Capital-backed BCS HR Software acquires Timegrip - PEI Private Equity",
       "source": "PEI Private Equity",
@@ -60,16 +60,6 @@
       "published": "2026-11-04T23:18:20+00:00",
       "snippet": "Main Capital-backed BCS HR Software acquires Timegrip PEI Private Equity",
       "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "31ba0bc2b924268e57bb0d0181356c5c",
-      "title": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit - HRMorning",
-      "source": "HRMorning",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQWh0eVY2cWpvTmNoNDliLUF5cko4RmNaLTFROHhOUno3YXlwOGJqejA4VHI1eWNIYUhLbkNuXzRmckNsM250aHRscGhlZ2hNUV9zZ190NUFGTEJSR3hjWXUxdkp2MVZpT1NTeTlfYVA?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "snippet": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit HRMorning",
-      "category": "lawsuits",
       "language": "en"
     },
     {
@@ -119,16 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
       "published": "2026-10-20T07:00:00+00:00",
       "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "0b6b24063a3436957d5a2241190a6a23",
-      "title": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures - Tech Funding News",
-      "source": "Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTktWTTNLczJUclVKSzlHYklSdWpkcDY3U2xwckdRT3E5YTJXZV9fU2o3SDd5RGk4SWFwb1ZKS3FZM1hPbG41MGN5OWFEeDhvWk5XSWJOLVM4N1F0dWwycVRuVi1sRUx4N3pIZS1lcE9HdmthS2s2MzNnWGIyY1ZIOXJ3T3lFS2FqNVh5TjlKVkt2VGVhVDR0cEJ4RXhwcmZKdnUwVWVNQzVCR3paNEVyVk5ZZ1lkMEE4eVFESHNMZkc3LUFjX0M4QzV1U0NQMkxWOU0wOUJR?oc=5",
-      "published": "2026-10-20T07:00:00+00:00",
-      "snippet": "Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures Tech Funding News",
       "category": "investments",
       "language": "en"
     }
