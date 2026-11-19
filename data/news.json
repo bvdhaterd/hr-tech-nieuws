@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-18T14:56:13Z",
-  "total": 11,
+  "last_updated": "2026-11-19T15:01:46Z",
+  "total": 8,
   "articles": [
     {
-      "id": "9b3d84815253f4f019aea92919e28872",
-      "title": "Top News Today: Hexin Raises USD 14.4M, AI Hiring Demand Grows, Bitcoin Faces AI IPO Competition - Analytics Insight",
-      "source": "Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREttdTdpYXl5NERueHRMWlpvemtZaWN3VlRxbE8tVEVia0pVUjRUTXJmWVduaDkwWERVSjdiYU44ZkhxNnFLclBxMk11TXZ5X2h4azFrczNuNWhpbGdYNTRBZTZWaGZ2cVktV3B1WXpVUFBlTEptalA0SFFKZF84cC1MQ1RsYVhhTjJVLU5VNlRTQ0xWdjhkbWE0RGpjMjlkRk9ycDgtVkJzNkJOLVNsMHBKaF94RTRpbDYwMkRWSmN2XzFEUmpaMFlaSnlob1Y30gHeAUFVX3lxTE1qOVlWU3M5U25Ba1pwSmxRQThVbW1WZFUyVWU2MWhPX3pJeTVUSXdHQVVnRDlOSUt1Q2RGZ2M0emZweWRHdjg3cU01ckJzNWVNdzJkQnJRYzJHOTBmLTdpeVM2dk83SGZVQWE3dU1WNFZaYmh1VHNWU0l5ckpxUktCVGp2Mk9uTWo3LWgtREhoWVJUTVloLU1aU2g3aWg1U1FhNElYWnpISS1RVkxYelZpZ1NjdVdRUVRaM1ZZVW9rWmZYQkNFVEFzME55R2pDT0ZUUldCMFZrSnFnZGh0QQ?oc=5",
-      "published": "2026-11-18T08:50:16+00:00",
-      "snippet": "Top News Today: Hexin Raises USD 14.4M, AI Hiring Demand Grows, Bitcoin Faces AI IPO Competition Analytics Insight",
+      "id": "9ffd31d61f3ffdaf20063ab64f996a17",
+      "title": "Valeria Raises €5.5 Million To Expand AI-Native Payroll Platform - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2ZvNWd0WDktUGNiSy1jOVpCM2pwVXpNOFVONVRITjhya3lpME1mcWpDdlJHS3l1SU4wb2V0WUdERDBob1p6Z1BCc3plQ0NseEhuZ0gwQ3BvVm04dWctUWZxMWtTd29jS3RCd0NvUC15NURRSXA1WnRUV3k5VTFCVEtmYm9zeEtWVVgtaA?oc=5",
+      "published": "2026-11-19T10:58:19+00:00",
+      "snippet": "Valeria Raises €5.5 Million To Expand AI-Native Payroll Platform Pulse 2.0",
       "category": "investments",
       "language": "en"
     },
@@ -33,16 +33,6 @@
       "language": "en"
     },
     {
-      "id": "0a9689996f97da1021f9d0552d8585c8",
-      "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkVfcG9XNldSdl9BUlpocTBhblVRbEg3WUpKMnJyT3FjTmliRzQwcS1ib0I4c0dWY25uNTBpeFY4eHBvMGdNbU5fYU5YWHFzYkdkUU9fcTdaQ1B6akEwYVlfT2lUWU96Y0NyWUExX3JOeDU3RXZJOVBOdXVDcnpzaFhWVmU4U2U4N2h3dVdDdENacDVy?oc=5",
-      "published": "2026-11-10T15:00:00+00:00",
-      "snippet": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities Yahoo Finance",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
       "id": "6a58f81e0b115c669e51cc6e297dff6d",
       "title": "First Advantage acquires data and background check firm Data Driver Technologies - Staffing Industry Analysts",
       "source": "Staffing Industry Analysts",
@@ -63,6 +53,16 @@
       "language": "en"
     },
     {
+      "id": "31ba0bc2b924268e57bb0d0181356c5c",
+      "title": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit - HRMorning",
+      "source": "HRMorning",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQWh0eVY2cWpvTmNoNDliLUF5cko4RmNaLTFROHhOUno3YXlwOGJqejA4VHI1eWNIYUhLbkNuXzRmckNsM250aHRscGhlZ2hNUV9zZ190NUFGTEJSR3hjWXUxdkp2MVZpT1NTeTlfYVA?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "snippet": "Sirius XM Wins Dismissal of AI Hiring Bias Lawsuit HRMorning",
+      "category": "lawsuits",
+      "language": "en"
+    },
+    {
       "id": "f425531240cef2c884bda31001c572aa",
       "title": "Workday AI Hiring Lawsuit Tests Who Is Responsible When Applicants Are Screened Out by Software - www.techtimes.co.uk",
       "source": "www.techtimes.co.uk",
@@ -79,36 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcE5CZkt0Nmk3MDc5X0FxQmJwVkpGTEhOX0Ita3FjeEZNejJ6R242M0JzcmJETU1mR1g1WXpMX3FtMm5OaE9XaFJzZ0xNSHVUT25Cc1RPOVpMcGdVU3FlMHRYU3Z3VVc1clBZRlhUUGwyMlhfZ05FSjZvYUtXTy1oX0dnelNOOTBBX3oxZDhhZU13TkJkZ2VpNVAzODQ4QQ?oc=5",
       "published": "2026-10-29T12:46:43+00:00",
       "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "f1698ae70f7fdbc0af924ab2335701dc",
-      "title": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution - HRTech Series",
-      "source": "HRTech Series",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1lmU2tiV3IwbjZfN1pKZ1VYUTBZbHhKTDZUT2pMd3NQTXg1UlVjY1NKRWlQdG1LaUNYTHVNaXE3VWdTTnQ1eXFnNlFVV2x5Y2RBeTVGUEJ1MVF6eVhXN0NudXRpSUp3elRtOUIxTHJXdk9TOEVSMU45aDV1Y2lTUkZlQTdEWVN1M0w3YmVRMWJLUzdOQUo2RHJmSk5YR05rQ2UwQVdUdTFHd3hJRTVKUW4yTHJvUlo3N25UXzBqbFVwdEpzSEU5YWhrWG1BaUxFRzh3?oc=5",
-      "published": "2026-10-27T11:39:24+00:00",
-      "snippet": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution HRTech Series",
-      "category": "mergers_acquisitions",
-      "language": "en"
-    },
-    {
-      "id": "ccda92a1d417596581e961e8b43837a5",
-      "title": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures - Indian Startup News",
-      "source": "Indian Startup News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUMxdEZOam5nOFJ2YkI4R2MxYVJNNWxTb0c3VHpFb0dIcFN0SmUxeGNpWFp4S292NmNEUGFJMzFZZ3c1TVhWektYZ005WnRETWNSc1YxSUhkUERZYzJIQ1VYMGY2OHRTcFllcjM5MGRvNjdhX256dlI2eTlHOXJqOU1SbGtjVXl0ZklVakVNWmYxYkYwWEJqMFZIeXpwc3F0NzljalVEaldjMWE0cXZ1NXMzX01ISk1KaVBwY1JzMzVvbVXSAcMBQVVfeXFMUGFDMXRGTmpuZzhSdmJCOEdjMWFSTTVsU29HN1R6RW9HSHBTdEplMXhjaVhaeEtvdjZjRFBhSTMxWWd3NU1YVnpLWGdNOVp0RE1jUnNWMUlIZFBEWWMySENVWDBmNjh0U3BZZXIzOTBkbzY3YV9uenZSNnk5RzlyajlNUmxrY1V5dGZJVWpFTVpmMWJGMFhCajBWSHl6cHNxdDc5Y2pVRGpXYzFhNHF2dTVzM19NSEpNSmlQcGNSczM1b21V?oc=5",
-      "published": "2026-10-21T07:00:00+00:00",
-      "snippet": "AI hiring startup Hunar.AI raises Rs 39.3 crore in funding led by Blume Ventures Indian Startup News",
-      "category": "investments",
-      "language": "en"
-    },
-    {
-      "id": "de5c095b237948949a4f78fb1bedd358",
-      "title": "Best all-in-one HR software for UK businesses (2026) - Tech Funding News",
-      "source": "Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVU1REstM241d2RjQm5RemVHbWVCUjctak4xdTBNOGFSelRRMmtaeU9qVG10THVQa2RaM1lmOTllenU3WXVYQ25USi1hVkt1cDdabk11bm12SWFsNm9pczdKOVlhQ2NQQjVCRVUtc2dxbHFidkhtQXpzM0xkdUxaNm9hWnctdw?oc=5",
-      "published": "2026-10-20T07:00:00+00:00",
-      "snippet": "Best all-in-one HR software for UK businesses (2026) Tech Funding News",
       "category": "investments",
       "language": "en"
     }
