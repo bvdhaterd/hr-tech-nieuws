@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-19T15:01:46Z",
-  "total": 8,
+  "last_updated": "2026-11-20T14:44:22Z",
+  "total": 10,
   "articles": [
+    {
+      "id": "caabf2d87986133716491a48daa850a1",
+      "title": "London-based Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers - EU-Startups",
+      "source": "EU-Startups",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2NBSV9oWVB1cUgtNWdNLUEtS0RxdTRRTDBQSFQyOEcxZXZfUW1UTU0wUE8wVHdHeG9pNFhuNjRORU1aU2JrUjlodVZhRU9jdlFsTTZCYmFjR0xnd1kzcmFfQzYyQ3pWOFJGZ2hQUlhrczBSeGxfTk9vY1ZZN19lWjhWc3pFNFdvc0RMWU5LN2hFdm92TGswSGJONmlkQnBxTkpNeVpFaWxoTXRJWUFNeEQ1NXRwZGh3RFRLMjhBVGFlN1FGQXJQRzJVMkJsa1F5R3Rn?oc=5",
+      "published": "2026-11-20T12:41:53+00:00",
+      "snippet": "London-based Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers EU-Startups",
+      "category": "investments",
+      "language": "en"
+    },
+    {
+      "id": "93043802ac8bc83784dbac5c7a7c046b",
+      "title": "Exclusive: Recruitment platform Archer raises $10M - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VBN0ZzSnNvdC1XR09ob0JXR19TTGUyNGs4bnZWRE5FR1B1MHJSd3A1WDFhNFJuRmRVbFVEWHJXS3o0R1dyWHAxaXgzVEhPY2F1SmdXeFVNSGoyVFoxd0dtaW9JOGdta3QwWDhVREdoT3lsQTByeUxnLXdzWGF5czRHa1lYV25ndjBZN3hlcFZRcFZT?oc=5",
+      "published": "2026-11-19T22:27:03+00:00",
+      "snippet": "Exclusive: Recruitment platform Archer raises $10M Axios",
+      "category": "investments",
+      "language": "en"
+    },
     {
       "id": "9ffd31d61f3ffdaf20063ab64f996a17",
       "title": "Valeria Raises €5.5 Million To Expand AI-Native Payroll Platform - Pulse 2.0",
@@ -23,13 +43,13 @@
       "language": "en"
     },
     {
-      "id": "cb9c4d4da047b15313ea8cde42e0e73f",
-      "title": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE1Mekx6VW9xamNpT1lKRUR0UWR3M0xzc05GaTFpQjRMb25hcEM0Z1NHSy12SXJIRHJyTEE3U2Z4ZVBWSjRmVW9FQjRLcEl6ZVJfVGZyZjF4dkVUY0tRUlhpQzhTLUFUeWRpTXd3NS1HLTlfN2EwdkxlbkZiWWRtVS1jRFNYdERiZ3IzdjAzM3MyUHJFZlhCeTNIRjJQc25HLTBTMGdUVDd2WF9ILTk5empCdjN4cDZiWUZIeDR1RjRLclE?oc=5",
-      "published": "2026-11-11T11:47:37+00:00",
-      "snippet": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case Forbes",
-      "category": "lawsuits",
+      "id": "0a9689996f97da1021f9d0552d8585c8",
+      "title": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkVfcG9XNldSdl9BUlpocTBhblVRbEg3WUpKMnJyT3FjTmliRzQwcS1ib0I4c0dWY25uNTBpeFY4eHBvMGdNbU5fYU5YWHFzYkdkUU9fcTdaQ1B6akEwYVlfT2lUWU96Y0NyWUExX3JOeDU3RXZJOVBOdXVDcnpzaFhWVmU4U2U4N2h3dVdDdENacDVy?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "snippet": "BPM Acquires Select Assets of EL-ITE Consulting, Expanding HR Technology and UKG Implementation Capabilities Yahoo Finance",
+      "category": "mergers_acquisitions",
       "language": "en"
     },
     {
@@ -73,13 +93,13 @@
       "language": "en"
     },
     {
-      "id": "31948496fb40960ebd0b101cf0dc628d",
-      "title": "Hungary's Intellihr raises $303K to scale AI recruiting platform - Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcE5CZkt0Nmk3MDc5X0FxQmJwVkpGTEhOX0Ita3FjeEZNejJ6R242M0JzcmJETU1mR1g1WXpMX3FtMm5OaE9XaFJzZ0xNSHVUT25Cc1RPOVpMcGdVU3FlMHRYU3Z3VVc1clBZRlhUUGwyMlhfZ05FSjZvYUtXTy1oX0dnelNOOTBBX3oxZDhhZU13TkJkZ2VpNVAzODQ4QQ?oc=5",
-      "published": "2026-10-29T12:46:43+00:00",
-      "snippet": "Hungary's Intellihr raises $303K to scale AI recruiting platform Dealroom",
-      "category": "investments",
+      "id": "f1698ae70f7fdbc0af924ab2335701dc",
+      "title": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution - HRTech Series",
+      "source": "HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1lmU2tiV3IwbjZfN1pKZ1VYUTBZbHhKTDZUT2pMd3NQTXg1UlVjY1NKRWlQdG1LaUNYTHVNaXE3VWdTTnQ1eXFnNlFVV2x5Y2RBeTVGUEJ1MVF6eVhXN0NudXRpSUp3elRtOUIxTHJXdk9TOEVSMU45aDV1Y2lTUkZlQTdEWVN1M0w3YmVRMWJLUzdOQUo2RHJmSk5YR05rQ2UwQVdUdTFHd3hJRTVKUW4yTHJvUlo3N25UXzBqbFVwdEpzSEU5YWhrWG1BaUxFRzh3?oc=5",
+      "published": "2026-10-27T11:39:24+00:00",
+      "snippet": "OutSolve Acquires Legets, Adding AI Horsepower to its HR Compliance as a Service Solution HRTech Series",
+      "category": "mergers_acquisitions",
       "language": "en"
     }
   ]
